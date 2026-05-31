@@ -1,0 +1,577 @@
+{
+  "book": "1 Thessaloniciens",
+  "abbreviation": "1Thess",
+  "number": 52,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paul, et Silvain, et Timothée, à l'Église des Thessaloniciens, qui est en Dieu le Père et en Jésus-Christ le Seigneur: que la grâce et la paix vous soient données!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Nous rendons continuellement grâces à Dieu pour vous tous, faisant mention de vous dans nos prières,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "nous rappelant sans cesse l'œuvre de votre foi, le travail de votre charité, et la fermeté de votre espérance en notre Seigneur Jésus-Christ, devant Dieu notre Père.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nous savons, frères bien-aimés de Dieu, que vous avez été élus,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "notre Évangile ne vous ayant pas été prêché en paroles seulement, mais avec puissance, avec l'Esprit-Saint, et avec une pleine persuasion; car vous n'ignorez pas que nous nous sommes montrés ainsi parmi vous, à cause de vous.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et vous-mêmes, vous avez été mes imitateurs et ceux du Seigneur, en recevant la parole au milieu de beaucoup de tribulations, avec la joie du Saint-Esprit,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "en sorte que vous êtes devenus un modèle pour tous les croyants de la Macédoine et de l'Achaïe.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Non seulement, en effet, la parole du Seigneur a retenti de chez vous dans la Macédoine et dans l'Achaïe, mais votre foi en Dieu s'est fait connaître en tout lieu, de telle manière que nous n'avons pas besoin d'en parler.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Car on raconte, à notre sujet, quel accès nous avons eu auprès de vous, et comment vous vous êtes convertis à Dieu, en abandonnant les idoles pour servir le Dieu vivant et vrai,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et pour attendre des cieux son Fils, qu'il a ressuscité des morts, Jésus, qui nous délivre de la colère à venir.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Vous savez vous-mêmes, frères, que notre arrivée chez vous n'a pas été sans résultat.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Après avoir souffert et reçu des outrages à Philippes, comme vous le savez, nous prîmes de l'assurance en notre Dieu, pour vous annoncer l'Évangile de Dieu, au milieu de bien des combats.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Car notre prédication ne repose ni sur l'erreur, ni sur des motifs impurs, ni sur la fraude;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "mais, selon que Dieu nous a jugés dignes de nous confier l'Évangile, ainsi nous parlons, non comme pour plaire à des hommes, mais pour plaire à Dieu, qui sonde nos cœurs.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Jamais, en effet, nous n'avons usé de paroles flatteuses, comme vous le savez; jamais nous n'avons eu la cupidité pour mobile, Dieu en est témoin.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nous n'avons point cherché la gloire qui vient des hommes, ni de vous ni des autres; nous aurions pu nous produire avec autorité comme apôtres de Christ,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "mais nous avons été pleins de douceur au milieu de vous. De même qu'une nourrice prend un tendre soin de ses enfants,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "nous aurions voulu, dans notre vive affection pour vous, non seulement vous donner l'Évangile de Dieu, mais encore nos propres vies, tant vous nous étiez devenus chers.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Vous vous rappelez, frères, notre travail et notre peine: nuit et jour à l'œuvre, pour n'être à charge à aucun de vous, nous vous avons prêché l'Évangile de Dieu.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Vous êtes témoins, et Dieu l'est aussi, que nous avons eu envers vous qui croyez une conduite sainte, juste et irréprochable.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Vous savez aussi que nous avons été pour chacun de vous ce qu'un père est pour ses enfants, vous exhortant, vous consolant, vous conjurant",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "de marcher d'une manière digne de Dieu, qui vous appelle à son royaume et à sa gloire.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "C'est pourquoi nous rendons continuellement grâces à Dieu de ce qu'en recevant la parole de Dieu, que nous vous avons fait entendre, vous l'avez reçue, non comme la parole des hommes, mais, ainsi qu'elle l'est véritablement, comme la parole de Dieu, qui agit en vous qui croyez.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Car vous, frères, vous êtes devenus les imitateurs des Églises de Dieu qui sont en Jésus-Christ dans la Judée, parce que vous aussi, vous avez souffert de la part de vos propres compatriotes les mêmes maux qu'elles ont soufferts de la part des Juifs.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ce sont ces Juifs qui ont fait mourir le Seigneur Jésus et les prophètes, qui nous ont persécutés, qui ne plaisent point à Dieu, et qui sont ennemis de tous les hommes,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "nous empêchant de parler aux païens pour qu'ils soient sauvés, en sorte qu'ils ne cessent de mettre le comble à leurs péchés. Mais la colère a fini par les atteindre.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Pour nous, frères, après avoir été quelque temps séparés de vous, de corps mais non de cœur, nous avons eu d'autant plus ardemment le vif désir de vous voir.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Aussi voulions-nous aller vers vous, du moins moi Paul, une et même deux fois; mais Satan nous en a empêchés.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Qui est, en effet, notre espérance, ou notre joie, ou notre couronne de gloire? N'est-ce pas vous aussi, devant notre Seigneur Jésus, lors de son avènement?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Oui, vous êtes notre gloire et notre joie.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "C'est pourquoi, impatients que nous étions, et nous décidant à rester seuls à Athènes,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "nous envoyâmes Timothée, notre frère, ministre de Dieu dans l'Évangile de Christ, pour vous affermir et vous exhorter au sujet de votre foi,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "afin que personne ne fût ébranlé au milieu des tribulations présentes; car vous savez vous-mêmes que nous sommes destinés à cela.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et lorsque nous étions auprès de vous, nous vous annoncions d'avance que nous serions exposés à des tribulations, comme cela est arrivé, et comme vous le savez.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ainsi, dans mon impatience, j'envoyai m'informer de votre foi, dans la crainte que le tentateur ne vous eût tentés, et que nous n'eussions travaillé en vain.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mais Timothée, récemment arrivé ici de chez vous, nous a donné de bonnes nouvelles de votre foi et de votre charité, et nous a dit que vous avez toujours de nous un bon souvenir, désirant nous voir comme nous désirons aussi vous voir.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "En conséquence, frères, au milieu de toutes nos calamités et de nos tribulations, nous avons été consolés à votre sujet, à cause de votre foi.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Car maintenant nous vivons, puisque vous demeurez fermes dans le Seigneur.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Quelles actions de grâces, en effet, nous pouvons rendre à Dieu à votre sujet, pour toute la joie que nous éprouvons à cause de vous, devant notre Dieu!",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Nuit et jour, nous le prions avec une extrême ardeur de nous permettre de vous voir, et de compléter ce qui manque à votre foi.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Que Dieu lui-même, notre Père, et notre Seigneur Jésus, aplanissent notre route pour que nous allions à vous!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Que le Seigneur augmente de plus en plus parmi vous, et à l'égard de tous, cette charité que nous avons nous-mêmes pour vous,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "afin d'affermir vos cœurs pour qu'ils soient irréprochables dans la sainteté devant Dieu notre Père, lors de l'avènement de notre Seigneur Jésus avec tous ses saints!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Au reste, frères, puisque vous avez appris de nous comment vous devez vous conduire et plaire à Dieu, et que c'est là ce que vous faites, nous vous prions et nous vous conjurons au nom du Seigneur Jésus de marcher à cet égard de progrès en progrès.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Vous savez, en effet, quels préceptes nous vous avons donnés de la part du Seigneur Jésus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ce que Dieu veut, c'est votre sanctification; c'est que vous vous absteniez de l'impudicité;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "c'est que chacun de vous sache posséder son corps dans la sainteté et l'honnêteté,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "sans vous livrer à une convoitise passionnée, comme font les païens qui ne connaissent pas Dieu;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "c'est que personne n'use envers son frère de fraude et de cupidité dans les affaires, parce que le Seigneur tire vengeance de toutes ces choses, comme nous vous l'avons déjà dit et attesté.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Car Dieu ne nous a pas appelés à l'impureté, mais à la sanctification.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Celui donc qui rejette ces préceptes ne rejette pas un homme, mais Dieu, qui vous a aussi donné son Saint-Esprit.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Pour ce qui est de l'amour fraternel, vous n'avez pas besoin qu'on vous en écrive; car vous avez vous-mêmes appris de Dieu à vous aimer les uns les autres,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et c'est aussi ce que vous faites envers tous les frères dans la Macédoine entière. Mais nous vous exhortons, frères, à abonder toujours plus dans cet amour,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et à mettre votre honneur à vivre tranquilles, à vous occuper de vos propres affaires, et à travailler de vos mains, comme nous vous l'avons recommandé,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "en sorte que vous vous conduisiez honnêtement envers ceux du dehors, et que vous n'ayez besoin de personne.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nous ne voulons pas, frères, que vous soyez dans l'ignorance au sujet de ceux qui dorment, afin que vous ne vous affligiez pas comme les autres qui n'ont point d'espérance.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Car, si nous croyons que Jésus est mort et qu'il est ressuscité, croyons aussi que Dieu ramènera par Jésus et avec lui ceux qui sont morts.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Voici, en effet, ce que nous vous déclarons d'après la parole du Seigneur: nous les vivants, restés pour l'avènement du Seigneur, nous ne devancerons pas ceux qui sont morts.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Car le Seigneur lui-même, à un signal donné, à la voix d'un archange, et au son de la trompette de Dieu, descendra du ciel, et les morts en Christ ressusciteront premièrement.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ensuite, nous les vivants, qui serons restés, nous serons tous ensemble enlevés avec eux sur des nuées, à la rencontre du Seigneur dans les airs, et ainsi nous serons toujours avec le Seigneur.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Consolez-vous donc les uns les autres par ces paroles.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Pour ce qui est des temps et des moments, vous n'avez pas besoin, frères, qu'on vous en écrive.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Car vous savez bien vous-mêmes que le jour du Seigneur viendra comme un voleur dans la nuit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Quand les hommes diront: Paix et sûreté! alors une ruine soudaine les surprendra, comme les douleurs de l'enfantement surprennent la femme enceinte, et ils n'échapperont point.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mais vous, frères, vous n'êtes pas dans les ténèbres, pour que ce jour vous surprenne comme un voleur;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "vous êtes tous des enfants de la lumière et des enfants du jour. Nous ne sommes point de la nuit ni des ténèbres.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ne dormons donc point comme les autres, mais veillons et soyons sobres.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Car ceux qui dorment dorment la nuit, et ceux qui s'enivrent s'enivrent la nuit.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mais nous qui sommes du jour, soyons sobres, ayant revêtu la cuirasse de la foi et de la charité, et ayant pour casque l'espérance du salut.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Car Dieu ne nous a pas destinés à la colère, mais à l'acquisition du salut par notre Seigneur Jésus-Christ,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "qui est mort pour nous, afin que, soit que nous veillions, soit que nous dormions, nous vivions ensemble avec lui.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "C'est pourquoi exhortez-vous réciproquement, et édifiez-vous les uns les autres, comme en réalité vous le faites.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Nous vous prions, frères, d'avoir de la considération pour ceux qui travaillent parmi vous, qui vous dirigent dans le Seigneur, et qui vous exhortent.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ayez pour eux beaucoup d'affection, à cause de leur œuvre. Soyez en paix entre vous.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nous vous en prions aussi, frères, avertissez ceux qui vivent dans le désordre, consolez ceux qui sont abattus, supportez les faibles, usez de patience envers tous.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Prenez garde que personne ne rende à autrui le mal pour le mal; mais poursuivez toujours le bien, soit entre vous, soit envers tous.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Soyez toujours joyeux.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Priez sans cesse.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Rendez grâces en toutes choses, car c'est à votre égard la volonté de Dieu en Jésus-Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "N'éteignez pas l'Esprit.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ne méprisez pas les prophéties.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Mais examinez toutes choses; retenez ce qui est bon;",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "abstenez-vous de toute espèce de mal.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Que le Dieu de paix vous sanctifie lui-même tout entiers, et que tout votre être, l'esprit, l'âme et le corps, soit conservé irrépréhensible, lors de l'avènement de notre Seigneur Jésus-Christ!",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Celui qui vous a appelés est fidèle, et c'est lui qui le fera.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Frères, priez pour nous.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Saluez tous les frères par un saint baiser.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Je vous en conjure par le Seigneur, que cette lettre soit lue à tous les frères.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Que la grâce de notre Seigneur Jésus-Christ soit avec vous!",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

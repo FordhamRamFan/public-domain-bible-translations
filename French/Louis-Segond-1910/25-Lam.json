@@ -1,0 +1,967 @@
+{
+  "book": "Lamentations",
+  "abbreviation": "Lam",
+  "number": 25,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Eh quoi! elle est assise solitaire, cette ville si peuplée! Elle est semblable à une veuve! Grande entre les nations, souveraine parmi les états, Elle est réduite à la servitude!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Elle pleure durant la nuit, et ses joues sont couvertes de larmes; De tous ceux qui l'aimaient nul ne la console; Tous ses amis lui sont devenus infidèles, Ils sont devenus ses ennemis.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Juda est en exil, victime de l'oppression et d'une grande servitude; Il habite au milieu des nations, Et il n'y trouve point de repos; Tous ses persécuteurs l'ont surpris dans l'angoisse.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Les chemins de Sion sont dans le deuil, car on ne va plus aux fêtes; Toutes ses portes sont désertes, Ses sacrificateurs gémissent, Ses vierges sont affligées, et elle est remplie d'amertume.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ses oppresseurs triomphent, ses ennemis sont en paix; Car l'Éternel l'a humiliée, A cause de la multitude de ses péchés; Ses enfants ont marché captifs devant l'oppresseur.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "La fille de Sion a perdu toute sa gloire; Ses chefs sont comme des cerfs Qui ne trouvent point de pâture, Et qui fuient sans force devant celui qui les chasse.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Aux jours de sa détresse et de sa misère, Jérusalem s'est souvenue De tous les biens dès longtemps son partage, Quand son peuple est tombé sans secours sous la main de l'oppresseur; Ses ennemis l'ont vue, et ils ont ri de sa chute.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Jérusalem a multiplié ses péchés, C'est pourquoi elle est un objet d'aversion; Tous ceux qui l'honoraient la méprisent, en voyant sa nudité; Elle-même soupire, et détourne la face.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "La souillure était dans les pans de sa robe, et elle ne songeait pas à sa fin; Elle est tombée d'une manière étonnante, et nul ne la console. -Vois ma misère, ô Éternel! Quelle arrogance chez l'ennemi! -",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "L'oppresseur a étendu la main Sur tout ce qu'elle avait de précieux; Elle a vu pénétrer dans son sanctuaire les nations Auxquelles tu avais défendu d'entrer dans ton assemblée.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Tout son peuple soupire, il cherche du pain; Ils ont donné leurs choses précieuses pour de la nourriture, Afin de ranimer leur vie. -Vois, Éternel, regarde comme je suis avilie!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Je m'adresse à vous, à vous tous qui passez ici! Regardez et voyez s'il est une douleur pareille à ma douleur, A celle dont j'ai été frappée! L'Éternel m'a affligée au jour de son ardente colère.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "D'en haut il a lancé dans mes os un feu qui les dévore; Il a tendu un filet sous mes pieds, Il m'a fait tomber en arrière; Il m'a jetée dans la désolation, dans une langueur de tous les jours.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sa main a lié le joug de mes iniquités; Elles se sont entrelacées, appliquées sur mon cou; Il a brisé ma force; Le Seigneur m'a livrée à des mains auxquelles je ne puis résister.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Le Seigneur a terrassé tous mes guerriers au milieu de moi; Il a rassemblé contre moi une armée, Pour détruire mes jeunes hommes; Le Seigneur a foulé au pressoir la vierge, fille de Juda.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "C'est pour cela que je pleure, que mes yeux fondent en larmes; Car il s'est éloigné de moi, celui qui me consolerait, Qui ranimerait ma vie. Mes fils sont dans la désolation, parce que l'ennemi a triomphé. -",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sion a étendu les mains, Et personne ne l'a consolée; L'Éternel a envoyé contre Jacob les ennemis d'alentour; Jérusalem a été un objet d'horreur au milieu d'eux. -",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "L'Éternel est juste, Car j'ai été rebelle à ses ordres. Écoutez, vous tous, peuples, et voyez ma douleur! Mes vierges et mes jeunes hommes sont allés en captivité.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "J'ai appelé mes amis, et ils m'ont trompée. Mes sacrificateurs et mes anciens ont expiré dans la ville: Ils cherchaient de la nourriture, Afin de ranimer leur vie.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Éternel, regarde ma détresse! Mes entrailles bouillonnent, Mon cœur est bouleversé au dedans de moi, Car j'ai été rebelle. Au dehors l'épée a fait ses ravages, au dedans la mort.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "On a entendu mes soupirs, et personne ne m'a consolée; Tous mes ennemis ont appris mon malheur, Ils se sont réjouis de ce que tu l'as causé; Tu amèneras, tu publieras le jour où ils seront comme moi.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Que toute leur méchanceté vienne devant toi, Et traite-les comme tu m'as traitée, A cause de toutes mes transgressions! Car mes soupirs sont nombreux, et mon cœur est souffrant.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Eh quoi! le Seigneur, dans sa colère, a couvert de nuages la fille de Sion! Il a précipité du ciel sur la terre la magnificence d'Israël! Il ne s'est pas souvenu de son marchepied, Au jour de sa colère!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Le Seigneur a détruit sans pitié toutes les demeures de Jacob; Il a, dans sa fureur, renversé les forteresses de la fille de Juda, Il les a fait rouler à terre; Il a profané le royaume et ses chefs.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Il a, dans son ardente colère, abattu toute la force d'Israël; Il a retiré sa droite en présence de l'ennemi; Il a allumé dans Jacob des flammes de feu, Qui dévorent de tous côtés.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Il a tendu son arc comme un ennemi; Sa droite s'est dressée comme celle d'un assaillant; Il a fait périr tout ce qui plaisait aux regards; Il a répandu sa fureur comme un feu sur la tente de la fille de Sion.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Le Seigneur a été comme un ennemi; Il a dévoré Israël, il a dévoré tous ses palais, Il a détruit ses forteresses; Il a rempli la fille de Juda de plaintes et de gémissements.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Il a dévasté sa tente comme un jardin, Il a détruit le lieu de son assemblée; L'Éternel a fait oublier en Sion les fêtes et le sabbat, Et, dans sa violente colère, il a rejeté le roi et le sacrificateur.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Le Seigneur a dédaigné son autel, repoussé son sanctuaire; Il a livré entre les mains de l'ennemi les murs des palais de Sion; Les cris ont retenti dans la maison de l'Éternel, Comme en un jour de fête.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "L'Éternel avait résolu de détruire les murs de la fille de Sion; Il a tendu le cordeau, il n'a pas retiré sa main sans les avoir anéantis; Il a plongé dans le deuil rempart et murailles, Qui n'offrent plus ensemble qu'une triste ruine.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ses portes sont enfoncées dans la terre; Il en a détruit, rompu les barres. Son roi et ses chefs sont parmi les nations; il n'y a plus de loi. Même les prophètes ne reçoivent aucune vision de l'Éternel.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Les anciens de la fille de Sion sont assis à terre, ils sont muets; Ils ont couvert leur tête de poussière, Ils se sont revêtus de sacs; Les vierges de Jérusalem laissent retomber leur tête vers la terre.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mes yeux se consument dans les larmes, mes entrailles bouillonnent, Ma bile se répand sur la terre, A cause du désastre de la fille de mon peuple, Des enfants et des nourrissons en défaillance dans les rues de la ville.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ils disaient à leurs mères: Où y a-t-il du blé et du vin? Et ils tombaient comme des blessés dans les rues de la ville, Ils rendaient l'âme sur le sein de leurs mères.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Que dois-je te dire? à quoi te comparer, fille de Jérusalem? Qui trouver de semblable à toi, et quelle consolation te donner, Vierge, fille de Sion? Car ta plaie est grande comme la mer: qui pourra te guérir?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Tes prophètes ont eu pour toi des visions vaines et fausses; Ils n'ont pas mis à nu ton iniquité, Afin de détourner de toi la captivité; Ils t'ont donné des oracles mensongers et trompeurs.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Tous les passants battent des mains sur toi, Ils sifflent, ils secouent la tête contre la fille de Jérusalem: Est-ce là cette ville qu'on appelait une beauté parfaite, La joie de toute la terre?",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Tous tes ennemis ouvrent la bouche contre toi, Ils sifflent, ils grincent des dents, Ils disent: Nous l'avons engloutie! C'est bien le jour que nous attendions, nous l'avons atteint, nous le voyons!",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "L'Éternel a exécuté ce qu'il avait résolu, Il a accompli la parole qu'il avait dès longtemps arrêtée, Il a détruit sans pitié; Il a fait de toi la joie de l'ennemi, Il a relevé la force de tes oppresseurs.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Leur cœur crie vers le Seigneur… Mur de la fille de Sion, répands jour et nuit des torrents de larmes! Ne te donne aucun relâche, Et que ton œil n'ait point de repos!",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Lève-toi, pousse des gémissements à l'entrée des veilles de la nuit! Répands ton cœur comme de l'eau, en présence du Seigneur! Lève tes mains vers lui pour la vie de tes enfants Qui meurent de faim aux coins de toutes les rues!",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Vois, Éternel, regarde qui tu as ainsi traité! Fallait-il que des femmes dévorassent le fruit de leurs entrailles, Les petits enfants objets de leur tendresse? Que sacrificateurs et prophètes fussent massacrés dans le sanctuaire du Seigneur?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Les enfants et les vieillards sont couchés par terre dans les rues; Mes vierges et mes jeunes hommes sont tombés par l'épée; Tu as tué, au jour de ta colère, Tu as égorgé sans pitié.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Tu as appelé de toutes parts sur moi l'épouvante, comme à un jour de fête. Au jour de la colère de l'Éternel, il n'y a eu ni réchappé ni survivant. Ceux que j'avais soignés et élevés, Mon ennemi les a consumés.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Je suis l'homme qui a vu la misère Sous la verge de sa fureur.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Il m'a conduit, mené dans les ténèbres, Et non dans la lumière.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Contre moi il tourne et retourne sa main Tout le jour.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Il a fait dépérir ma chair et ma peau, Il a brisé mes os.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Il a bâti autour de moi, Il m'a environné de poison et de douleur.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Il me fait habiter dans les ténèbres, Comme ceux qui sont morts dès longtemps.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Il m'a entouré d'un mur, pour que je ne sorte pas; Il m'a donné de pesantes chaînes.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "J'ai beau crier et implorer du secours, Il ne laisse pas accès à ma prière.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Il a fermé mon chemin avec des pierres de taille, Il a détruit mes sentiers.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Il a été pour moi un ours en embuscade, Un lion dans un lieu caché.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Il a détourné mes voies, il m'a déchiré, Il m'a jeté dans la désolation.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Il a tendu son arc, et il m'a placé Comme un but pour sa flèche.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Il a fait entrer dans mes reins Les traits de son carquois.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Je suis pour tout mon peuple un objet de raillerie, Chaque jour l'objet de leurs chansons.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Il m'a rassasié d'amertume, Il m'a enivré d'absinthe.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Il a brisé mes dents avec des cailloux, Il m'a couvert de cendre.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Tu m'as enlevé la paix; Je ne connais plus le bonheur.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Et j'ai dit: Ma force est perdue, Je n'ai plus d'espérance en l'Éternel!",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Quand je pense à ma détresse et à ma misère, A l'absinthe et au poison;",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Quand mon âme s'en souvient, Elle est abattue au dedans de moi.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Voici ce que je veux repasser en mon cœur, Ce qui me donnera de l'espérance.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Les bontés de l'Éternel ne sont pas épuisées, Ses compassions ne sont pas à leur terme;",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Elles se renouvellent chaque matin. Oh! que ta fidélité est grande!",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "L'Éternel est mon partage, dit mon âme; C'est pourquoi je veux espérer en lui.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "L'Éternel a de la bonté pour qui espère en lui, Pour l'âme qui le cherche.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Il est bon d'attendre en silence Le secours de l'Éternel.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Il est bon pour l'homme De porter le joug dans sa jeunesse.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Il se tiendra solitaire et silencieux, Parce que l'Éternel le lui impose;",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Il mettra sa bouche dans la poussière, Sans perdre toute espérance;",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Il présentera la joue à celui qui le frappe, Il se rassasiera d'opprobres.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Car le Seigneur Ne rejette pas à toujours.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Mais, lorsqu'il afflige, Il a compassion selon sa grande miséricorde;",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Car ce n'est pas volontiers qu'il humilie Et qu'il afflige les enfants des hommes.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Quand on foule aux pieds Tous les captifs du pays,",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Quand on viole la justice humaine A la face du Très-Haut,",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Quand on fait tort à autrui dans sa cause, Le Seigneur ne le voit-il pas?",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Qui dira qu'une chose arrive, Sans que le Seigneur l'ait ordonnée?",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "N'est-ce pas de la volonté du Très-Haut que viennent Les maux et les biens?",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Pourquoi l'homme vivant se plaindrait-il? Que chacun se plaigne de ses propres péchés.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Recherchons nos voies et sondons, Et retournons à l'Éternel;",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "Élevons nos cœurs et nos mains Vers Dieu qui est au ciel:",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "Nous avons péché, nous avons été rebelles! Tu n'as point pardonné!",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "Tu t'es caché dans ta colère, et tu nous as poursuivis; Tu as tué sans miséricorde;",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "Tu t'es enveloppé d'un nuage, Pour fermer accès à la prière.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "Tu nous as rendus un objet de mépris et de dédain Au milieu des peuples.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "Ils ouvrent la bouche contre nous, Tous ceux qui sont nos ennemis.",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "Notre partage a été la terreur et la fosse, Le ravage et la ruine.",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "Des torrents d'eau coulent de mes yeux, A cause de la ruine de la fille de mon peuple.",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "Mon œil fond en larmes, sans repos, Sans relâche,",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "Jusqu'à ce que l'Éternel regarde et voie Du haut des cieux;",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "Mon œil me fait souffrir, A cause de toutes les filles de ma ville.",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "Ils m'ont donné la chasse comme à un oiseau, Ceux qui sont à tort mes ennemis.",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "Ils ont voulu anéantir ma vie dans une fosse, Et ils ont jeté des pierres sur moi.",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "Les eaux ont inondé ma tête; Je disais: Je suis perdu!",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "heading": null,
+          "text": "J'ai invoqué ton nom, ô Éternel, Du fond de la fosse.",
+          "footnotes": []
+        },
+        {
+          "verse": 56,
+          "heading": null,
+          "text": "Tu as entendu ma voix: Ne ferme pas l'oreille à mes soupirs, à mes cris!",
+          "footnotes": []
+        },
+        {
+          "verse": 57,
+          "heading": null,
+          "text": "Au jour où je t'ai invoqué, tu t'es approché, Tu as dit: Ne crains pas!",
+          "footnotes": []
+        },
+        {
+          "verse": 58,
+          "heading": null,
+          "text": "Seigneur, tu as défendu la cause de mon âme, Tu as racheté ma vie.",
+          "footnotes": []
+        },
+        {
+          "verse": 59,
+          "heading": null,
+          "text": "Éternel, tu as vu ce qu'on m'a fait souffrir: Rends-moi justice!",
+          "footnotes": []
+        },
+        {
+          "verse": 60,
+          "heading": null,
+          "text": "Tu as vu toutes leurs vengeances, Tous leurs complots contre moi.",
+          "footnotes": []
+        },
+        {
+          "verse": 61,
+          "heading": null,
+          "text": "Éternel, tu as entendu leurs outrages, Tous leurs complots contre moi,",
+          "footnotes": []
+        },
+        {
+          "verse": 62,
+          "heading": null,
+          "text": "Les discours de mes adversaires, et les projets Qu'ils formaient chaque jour contre moi.",
+          "footnotes": []
+        },
+        {
+          "verse": 63,
+          "heading": null,
+          "text": "Regarde quand ils sont assis et quand ils se lèvent: Je suis l'objet de leurs chansons.",
+          "footnotes": []
+        },
+        {
+          "verse": 64,
+          "heading": null,
+          "text": "Tu leur donneras un salaire, ô Éternel, Selon l'œuvre de leurs mains;",
+          "footnotes": []
+        },
+        {
+          "verse": 65,
+          "heading": null,
+          "text": "Tu les livreras à l'endurcissement de leur cœur, A ta malédiction contre eux;",
+          "footnotes": []
+        },
+        {
+          "verse": 66,
+          "heading": null,
+          "text": "Tu les poursuivras dans ta colère, et tu les extermineras De dessous les cieux, ô Éternel!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Eh quoi! l'or a perdu son éclat! L'or pur est altéré! Les pierres du sanctuaire sont dispersées Aux coins de toutes les rues!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Les nobles fils de Sion, Estimés à l'égal de l'or pur, Sont regardés, hélas! comme des vases de terre, Ouvrage des mains du potier!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Les chacals mêmes présentent la mamelle, Et allaitent leurs petits; Mais la fille de mon peuple est devenue cruelle Comme les autruches du désert.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "La langue du nourrisson s'attache à son palais, Desséchée par la soif; Les enfants demandent du pain, Et personne ne leur en donne.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ceux qui se nourrissaient de mets délicats Périssent dans les rues; Ceux qui étaient élevés dans la pourpre Embrassent les fumiers.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Le châtiment de la fille de mon peuple est plus grand Que celui de Sodome, Détruite en un instant, Sans que personne ait porté la main sur elle.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ses princes étaient plus éclatants que la neige, Plus blancs que le lait; Ils avaient le teint plus vermeil que le corail; Leur figure était comme le saphir.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Leur aspect est plus sombre que le noir; On ne les reconnaît pas dans les rues; Ils ont la peau collée sur les os, Sèche comme du bois.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ceux qui périssent par l'épée sont plus heureux Que ceux qui périssent par la faim, Qui tombent exténués, Privés du fruit des champs.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Les femmes, malgré leur tendresse, Font cuire leurs enfants; Ils leur servent de nourriture, Au milieu du désastre de la fille de mon peuple.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "L'Éternel a épuisé sa fureur, Il a répandu son ardente colère; Il a allumé dans Sion un feu Qui en dévore les fondements.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Les rois de la terre n'auraient pas cru, Aucun des habitants du monde n'aurait cru Que l'adversaire, que l'ennemi entrerait Dans les portes de Jérusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Voilà le fruit des péchés de ses prophètes, Des iniquités de ses sacrificateurs, Qui ont répandu dans son sein Le sang des justes!",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ils erraient en aveugles dans les rues, Souillés de sang; On ne pouvait Toucher leurs vêtements.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Éloignez-vous, impurs! leur criait-on, Éloignez-vous, éloignez-vous, ne nous touchez pas! Ils sont en fuite, ils errent çà et là; On dit parmi les nations: Ils n'auront plus leur demeure!",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "L'Éternel les a dispersés dans sa colère, Il ne tourne plus les regards vers eux; On n'a eu ni respect pour les sacrificateurs, Ni pitié pour les vieillards.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Nos yeux se consumaient encore, Et nous attendions vainement du secours; Nos regards se portaient avec espérance Vers une nation qui ne nous a pas délivrés.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "On épiait nos pas, Pour nous empêcher d'aller sur nos places; Notre fin s'approchait, nos jours étaient accomplis… Notre fin est arrivée!",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Nos persécuteurs étaient plus légers Que les aigles du ciel; Ils nous ont poursuivis sur les montagnes, Ils nous ont dressé des embûches dans le désert.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Celui qui nous faisait respirer, l'oint de l'Éternel, A été pris dans leurs fosses, Lui de qui nous disions: Nous vivrons sous son ombre parmi les nations.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Réjouis-toi, tressaille d'allégresse, fille d'Édom, Habitante du pays d'Uts! Vers toi aussi passera la coupe; Tu t'enivreras, et tu seras mise à nu.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Fille de Sion, ton iniquité est expiée; Il ne t'enverra plus en captivité. Fille d'Édom, il châtiera ton iniquité, Il mettra tes péchés à découvert.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Souviens-toi, Éternel, de ce qui nous est arrivé! Regarde, vois notre opprobre!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Notre héritage a passé à des étrangers, Nos maisons à des inconnus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Nous sommes orphelins, sans père; Nos mères sont comme des veuves.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nous buvons notre eau à prix d'argent, Nous payons notre bois.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nous sommes poursuivis, le joug sur le cou; Nous sommes épuisés, nous n'avons point de repos.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nous avons tendu la main vers l'Égypte, vers l'Assyrie, Pour nous rassasier de pain.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Nos pères ont péché, ils ne sont plus, Et c'est nous qui portons la peine de leurs iniquités.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Des esclaves dominent sur nous, Et personne ne nous délivre de leurs mains.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nous cherchons notre pain au péril de notre vie, Devant l'épée du désert.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Notre peau est brûlante comme un four, Par l'ardeur de la faim.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ils ont déshonoré les femmes dans Sion, Les vierges dans les villes de Juda.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Des chefs ont été pendus par leurs mains; La personne des vieillards n'a pas été respectée.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Les jeunes hommes ont porté la meule, Les enfants chancelaient sous des fardeaux de bois.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Les vieillards ne vont plus à la porte, Les jeunes hommes ont cessé leurs chants.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "La joie a disparu de nos cœurs, Le deuil a remplacé nos danses.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "La couronne de notre tête est tombée! Malheur à nous, parce que nous avons péché!",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Si notre cœur est souffrant, Si nos yeux sont obscurcis,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "C'est que la montagne de Sion est ravagée, C'est que les renards s'y promènent.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Toi, l'Éternel, tu règnes à jamais; Ton trône subsiste de génération en génération.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Pourquoi nous oublierais-tu pour toujours, Nous abandonnerais-tu pour de longues années?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Fais-nous revenir vers toi, ô Éternel, et nous reviendrons! Donne-nous encore des jours comme ceux d'autrefois!",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Nous aurais-tu entièrement rejetés, Et t'irriterais-tu contre nous jusqu'à l'excès!",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
