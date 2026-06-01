@@ -1,0 +1,534 @@
+{
+  "book": "2 Timoteo",
+  "abbreviation": "2Tim",
+  "number": 55,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "PAOLO, apostolo di Gesù Cristo, per la volontà di Dio, secondo la promessa della vita, che è in Cristo Gesù,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "a Timoteo, figliuol diletto, grazia, misericordia, e pace, da Dio Padre, e dal Signor nostro Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "IO rendo grazie a Dio, al qual servo fin da’ miei antenati, in pura coscienza; che non resto mai di ritener la memoria di te nelle mie orazioni, notte e giorno;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "desideroso di vederti, ricordandomi delle tue lagrime, acciocchè io sia ripieno d’allegrezza;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "riducendomi a memoria la fede non finta che è in te, la qual prima abitò in Loide tua avola, ed in Eunice tua madre; or son persuaso che abita in te ancora.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Per la qual cagione io ti rammemoro che tu ravvivi il dono il Dio, il quale è in te per l’imposizione delle mie mani.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Poichè Iddio non ci ha dato spirito di timore; ma di forza, e d’amore, e di correzione.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Non recarti adunque a vergogna la testimonianza del Signor nostro, nè me suo prigione; anzi partecipa le afflizioni dell’evangelo, secondo la virtù di Dio.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Il qual ci ha salvati, e ci ha chiamati per santa vocazione; non secondo le nostre opere, ma secondo il proprio proponimento, e grazia, la quale ci è stata data in Cristo Gesù avanti i tempi de’ secoli.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ed ora è stata manifestata per l’apparizione del Salvator nostro Gesù Cristo, che ha distrutta la morte, ed ha prodotta in luce la vita, e l’immortalità, per l’evangelo.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "A che io sono stato posto banditore, ed apostolo, e dottor de’ Gentili.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Per la qual cagione ancora io soffro queste cose; ma non me ne vergogno; perciocchè io so a cui ho creduto, e son persuaso ch’egli è potente da guardare il mio deposito per quel giorno.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ritieni la forma delle sane parole, che tu hai udite da me, in fede, e carità, che è in Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Guarda il buon deposito, per lo Spirito Santo, che abita in noi.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Tu sai questo: che tutti quelli che son nell’Asia si son ritratti da me; de’ quali è Figello, ed Ermogene.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Conceda il Signore misericordia alla famiglia di Onesiforo; perciocchè spesse volte egli mi ha ricreato, e non si è vergognato della mia catena.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Anzi, essendo a Roma, studiosissimamente mi ha cercato, e mi ha trovato.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Concedagli il Signore di trovar misericordia presso il Signore in quel giorno. Quanti servigi ancora egli ha fatti in Efeso, tu il sai molto bene.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Tu adunque, figliuol mio, fortificati nella grazia che è in Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "E le cose che tu hai udite da me, in presenza di molti testimoni, commettile ad uomini fedeli, i quali sieno sufficienti ad ammaestrare ancora gli altri.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Tu adunque soffri afflizioni, come buon guerriero di Gesù Cristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Niuno che va alla guerra s’impaccia nelle faccende della vita, acciocchè piaccia a colui che l’ha soldato.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ed anche, se alcuno combatte, non è coronato, se non ha legittimamente combattuto.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Egli è convenevole che il lavoratore che fatica goda il primo i frutti.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Considera le cose che io dico; perciocchè io prego il Signore che ti dia intendimento in ogni cosa.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ricordati che Gesù Cristo è risuscitato da’ morti, il quale è della progenie di Davide, secondo il mio evangelo.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nel quale io soffro afflizione fino ad esser prigione ne’ legami, a guisa di malfattore; ma la parola di Dio non è prigione.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Perciò io soffro ogni cosa per gli eletti, acciocchè essi ancora ottengano la salute, che è in Cristo Gesù, con gloria eterna.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Certa è questa parola; che se moriamo con lui, con lui altresì viveremo.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Se perseveriamo, con lui altresì regneremo; se lo rinneghiamo, egli altresì ci rinnegherà.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Se siamo infedeli, egli pur rimane fedele; egli non può rinnegar sè stesso.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "RAMMEMORA queste cose, protestando, nel cospetto di Dio, che non si contenda di parole, il che a nulla è utile, anzi è per sovvertir gli uditori.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Studiati di presentar te stesso approvato a Dio, operaio che non abbia ad esser confuso, che tagli dirittamente la parola della verità.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ma schiva le profane vanità di voci; perciocchè procederanno innanzi a maggiore empietà.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "E la parola di tali andrà rodendo, a guisa di gangrena; dei quali è Imeneo, e Fileto;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "i quali si sono sviati dalla verità; dicendo che la risurrezione è già avvenuta; e sovvertono la fede d’alcuni.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ma pure il fondamento di Dio sta fermo, avendo questo suggello: Il Signore conosce que’ che son suoi, e: Ritraggasi dall’iniquità chiunque nomina il nome di Cristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Or in una gran casa non vi sono sol vasi d’oro e d’argento, ma ancora di legno, e di terra; e gli uni sono ad onore, gli altri a disonore.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Se dunque alcuno si purifica da queste cose, sarà un vaso ad onore, santificato ed acconcio al servigio del Signore, preparato ad ogni buona opera.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Or fuggi gli appetiti giovanili, e procaccia giustizia, fede, carità, pace con quelli che di cuor puro invocano il Signore.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "E schiva le quistioni stolte e scempie, sapendo che generano contese.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Or non bisogna che il servitor del Signore contenda; ma che sia benigno inverso tutti, atto e pronto ad insegnare, che comporti i mali;",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "che ammaestri con mansuetudine quelli che son disposti in contrario, per provar se talora Iddio desse loro di ravvedersi, per conoscer la verità;",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "in maniera che, tornati a sana mente, uscissero dal laccio del diavolo, dal quale erano stati presi, per far la sua volontà.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "OR sappi questo, che negli ultimi giorni sopraggiungeranno tempi difficili.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Perciocchè gli uomini saranno amatori di loro stessi, avari, vanagloriosi, superbi, bestemmiatori, disubbidienti a padri e madri, ingrati, scellerati;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "senza affezion naturale, mancatori di fede, calunniatori, incontinenti, spietati, senza amore inverso i buoni;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "traditori, temerari, gonfi, amatori della voluttà anzi che di Dio;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "avendo apparenza di pietà, ma avendo rinnegata la forza d’essa; anche tali schiva.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Perciocchè del numero di costoro son quelli che sottentrano nelle case, e cattivano donnicciuole cariche di peccati, agitate da varie cupidità;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "le quali sempre imparano, giammai non possono pervenire alla conoscenza della verità.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ora, come Ianne e Iambre contrastarono a Mosè, così ancora costoro contrastano alla verità; uomini corrotti della mente, riprovati intorno alla fede.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ma non procederanno più oltre; perciocchè la loro stoltizia sarà manifesta a tutti, siccome ancora fu quella di coloro.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ORA, quant’è a te, tu hai ben compresa la mia dottrina, il mio procedere, le mie intenzioni, la mia fede, la mia pazienza, la mia carità, la mia sofferenza;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "le mie persecuzioni, le mie afflizioni, quali mi sono avvenute in Antiochia, in Iconio, in Listri; tu sai quali persecuzioni io ho sostenute; e pure il Signore mi ha liberato, da tutte.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ora, tutti quelli ancora, che voglion vivere piamente in Cristo Gesù, saranno perseguitati.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ma gli uomini malvagi ed ingannatori, procederanno in peggio, seducendo, ed essendo sedotti.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ma tu, persevera nelle cose che hai imparate, e delle quali sei stato accertato, sapendo da chi tu le hai imparate;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "e che da fanciullo tu hai conoscenza delle sacre lettere, le quali ti possono render savio a salute, per la fede che è in Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Tutta la scrittura è divinamente inspirata, ed utile ad insegnare, ad arguire, a correggere, ad ammaestrare in giustizia;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "acciocchè l’uomo di Dio sia compiuto, appieno fornito per ogni buona opera.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Io adunque ti protesto, nel cospetto di Dio, e del Signor Gesù Cristo, il quale ha da giudicare i vivi ed i morti, nella sua apparizione, e nel suo regno,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "che tu predichi la parola, che tu faccia instanza a tempo, e fuor di tempo; riprendi, sgrida, esorta, con ogni pazienza, e dottrina.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Perciocchè verrà il tempo, che non comporteranno la sana dottrina; ma, pizzicando loro gli orecchi, si accumuleranno dottori, secondo i lor propri appetiti:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "e rivolteranno le orecchie dalla verità, e si volgeranno alle favole.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ma tu sii vigilante in ogni cosa, soffri afflizioni, fa’ l’opera d’evangelista, fa’ appieno fede del tuo ministerio.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "PERCIOCCHÈ, quant’è a me, ad ora son per essere offerto a guisa d’offerta da spandere, e soprastà il tempo della mia tornata a casa.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Io ho combattuto il buon combattimento, io ho finito il corso, io ho serbata la fede.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Nel rimanente, mi è riposta la corona della giustizia, della quale mi farà in quel giorno retribuzione il Signore, il giusto Giudice; e non solo a me, ma a tutti coloro ancora che avranno amata la sua apparizione.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Studiati di venir tosto a me.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Perciocchè Dema mi ha lasciato, avendo amato il presente secolo, e se n’è andato in Tessalonica; Crescente in Galazia, Tito in Dalmazia.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Luca è solo meco; prendi Marco, e menalo teco; perciocchè egli mi è molto utile al ministerio.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Or io ho mandato Tichico in Efeso.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Quando tu verrai, porta la cappa che io ho lasciata in Troade, appresso di Carpo; ed i libri, principalmente le pergamene.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Alessandro, il fabbro di rame, mi ha fatto del male assai; gli renderà il Signore secondo le sue opere.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Da esso ancora tu guardati; perciocchè egli ha grandemente contrastato alle nostre parole.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Niuno si è trovato meco nella mia prima difesa; ma tutti mi hanno abbandonato; non sia loro imputato.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ma il Signore è stato meco, e mi ha fortificato; acciocchè la predicazione fosse per me appieno accertata, e che tutti i Gentili l’udissero; ed io sono stato liberato dalla gola del leone.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "E il Signore mi libererà ancora da ogni mala opera e mi salverà, e raccorrà nel suo regno celeste. A lui sia la gloria ne’ secoli de’ secoli. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Saluta Priscilla ed Aquila, e la famiglia d’Onesiforo.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Erasto è rimasto in Corinto, ed io ho lasciato Trofimo infermo in Mileto.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Studiati di venire avanti il verno. Eubulo, e Pudente, e Lino, e Claudia, e tutti i fratelli ti salutano.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Sia il Signor Gesù Cristo con lo spirito tuo. La grazia sia con voi. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
