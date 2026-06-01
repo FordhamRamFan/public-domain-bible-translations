@@ -1,0 +1,577 @@
+{
+  "book": "ad Thessalonicenses I",
+  "abbreviation": "1Thess",
+  "number": 52,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulus, et Silvanus, et Timotheus ecclesiæ Thessalonicensium in Deo Patre, et Domino Jesu Christo.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Gratia vobis, et pax. Gratias agimus Deo semper pro omnibus vobis, memoriam vestri facientes in orationibus nostris sine intermissione,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "memores operis fidei vestræ, et laboris, et caritatis, et sustinentiæ spei Domini nostri Jesu Christi, ante Deum et Patrem nostrum :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "scientes, fratres dilecti a Deo, electionem vestram :",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "quia Evangelium nostrum non fuit ad vos in sermone tantum, sed et in virtute, et in Spiritu Sancto, et in plenitudine multa, sicut scitis quales fuerimus in vobis propter vos.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et vos imitatores nostri facti estis, et Domini, excipientes verbum in tribulatione multa, cum gaudio Spiritus Sancti :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ita ut facti sitis forma omnibus credentibus in Macedonia, et in Achaia.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "A vobis enim diffamatus est sermo Domini, non solum in Macedonia, et in Achaia, sed et in omni loco fides vestra, quæ est ad Deum, profecta est ita ut non sit nobis necesse quidquam loqui.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ipsi enim de nobis annuntiant qualem introitum habuerimus ad vos : et quomodo conversi estis ad Deum a simulacris, servire Deo vivo, et vero,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et exspectare Filium ejus de cælis (quem suscitavit a mortuis) Jesum, qui eripuit nos ab ira ventura.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Nam ipsi scitis, fratres, introitum nostrum ad vos, quia non inanis fuit :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "sed ante passi, et contumeliis affecti (sicut scitis) in Philippis, fiduciam habuimus in Deo nostro, loqui ad vos Evangelium Dei in multa sollicitudine.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Exhortatio enim nostra non de errore, neque de immunditia, neque in dolo,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "sed sicut probati sumus a Deo ut crederetur nobis Evangelium : ita loquimur non quasi hominibus placentes, sed Deo, qui probat corda nostra.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Neque enim aliquando fuimus in sermone adulationis, sicut scitis : neque in occasione avaritiæ : Deus testis est :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "nec quærentes ab hominibus gloriam, neque a vobis, neque ab aliis.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Cum possemus vobis oneri esse ut Christi apostoli : sed facti sumus parvuli in medio vestrum, tamquam si nutrix foveat filios suos.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ita desiderantes vos, cupide volebamus tradere vobis non solum Evangelium Dei, sed etiam animas nostras : quoniam carissimi nobis facti estis.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Memores enim estis, fratres, laboris nostri, et fatigationis : nocte ac die operantes, ne quem vestrum gravaremus, prædicavimus in vobis Evangelium Dei.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Vos testes estis, et Deus, quam sancte, et juste, et sine querela, vobis, qui credidistis, fuimus :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "sicut scitis, qualiter unumquemque vestrum (sicut pater filios suos)",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "deprecantes vos, et consolantes, testificati sumus, ut ambularetis digne Deo, qui vocavit vos in suum regnum et gloriam.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ideo et nos gratias agimus Deo sine intermissione : quoniam cum accepissetis a nobis verbum auditus Dei, accepistis illud, non ut verbum hominum, sed (sicut est vere) verbum Dei, qui operatur in vobis, qui credidistis :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "vos enim imitatores facti estis, fratres, ecclesiarum Dei, quæ sunt in Judæa in Christo Jesu : quia eadem passi estis et vos a contribulibus vestris, sicut et ipsi a Judæis :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "qui et Dominum occiderunt Jesum, et prophetas, et nos persecuti sunt, et Deo non placent, et omnibus hominibus adversantur,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "prohibentes nos gentibus loqui ut salvæ fiant, ut impleant peccata sua semper : pervenit enim ira Dei super illos usque in finem.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Nos autem fratres desolati a vobis ad tempus horæ, aspectu, non corde, abundantius festinavimus faciem vestram videre cum multo desiderio :",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "quoniam voluimus venire ad vos, ego quidem Paulus, et semel, et iterum : sed impedivit nos Satanas.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Quæ est enim nostra spes aut gaudium, aut corona gloriæ ? nonne vos ante Dominum nostrum Jesum Christum estis in adventu ejus ?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "vos enim estis gloria nostra et gaudium.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Propter quod non sustinentes amplius, placuit nobis remanere Athenis, solis :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "et misimus Timotheum fratrem nostrum, et ministrum Dei in Evangelio Christi, ad confirmandos vos, et exhortandos pro fide vestra :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ut nemo moveatur in tribulationibus istis : ipsi enim scitis quod in hoc positi sumus.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nam et cum apud vos essemus, prædicebamus vobis passuros nos tribulationes, sicut et factum est, et scitis.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Propterea et ego amplius non sustinens, misi ad cognoscendam fidem vestram : ne forte tentaverit vos is qui tentat, et inanis fiat labor noster.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nunc autem veniente Timotheo ad nos a vobis, et annuntiante nobis fidem et caritatem vestram, et quia memoriam nostri habetis bonam semper, desiderantes nos videre, sicut et nos quoque vos :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ideo consolati sumus, fratres, in vobis in omni necessitate et tribulatione nostra, per fidem vestram,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "quoniam nunc vivimus, si vos statis in Domino.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Quam enim gratiarum actionem possumus Deo retribuere pro vobis in omni gaudio, quo gaudemus propter vos ante Deum nostrum,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "nocte ac die abundantius orantes, ut videamus faciem vestram, et compleamus ea quæ desunt fidei vestræ ?",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ipse autem Deus, et Pater noster, et Dominus noster Jesus Christus, dirigat viam nostram ad vos.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Vos autem Dominus multiplicet, et abundare faciat caritatem vestram in invicem, et in omnes, quemadmodum et nos in vobis :",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ad confirmanda corda vestra sine querela in sanctitate, ante Deum et Patrem nostrum, in adventu Domini nostri Jesu Christi cum omnibus sanctis ejus. Amen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "De cetero ergo, fratres, rogamus vos et obsecramus in Domino Jesu, ut quemadmodum accepistis a nobis quomodo oporteat vos ambulare, et placere Deo, sic et ambuletis ut abundetis magis.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Scitis enim quæ præcepta dederim vobis per Dominum Jesum.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hæc est enim voluntas Dei, sanctificatio vestra : ut abstineatis vos a fornicatione,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ut sciat unusquisque vestrum vas suum possidere in sanctificatione, et honore :",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "non in passione desiderii, sicut et gentes, quæ ignorant Deum :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "et ne quis supergrediatur, neque circumveniat in negotio fratrem suum : quoniam vindex est Dominus de his omnibus, sicut prædiximus vobis, et testificati sumus.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Non enim vocavit nos Deus in immunditiam, sed in sanctificationem.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Itaque qui hæc spernit, non hominem spernit, sed Deum : qui etiam dedit Spiritum suum Sanctum in nobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "De caritate autem fraternitatis non necesse habemus scribere vobis : ipsi enim vos a Deo didicistis ut diligatis invicem.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Etenim illud facitis in omnes fratres in universa Macedonia. Rogamus autem vos, fratres, ut abundetis magis,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et operam detis ut quieti sitis, et ut vestrum negotium agatis, et operemini manibus vestris, sicut præcepimus vobis :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "et ut honeste ambuletis ad eos qui foris sunt : et nullius aliquid desideretis.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nolumus autem vos ignorare fratres de dormientibus, ut non contristemini sicut et ceteri, qui spem non habent.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Si enim credimus quod Jesus mortuus est, et resurrexit : ita et Deus eos qui dormierunt per Jesum, adducet cum eo.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Hoc enim vobis dicimus in verbo Domini, quia nos, qui vivimus, qui residui sumus in adventum Domini, non præveniemus eos qui dormierunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Quoniam ipse Dominus in jussu, et in voce archangeli, et in tuba Dei descendet de cælo : et mortui, qui in Christo sunt, resurgent primi.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Deinde nos, qui vivimus, qui relinquimur, simul rapiemur cum illis in nubibus obviam Christo in aëra, et sic semper cum Domino erimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Itaque consolamini invicem in verbis istis.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "De temporibus autem, et momentis, fratres, non indigetis ut scribamus vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ipsi enim diligenter scitis quia dies Domini, sicut fur in nocte, ita veniet :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "cum enim dixerint : Pax et securitas : tunc repentinus eis superveniet interitus, sicut dolor in utero habenti, et non effugient.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Vos autem, fratres, non estis in tenebris, ut vos dies illa tamquam fur comprehendat :",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "omnes enim vos filii lucis estis, et filii diei : non sumus noctis, neque tenebrarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Igitur non dormiamus sicut et ceteri, sed vigilemus, et sobrii simus.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Qui enim dormiunt, nocte dormiunt : et qui ebrii sunt, nocte ebrii sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Nos autem, qui diei sumus, sobrii simus, induti loricam fidei et caritatis, et galeam spem salutis :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "quoniam non posuit nos Deus in iram, sed in acquisitionem salutis per Dominum nostrum Jesum Christum,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "qui mortuus est pro nobis : ut sive vigilemus, sive dormiamus, simul cum illo vivamus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Propter quod consolamini invicem, et ædificate alterutrum, sicut et facitis.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Rogamus autem vos, fratres, ut noveritis eos qui laborant inter vos, et præsunt vobis in Domino, et monent vos,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ut habeatis illos abundantius in caritate propter opus illorum : pacem habete cum eis.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Rogamus autem vos, fratres, corripite inquietos, consolamini pusillanimes, suscipite infirmos, patientes estote ad omnes.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Videte ne quis malum pro malo alicui reddat : sed semper quod bonum est sectamini in invicem, et in omnes.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Semper gaudete.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sine intermissione orate.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "In omnibus gratias agite : hæc est enim voluntas Dei in Christo Jesu in omnibus vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Spiritum nolite extinguere.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Prophetias nolite spernere.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Omnia autem probate : quod bonum est tenete.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ab omni specie mala abstinete vos.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ipse autem Deus pacis sanctificet vos per omnia : ut integer spiritus vester, et anima, et corpus sine querela in adventu Domini nostri Jesu Christi servetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Fidelis est, qui vocavit vos : qui etiam faciet.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Fratres, orate pro nobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Salutate fratres omnes in osculo sancto.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Adjuro vos per Dominum ut legatur epistola hæc omnibus sanctis fratribus.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Gratia Domini nostri Jesu Christi vobiscum. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

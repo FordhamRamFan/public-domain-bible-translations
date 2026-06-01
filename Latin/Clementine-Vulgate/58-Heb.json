@@ -1,0 +1,1917 @@
+{
+  "book": "ad Hebræos",
+  "abbreviation": "Heb",
+  "number": 58,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Multifariam, multisque modis olim Deus loquens patribus in prophetis :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "novissime, diebus istis locutus est nobis in Filio, quem constituit hæredem universorum, per quem fecit et sæcula :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "qui cum sit splendor gloriæ, et figura substantiæ ejus, portansque omnia verbo virtutis suæ, purgationem peccatorum faciens, sedet ad dexteram majestatis in excelsis :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "tanto melior angelis effectus, quanto differentius præ illis nomen hæreditavit.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Cui enim dixit aliquando angelorum : Filius meus es tu, ego hodie genui te ? Et rursum : Ego ero illi in patrem, et ipse erit mihi in filium ?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et cum iterum introducit primogenitum in orbem terræ, dicit : Et adorent eum omnes angeli Dei.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Et ad angelos quidem dicit : Qui facit angelos suos spiritus, et ministros suos flammam ignis.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ad Filium autem : Thronus tuus Deus in sæculum sæculi : virga æquitatis, virga regni tui.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Dilexisti justitiam, et odisti iniquitatem : propterea unxit te Deus, Deus tuus, oleo exultationis præ participibus tuis.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et : Tu in principio, Domine, terram fundasti : et opera manuum tuarum sunt cæli.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ipsi peribunt, tu autem permanebis, et omnes ut vestimentum veterascent :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "et velut amictum mutabis eos, et mutabuntur : tu autem idem ipse es, et anni tui non deficient.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ad quem autem angelorum dixit aliquando : Sede a dextris meis, quoadusque ponam inimicos tuos scabellum pedum tuorum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nonne omnes sunt administratorii spiritus, in ministerium missi propter eos, qui hæreditatem capient salutis ?",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Propterea abundantius oportet observare nos ea quæ audivimus, ne forte pereffluamus.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Si enim qui per angelos dictus est sermo, factus est firmus, et omnis prævaricatio, et inobedientia accepit justam mercedis retributionem :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "quomodo nos effugiemus si tantam neglexerimus salutem ? quæ cum initium accepisset enarrari per Dominum ab eis, qui audierunt, in nos confirmata est,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "contestante Deo signis et portentis, et variis virtutibus, et Spiritus Sancti distributionibus secundum suam voluntatem.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Non enim angelis subjecit Deus orbem terræ futurum, de quo loquimur.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Testatus est autem in quodam loco quis, dicens : Quid est homo quod memor es ejus, aut filius hominis quoniam visitas eum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Minuisti eum paulo minus ab angelis : gloria et honore coronasti eum : et constituisti eum super opera manuum tuarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Omnia subjecisti sub pedibus ejus. In eo enim quod omnia ei subjecit, nihil dimisit non subjectum ei. Nunc autem necdum videmus omnia subjecta ei.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Eum autem, qui modico quam angeli minoratus est, videmus Jesum propter passionem mortis, gloria et honore coronatum : ut, gratia Dei, pro omnibus gustaret mortem.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Decebat enim eum, propter quem omnia, et per quem omnia, qui multos filios in gloriam adduxerat, auctorem salutis eorum per passionem consummare.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Qui enim sanctificat, et qui sanctificantur, ex uno omnes. Propter quam causam non confunditur fratres eos vocare, dicens :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Nuntiabo nomen tuum fratribus meis : in medio ecclesiæ laudabo te.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et iterum : Ego ero fidens in eum. Et iterum : Ecce ego, et pueri mei, quos dedit mihi Deus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Quia ergo pueri communicaverunt carni, et sanguini, et ipse similiter participavit eisdem : ut per mortem destrueret eum qui habebat mortis imperium, id est, diabolum :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "et liberaret eos qui timore mortis per totam vitam obnoxii erant servituti.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Nusquam enim angelos apprehendit, sed semen Abrahæ apprehendit.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Unde debuit per omnia fratribus similari, ut misericors fieret, et fidelis pontifex ad Deum, ut repropitiaret delicta populi.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "In eo enim, in quo passus est ipse et tentatus, potens est et eis, qui tentantur, auxiliari.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Unde, fratres sancti, vocationis cælestis participes, considerate Apostolum, et pontificem confessionis nostræ Jesum :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "qui fidelis est ei, qui fecit illum, sicut et Moyses in omni domo ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Amplioris enim gloriæ iste præ Moyse dignus est habitus, quanto ampliorem honorem habet domus, qui fabricavit illam.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Omnis namque domus fabricatur ab aliquo : qui autem omnia creavit, Deus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et Moyses quidem fidelis erat in tota domo ejus tamquam famulus, in testimonium eorum, quæ dicenda erant :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Christus vero tamquam filius in domo sua : quæ domus sumus nos, si fiduciam, et gloriam spei usque ad finem, firmam retineamus.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Quapropter sicut dicit Spiritus Sanctus : Hodie si vocem ejus audieritis,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "nolite obdurare corda vestra, sicut in exacerbatione secundum diem tentationis in deserto,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ubi tentaverunt me patres vestri : probaverunt, et viderunt opera mea",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "quadraginta annis : propter quod infensus fui generationi huic, et dixi : Semper errant corde. Ipsi autem non cognoverunt vias meas,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "sicut juravi in ira mea : Si introibunt in requiem meam.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Videte fratres, ne forte sit in aliquo vestrum cor malum incredulitatis, discedendi a Deo vivo :",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "sed adhortamini vosmetipsos per singulos dies, donec hodie cognominatur, ut non obduretur quis ex vobis fallacia peccati.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Participes enim Christi effecti sumus, si tamen initium substantiæ ejus usque ad finem firmum retineamus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Dum dicitur : Hodie si vocem ejus audieritis, nolite obdurare corda vestra, quemadmodum in illa exacerbatione.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Quidam enim audientes exacerbaverunt : sed non universi qui profecti sunt ex Ægypto per Moysen.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Quibus autem infensus est quadraginta annis ? nonne illis qui peccaverunt, quorum cadavera prostrata sunt in deserto ?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Quibus autem juravit non introire in requiem ipsius, nisi illis qui increduli fuerunt ?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Et videmus, quia non potuerunt introire propter incredulitatem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Timeamus ergo ne forte relicta pollicitatione introëundi in requiem ejus, existimetur aliquis ex vobis deesse.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Etenim et nobis nuntiatum est, quemadmodum et illis : sed non profuit illis sermo auditus, non admistus fidei ex iis quæ audierunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ingrediemur enim in requiem, qui credidimus : quemadmodum dixit : Sicut juravi in ira mea : Si introibunt in requiem meam : et quidem operibus ab institutione mundi perfectis.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Dixit enim in quodam loco de die septima sic : Et requievit Deus die septima ab omnibus operibus suis.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et in isto rursum : Si introibunt in requiem meam.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Quoniam ergo superest introire quosdam in illam, et ii, quibus prioribus annuntiatum est, non introierunt propter incredulitatem :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "iterum terminat diem quemdam, Hodie, in David dicendo, post tantum temporis, sicut supra dictum est : Hodie si vocem ejus audieritis, nolite obdurare corda vestra.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Nam si eis Jesus requiem præstitisset, numquam de alia loqueretur, posthac, die.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Itaque relinquitur sabbatismus populo Dei.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Qui enim ingressus est in requiem ejus, etiam ipse requievit ab operibus suis, sicut a suis Deus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Festinemus ergo ingredi in illam requiem : ut ne in idipsum quis incidat incredulitatis exemplum.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Vivus est enim sermo Dei, et efficax et penetrabilior omni gladio ancipiti : et pertingens usque ad divisionem animæ ac spiritus : compagum quoque ac medullarum, et discretor cogitationum et intentionum cordis.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et non est ulla creatura invisibilis in conspectu ejus : omnia autem nuda et aperta sunt oculis ejus, ad quem nobis sermo.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Habentes ergo pontificem magnum qui penetravit cælos, Jesum Filium Dei, teneamus confessionem.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Non enim habemus pontificem qui non possit compati infirmitatibus nostris : tentatum autem per omnia pro similitudine absque peccato.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Adeamus ergo cum fiducia ad thronum gratiæ : ut misericordiam consequamur, et gratiam inveniamus in auxilio opportuno.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Omnis namque pontifex ex hominibus assumptus, pro hominibus constituitur in iis quæ sunt ad Deum, ut offerat dona, et sacrificia pro peccatis :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "qui condolere possit iis qui ignorant et errant : quoniam et ipse circumdatus est infirmitate :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et propterea debet, quemadmodum pro populo, ita etiam et pro semetipso offerre pro peccatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Sic et Christus non semetipsum clarificavit ut pontifex fieret : sed qui locutus est ad eum : Filius meus es tu, ego hodie genui te.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Quemadmodum et in alio loco dicit : Tu es sacerdos in æternum, secundum ordinem Melchisedech.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Qui in diebus carnis suæ preces, supplicationesque ad eum qui possit illum salvum facere a morte cum clamore valido, et lacrimis offerens, exauditus est pro sua reverentia.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Et quidem cum esset Filius Dei, didicit ex iis, quæ passus est, obedientiam :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "et consummatus, factus est omnibus obtemperantibus sibi, causa salutis æternæ,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "appellatus a Deo pontifex juxta ordinem Melchisedech.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "De quo nobis grandis sermo, et ininterpretabilis ad dicendum : quoniam imbecilles facti estis ad audiendum.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Etenim cum deberetis magistri esse propter tempus, rursum indigetis ut vos doceamini quæ sint elementa exordii sermonum Dei : et facti estis quibus lacte opus sit, non solido cibo.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Omnis enim, qui lactis est particeps, expers est sermonis justitiæ : parvulus enim est.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Perfectorum autem est solidus cibus : eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Quapropter intermittentes inchoationis Christi sermonem, ad perfectiora feramur, non rursum jacientes fundamentum pœnitentiæ ab operibus mortuis, et fidei ad Deum,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "baptismatum doctrinæ, impositionis quoque manuum, ac resurrectionis mortuorum, et judicii æterni.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et hoc faciemus, si quidem permiserit Deus.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Impossibile est enim eos qui semel sunt illuminati, gustaverunt etiam donum cæleste, et participes facti sunt Spiritus Sancti,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "gustaverunt nihilominus bonum Dei verbum, virtutesque sæculi venturi,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "et prolapsi sunt ; rursus renovari ad pœnitentiam, rursum crucifigentes sibimetipsis Filium Dei, et ostentui habentes.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Terra enim sæpe venientem super se bibens imbrem, et generans herbam opportunam illis, a quibus colitur, accipit benedictionem a Deo :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "proferens autem spinas ac tribulos, reproba est, et maledicto proxima : cujus consummatio in combustionem.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Confidimus autem de vobis dilectissimi meliora, et viciniora saluti : tametsi ita loquimur.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Non enim injustus Deus, ut obliviscatur operis vestri, et dilectionis, quam ostendistis in nomine ipsius, qui ministrastis sanctis, et ministratis.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Cupimus autem unumquemque vestrum eamdem ostentare sollicitudinem ad expletionem spei usque in finem :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "ut non segnes efficiamini, verum imitatores eorum, qui fide, et patientia hæreditabunt promissiones.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Abrahæ namque promittens Deus, quoniam neminem habuit, per quem juraret, majorem, juravit per semetipsum,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "dicens : Nisi benedicens benedicam te, et multiplicans multiplicabo te.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et sic longanimiter ferens, adeptus est repromissionem.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Homines enim per majorem sui jurant : et omnis controversiæ eorum finis, ad confirmationem, est juramentum.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "In quo abundantius volens Deus ostendere pollicitationis hæredibus, immobilitatem consilii sui, interposuit jusjurandum :",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ut per duas res immobiles, quibus impossibile est mentiri Deum, fortissimum solatium habeamus, qui confugimus ad tenendam propositam spem,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "quam sicut anchoram habemus animæ tutam ac firmam, et incedentem usque ad interiora velaminis,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ubi præcursor pro nobis introivit Jesus, secundum ordinem Melchisedech pontifex factus in æternum.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hic enim Melchisedech, rex Salem, sacerdos Dei summi, qui obviavit Abrahæ regresso a cæde regum, et benedixit ei :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "cui et decimas omnium divisit Abraham : primum quidem qui interpretatur rex justitiæ : deinde autem et rex Salem, quod est, rex pacis,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "sine patre, sine matre, sine genealogia, neque initium dierum, neque finem vitæ habens, assimilatus autem Filio Dei, manet sacerdos in perpetuum.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Intuemini autem quantus sit hic, cui et decimas dedit de præcipuis Abraham patriarcha.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et quidem de filiis Levi sacerdotium accipientes, mandatum habent decimas sumere a populo secundum legem, id est, a fratribus suis : quamquam et ipsi exierint de lumbis Abrahæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Cujus autem generatio non annumeratur in eis, decimas sumpsit ab Abraham, et hunc, qui habebat repromissiones, benedixit.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Sine ulla autem contradictione, quod minus est, a meliore benedicitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Et hic quidem, decimas morientes homines accipiunt : ibi autem contestatur, quia vivit.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et (ut ita dictum sit) per Abraham, et Levi, qui decimas accepit, decimatus est :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "adhuc enim in lumbis patris erat, quando obviavit ei Melchisedech.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Si ergo consummatio per sacerdotium Leviticum erat (populus enim sub ipso legem accepit) quid adhuc necessarium fuit secundum ordinem Melchisedech, alium surgere sacerdotem, et non secundum ordinem Aaron dici ?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Translato enim sacerdotio, necesse est ut et legis translatio fiat.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "In quo enim hæc dicuntur, de alia tribu est, de qua nullus altari præsto fuit.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Manifestum est enim quod ex Juda ortus sit Dominus noster : in qua tribu nihil de sacerdotibus Moyses locutus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et amplius adhuc manifestum est : si secundum similitudinem Melchisedech exsurgat alius sacerdos,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "qui non secundum legem mandati carnalis factus est, sed secundum virtutem vitæ insolubilis.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Contestatur enim : Quoniam tu es sacerdos in æternum, secundum ordinem Melchisedech.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Reprobatio quidem fit præcedentis mandati, propter infirmitatem ejus, et inutilitatem :",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "nihil enim ad perfectum adduxit lex : introductio vero melioris spei, per quam proximamus ad Deum.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Et quantum est non sine jurejurando (alii quidem sine jurejurando sacerdotes facti sunt,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "hic autem cum jurejurando per eum, qui dixit ad illum : Juravit Dominus, et non pœnitebit eum : tu es sacerdos in æternum) :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "in tantum melioris testamenti sponsor factus est Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Et alii quidem plures facti sunt sacerdotes, idcirco quod morte prohiberentur permanere :",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "hic autem eo quod maneat in æternum, sempiternum habet sacerdotium.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Unde et salvare in perpetuum potest accedentes per semetipsum ad Deum : semper vivens ad interpellandum pro nobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Talis enim decebat ut nobis esset pontifex, sanctus, innocens, impollutus, segregatus a peccatoribus, et excelsior cælis factus :",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "qui non habet necessitatem quotidie, quemadmodum sacerdotes, prius pro suis delictis hostias offerre, deinde pro populi : hoc enim fecit semel, seipsum offerendo.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Lex enim homines constituit sacerdotes infirmitatem habentes : sermo autem jurisjurandi, qui post legem est, Filium in æternum perfectum.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Capitulum autem super ea quæ dicuntur : Talem habemus pontificem, qui consedit in dextera sedis magnitudinis in cælis,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "sanctorum minister, et tabernaculi veri, quod fixit Dominus, et non homo.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Omnis enim pontifex ad offerendum munera, et hostias constituitur : unde necesse est et hunc habere aliquid, quod offerat.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Si ergo esset super terram, nec esset sacerdos : cum essent qui offerent secundum legem munera,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "qui exemplari, et umbræ deserviunt cælestium. Sicut responsum est Moysi, cum consummaret tabernaculum : Vide (inquit) omnia facito secundum exemplar, quod tibi ostensum est in monte.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nunc autem melius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Nam si illud prius culpa vacasset, non utique secundi locus inquireretur.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Vituperans enim eos dicit : Ecce dies venient, dicit Dominus : et consummabo super domum Israël, et super domum Juda, testamentum novum,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "non secundum testamentum quod feci patribus eorum in die qua apprehendi manum eorum ut educerem illos de terra Ægypti : quoniam ipsi non permanserunt in testamento meo : et ego neglexi eos, dicit Dominus.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Quia hoc est testamentum quod disponam domui Israël post dies illos, dicit Dominus : dando leges meas in mentem eorum, et in corde eorum superscribam eas : et ero eis in Deum, et ipsi erunt mihi in populum :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et non docebit unusquisque proximum suum, et unusquisque fratrem suum, dicens : Cognosce Dominum : quoniam omnes scient me a minore usque ad majorem eorum :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "quia propitius ero iniquitatibus eorum, et peccatorum eorum jam non memorabor.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Dicendo autem novum : veteravit prius. Quod autem antiquatur, et senescit, prope interitum est.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Habuit quidem et prius justificationes culturæ, et Sanctum sæculare.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Tabernaculum enim factum est primum, in quo erant candelabra, et mensa, et propositio panum, quæ dicitur Sancta.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Post velamentum autem secundum, tabernaculum, quod dicitur Sancta sanctorum :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "aureum habens thuribulum, et arcam testamenti circumtectam ex omni parte auro, in qua urna aurea habens manna, et virga Aaron, quæ fronduerat, et tabulæ testamenti,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "superque eam erant cherubim gloriæ obumbrantia propitiatorium : de quibus non est modo dicendum per singula.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "His vero ita compositis, in priori quidem tabernaculo semper introibant sacerdotes, sacrificiorum officia consummantes :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "in secundo autem semel in anno solus pontifex non sine sanguine, quem offert pro sua et populi ignorantia :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "hoc significante Spiritu Sancto, nondum propalatam esse sanctorum viam, adhuc priore tabernaculo habente statum :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "quæ parabola est temporis instantis : juxta quam munera, et hostiæ offeruntur, quæ non possunt juxta conscientiam perfectum facere servientem, solummodo in cibis, et in potibus,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et variis baptismatibus, et justitiis carnis usque ad tempus correctionis impositis.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Christus autem assistens pontifex futurorum bonorum, per amplius et perfectius tabernaculum, non manufactum, id est, non hujus creationis :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "neque per sanguinem hircorum aut vitulorum, sed per proprium sanguinem introivit semel in Sancta, æterna redemptione inventa.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Si enim sanguis hircorum et taurorum, et cinis vitulæ aspersus inquinatos sanctificat ad emundationem carnis :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "quanto magis sanguis Christi, qui per Spiritum Sanctum semetipsum obtulit immaculatum Deo, emundabit conscientiam nostram ab operibus mortuis, ad serviendum Deo viventi ?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et ideo novi testamenti mediator est : ut morte intercedente, in redemptionem earum prævaricationum, quæ erant sub priori testamento, repromissionem accipiant qui vocati sunt æternæ hæreditatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ubi enim testamentum est, mors necesse est intercedat testatoris.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Testamentum enim in mortuis confirmatum est : alioquin nondum valet, dum vivit qui testatus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Unde nec primum quidem sine sanguine dedicatum est.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Lecto enim omni mandato legis a Moyse universo populo, accipiens sanguinem vitulorum et hircorum cum aqua, et lana coccinea, et hyssopo, ipsum quoque librum, et omnem populum aspersit,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "dicens : Hic sanguis testamenti, quod mandavit ad vos Deus.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Etiam tabernaculum et omnia vasa ministerii sanguine similiter aspersit.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Et omnia pene in sanguine secundum legem mundantur : et sine sanguinis effusione non fit remissio.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Necesse est ergo exemplaria quidem cælestium his mundari : ipsa autem cælestia melioribus hostiis quam istis.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Non enim in manufacta Sancta Jesus introivit exemplaria verorum : sed in ipsum cælum, ut appareat nunc vultui Dei pro nobis :",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "neque ut sæpe offerat semetipsum, quemadmodum pontifex intrat in Sancta per singulos annos in sanguine alieno :",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "alioquin oportebat eum frequenter pati ab origine mundi : nunc autem semel in consummatione sæculorum, ad destitutionem peccati, per hostiam suam apparuit.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Et quemadmodum statutum est hominibus semel mori, post hoc autem judicium :",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "sic et Christus semel oblatus est ad multorum exhaurienda peccata : secundo sine peccato apparebit exspectantibus se, in salutem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Umbram enim habens lex futurorum bonorum, non ipsam imaginem rerum : per singulos annos, eisdem ipsis hostiis quas offerunt indesinenter, numquam potest accedentes perfectos facere :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "alioquin cessassent offerri : ideo quod nullam haberent ultra conscientiam peccati, cultores semel mundati :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "sed in ipsis commemoratio peccatorum per singulos annos fit.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Impossibile enim est sanguine taurorum et hircorum auferri peccata.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ideo ingrediens mundum dicit : Hostiam et oblationem noluisti : corpus autem aptasti mihi :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "holocautomata pro peccato non tibi placuerunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Tunc dixi : Ecce venio : in capite libri scriptum est de me : Ut faciam, Deus, voluntatem tuam.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Superius dicens : Quia hostias, et oblationes, et holocautomata pro peccato noluisti, nec placita sunt tibi, quæ secundum legem offeruntur,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "tunc dixi : Ecce venio, ut faciam, Deus, voluntatem tuam : aufert primum, ut sequens statuat.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "In qua voluntate sanctificati sumus per oblationem corporis Jesu Christi semel.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Et omnis quidem sacerdos præsto est quotidie ministrans, et easdem sæpe offerens hostias, quæ numquam possunt auferre peccata :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "hic autem unam pro peccatis offerens hostiam, in sempiternum sedet in dextera Dei,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "de cetero exspectans donec ponantur inimici ejus scabellum pedum ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Una enim oblatione, consummavit in sempiternum sanctificatos.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Contestatur autem nos et Spiritus Sanctus. Postquam enim dixit :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Hoc autem testamentum, quod testabor ad illos post dies illos, dicit Dominus, dando leges meas in cordibus eorum, et in mentibus eorum superscribam eas :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "et peccatorum, et iniquitatum eorum jam non recordabor amplius.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ubi autem horum remissio : jam non est oblatio pro peccato.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Habentes itaque, fratres, fiduciam in introitu sanctorum in sanguine Christi,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "quam initiavit nobis viam novam, et viventem per velamen, id est, carnem suam,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "et sacerdotem magnum super domum Dei :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "accedamus cum vero corde in plenitudine fidei, aspersi corda a conscientia mala, et abluti corpus aqua munda,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "teneamus spei nostræ confessionem indeclinabilem (fidelis enim est qui repromisit),",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "et consideremus invicem in provocationem caritatis, et bonorum operum :",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "non deserentes collectionem nostram, sicut consuetudinis est quibusdam, sed consolantes, et tanto magis quanto videritis appropinquantem diem.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Voluntarie enim peccantibus nobis post acceptam notitiam veritatis, jam non relinquitur pro peccatis hostia,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "terribilis autem quædam exspectatio judicii, et ignis æmulatio, quæ consumptura est adversarios.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Irritam quis faciens legem Moysi, sine ulla miseratione duobus vel tribus testibus moritur :",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "quanto magis putatis deteriora mereri supplicia qui Filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et spiritui gratiæ contumeliam fecerit ?",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Scimus enim qui dixit : Mihi vindicta, et ego retribuam. Et iterum : Quia judicabit Dominus populum suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Horrendum est incidere in manus Dei viventis.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Rememoramini autem pristinos dies, in quibus illuminati, magnum certamen sustinuistis passionum :",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "et in altero quidem opprobriis et tribulationibus spectaculum facti : in altero autem socii taliter conversantium effecti.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Nam et vinctis compassi estis, et rapinam bonorum vestrorum cum gaudio suscepistis, cognoscentes vos habere meliorem et manentem substantiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Nolite itaque amittere confidentiam vestram, quæ magnam habet remunerationem.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Patientia enim vobis necessaria est : ut voluntatem Dei facientes, reportetis promissionem.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Adhuc enim modicum aliquantulum, qui venturus est, veniet, et non tardabit.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Justus autem meus ex fide vivit : quod si subtraxerit se, non placebit animæ meæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animæ.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Est autem fides sperandarum substantia rerum, argumentum non apparentium.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "In hac enim testimonium consecuti sunt senes.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Fide intelligimus aptata esse sæcula verbo Dei : ut ex invisibilibus visibilia fierent.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Fide plurimam hostiam Abel, quam Cain, obtulit Deo, per quam testimonium consecutus est esse justus, testimonium perhibente muneribus ejus Deo, et per illam defunctus adhuc loquitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Fide Henoch translatus est ne videret mortem, et non inveniebatur, quia transtulit illum Deus : ante translationem enim testimonium habuit placuisse Deo.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem ad Deum quia est, et inquirentibus se remunerator sit.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Fide Noë responso accepto de iis quæ adhuc non videbantur, metuens aptavit arcam in salutem domus suæ, per quam damnavit mundum : et justitiæ, quæ per fidem est, hæres est institutus.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Fide qui vocatur Abraham obedivit in locum exire, quem accepturus erat in hæreditatem : et exiit, nesciens quo iret.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Fide demoratus est in terra repromissionis, tamquam in aliena, in casulis habitando cum Isaac et Jacob cohæredibus repromissionis ejusdem.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Exspectabat enim fundamenta habentem civitatem : cujus artifex et conditor Deus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Fide et ipsa Sara sterilis virtutem in conceptionem seminis accepit, etiam præter tempus ætatis : quoniam fidelem credidit esse eum qui repromiserat.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Propter quod et ab uno orti sunt (et hoc emortuo) tamquam sidera cæli in multitudinem, et sicut arena, quæ est ad oram maris, innumerabilis.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Juxta fidem defuncti sunt omnes isti, non acceptis repromissionibus, sed a longe eas aspicientes, et salutantes, et confitentes quia peregrini et hospites sunt super terram.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Qui enim hæc dicunt, significant se patriam inquirere.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et si quidem ipsius meminissent de qua exierunt, habebant utique tempus revertendi :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "nunc autem meliorem appetunt, id est, cælestem. Ideo non confunditur Deus vocari Deus eorum : paravit enim illis civitatem.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Fide obtulit Abraham Isaac, cum tentaretur, et unigenitum offerebat, qui susceperat repromissiones :",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ad quem dictum est : Quia in Isaac vocabitur tibi semen :",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "arbitrans quia et a mortuis suscitare potens est Deus : unde eum et in parabolam accepit.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Fide et de futuris benedixit Isaac Jacob et Esau.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Fide Jacob, moriens, singulos filiorum Joseph benedixit : et adoravit fastigium virgæ ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Fide Joseph, moriens, de profectione filiorum Israël memoratus est, et de ossibus suis mandavit.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Fide Moyses, natus, occultatus est mensibus tribus a parentibus suis, eo quod vidissent elegantem infantem, et non timuerunt regis edictum.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Fide Moyses grandis factus negavit se esse filium filiæ Pharaonis,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "magis eligens affligi cum populo Dei, quam temporalis peccati habere jucunditatem,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "majores divitias æstimans thesauro Ægyptiorum, improperium Christi : aspiciebat enim in remunerationem.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Fide reliquit Ægyptum, non veritus animositatem regis : invisibilem enim tamquam videns sustinuit.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Fide celebravit Pascha, et sanguinis effusionem : ne qui vastabat primitiva, tangeret eos.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Fide transierunt mare Rubrum tamquam per aridam terram : quod experti Ægyptii, devorati sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Fide muri Jericho corruerunt, circuitu dierum septem.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Fide Rahab meretrix non periit cum incredulis, excipiens exploratores cum pace.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Et quid adhuc dicam ? deficiet enim me tempus enarrantem de Gedeon, Barac, Samson, Jephte, David, Samuel, et prophetis :",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "qui per fidem vicerunt regna, operati sunt justitiam, adepti sunt repromissiones, obturaverunt ora leonum,",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "extinxerunt impetum ignis, effugerunt aciem gladii, convaluerunt de infirmitate, fortes facti sunt in bello, castra verterunt exterorum :",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "acceperunt mulieres de resurrectione mortuos suos : alii autem distenti sunt non suscipientes redemptionem ut meliorem invenirent resurrectionem.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Alii vero ludibria, et verbera experti, insuper et vincula, et carceres :",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "lapidati sunt, secti sunt, tentati sunt, in occisione gladii mortui sunt, circuierunt in melotis, in pellibus caprinis, egentes, angustiati, afflicti :",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "quibus dignus non erat mundus : in solitudinibus errantes, in montibus, in speluncis, et in cavernis terræ.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Et hi omnes testimonio fidei probati, non acceperunt repromissionem,",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Deo pro nobis melius aliquid providente, ut non sine nobis consummarentur.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ideoque et nos tantam habentes impositam nubem testium, deponentes omne pondus, et circumstans nos peccatum, per patientiam curramus ad propositum nobis certamen :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "aspicientes in auctorem fidei, et consummatorem Jesum, qui proposito sibi gaudio sustinuit crucem, confusione contempta, atque in dextera sedis Dei sedet.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Recogitate enim eum qui talem sustinuit a peccatoribus adversum semetipsum contradictionem : ut ne fatigemini, animis vestris deficientes.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nondum enim usque ad sanguinem restitistis, adversus peccatum repugnantes :",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "et obliti estis consolationis, quæ vobis tamquam filiis loquitur, dicens : Fili mi, noli negligere disciplinam Domini : neque fatigeris dum ab eo argueris.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Quem enim diligit Dominus, castigat : flagellat autem omnem filium, quem recipit.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "In disciplina perseverate. Tamquam filiis vobis offert se Deus : quis enim filius, quem non corripit pater ?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "quod si extra disciplinam estis, cujus participes facti sunt omnes : ergo adulteri, et non filii estis.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Deinde patres quidem carnis nostræ, eruditores habuimus, et reverebamur eos, non multo magis obtemperabimus Patri spirituum, et vivemus ?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et illi quidem in tempore paucorum dierum, secundum voluntatem suam erudiebant nos : hic autem ad id quod utile est in recipiendo sanctificationem ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Omnis autem disciplina in præsenti quidem videtur non esse gaudii, sed mœroris : postea autem fructum pacatissimum exercitatis per eam, reddet justitiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Propter quod remissas manus, et soluta genua erigite,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "et gressus rectos facite pedibus vestris : ut non claudicans quis erret, magis autem sanetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit Deum :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "contemplantes nequis desit gratiæ Dei : ne qua radix amaritudinis sursum germinans impediat, et per illam inquinentur multi.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ne quis fornicator, aut profanus ut Esau : qui propter unam escam vendidit primitiva sua :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "scitote enim quoniam et postea cupiens hæreditare benedictionem, reprobatus est : non enim invenit pœnitentiæ locum, quamquam cum lacrimis inquisisset eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Non enim accessistis ad tractabilem montem, et accensibilem ignem, et turbinem, et caliginem, et procellam,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "et tubæ sonum, et vocem verborum, quam qui audierunt, excusaverunt se, ne eis fieret verbum.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Non enim portabant quod dicebatur : Et si bestia tetigerit montem, lapidabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Et ita terribile erat quod videbatur. Moyses dixit : Exterritus sum, et tremebundus.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Sed accessistis ad Sion montem, et civitatem Dei viventis, Jerusalem cælestem, et multorum millium angelorum frequentiam,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "et ecclesiam primitivorum, qui conscripti sunt in cælis, et judicem omnium Deum, et spiritus justorum perfectorum,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "et testamenti novi mediatorem Jesum, et sanguinis aspersionem melius loquentem quam Abel.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Videte ne recusetis loquentem. Si enim illi non effugerunt, recusantes eum, qui super terram loquebatur : multo magis nos, qui de cælis loquentem nobis avertimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Cujus vox movit terram tunc : nunc autem repromittit, dicens : Adhuc semel, et ego movebo non solum terram, sed et cælum.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Quod autem, Adhuc semel, dicit : declarat mobilium translationem tamquam factorum, ut maneant ea quæ sunt immobilia.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Itaque regnum immobile suscipientes, habemus gratiam : per quam serviamus placentes Deo, cum metu et reverentia.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Etenim Deus noster ignis consumens est.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Caritas fraternitatis maneat in vobis,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "et hospitalitatem nolite oblivisci : per hanc enim latuerunt quidam, angelis hospitio receptis.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mementote vinctorum, tamquam simul vincti : et laborantium, tamquam et ipsi in corpore morantes.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Honorabile connubium in omnibus, et thorus immaculatus. Fornicatores enim, et adulteros judicabit Deus.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Sint mores sine avaritia, contenti præsentibus : ipse enim dixit : Non te deseram, neque derelinquam :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ita ut confidenter dicamus : Dominus mihi adjutor : non timebo quid faciat mihi homo.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mementote præpositorum vestrorum, qui vobis locuti sunt verbum Dei : quorum intuentes exitum conversationis, imitamini fidem.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Jesus Christus heri, et hodie : ipse et in sæcula.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Doctrinis variis et peregrinis nolite abduci. Optimum est enim gratia stabilire cor, non escis : quæ non profuerunt ambulantibus in eis.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Habemus altare, de quo edere non habent potestatem, qui tabernaculo deserviunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Quorum enim animalium infertur sanguis pro peccato in Sancta per pontificem, horum corpora cremantur extra castra.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Propter quod et Jesus, ut sanctificaret per suum sanguinem populum, extra portam passus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Exeamus igitur ad eum extra castra, improperium ejus portantes.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Non enim habemus hic manentem civitatem, sed futuram inquirimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Per ipsum ergo offeramus hostiam laudis semper Deo, id est, fructum labiorum confitentium nomini ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Beneficentiæ autem et communionis nolite oblivisci : talibus enim hostiis promeretur Deus.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Obedite præpositis vestris, et subjacete eis. Ipsi enim pervigilant quasi rationem pro animabus vestris reddituri, ut cum gaudio hoc faciant, et non gementes : hoc enim non expedit vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Orate pro nobis : confidimus enim quia bonam conscientiam habemus in omnibus bene volentes conversari.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Amplius autem deprecor vos hoc facere, quo celerius restituar vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Deus autem pacis, qui eduxit de mortuis pastorem magnum ovium, in sanguine testamenti æterni, Dominum nostrum Jesum Christum,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "aptet vos in omni bono, ut faciatis ejus voluntatem : faciens in vobis quod placeat coram se per Jesum Christum : cui est gloria in sæcula sæculorum. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Rogo autem vos fratres, ut sufferatis verbum solatii. Etenim perpaucis scripsi vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Cognoscite fratrem nostrum Timotheum dimissum : cum quo (si celerius venerit) videbo vos.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Salutate omnes præpositos vestros, et omnes sanctos. Salutant vos de Italia fratres.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Gratia cum omnibus vobis. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "book": "Jacobi",
+  "abbreviation": "Jas",
+  "number": 59,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Jacobus, Dei et Domini nostri Jesu Christi servus, duodecim tribubus, quæ sunt in dispersione, salutem.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Omne gaudium existimate fratres mei, cum in tentationes varias incideritis :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "scientes quod probatio fidei vestræ patientiam operatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Patientia autem opus perfectum habet : ut sitis perfecti et integri in nullo deficientes.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Si quis autem vestrum indiget sapientia, postulet a Deo, qui dat omnibus affluenter, et non improperat : et dabitur ei.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Postulet autem in fide nihil hæsitans : qui enim hæsitat, similis est fluctui maris, qui a vento movetur et circumfertur :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "non ergo æstimet homo ille quod accipiat aliquid a Domino.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Vir duplex animo inconstans est in omnibus viis suis.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Glorietur autem frater humilis in exaltatione sua :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "dives autem in humilitate sua, quoniam sicut flos fœni transibit ;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "exortus est enim sol cum ardore, et arefecit fœnum, et flos ejus decidit, et decor vultus ejus deperiit : ita et dives in itineribus suis marcescet.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Beatus vir qui suffert tentationem : quoniam cum probatus fuerit, accipiet coronam vitæ, quam repromisit Deus diligentibus se.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nemo cum tentatur, dicat quoniam a Deo tentatur : Deus enim intentator malorum est : ipse autem neminem tentat.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Unusquisque vero tentatur a concupiscentia sua abstractus, et illectus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Deinde concupiscentia cum conceperit, parit peccatum : peccatum vero cum consummatum fuerit, generat mortem.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Nolite itaque errare, fratres mei dilectissimi.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Omne datum optimum, et omne donum perfectum desursum est, descendens a Patre luminum, apud quem non est transmutatio, nec vicissitudinis obumbratio.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Voluntarie enim genuit nos verbo veritatis, ut simus initium aliquod creaturæ ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Scitis, fratres mei dilectissimi. Sit autem omnis homo velox ad audiendum : tardus autem ad loquendum, et tardus ad iram.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ira enim viri justitiam Dei non operatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Propter quod abjicientes omnem immunditiam, et abundantiam malitiæ, in mansuetudine suscipite insitum verbum, quod potest salvare animas vestras.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Estote autem factores verbi, et non auditores tantum : fallentes vosmetipsos.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Quia si quis auditor est verbi, et non factor, hic comparabitur viro consideranti vultum nativitatis suæ in speculo :",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "consideravit enim se, et abiit, et statim oblitus est qualis fuerit.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Qui autem perspexerit in legem perfectam libertatis, et permanserit in ea, non auditor obliviosus factus, sed factor operis : hic beatus in facto suo erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Si quis autem putat se religiosum esse, non refrenans linguam suam, sed seducens cor suum, hujus vana est religio.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Religio munda et immaculata apud Deum et Patrem, hæc est : visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc sæculo.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fratres mei, nolite in personarum acceptione habere fidem Domini nostri Jesu Christi gloriæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Etenim si introierit in conventum vestrum vir aureum annulum habens in veste candida, introierit autem et pauper in sordido habitu,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et intendatis in eum qui indutus est veste præclara, et dixeritis ei : Tu sede hic bene : pauperi autem dicatis : Tu sta illic ; aut sede sub scabello pedum meorum :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "nonne judicatis apud vosmetipsos, et facti estis judices cogitationum iniquarum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Audite, fratres mei dilectissimi : nonne Deus elegit pauperes in hoc mundo, divites in fide, et hæredes regni, quod repromisit Deus diligentibus se ?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "vos autem exhonorastis pauperem. Nonne divites per potentiam opprimunt vos, et ipsi trahunt vos ad judicia ?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "nonne ipsi blasphemant bonum nomen, quod invocatum est super vos ?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Si tamen legem perficitis regalem secundum Scripturas : Diliges proximum tuum sicut teipsum : bene facitis :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "si autem personas accipitis, peccatum operamini, redarguti a lege quasi transgressores.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Quicumque autem totam legem servaverit, offendat autem in uno, factus est omnium reus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Qui enim dixit : Non mœchaberis, dixit et : Non occides. Quod si non mœchaberis, occides autem, factus es transgressor legis.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sic loquimini, et sic facite sicut per legem libertatis incipientes judicari.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Judicium enim sine misericordia illi qui non fecit misericordiam : superexaltat autem misericordia judicium.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Quid proderit, fratres mei, si fidem quis dicat se habere, opera autem non habeat ? numquid poterit fides salvare eum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Si autem frater et soror nudi sint, et indigeant victu quotidiano,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "dicat autem aliquis ex vobis illis : Ite in pace, calefacimini et saturamini : non dederitis autem eis quæ necessaria sunt corpori, quid proderit ?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sic et fides, si non habeat opera, mortua est in semetipsa.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sed dicet quis : Tu fidem habes, et ego opera habeo : ostende mihi fidem tuam sine operibus : et ego ostendam tibi ex operibus fidem meam.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Tu credis quoniam unus est Deus : bene facis : et dæmones credunt, et contremiscunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Vis autem scire, o homo inanis, quoniam fides sine operibus mortua est ?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Abraham pater noster nonne ex operibus justificatus est, offerens Isaac filium suum super altare ?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Vides quoniam fides cooperabatur operibus illius : et ex operibus fides consummata est ?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Et suppleta est Scriptura, dicens : Credidit Abraham Deo, et reputatum est illi ad justitiam, et amicus Dei appellatus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Videtis quoniam ex operibus justificatur homo, et non ex fide tantum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Similiter et Rahab meretrix, nonne ex operibus justificata est, suscipiens nuntios, et alia via ejiciens ?",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Sicut enim corpus sine spiritu mortuum est, ita et fides sine operibus mortua est.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Nolite plures magistri fieri fratres mei, scientes quoniam majus judicium sumitis.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "In multis enim offendimus omnes. Si quis in verbo non offendit, hic perfectus est vir : potest etiam freno circumducere totum corpus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Si autem equis frena in ora mittimus ad consentiendum nobis, et omne corpus illorum circumferimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ecce et naves, cum magnæ sint, et a ventis validis minentur, circumferuntur a modico gubernaculo ubi impetus dirigentis voluerit.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ita et lingua modicum quidem membrum est, et magna exaltat. Ecce quantus ignis quam magnam silvam incendit !",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et lingua ignis est, universitas iniquitatis. Lingua constituitur in membris nostris, quæ maculat totum corpus, et inflammat rotam nativitatis nostræ inflammata a gehenna.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Omnis enim natura bestiarum, et volucrum, et serpentium, et ceterorum domantur, et domita sunt a natura humana :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "linguam autem nullus hominum domare potest : inquietum malum, plena veneno mortifero.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "In ipsa benedicimus Deum et Patrem : et in ipsa maledicimus homines, qui ad similitudinem Dei facti sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ex ipso ore procedit benedictio et maledictio. Non oportet, fratres mei, hæc ita fieri.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Numquid fons de eodem foramine emanat dulcem et amaram aquam ?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Numquid potest, fratres mei, ficus uvas facere, aut vitis ficus ? Sic neque salsa dulcem potest facere aquam.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Quis sapiens et disciplinatus inter vos ? Ostendat ex bona conversatione operationem suam in mansuetudine sapientiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Quod si zelum amarum habetis, et contentiones sint in cordibus vestris : nolite gloriari, et mendaces esse adversus veritatem :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "non est enim ista sapientia desursum descendens : sed terrena, animalis, diabolica.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ubi enim zelus et contentio, ibi inconstantia et omne opus pravum.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Quæ autem desursum est sapientia, primum quidem pudica est, deinde pacifica, modesta, suadibilis, bonus consentiens, plena misericordia et fructibus bonis, non judicans, sine simulatione.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Fructus autem justitiæ, in pace seminatur, facientibus pacem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Unde bella et lites in vobis ? nonne hinc : ex concupiscentiis vestris, quæ militant in membris vestris ?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "concupiscitis, et non habetis : occiditis, et zelatis : et non potestis adipisci : litigatis, et belligeratis, et non habetis, propter quod non postulatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Petitis, et non accipitis : eo quod male petatis : ut in concupiscentiis vestris insumatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Adulteri, nescitis quia amicitia hujus mundi inimica est Dei ? quicumque ergo voluerit amicus esse sæculi hujus, inimicus Dei constituitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "An putatis quia inaniter Scriptura dicat : Ad invidiam concupiscit spiritus qui habitat in vobis ?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "majorem autem dat gratiam. Propter quod dicit : Deus superbis resistit, humilibus autem dat gratiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Subditi ergo estote Deo, resistite autem diabolo, et fugiet a vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Appropinquate Deo, et appropinquabit vobis. Emundate manus, peccatores : et purificate corda, duplices animo.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Miseri estote, et lugete, et plorate : risus vester in luctum convertatur, et gaudium in mœrorem.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Humiliamini in conspectu Domini, et exaltabit vos.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Nolite detrahere alterutrum fratres. Qui detrahit fratri, aut qui judicat fratrem suum, detrahit legi, et judicat legem. Si autem judicas legem, non es factor legis, sed judex.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Unus est legislator et judex, qui potest perdere et liberare.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tu autem quis es, qui judicas proximum ? Ecce nunc qui dicitis : Hodie, aut crastino ibimus in illam civitatem, et faciemus ibi quidem annum, et mercabimur, et lucrum faciemus :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "qui ignoratis quid erit in crastino.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Quæ est enim vita vestra ? vapor est ad modicum parens, et deinceps exterminabitur ; pro eo ut dicatis : Si Dominus voluerit. Et : Si vixerimus, faciemus hoc, aut illud.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Nunc autem exsultatis in superbiis vestris. Omnis exsultatio talis, maligna est.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Scienti igitur bonum facere, et non facienti, peccatum est illi.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Agite nunc divites, plorate ululantes in miseriis vestris, quæ advenient vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Divitiæ vestræ putrefactæ sunt, et vestimenta vestra a tineis comesta sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Aurum et argentum vestrum æruginavit : et ærugo eorum in testimonium vobis erit, et manducabit carnes vestras sicut ignis. Thesaurizastis vobis iram in novissimis diebus.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ecce merces operariorum, qui messuerunt regiones vestras, quæ fraudata est a vobis, clamat : et clamor eorum in aures Domini sabbaoth introivit.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Epulati estis super terram, et in luxuriis enutristis corda vestra in die occisionis.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Addixistis, et occidistis justum, et non resistit vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Patientes igitur estote, fratres, usque ad adventum Domini. Ecce agricola exspectat pretiosum fructum terræ, patienter ferens donec accipiat temporaneum et serotinum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Patientes igitur estote et vos, et confirmate corda vestra : quoniam adventus Domini appropinquavit.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nolite ingemiscere, fratres, in alterutrum, ut non judicemini. Ecce judex ante januam assistit.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Exemplum accipite, fratres, exitus mali, laboris, et patientiæ, prophetas qui locuti sunt in nomine Domini.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ecce beatificamus eos qui sustinuerunt. Sufferentiam Job audistis, et finem Domini vidistis, quoniam misericors Dominus est, et miserator.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ante omnia autem, fratres mei, nolite jurare, neque per cælum, neque per terram, neque aliud quodcumque juramentum. Sit autem sermo vester : Est, est : Non, non : ut non sub judicio decidatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tristatur aliquis vestrum ? oret. Æquo animo est ? psallat.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Infirmatur quis in vobis ? inducat presbyteros ecclesiæ, et orent super eum, ungentes eum oleo in nomine Domini :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "et oratio fidei salvabit infirmum, et alleviabit eum Dominus : et si in peccatis sit, remittentur ei.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Confitemini ergo alterutrum peccata vestra, et orate pro invicem ut salvemini : multum enim valet deprecatio justi assidua.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Elias homo erat similis nobis passibilis : et oratione oravit ut non plueret super terram, et non pluit annos tres, et menses sex.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Et rursum oravit : et cælum dedit pluviam, et terra dedit fructum suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Fratres mei, si quis ex vobis erraverit a veritate, et converterit quis eum :",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "scire debet quoniam qui converti fecerit peccatorem ab errore viæ suæ, salvabit animam ejus a morte, et operiet multitudinem peccatorum.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

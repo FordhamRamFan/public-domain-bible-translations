@@ -1,0 +1,606 @@
+{
+  "book": "ad Colossenses",
+  "abbreviation": "Col",
+  "number": 51,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulus Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "eis, qui sunt Colossis, sanctis, et fidelibus fratribus in Christo Jesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo. Gratias agimus Deo, et Patri Domini nostri Jesu Christi semper pro vobis orantes :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "audientes fidem vestram in Christo Jesu, et dilectionem quam habetis in sanctos omnes",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "propter spem, quæ reposita est vobis in cælis : quam audistis in verbo veritatis Evangelii :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "quod pervenit ad vos, sicut et in universo mundo est, et fructificat, et crescit sicut in vobis, ex ea die, qua audistis, et cognovistis gratiam Dei in veritate,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "sicut didicistis ab Epaphra carissimo conservo nostro, qui est fidelis pro vobis minister Christi Jesu,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "qui etiam manifestavit nobis dilectionem vestram in spiritu.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ideo et nos ex qua die audivimus, non cessamus pro vobis orantes, et postulantes ut impleamini agnitione voluntatis ejus, in omni sapientia et intellectu spiritali :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ut ambuletis digne Deo per omnia placentes : in omni opere bono fructificantes, et crescentes in scientia Dei :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "in omni virtute confortati secundum potentiam claritatis ejus, in omni patientia et longanimitate cum gaudio,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "gratias agentes Deo Patri, qui dignos nos fecit in partem sortis sanctorum in lumine :",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "qui eripuit nos de potestate tenebrarum, et transtulit in regnum filii dilectionis suæ,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "in quo habemus redemptionem per sanguinem ejus, remissionem peccatorum :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "qui est imago Dei invisibilis, primogenitus omnis creaturæ :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "quoniam in ipso condita sunt universa in cælis, et in terra, visibilia, et invisibilia, sive throni, sive dominationes, sive principatus, sive potestates : omnia per ipsum et in ipso creata sunt :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "et ipse est ante omnes, et omnia in ipso constant.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Et ipse est caput corporis Ecclesiæ, qui est principium, primogenitus ex mortuis : ut sit in omnibus ipse primatum tenens :",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "quia in ipso complacuit, omnem plenitudinem inhabitare :",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "et per eum reconciliare omnia in ipsum, pacificans per sanguinem crucis ejus, sive quæ in terris, sive quæ in cælis sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Et vos cum essetis aliquando alienati, et inimici sensu in operibus malis :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "nunc autem reconciliavit in corpore carnis ejus per mortem, exhibere vos sanctos, et immaculatos, et irreprehensibiles coram ipso :",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "si tamen permanetis in fide fundati, et stabiles, et immobiles a spe Evangelii, quod audistis, quod prædicatum est in universa creatura, quæ sub cælo est, cujus factus sum ego Paulus minister.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Qui nunc gaudeo in passionibus pro vobis, et adimpleo ea quæ desunt passionum Christi, in carne mea pro corpore ejus, quod est Ecclesia :",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "cujus factus sum ego minister secundum dispensationem Dei, quæ data est mihi in vos, ut impleam verbum Dei :",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "mysterium, quod absconditum fuit a sæculis, et generationibus, nunc autem manifestatum est sanctis ejus,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "quibus voluit Deus notas facere divitias gloriæ sacramenti hujus in gentibus, quod est Christus, in vobis spes gloriæ,",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "quem nos annuntiamus, corripientes omnem hominem, et docentes omnem hominem, in omni sapientia, ut exhibeamus omnem hominem perfectum in Christo Jesu :",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "in quo et laboro, certando secundum operationem ejus, quam operatur in me in virtute.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Volo enim vos scire qualem sollicitudinem habeam pro vobis, et pro iis qui sunt Laodiciæ, et quicumque non viderunt faciem meam in carne :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ut consolentur corda ipsorum, instructi in caritate, et in omnes divitias plenitudinis intellectus, in agnitionem mysterii Dei Patris et Christi Jesu :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "in quo sunt omnes thesauri sapientiæ et scientiæ absconditi.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hoc autem dico, ut nemo vos decipiat in sublimitate sermonum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nam etsi corpore absens sum, sed spiritu vobiscum sum : gaudens, et videns ordinem vestrum, et firmamentum ejus, quæ in Christo est, fidei vestræ.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Sicut ergo accepistis Jesum Christum Dominum, in ipso ambulate,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "radicati, et superædificati in ipso, et confirmati fide, sicut et didicistis, abundantes in illo in gratiarum actione.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Videte ne quis vos decipiat per philosophiam, et inanem fallaciam secundum traditionem hominum, secundum elementa mundi, et non secundum Christum :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "quia in ipso inhabitat omnis plenitudo divinitatis corporaliter :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et estis in illo repleti, qui est caput omnis principatus et potestatis :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "in quo et circumcisi estis circumcisione non manu facta in expoliatione corporis carnis, sed in circumcisione Christi :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "consepulti ei in baptismo, in quo et resurrexistis per fidem operationis Dei, qui suscitavit illum a mortuis.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et vos cum mortui essetis in delictis, et præputio carnis vestræ, convivificavit cum illo, donans vobis omnia delicta :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "delens quod adversus nos erat chirographum decreti, quod erat contrarium nobis, et ipsum tulit de medio, affigens illud cruci :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "et expolians principatus, et potestates traduxit confidenter, palam triumphans illos in semetipso.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Nemo ergo vos judicet in cibo, aut in potu, aut in parte diei festi, aut neomeniæ, aut sabbatorum :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "quæ sunt umbra futurorum : corpus autem Christi.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Nemo vos seducat, volens in humilitate, et religione angelorum, quæ non vidit ambulans, frustra inflatus sensu carnis suæ,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "et non tenens caput, ex quo totum corpus per nexus, et conjunctiones subministratum, et constructum crescit in augmentum Dei.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Si ergo mortui estis cum Christo ab elementis hujus mundi : quid adhuc tamquam viventes in mundo decernitis ?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ne tetigeritis, neque gustaveritis, neque contrectaveritis :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "quæ sunt omnia in interitum ipso usu, secundum præcepta et doctrinas hominum :",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "quæ sunt rationem quidem habentia sapientiæ in superstitione, et humilitate, et non ad parcendum corpori, non in honore aliquo ad saturitatem carnis.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Igitur, si consurrexistis cum Christo : quæ sursum sunt quærite, ubi Christus est in dextera Dei sedens :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "quæ sursum sunt sapite, non quæ super terram.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mortui enim estis, et vita vestra est abscondita cum Christo in Deo.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Cum Christus apparuerit, vita vestra : tunc et vos apparebitis cum ipso in gloria.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mortificate ergo membra vestra, quæ sunt super terram : fornicationem, immunditiam, libidinem, concupiscentiam malam, et avaritiam, quæ est simulacrorum servitus :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "propter quæ venit ira Dei super filios incredulitatis :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "in quibus et vos ambulastis aliquando, cum viveretis in illis.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Nunc autem deponite et vos omnia : iram, indignationem, malitiam, blasphemiam, turpem sermonem de ore vestro.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nolite mentiri invicem, expoliantes vos veterem hominem cum actibus suis,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et induentes novum eum, qui renovatur in agnitionem secundum imaginem ejus qui creavit illum :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ubi non est gentilis et Judæus, circumcisio et præputium, Barbarus et Scytha, servus et liber : sed omnia, et in omnibus Christus.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Induite vos ergo, sicut electi Dei, sancti, et dilecti, viscera misericordiæ, benignitatem, humilitatem, modestiam, patientiam :",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "supportantes invicem, et donantes vobismetipsis si quis adversus aliquem habet querelam : sicut et Dominus donavit vobis, ita et vos.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Super omnia autem hæc, caritatem habete, quod est vinculum perfectionis :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "et pax Christi exsultet in cordibus vestris, in qua et vocati estis in uno corpore : et grati estote.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Verbum Christi habitet in vobis abundanter, in omni sapientia, docentes, et commonentes vosmetipsos, psalmis, hymnis, et canticis spiritualibus, in gratia cantantes in cordibus vestris Deo.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Omne, quodcumque facitis in verbo aut in opere, omnia in nomine Domini Jesu Christi, gratias agentes Deo et Patri per ipsum.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mulieres, subditæ estote viris, sicut oportet, in Domino.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Viri, diligite uxores vestras, et nolite amari esse ad illas.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Filii, obedite parentibus per omnia : hoc enim placitum est in Domino.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Patres, nolite ad indignationem provocare filios vestros, ut non pusillo animo fiant.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Servi, obedite per omnia dominis carnalibus, non ad oculum servientes, quasi hominibus placentes, sed in simplicitate cordis, timentes Deum.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Quodcumque facitis, ex animo operamini sicut Domino, et non hominibus :",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "scientes quod a Domino accipietis retributionem hæreditatis. Domino Christo servite.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Qui enim injuriam facit, recipiet id quod inique gessit : et non est personarum acceptio apud Deum.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Domini, quod justum est et æquum, servis præstate : scientes quod et vos Dominum habetis in cælo.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Orationi instate, vigilantes in ea in gratiarum actione :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "orantes simul et pro nobis, ut Deus aperiat nobis ostium sermonis ad loquendum mysterium Christi (propter quod etiam vinctus sum),",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ut manifestem illud ita ut oportet me loqui.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "In sapientia ambulate ad eos, qui foris sunt : tempus redimentes.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Sermo vester semper in gratia sale sit conditus, ut sciatis quomodo oporteat vos unicuique respondere.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Quæ circa me sunt, omnia vobis nota faciet Tychicus, carissimus frater, et fidelis minister, et conservus in Domino :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "quem misi ad vos ad hoc ipsum, ut cognoscat quæ circa vos sunt, et consoletur corda vestra,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "cum Onesimo carissimo, et fideli fratre, qui ex vobis est. Omnia, quæ hic aguntur, nota facient vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Salutat vos Aristarchus concaptivus meus, et Marcus consobrinus Barnabæ, de quo accepistis mandata : si venerit ad vos, excipite illum :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et Jesus, qui dicitur Justus : qui sunt ex circumcisione : hi soli sunt adjutores mei in regno Dei, qui mihi fuerunt solatio.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Salutat vos Epaphras, qui ex vobis est, servus Christi Jesu, semper sollicitus pro vobis in orationibus, ut stetis perfecti, et pleni in omni voluntate Dei.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Testimonium enim illi perhibeo quod habet multum laborem pro vobis, et pro iis qui sunt Laodiciæ, et qui Hierapoli.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Salutat vos Lucas, medicus carissimus, et Demas.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Salutate fratres, qui sunt Laodiciæ, et Nympham, et quæ in domo ejus est, ecclesiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Et cum lecta fuerit apud vos epistola hæc, facite ut et in Laodicensium ecclesia legatur : et eam, quæ Laodicensium est, vos legatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Et dicite Archippo : Vide ministerium, quod accepisti in Domino, ut illud impleas.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Salutatio, mea manu Pauli. Memores estote vinculorum meorum. Gratia vobiscum. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

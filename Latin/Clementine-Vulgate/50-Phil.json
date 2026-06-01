@@ -1,0 +1,660 @@
+{
+  "book": "ad Philippenses",
+  "abbreviation": "Phil",
+  "number": 50,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulus et Timotheus, servi Jesu Christi, omnibus sanctis in Christo Jesu, qui sunt Philippis, cum episcopis et diaconibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Gratias ago Deo meo in omni memoria vestri,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "semper in cunctis orationibus meis pro omnibus vobis, cum gaudio deprecationem faciens,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "super communicatione vestra in Evangelio Christi a prima die usque nunc.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Confidens hoc ipsum, quia qui cœpit in vobis opus bonum, perficiet usque in diem Christi Jesu :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "sicut est mihi justum hoc sentire pro omnibus vobis : eo quod habeam vos in corde, et in vinculis meis, et in defensione, et confirmatione Evangelii, socios gaudii mei omnes vos esse.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Testis enim mihi est Deus, quomodo cupiam omnes vos in visceribus Jesu Christi.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et hoc oro, ut caritas vestra magis ac magis abundet in scientia, et in omni sensu :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ut probetis potiora, ut sitis sinceri, et sine offensa in diem Christi,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "repleti fructu justitiæ per Jesum Christum, in gloriam et laudem Dei.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Scire autem vos volo fratres, quia quæ circa me sunt, magis ad profectum venerunt Evangelii :",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ita ut vincula mea manifesta fierent in Christo in omni prætorio, et in ceteris omnibus,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "et plures e fratribus in Domino confidentes vinculis meis, abundantius auderent sine timore verbum Dei loqui.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Quidam quidem et propter invidiam et contentionem : quidam autem et propter bonam voluntatem Christum prædicant :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "quidam ex caritate, scientes quoniam in defensionem Evangelii positus sum.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Quidam autem ex contentione Christum annuntiant non sincere, existimantes pressuram se suscitare vinculis meis.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Quid enim ? Dum omni modo sive per occasionem, sive per veritatem, Christus annuntietur : et in hoc gaudeo, sed et gaudebo.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Scio enim quia hoc mihi proveniet ad salutem, per vestram orationem, et subministrationem Spiritus Jesu Christi,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "secundum exspectationem et spem meam, quia in nullo confundar : sed in omni fiducia sicut semper, et nunc magnificabitur Christus in corpore meo, sive per vitam, sive per mortem.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Mihi enim vivere Christus est, et mori lucrum.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Quod si vivere in carne, hic mihi fructus operis est, et quid eligam ignoro.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Coarctor autem e duobus : desiderium habens dissolvi, et esse cum Christo, multo magis melius :",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "permanere autem in carne, necessarium propter vos.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Et hoc confidens scio quia manebo, et permanebo omnibus vobis ad profectum vestrum, et gaudium fidei :",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "ut gratulatio vestra abundet in Christo Jesu in me, per meum adventum iterum ad vos.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Tantum digne Evangelio Christi conversamini : ut sive cum venero, et videro vos, sive absens audiam de vobis, quia statis in uno spiritu unanimes, collaborantes fidei Evangelii :",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "et in nullo terreamini ab adversariis : quæ illis est causa perditionis, vobis autem salutis, et hoc a Deo :",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "quia vobis donatum est pro Christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini :",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "idem certamen habentes, quale et vidistis in me, et nunc audistis de me.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Si qua ergo consolatio in Christo, si quod solatium caritatis, si qua societas spiritus, si qua viscera miserationis :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "implete gaudium meum ut idem sapiatis, eamdem caritatem habentes, unanimes, idipsum sentientes,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "nihil per contentionem, neque per inanem gloriam : sed in humilitate superiores sibi invicem arbitrantes,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "non quæ sua sunt singuli considerantes, sed ea quæ aliorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Hoc enim sentite in vobis, quod et in Christo Jesu :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "qui cum in forma Dei esset, non rapinam arbitratus est esse se æqualem Deo :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "sed semetipsum exinanivit, formam servi accipiens, in similitudinem hominum factus, et habitu inventus ut homo.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Humiliavit semetipsum factus obediens usque ad mortem, mortem autem crucis.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Propter quod et Deus exaltavit illum, et donavit illi nomen, quod est super omne nomen :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ut in nomine Jesu omne genu flectatur cælestium, terrestrium et infernorum,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et omnis lingua confiteatur, quia Dominus Jesus Christus in gloria est Dei Patris.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Itaque carissimi mei (sicut semper obedistis), non ut in præsentia mei tantum, sed multo magis nunc in absentia mea, cum metu et tremore vestram salutem operamini.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Deus est enim, qui operatur in vobis et velle, et perficere pro bona voluntate.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Omnia autem facite sine murmurationibus et hæsitationibus :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ut sitis sine querela, et simplices filii Dei, sine reprehensione in medio nationis pravæ et perversæ : inter quos lucetis sicut luminaria in mundo,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "verbum vitæ continentes ad gloriam meam in die Christi, quia non in vacuum cucurri, neque in vacuum laboravi.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sed et si immolor supra sacrificium, et obsequium fidei vestræ, gaudeo, et congratulor omnibus vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Idipsum autem et vos gaudete, et congratulamini mihi.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Spero autem in Domino Jesu, Timotheum me cito mittere ad vos : ut et ego bono animo sim, cognitis quæ circa vos sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Neminem enim habeo tam unanimem, qui sincera affectione pro vobis sollicitus sit.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Omnes enim quæ sua sunt quærunt, non quæ sunt Jesu Christi.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Experimentum autem ejus cognoscite, quia sicut patri filius, mecum servivit in Evangelio.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Hunc igitur spero me mittere ad vos, mox ut videro quæ circa me sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Confido autem in Domino quoniam et ipse veniam ad vos cito.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Necessarium autem existimavi Epaphroditum fratrem, et cooperatorem, et commilitonem meum, vestrum autem apostolum, et ministrum necessitatis meæ, mittere ad vos :",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "quoniam quidem omnes vos desiderabat : et mœstus erat, propterea quod audieratis illum infirmatum.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Nam et infirmatus est usque ad mortem : sed Deus misertus est ejus : non solum autem ejus, verum etiam et mei, ne tristitiam super tristitiam haberem.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Festinantius ergo misi illum, ut viso eo iterum gaudeatis, et ego sine tristitia sim.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Excipite itaque illum cum omni gaudio in Domino, et ejusmodi cum honore habetote ;",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "quoniam propter opus Christi usque ad mortem accessit, tradens animam suam ut impleret id quod ex vobis deerat erga meum obsequium.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "De cetero, fratres mei, gaudete in Domino. Eadem vobis scribere, mihi quidem non pigrum, vobis autem necessarium.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Videte canes, videte malos operarios, videte concisionem.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Nos enim sumus circumcisio, qui spiritu servimus Deo, et gloriamur in Christo Jesu, et non in carne fiduciam habentes,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "quamquam ego habeam confidentiam et in carne. Si quis alius videtur confidere in carne, ego magis,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "circumcisus octavo die, ex genere Israël, de tribu Benjamin, Hebræus ex Hebræis, secundum legem pharisæus,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "secundum æmulationem persequens Ecclesiam Dei, secundum justitiam, quæ in lege est, conversatus sine querela.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Sed quæ mihi fuerunt lucra, hæc arbitratus sum propter Christum detrimenta.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Verumtamen existimo omnia detrimentum esse propter eminentem scientiam Jesu Christi Domini mei : propter quem omnia detrimentum feci, et arbitror ut stercora, ut Christum lucrifaciam,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "et inveniar in illo non habens meam justitiam, quæ ex lege est, sed illam, quæ ex fide est Christi Jesu : quæ ex Deo est justitia in fide,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ad cognoscendum illum, et virtutem resurrectionis ejus, et societatem passionum illius : configuratus morti ejus :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "si quo modo occurram ad resurrectionem, quæ est ex mortuis :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "non quod jam acceperim, aut jam perfectus sim : sequor autem, si quomodo comprehendam in quo et comprehensus sum a Christo Jesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Fratres, ego me non arbitror comprehendisse. Unum autem, quæ quidem retro sunt obliviscens, ad ea vero quæ sunt priora, extendens meipsum,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "ad destinatum persequor, ad bravium supernæ vocationis Dei in Christo Jesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Quicumque ergo perfecti sumus, hoc sentiamus : et si quid aliter sapitis, et hoc vobis Deus revelabit.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Verumtamen ad quod pervenimus ut idem sapiamus, et in eadem permaneamus regula.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Imitatores mei estote, fratres, et observate eos qui ita ambulant, sicut habetis formam nostram.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Multi enim ambulant, quos sæpe dicebam vobis (nunc autem et flens dico) inimicos crucis Christi :",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "quorum finis interitus : quorum Deus venter est : et gloria in confusione ipsorum, qui terrena sapiunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Nostra autem conversatio in cælis est : unde etiam Salvatorem exspectamus Dominum nostrum Jesum Christum,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "qui reformabit corpus humilitatis nostræ, configuratum corpori claritatis suæ, secundum operationem, qua etiam possit subjicere sibi omnia.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Itaque fratres mei carissimi, et desideratissimi, gaudium meum, et corona mea : sic state in Domino, carissimi.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Evodiam rogo, et Syntychen deprecor, idipsum sapere in Domino.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Etiam rogo et te, germane compar, adjuva illas, quæ mecum laboraverunt in Evangelio cum Clemente, et ceteris adjutoribus meis, quorum nomina sunt in libro vitæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Gaudete in Domino semper : iterum dico gaudete.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Modestia vestra nota sit omnibus hominibus : Dominus prope est.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nihil solliciti sitis : sed in omni oratione, et obsecratione, cum gratiarum actione petitiones vestræ innotescant apud Deum.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Et pax Dei, quæ exuperat omnem sensum, custodiat corda vestra, et intelligentias vestras in Christo Jesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "De cetero fratres, quæcumque sunt vera, quæcumque pudica, quæcumque justa, quæcumque sancta, quæcumque amabilia, quæcumque bonæ famæ, siqua virtus, siqua laus disciplinæ, hæc cogitate.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Quæ et didicistis, et accepistis, et audistis, et vidistis in me, hæc agite : et Deus pacis erit vobiscum.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Gavisus sum autem in Domino vehementer, quoniam tandem aliquando refloruistis pro me sentire, sicut et sentiebatis : occupati autem eratis.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Non quasi propter penuriam dico : ego enim didici, in quibus sum, sufficiens esse.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Scio et humiliari, scio et abundare (ubique et in omnibus institutus sum) : et satiari, et esurire, et abundare, et penuriam pati.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Omnia possum in eo qui me confortat.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Verumtamen bene fecistis, communicantes tribulationi meæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Scitis autem et vos Philippenses, quod in principio Evangelii, quando profectus sum a Macedonia, nulla mihi ecclesia communicavit in ratione dati et accepti, nisi vos soli :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "quia et Thessalonicam semel et bis in usum mihi misistis.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Non quia quæro datum, sed requiro fructum abundantem in ratione vestra.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Habeo autem omnia, et abundo : repletus sum, acceptis ab Epaphrodito quæ misistis odorem suavitatis, hostiam acceptam, placentem Deo.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Deus autem meus impleat omne desiderium vestrum secundum divitias suas in gloria in Christo Jesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Deo autem et Patri nostro gloria in sæcula sæculorum. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Salutate omnem sanctum in Christo Jesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Salutant vos, qui mecum sunt, fratres. Salutant vos omnes sancti, maxime autem qui de Cæsaris domo sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "book": "Petri II",
+  "abbreviation": "2Pet",
+  "number": 61,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Simon Petrus, servus et apostolus Jesu Christi, iis qui coæqualem nobiscum sortiti sunt fidem in justitia Dei nostri, et Salvatoris Jesu Christi.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Gratia vobis, et pax adimpleatur in cognitione Dei, et Christi Jesu Domini nostri :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Quomodo omnia nobis divinæ virtutis suæ, quæ ad vitam et pietatem donata sunt, per cognitionem ejus, qui vocavit nos propria gloria, et virtute,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "per quem maxima, et pretiosa nobis promissa donavit : ut per hæc efficiamini divinæ consortes naturæ : fugientes ejus, quæ in mundo est, concupiscentiæ corruptionem.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Vos autem curam omnem subinferentes, ministrate in fide vestra virtutem, in virtute autem scientiam,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "in scientia autem abstinentiam, in abstinentia autem patientiam, in patientia autem pietatem,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "in pietate autem amorem fraternitatis, in amore autem fraternitatis caritatem.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Hæc enim si vobiscum adsint, et superent, non vacuos nec sine fructu vos constituent in Domini nostri Jesu Christi cognitione.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Cui enim non præsto sunt hæc, cæcus est, et manu tentans, oblivionem accipiens purgationis veterum suorum delictorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Quapropter fratres, magis satagite ut per bona opera certam vestram vocationem, et electionem faciatis : hæc enim facientes, non peccabitis aliquando.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Sic enim abundanter ministrabitur vobis introitus in æternum regnum Domini nostri et Salvatoris Jesu Christi.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Propter quod incipiam vos semper commonere de his : et quidem scientes et confirmatos vos in præsenti veritate.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Justum autem arbitror quamdiu sum in hoc tabernaculo, suscitare vos in commonitione :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "certus quod velox est depositio tabernaculi mei secundum quod et Dominus noster Jesus Christus significavit mihi.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Dabo autem operam et frequenter habere vos post obitum meum, ut horum memoriam faciatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Non enim doctas fabulas secuti notam fecimus vobis Domini nostri Jesu Christi virtutem et præsentiam : sed speculatores facti illius magnitudinis.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Accipiens enim a Deo Patre honorem et gloriam, voce delapsa ad eum hujuscemodi a magnifica gloria : Hic est Filius meus dilectus, in quo mihi complacui, ipsum audite.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Et hanc vocem nos audivimus de cælo allatam, cum essemus cum ipso in monte sancto.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Et habemus firmiorem propheticum sermonem : cui benefacitis attendentes quasi lucernæ lucenti in caliginoso loco donec dies elucescat, et lucifer oriatur in cordibus vestris :",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "hoc primum intelligentes quod omnis prophetia Scripturæ propria interpretatione non fit.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Non enim voluntate humana allata est aliquando prophetia : sed Spiritu Sancto inspirati, locuti sunt sancti Dei homines.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fuerunt vero et pseudoprophetæ in populo, sicut et in vobis erunt magistri mendaces, qui introducent sectas perditionis : et eum qui emit eos, Dominum negant, superducentes sibi celerem perditionem.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et multi sequentur eorum luxurias, per quos via veritatis blasphemabitur :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et in avaritia fictis verbis de vobis negotiabuntur : quibus judicium jam olim non cessat : et perditio eorum non dormitat.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Si enim Deus angelis peccantibus non pepercit, sed rudentibus inferni detractos in tartarum tradidit cruciandos, in judicium reservari.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et originali mundo non pepercit, sed octavum Noë justitiæ præconem custodivit, diluvium mundo impiorum inducens.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et civitates Sodomorum et Gomorrhæorum in cinerem redigens, eversione damnavit : exemplum eorum, qui impie acturi sunt, ponens :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "et justum Lot oppressum a nefandorum injuria, ac luxuriosa conversatione eripuit :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "aspectu enim, et auditu justus erat : habitans apud eos, qui de die in diem animam justam iniquis operibus cruciabant.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Novit Dominus pios de tentatione eripere : iniquos vero in diem judicii reservare cruciandos.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Magis autem eos, qui post carnem in concupiscentia immunditiæ ambulant, dominationemque contemnunt, audaces, sibi placentes, sectas non metuunt introducere blasphemantes :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ubi angeli fortitudine, et virtute cum sint majores, non portant adversum se execrabile judicium.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hi vero velut irrationabilia pecora, naturaliter in captionem, et in perniciem in his quæ ignorant blasphemantes in corruptione sua peribunt,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "percipientes mercedem injustitiæ, voluptatem existimantes diei delicias : coinquinationes, et maculæ deliciis affluentes, in conviviis suis luxuriantes vobiscum,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "oculos habentes plenos adulterii, et incessabilis delicti. Pellicientes animas instabiles, cor exercitatum avaritia habentes, maledictionis filii :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "derelinquentes rectam viam erraverunt, secuti viam Balaam ex Bosor, qui mercedem iniquitatis amavit :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "correptionem vero habuit suæ vesaniæ : subjugale mutum animal, hominis voce loquens, prohibuit prophetæ insipientiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hi sunt fontes sine aqua, et nebulæ turbinibus exagitatæ, quibus caligo tenebrarum reservatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Superba enim vanitatis loquentes, pelliciunt in desideriis carnis luxuriæ eos, qui paululum effugiunt, qui in errore conversantur :",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "libertatem illis promittentes, cum ipsi servi sint corruptionem : a quo enim quis superatus est, hujus et servus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Si enim refugientes coinquinationes mundi in cognitione Domini nostri, et Salvatoris Jesu Christi, his rursus implicati superantur : facta sunt eis posteriora deteriora prioribus.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Melius enim erat illis non cognoscere viam justitiæ, quam post agnitionem, retrorsum converti ab eo, quod illis traditum est, sancto mandato.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Contigit enim eis illud veri proverbii : Canis reversus ad suum vomitum : et, Sus lota in volutabro luti.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hanc ecce vobis, carissimi, secundam scribo epistolam, in quibus vestram excito in commonitione sinceram mentem :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ut memores sitis eorum, quæ prædixi, verborum, a sanctis prophetis et apostolorum vestrorum, præceptorum Domini et Salvatoris.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hoc primum scientes, quod venient in novissimis diebus in deceptione illusores, juxta proprias concupiscentias ambulantes,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "dicentes : Ubi est promissio, aut adventus ejus ? ex quo enim patres dormierunt, omnia sic perseverant ab initio creaturæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Latet enim eos hoc volentes, quod cæli erant prius, et terra de aqua, et per aquam consistens Dei verbo :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "per quæ, ille tunc mundus aqua inundatus, periit.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Cæli autem, qui nunc sunt, et terra eodem verbo repositi sunt, igni reservati in diem judicii, et perditionis impiorum hominum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Unum vero hoc non lateat vos, carissimi, quia unus dies apud Dominum sicut mille anni, et mille anni sicut dies unus.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Non tardat Dominus promissionem suam, sicut quidam existimant : sed patienter agit propter vos, nolens aliquos perire, sed omnes ad pœnitentiam reverti.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Adveniet autem dies Domini ut fur : in quo cæli magno impetu transient, elementa vero calore solventur, terra autem et quæ in ipsa sunt opera, exurentur.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Cum igitur hæc omnia dissolvenda sunt, quales oportet vos esse in sanctis conversationibus, et pietatibus,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "exspectantes, et properantes in adventum diei Domini, per quem cæli ardentes solventur, et elementa ignis ardore tabescent ?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Novos vero cælos, et novam terram secundum promissa ipsius exspectamus, in quibus justitia habitat.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Propter quod, carissimi, hæc exspectantes, satagite immaculati, et inviolati ei inveniri in pace :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "et Domini nostri longanimitatem, salutem arbitremini : sicut et carissimus frater noster Paulus secundum datam sibi sapientiam scripsit vobis,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "sicut et omnibus epistolis, loquens in eis de his in quibus sunt quædam difficilia intellectu, quæ indocti et instabiles depravant, sicut et ceteras Scripturas, ad suam ipsorum perditionem.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Vos igitur fratres, præscientes custodite, ne insipientium errore traducti excidatis a propria firmitate :",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "crescite vero in gratia, et in cognitione Domini nostri, et Salvatoris Jesu Christi. Ipsi gloria et nunc, et in diem æternitatis. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

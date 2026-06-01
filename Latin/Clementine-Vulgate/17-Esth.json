@@ -1,0 +1,1770 @@
+{
+  "book": "Esther",
+  "abbreviation": "Esth",
+  "number": 17,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "In diebus Assueri, qui regnavit ab India usque Æthiopiam super centum viginti septem provincias,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "quando sedit in solio regni sui, Susan civitas regni ejus exordium fuit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Tertio igitur anno imperii sui fecit grande convivium cunctis principibus et pueris suis, fortissimis Persarum, et Medorum inclytis, et præfectis provinciarum coram se,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ut ostenderet divitias gloriæ regni sui, ac magnitudinem atque jactantiam potentiæ suæ, multo tempore, centum videlicet et octoginta diebus.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Cumque implerentur dies convivii, invitavit omnem populum, qui inventus est in Susan, a maximo usque ad minimum : et jussit septem diebus convivium præparari in vestibulo horti, et nemoris quod regio cultu et manu consitum erat.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et pendebant ex omni parte tentoria ærii coloris et carbasini ac hyacinthini, sustentata funibus byssinis atque purpureis, qui eburneis circulis inserti erant, et columnis marmoreis fulciebantur. Lectuli quoque aurei et argentei, super pavimentum smaragdino et pario stratum lapide, dispositi erant : quod mira varietate pictura decorabat.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Bibebant autem qui invitati erant aureis poculis, et aliis atque aliis vasis cibi inferebantur. Vinum quoque, ut magnificentia regia dignum erat, abundans, et præcipuum ponebatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat, præponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Itaque die septimo, cum rex esset hilarior, et post nimiam potationem incaluisset mero, præcepit Maumam, et Bazatha, et Harbona, et Bagatha, et Abgatha, et Zethar, et Charchas, septem eunuchis qui in conspectu ejus ministrabant,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ut introducerent reginam Vasthi coram rege, posito super caput ejus diademate, ut ostenderet cunctis populis et principibus pulchritudinem illius : erat enim pulchra valde.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Quæ renuit, et ad regis imperium quod per eunuchos mandaverat, venire contempsit. Unde iratus rex, et nimio furore succensus,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "interrogavit sapientes, qui ex more regio semper ei aderant, et illorum faciebat cuncta consilio, scientium leges, ac jura majorum",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "(erant autem primi et proximi, Charsena, et Sethar, et Admatha, et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum, atque Medorum, qui videbant faciem regis, et primi post eum residere soliti erant) :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "cui sententiæ Vasthi regina subjaceret, quæ Assueri regis imperium, quod per eunuchos mandaverat, facere noluisset.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Responditque Mamuchan, audiente rege atque principibus : Non solum regem læsit regina Vasthi, sed et omnes populos et principes qui sunt in cunctis provinciis regis Assueri.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Egredietur enim sermo reginæ ad omnes mulieres, ut contemnant viros suos, et dicant : Rex Assuerus jussit ut regina Vasthi intraret ad eum, et illa noluit.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Atque hoc exemplo omnes principum conjuges Persarum atque Medorum parvipendent imperia maritorum : unde regis justa est indignatio.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Si tibi placet, egrediatur edictum a facie tua, et scribatur juxta legem Persarum atque Medorum, quam præteriri illicitum est, ut nequaquam ultra Vasthi ingrediatur ad regem, sed regnum illius altera, quæ melior est illa, accipiat.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Et hoc in omne (quod latissimum est) provinciarum tuarum divulgetur imperium, et cunctæ uxores, tam majorum quam minorum, deferant maritis suis honorem.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Placuit consilium ejus regi et principibus : fecitque rex juxta consilium Mamuchan,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac majores in domibus suis : et hoc per cunctos populos divulgari.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "His ita gestis, postquam regis Assueri indignatio deferbuerat, recordatus est Vasthi, et quæ fecisset, vel quæ passa esset :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "dixeruntque pueri regis ac ministri ejus : Quærantur regi puellæ virgines ac speciosæ,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et mittantur qui considerent per universas provincias puellas speciosas et virgines : et adducant eas ad civitatem Susan, et tradant eas in domum feminarum sub manu Egei eunuchi, qui est præpositus et custos mulierum regiarum : et accipiant mundum muliebrem, et cetera ad usus necessaria.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et quæcumque inter omnes oculis regis placuerit, ipsa regnet pro Vasthi. Placuit sermo regi : et ita, ut suggesserant, jussit fieri.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Erat vir Judæus in Susan civitate, vocabulo Mardochæus filius Jair, filii Semei, filii Cis, de stirpe Jemini,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "qui translatus fuerat de Jerusalem eo tempore quo Jechoniam regem Juda Nabuchodonosor rex Babylonis transtulerat,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "qui fuit nutritius filiæ fratris sui Edissæ, quæ altero nomine vocabatur Esther, et utrumque parentem amiserat : pulchra nimis, et decora facie. Mortuisque patre ejus ac matre, Mardochæus sibi eam adoptavit in filiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Cumque percrebruisset regis imperium, et juxta mandatum illius multæ pulchræ virgines adducerentur Susan, et Egeo traderentur eunucho, Esther quoque inter ceteras puellas ei tradita est, ut servaretur in numero feminarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Quæ placuit ei, et invenit gratiam in conspectu illius. Et præcepit eunucho, ut acceleraret mundum muliebrem, et traderet ei partes suas, et septem puellas speciosissimas de domo regis, et tam ipsam quam pedissequas ejus ornaret atque excoleret.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Quæ noluit indicare ei populum et patriam suam : Mardochæus enim præceperat ei, ut de hac re omnino reticeret :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "qui deambulabat quotidie ante vestibulum domus, in qua electæ virgines servabantur, curam agens salutis Esther, et scire volens quid ei accideret.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Cum autem venisset tempus singularum per ordinem puellarum ut intrarent ad regem, expletis omnibus quæ ad cultum muliebrem pertinebant, mensis duodecimus vertebatur : ita dumtaxat, ut sex mensibus oleo ungerentur myrrhino, et aliis sex quibusdam pigmentis et aromatibus uterentur.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ingredientesque ad regem, quidquid postulassent ad ornatum pertinens, accipiebant : et ut eis placuerat, compositæ de triclinio feminarum ad regis cubiculum transibant.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Et quæ intraverat vespere, egrediebatur mane, atque inde in secundas ædes deducebatur, quæ sub manu Susagazi eunuchi erant, qui concubinis regis præsidebat : nec habebat potestatem ad regem ultra redeundi, nisi voluisset rex, et eam venire jussisset ex nomine.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Evoluto autem tempore per ordinem, instabat dies quo Esther filia Abihail fratris Mardochæi, quam sibi adoptaverat in filiam, deberet intrare ad regem. Quæ non quæsivit muliebrem cultum, sed quæcumque voluit Egeus eunuchus custos virginum, hæc ei ad ornatum dedit. Erat enim formosa valde, et incredibili pulchritudine : omnium oculis gratiosa et amabilis videbatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ducta est itaque ad cubiculum regis Assueri mense decimo, qui vocatur Tebeth, septimo anno regni ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Et adamavit eam rex plus quam omnes mulieres, habuitque gratiam et misericordiam coram eo super omnes mulieres : et posuit diadema regni in capite ejus, fecitque eam regnare in loco Vasthi.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Et jussit convivium præparari permagnificum cunctis principibus et servis suis pro conjunctione et nuptiis Esther. Et dedit requiem universis provinciis, ac dona largitus est juxta magnificentiam principalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Cumque secundo quærerentur virgines et congregarentur, Mardochæus manebat ad januam regis :",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "necdum prodiderat Esther patriam et populum suum, juxta mandatum ejus. Quidquid enim ille præcipiebat, observabat Esther : et ita cuncta faciebat ut eo tempore solita erat, quo eam parvulam nutriebat.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Eo igitur tempore, quo Mardochæus ad regis januam morabatur, irati sunt Bagathan et Thares duo eunuchi regis, qui janitores erant, et in primo palatii limine præsidebant : volueruntque insurgere in regem, et occidere eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Quod Mardochæum non latuit, statimque nuntiavit reginæ Esther : et illa regi ex nomine Mardochæi, qui ad se rem detulerat.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Quæsitum est, et inventum : et appensus est uterque eorum in patibulo. Mandatumque est historiis, et annalibus traditum coram rege.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Post hæc rex Assuerus exaltavit Aman filium Amadathi, qui erat de stirpe Agag : et posuit solium ejus super omnes principes quos habebat.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Cunctique servi regis, qui in foribus palatii versabantur, flectebant genua, et adorabant Aman : sic enim præceperat eis imperator : solus Mardochæus non flectebat genu, neque adorabat eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Cui dixerunt pueri regis, qui ad fores palatii præsidebant : Cur præter ceteros non observas mandatum regis ?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Cumque hoc crebrius dicerent, et ille nollet audire, nuntiaverunt Aman, scire cupientes utrum perseveraret in sententia : dixerat enim eis se esse Judæum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Quod cum audisset Aman, et experimento probasset quod Mardochæus non flecteret sibi genu, nec se adoraret, iratus est valde,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "et pro nihilo duxit in unum Mardochæum mittere manus suas : audierat enim quod esset gentis Judææ ; magisque voluit omnem Judæorum, qui erant in regno Assueri, perdere nationem.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mense primo (cujus vocabulum est Nisan), anno duodecimo regni Assueri, missa est sors in urnam, quæ hebraice dicitur phur, coram Aman, quo die et quo mense gens Judæorum deberet interfici : et exivit mensis duodecimus, qui vocatur Adar.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Dixitque Aman regi Assuero : Est populus per omnes provincias regni tui dispersus, et a se mutuo separatus, novis utens legibus et cæremoniis, insuper et regis scita contemnens : et optime nosti quod non expediat regno tuo ut insolescat per licentiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Si tibi placet, decerne, ut pereat, et decem millia talentorum appendam arcariis gazæ tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Tulit ergo rex annulum, quo utebatur, de manu sua, et dedit eum Aman filio Amadathi de progenie Agag, hosti Judæorum,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "dixitque ad eum : Argentum, quod tu polliceris, tuum sit ; de populo age quod tibi placet.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Vocatique sunt scribæ regis mense primo Nisan, tertiadecima die ejusdem mensis : et scriptum est, ut jusserat Aman, ad omnes satrapas regis, et judices provinciarum, diversarumque gentium, ut quæque gens legere poterat et audire pro varietate linguarum ex nomine regis Assueri : et litteræ signatæ ipsius annulo",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "missæ sunt per cursores regis ad universas provincias, ut occiderent atque delerent omnes Judæos, a puero usque ad senem, parvulos et mulieres, uno die, hoc est tertiodecimo mensis duodecimi, qui vocatur Adar ; et bona eorum diriperent.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Summa autem epistolarum hæc fuit, ut omnes provinciæ scirent, et pararent se ad prædictam diem.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Festinabant cursores, qui missi erant, regis imperium explere. Statimque in Susan pependit edictum, rege et Aman celebrante convivium, et cunctis Judæis, qui in urbe erant, flentibus.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Quæ cum audisset Mardochæus, scidit vestimenta sua, et indutus est sacco, spargens cinerem capiti : et in platea mediæ civitatis voce magna clamabat, ostendens amaritudinem animi sui,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "et hoc ejulatu usque ad fores palatii gradiens. Non enim erat licitum indutum sacco aulam regis intrare.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "In omnibus quoque provinciis, oppidis, ac locis, ad quæ crudele regis dogma pervenerat, planctus ingens erat apud Judæos, jejunium, ululatus, et fletus, sacco et cinere multis pro strato utentibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ingressæ autem sunt puellæ Esther et eunuchi, nuntiaveruntque ei. Quod audiens consternata est, et vestem misit, ut ablato sacco induerent eum : quam accipere noluit.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Accitoque Athach eunucho, quem rex ministrum ei dederat, præcepit ei ut iret ad Mardochæum, et disceret ab eo cur hoc faceret.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Egressusque Athach, ivit ad Mardochæum stantem in platea civitatis, ante ostium palatii :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "qui indicavit ei omnia quæ acciderant : quomodo Aman promisisset ut in thesauros regis pro Judæorum nece inferret argentum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Exemplar quoque edicti, quod pendebat in Susan, dedit ei, ut reginæ ostenderet, et moneret eam ut intraret ad regem et deprecaretur eum pro populo suo.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Regressus Athach, nuntiavit Esther omnia quæ Mardochæus dixerat.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Quæ respondit ei, et jussit ut diceret Mardochæo :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Omnes servi regis, et cunctæ, quæ sub ditione ejus sunt, norunt provinciæ, quod sive vir, sive mulier non vocatus, interius atrium regis intraverit, absque ulla cunctatione statim interficiatur : nisi forte rex auream virgam ad eum tetenderit pro signo clementiæ, atque ita possit vivere. Ego igitur quomodo ad regem intrare potero, quæ triginta jam diebus non sum vocata ad eum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Quod cum audisset Mardochæus,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "rursum mandavit Esther, dicens : Ne putes quod animam tuam tantum liberes, quia in domo regis es præ cunctis Judæis :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "si enim nunc silueris, per aliam occasionem liberabuntur Judæi : et tu, et domus patris tui, peribitis. Et quis novit utrum idcirco ad regnum veneris, ut in tali tempore parareris ?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Rursumque Esther hæc Mardochæo verba mandavit :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Vade, et congrega omnes Judæos quos in Susan repereris, et orate pro me. Non comedatis et non bibatis tribus diebus et tribus noctibus : et ego cum ancillis meis similiter jejunabo, et tunc ingrediar ad regem contra legem faciens, non vocata, tradensque me morti et periculo.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ivit itaque Mardochæus, et fecit omnia quæ ei Esther præceperat.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Die autem tertio induta est Esther regalibus vestimentis, et stetit in atrio domus regiæ, quod erat interius, contra basilicam regis : at ille sedebat super solium suum in consistorio palatii contra ostium domus.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Cumque vidisset Esther reginam stantem, placuit oculis ejus, et extendit contra eam virgam auream, quam tenebat manu : quæ accedens, osculata est summitatem virgæ ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Dixitque ad eam rex : Quid vis, Esther regina ? quæ est petitio tua ? etiam si dimidiam partem regni petieris, dabitur tibi.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "At illa respondit : Si regi placet, obsecro ut venias ad me hodie, et Aman tecum, ad convivium quod paravi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Statimque rex : Vocate, inquit, cito Aman ut Esther obediat voluntati. Venerunt itaque rex et Aman ad convivium, quod eis regina paraverat.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Dixitque ei rex, postquam vinum biberat abundanter : Quid petis ut detur tibi ? et pro qua re postulas ? etiam si dimidiam partem regni mei petieris, impetrabis.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Cui respondit Esther : Petitio mea, et preces sunt istæ :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "si inveni in conspectu regis gratiam, et si regi placet ut det mihi quod postulo, et meam impleat petitionem : veniat rex et Aman ad convivium quod paravi eis, et cras aperiam regi voluntatem meam.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Egressus est itaque illo die Aman lætus et alacer. Cumque vidisset Mardochæum sedentem ante fores palatii, et non solum non assurrexisse sibi, sed nec motum quidem de loco sessionis suæ, indignatus est valde :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et dissimulata ira reversus in domum suam, convocavit ad se amicos suos, et Zares uxorem suam,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et exposuit illis magnitudinem divitiarum suarum, filiorumque turbam, et quanta eum gloria super omnes principes et servos suos rex elevasset.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et post hæc ait : Regina quoque Esther nullum alium vocavit ad convivium cum rege præter me : apud quam etiam cras cum rege pransurus sum.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et cum hæc omnia habeam, nihil me habere puto, quamdiu videro Mardochæum Judæum sedentem ante fores regias.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Responderuntque ei Zares uxor ejus, et ceteri amici : Jube parari excelsam trabem, habentem altitudinis quinquaginta cubitos, et dic mane regi ut appendatur super eam Mardochæus, et sic ibis cum rege lætus ad convivium. Placuit ei consilium, et jussit excelsam parari crucem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Noctem illam duxit rex insomnem, jussitque sibi afferri historias et annales priorum temporum. Quæ cum illo præsente legerentur,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ventum est ad illum locum ubi scriptum erat quomodo nuntiasset Mardochæus insidias Bagathan et Thares eunuchorum, regem Assuerum jugulare cupientium.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Quod cum audisset rex, ait : Quid pro hac fide honoris ac præmii Mardochæus consecutus est ? Dixerunt ei servi illius ac ministri : Nihil omnino mercedis accepit.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Statimque rex : Quis est, inquit, in atrio ? Aman quippe interius atrium domus regiæ intraverat, ut suggereret regi, et juberet Mardochæum affigi patibulo, quod ei fuerat præparatum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Responderunt pueri : Aman stat in atrio. Dixitque rex : Ingrediatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Cumque esset ingressus, ait illi : Quid debet fieri viro, quem rex honorare desiderat ? Cogitans autem in corde suo Aman, et reputans quod nullum alium rex, nisi se, vellet honorare,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "respondit : Homo, quem rex honorare cupit,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "debet indui vestibus regiis, et imponi super equum, qui de sella regis est, et accipere regium diadema super caput suum :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "et primus de regiis principibus ac tyrannis teneat equum ejus, et per plateam civitatis incedens clamet, et dicat : Sic honorabitur, quemcumque voluerit rex honorare.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Dixitque ei rex : Festina, et sumpta stola et equo, fac, ut locutus es, Mardochæo Judæo, qui sedet ante fores palatii. Cave ne quidquam de his, quæ locutus es, prætermittas.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Tulit itaque Aman stolam et equum, indutumque Mardochæum in platea civitatis, et impositum equo præcedebat, atque clamabat : Hoc honore condignus est, quemcumque rex voluerit honorare.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Reversusque est Mardochæus ad januam palatii : et Aman festinavit ire in domum suam, lugens et operto capite :",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "narravitque Zares uxori suæ, et amicis, omnia quæ evenissent sibi. Cui responderunt sapientes quos habebat in consilio, et uxor ejus : Si de semine Judæorum est Mardochæus, ante quem cadere cœpisti, non poteris ei resistere, sed cades in conspectu ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Intravit itaque rex et Aman, ut biberent cum regina.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Dixitque ei rex etiam secunda die, postquam vino incaluerat : Quæ est petitio tua, Esther, ut detur tibi ? et quid vis fieri ? etiam si dimidiam partem regni mei petieris, impetrabis.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ad quem illa respondit : Si inveni gratiam in oculis tuis o rex, et si tibi placet, dona mihi animam meam pro qua rogo, et populum meum pro quo obsecro.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Traditi enim sumus ego et populus meus, ut conteramur, jugulemur, et pereamus. Atque utinam in servos et famulas venderemur : esset tolerabile malum, et gemens tacerem : nunc autem hostis noster est, cujus crudelitas redundat in regem.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Respondensque rex Assuerus, ait : Quis est iste, et cujus potentiæ, ut hæc audeat facere ?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Dixitque Esther : Hostis et inimicus noster pessimus iste est Aman. Quod ille audiens, illico obstupuit, vultum regis ac reginæ ferre non sustinens.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Rex autem iratus surrexit, et de loco convivii intravit in hortum arboribus consitum. Aman quoque surrexit ut rogaret Esther reginam pro anima sua : intellexit enim a rege sibi paratum malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Qui cum reversus esset de horto nemoribus consito, et intrasset convivii locum, reperit Aman super lectulum corruisse in quo jacebat Esther, et ait : Etiam reginam vult opprimere, me præsente, in domo mea. Necdum verbum de ore regis exierat, et statim operuerunt faciem ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Dixitque Harbona, unus de eunuchis, qui stabant in ministerio regis : En lignum quod paraverat Mardochæo, qui locutus est pro rege, stat in domo Aman, habens altitudinis quinquaginta cubitos. Cui dixit rex : Appendite eum in eo.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Suspensus est itaque Aman in patibulo quod paraverat Mardochæo : et regis ira quievit.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Die illo dedit rex Assuerus Esther reginæ domum Aman adversarii Judæorum, et Mardochæus ingressus est ante faciem regis. Confessa est enim ei Esther quod esset patruus suus.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Tulitque rex annulum, quem ab Aman recipi jusserat, et tradidit Mardochæo. Esther autem constituit Mardochæum super domum suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Nec his contenta, procidit ad pedes regis, flevitque, et locuta ad eum oravit ut malitiam Aman Agagitæ, et machinationes ejus pessimas quas excogitaverat contra Judæos, juberet irritas fieri.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "At ille ex more sceptrum aureum protendit manu, quo signum clementiæ monstrabatur : illaque consurgens stetit ante eum,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "et ait : Si placet regi, et si inveni gratiam in oculis ejus, et deprecatio mea non ei videtur esse contraria, obsecro ut novis epistolis, veteres Aman litteræ, insidiatoris et hostis Judæorum, quibus eos in cunctis regis provinciis perire præceperat, corrigantur.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Quomodo enim potero sustinere necem et interfectionem populi mei ?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Responditque rex Assuerus Esther reginæ, et Mardochæo Judæo : Domum Aman concessi Esther, et ipsum jussi affigi cruci, quia ausus est manum mittere in Judæos.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Scribite ergo Judæis, sicut vobis placet, regis nomine, signantes litteras annulo meo. Hæc enim consuetudo erat, ut epistolis, quæ ex regis nomine mittebantur et illius annulo signatæ erant, nemo auderet contradicere.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Accitisque scribis et librariis regis (erat autem tempus tertii mensis, qui appellatur Siban) vigesima et tertia die illius scriptæ sunt epistolæ, ut Mardochæus voluerat, ad Judæos, et ad principes, procuratoresque et judices, qui centum viginti septem provinciis ab India usque ad Æthiopiam præsidebant : provinciæ atque provinciæ, populo et populo juxta linguas et litteras suas, et Judæis, prout legere poterant et audire.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ipsæque epistolæ, quæ regis nomine mittebantur, annulo ipsius obsignatæ sunt, et missæ per veredarios : qui per omnes provincias discurrentes, veteres litteras novis nuntiis prævenirent.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Quibus imperavit rex, ut convenirent Judæos per singulas civitates, et in unum præciperent congregari ut starent pro animabus suis, et omnes inimicos suos cum conjugibus ac liberis et universis domibus, interficerent atque delerent, et spolia eorum diriperent.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et constituta est per omnes provincias una ultionis dies, id est tertiadecima mensis duodecimi Adar.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Summaque epistolæ hæc fuit, ut in omnibus terris ac populis qui regis Assueri subjacebant imperio, notum fieret paratos esse Judæos ad capiendam vindictam de hostibus suis.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Egressique sunt veredarii celeres nuntia perferentes, et edictum regis pependit in Susan.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Mardochæus autem de palatio et de conspectu regis egrediens, fulgebat vestibus regiis, hyacinthinis videlicet et æriis, coronam auream portans in capite, et amictus serico pallio atque purpureo. Omnisque civitas exultavit atque lætata est.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Judæis autem nova lux oriri visa est, gaudium, honor, et tripudium.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Apud omnes populos, urbes, atque provincias, quocumque regis jussa veniebant, mira exultatio, epulæ atque convivia, et festus dies : in tantum ut plures alterius gentis et sectæ eorum religioni et cæremoniis jungerentur. Grandis enim cunctos judaici nominis terror invaserat.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Igitur duodecimi mensis, quem Adar vocari ante jam diximus, tertiadecima die, quando cunctis Judæis interfectio parabatur, et hostes eorum inhiabant sanguini, versa vice Judæi superiores esse cœperunt, et se de adversariis vindicare.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Congregatique sunt per singulas civitates, oppida, et loca, ut extenderent manum contra inimicos, et persecutores suos. Nullusque ausus est resistere, eo quod omnes populos magnitudinis eorum formido penetrarat.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Nam et provinciarum judices, et duces, et procuratores, omnisque dignitas quæ singulis locis ac operibus præerat, extollebant Judæos timore Mardochæi,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "quem principem esse palatii, et plurimum posse cognoverant : fama quoque nominis ejus crescebat quotidie, et per cunctorum ora volitabat.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Itaque percusserunt Judæi inimicos suos plaga magna, et occiderunt eos, reddentes eis quod sibi paraverant facere :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "in tantum ut etiam in Susan quingentos viros interficerent, extra decem filios Aman Agagitæ hostis Judæorum : quorum ista sunt nomina :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Pharsandatha, et Delphon, et Esphatha,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "et Phoratha, et Adalia, et Aridatha,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "et Phermesta, et Arisai, et Aridai, et Jezatha.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Quos cum occidissent, prædas de substantiis eorum tangere noluerunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Statimque numerus eorum, qui occisi erant in Susan, ad regem relatus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Qui dixit reginæ : In urbe Susan interfecerunt Judæi quingentos viros, et alios decem filios Aman : quantam putas eos exercere cædem in universis provinciis ? quid ultra postulas, et quid vis ut fieri jubeam ?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Cui illa respondit : Si regi placet, detur potestas Judæis, ut sicut fecerunt hodie in Susan, sic et cras faciant, et decem filii Aman in patibulis suspendantur.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Præcepitque rex ut ita fieret. Statimque in Susan pependit edictum, et decem filii Aman suspensi sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Congregatis Judæis quartadecima die mensis Adar, interfecti sunt in Susan trecenti viri : nec eorum ab illis direpta substantia est.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sed et per omnes provincias quæ ditioni regis subjacebant, pro animabus suis steterunt Judæi, interfectis hostibus ac persecutoribus suis : in tantum ut septuaginta quinque millia occisorum implerentur, et nullus de substantiis eorum quidquam contingeret.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Dies autem tertiusdecimus mensis Adar primus apud omnes interfectionis fuit, et quartadecima die cædere desierunt. Quem constituerunt esse solemnem, ut in eo omni tempore deinceps vacarent epulis, gaudio, atque conviviis.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "At hi, qui in urbe Susan cædem exercuerant, tertiodecimo et quartodecimo die ejusdem mensis in cæde versati sunt : quintodecimo autem die percutere desierunt. Et idcirco eumdem diem constituerunt solemnem epularum atque lætitiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Hi vero Judæi, qui in oppidis non muratis ac villis morabantur, quartumdecimum diem mensis Adar conviviorum et gaudii decreverunt, ita ut exultent in eo, et mittant sibi mutuo partes epularum et ciborum.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Scripsit itaque Mardochæus omnia hæc, et litteris comprehensa misit ad Judæos qui in omnibus regis provinciis morabantur, tam in vicino positis, quam procul,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ut quartamdecimam et quintamdecimam diem mensis Adar pro festis susciperent, et revertente semper anno solemni celebrarent honore :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "quia in ipsis diebus se ulti sunt Judæi de inimicis suis, et luctus atque tristitia in hilaritatem gaudiumque conversa sunt, essentque dies isti epularum atque lætitiæ, et mitterent sibi invicem ciborum partes, et pauperibus munuscula largirentur.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Susceperuntque Judæi in solemnem ritum cuncta quæ eo tempore facere cœperant, et quæ Mardochæus litteris facienda mandaverat.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Aman enim, filius Amadathi stirpis Agag, hostis et adversarius Judæorum, cogitavit contra eos malum, ut occideret illos atque deleret : et misit phur, quod nostra lingua vertitur in sortem.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Et postea ingressa est Esther ad regem, obsecrans ut conatus ejus litteris regis irriti fierent, et malum quod contra Judæos cogitaverat, reverteretur in caput ejus. Denique et ipsum et filios ejus affixerunt cruci,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "atque ex illo tempore dies isti appellati sunt phurim, id est sortium : eo quod phur, id est sors, in urnam missa fuerit. Et cuncta quæ gesta sunt, epistolæ, id est, libri hujus volumine, continentur :",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "quæque sustinuerunt, et quæ deinceps immutata sunt, susceperunt Judæi super se et semen suum, et super cunctos qui religioni eorum voluerunt copulari, ut nulli liceat duos hos dies absque solemnitate transigere, quos scriptura testatur, et certa expetunt tempora, annis sibi jugiter succedentibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Isti sunt dies, quos nulla umquam delebit oblivio, et per singulas generationes cunctæ in toto orbe provinciæ celebrabunt : nec est ulla civitas, in qua dies phurim, id est sortium, non observentur a Judæis, et ab eorum progenie, quæ his cæremoniis obligata est.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Scripseruntque Esther regina filia Abihail, et Mardochæus Judæus, etiam secundam epistolam, ut omni studio dies ista solemnis sanciretur in posterum :",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "et miserunt ad omnes Judæos qui in centum viginti septem provinciis regis Assueri versabantur, ut haberent pacem, et susciperent veritatem,",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "observantes dies sortium, et suo tempore cum gaudio celebrarent : sicut constituerant Mardochæus et Esther, et illi observanda susceperunt a se, et a semine suo, jejunia, et clamores, et sortium dies,",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "et omnia quæ libri hujus, qui vocatur Esther, historia continentur.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Rex vero Assuerus omnem terram et cunctas maris insulas fecit tributarias :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "cujus fortitudo et imperium, et dignitas atque sublimitas, qua exaltavit Mardochæum, scripta sunt in libris Medorum, atque Persarum :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et quomodo Mardochæus judaici generis secundus a rege Assuero fuerit, et magnus apud Judæos, et acceptabilis plebi fratrum suorum, quærens bona populo suo, et loquens ea quæ ad pacem seminis sui pertinerent.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Dixitque Mardochæus : A Deo facta sunt ista.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Recordatus sum somnii quod videram, hæc eadem significantis : nec eorum quidquam irritum fuit.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Parvus fons, qui crevit in fluvium, et in lucem solemque conversus est, et in aquas plurimas redundavit : Esther est quam rex accepit uxorem, et voluit esse reginam.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Duo autem dracones : ego sum, et Aman.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Gentes, quæ convenerant : hi sunt, qui conati sunt delere nomen Judæorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Gens autem mea Israël est, quæ clamavit ad Dominum, et salvum fecit Dominus populum suum : liberavitque nos ab omnibus malis, et fecit signa magna atque portenta inter gentes :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et duas sortes esse præcepit, unam populi Dei, et alteram cunctarum gentium.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Venitque utraque sors in statutum ex illo jam tempore diem coram Deo universis gentibus :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "et recordatus est Dominus populi sui, ac misertus est hæreditatis suæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et observabuntur dies isti in mense Adar quartadecima et quintadecima die ejusdem mensis, cum omni studio et gaudio, in unum cœtum populi congregati, in cunctas deinceps generationes populi Israël.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Anno quarto regnantibus Ptolemæo et Cleopatra, attulerunt Dosithæus, qui se sacerdotem et Levitici generis ferebat, et Ptolemæus filius ejus, hanc epistolam phurim, quam dixerunt interpretatum esse Lysimachum Ptolemæi filium in Jerusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Anno secundo, regnante Artaxerxe maximo, prima die mensis Nisan, vidit somnium Mardochæus filius Jairi, filii Semei, filii Cis, de tribu Benjamin :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "homo Judæus, qui habitabat in urbe Susis, vir magnus, et inter primos aulæ regiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Erat autem de eo numero captivorum, quos transtulerat Nabuchodonosor rex Babylonis de Jerusalem cum Jechonia rege Juda.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et hoc ejus somnium fuit : apparuerunt voces, et tumultus, et tonitrua, et terræmotus, et conturbatio super terram :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "et ecce duo dracones magni, paratique contra se in prælium.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ad quorum clamorem cunctæ concitatæ sunt nationes, ut pugnarent contra gentem justorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Fuitque dies illa tenebrarum et discriminis, tribulationis et angustiæ, et ingens formido super terram.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Conturbataque est gens justorum timentium mala sua, et præparata ad mortem.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Clamaveruntque ad Deum : et illis vociferantibus, fons parvus creavit in fluvium maximum, et in aquas plurimas redundavit.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Lux et sol ortus est, et humiles exaltati sunt, et devoraverunt inclytos.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Quod cum vidisset Mardochæus, et surrexisset de strato, cogitabat quid Deus facere vellet : et fixum habebat in animo, scire cupiens quid significaret somnium.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Morabatur autem eo tempore in aula regis cum Bagatha et Thara eunuchis regis, qui janitores erant palatii.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Cumque intellexisset cogitationes eorum, et curas diligentius pervidisset, didicit quod conarentur in regem Artaxerxem manus mittere, et nuntiavit super eo regi.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Qui de utroque, habita quæstione, confessos jussit duci ad mortem.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Rex autem quod gestum erat, scripsit in commentariis : sed et Mardochæus rei memoriam litteris tradidit.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Præcepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Aman vero filius Amadathi Bugæus erat gloriosissimus coram rege, et voluit nocere Mardochæo et populo ejus pro duobus eunuchis regis qui fuerant interfecti. Et diripuerunt bona, vel substantias eorum. Epistolæ autem hoc exemplar fuit.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Rex maximus Artaxerxes ab India usque Æthiopiam, centum viginti septem provinciarum principibus et ducibus qui ejus imperio subjecti sunt, salutem.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Cum plurimis gentibus imperarem, et universum orbem meæ ditioni subjugassem, volui nequaquam abuti potentiæ magnitudine, sed clementia et lenitate gubernare subjectos, ut absque ullo terrore vitam silentio transigentes, optata cunctis mortalibus pace fruerentur.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Quærente autem me a consiliariis meis quomodo posset hoc impleri, unus qui sapientia et fide ceteros præcellebat, et erat post regem secundus, Aman nomine,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "indicavit mihi in toto orbe terrarum populum esse dispersum, qui novis uteretur legibus, et, contra omnium gentium consuetudinem faciens, regum jussa contemneret, et universarum concordiam nationum sua dissensione violaret.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Quod cum didicissemus, videntes unam gentem rebellem adversus omne hominum genus perversis uti legibus, nostrisque jussionibus contraire, et turbare subjectarum nobis provinciarum pacem atque concordiam,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "jussimus ut quoscumque Aman, qui omnibus provinciis præpositus est et secundus a rege, et quem patris loco colimus, monstraverit, cum conjugibus ac liberis deleantur ab inimicis suis, nullusque eorum misereatur, quartadecima die duodecimi mensis Adar anni præsentis :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant. Pergensque Mardochæus, fecit omnia quæ ei mandaverat Esther.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mardochæus autem deprecatus est Dominum, memor omnium operum ejus,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "et dixit : Domine, Domine rex omnipotens, in ditione enim tua cuncta sunt posita, et non est qui possit tuæ resistere voluntati, si decreveris salvare Israël.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Tu fecisti cælum et terram, et quidquid cæli ambitu continetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Dominus omnium es, nec est qui resistat majestati tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Cuncta nosti, et scis quia non pro superbia et contumelia, et aliqua gloriæ cupiditate, fecerim hoc, ut non adorarem Aman superbissimum",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "(libenter enim pro salute Israël etiam vestigia pedum ejus deosculari paratus essem),",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "sed timui ne honorem Dei mei transferrem ad hominem, et ne quemquam adorarem, excepto Deo meo.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et nunc, Domine rex, Deus Abraham, miserere populi tui, quia volunt nos inimici nostri perdere, et hæreditatem tuam delere.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ne despicias partem tuam, quam redemisti tibi de Ægypto.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Exaudi deprecationem meam, et propitius esto sorti et funiculo tuo, et converte luctum nostrum in gaudium, ut viventes laudemus nomen tuum, Domine : et ne claudas ora te canentium.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Omnis quoque Israël pari mente et obsecratione clamavit ad Dominum, eo quod eis certa mors impenderet.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Esther quoque regina confugit ad Dominum, pavens periculum quod imminebat.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Cumque deposuisset vestes regias, fletibus et luctui apta indumenta suscepit, et pro unguentis variis, cinere et stercore implevit caput, et corpus suum humiliavit jejuniis : omniaque loca, in quibus antea lætari consueverat, crinium laceratione complevit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et deprecabatur Dominum Deum Israël, dicens : Domine mi, qui rex noster es solus, adjuva me solitariam, et cujus præter te nullus est auxiliator alius.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Periculum meum in manibus meis est.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Audivi a patre meo quod tu, Domine, tulisses Israël de cunctis gentibus, et patres nostros ex omnibus retro majoribus suis, ut possideres hæreditatem sempiternam, fecistique eis sicut locutus es.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Peccavimus in conspectu tuo, et idcirco tradidisti nos in manus inimicorum nostrorum :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "coluimus enim deos eorum. Justus es Domine :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "et nunc non eis sufficit, quod durissima nos opprimunt servitute, sed robur manuum suarum, idolorum potentiæ deputantes,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "volunt tua mutare promissa, et delere hæreditatem tuam, et claudere ora laudantium te, atque extinguere gloriam templi et altaris tui,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ut aperiant ora gentium, et laudent idolorum fortitudinem, et prædicent carnalem regem in sempiternum.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ne tradas, Domine, sceptrum tuum his, qui non sunt, ne rideant ad ruinam nostram : sed converte consilium eorum super eos, et eum qui in nos cœpit sævire, disperde.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Memento, Domine, et ostende te nobis in tempore tribulationis nostræ, et da mihi fiduciam, Domine rex deorum, et universæ potestatis :",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "tribue sermonem compositum in ore meo in conspectu leonis, et transfer cor illius in odium hostis nostri, ut et ipse pereat, et ceteri qui ei consentiunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nos autem libera manu tua, et adjuva me, nullum aliud auxilium habentem nisi te, Domine, qui habes omnium scientiam,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "et nosti quia oderim gloriam iniquorum, et detester cubile incircumcisorum, et omnis alienigenæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Tu scis necessitatem meam, quod abominer signum superbiæ et gloriæ meæ, quod est super caput meum in diebus ostentationis meæ, et detester illud quasi pannum menstruatæ, et non portem in diebus silentii mei,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "et quod non comederim in mensa Aman, nec mihi placuerit convivium regis, et non biberim vinum libaminum :",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "et numquam lætata sit ancilla tua, ex quo huc translata sum usque in præsentem diem, nisi in te, Domine Deus Abraham.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Deus fortis super omnes, exaudi vocem eorum qui nullam aliam spem habent, et libera nos de manu iniquorum, et erue me a timore meo.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Et mandavit ei (haud dubium quin esset Mardochæus) ut ingrederetur ad regem, et rogaret pro populo suo et pro patria sua.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Memorare, inquit, dierum humilitatis tuæ, quomodo nutrita sis in manu mea, quia Aman secundus a rege locutus est contra nos in mortem :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et tu invoca Dominum, et loquere regi pro nobis, et libera nos de morte.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Die autem tertio deposuit vestimenta ornatus sui, et circumdata est gloria sua.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Cumque regio fulgeret habitu, et invocasset omnium rectorem et salvatorem Deum, assumpsit duas famulas,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "et super unam quidem innitebatur, quasi præ deliciis et nimia teneritudine corpus suum ferre non sustinens :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "altera autem famularum sequebatur dominam, defluentia in humum indumenta sustentans.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ipsa autem roseo colore vultum perfusa, et gratis ac nitentibus oculis, tristem celabat animum, et nimio timore contractum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ingressa igitur cuncta per ordinem ostia, stetit contra regem, ubi ille residebat super solium regni sui, indutus vestibus regiis, auroque fulgens, et pretiosis lapidibus : eratque terribilis aspectu.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Cumque elevasset faciem, et ardentibus oculis furorem pectoris indicasset, regina corruit, et in pallorem colore mutato, lassum super ancillulam reclinavit caput.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Convertitque Deus spiritum regis in mansuetudinem, et festinus ac metuens exilivit de solio, et sustentans eam ulnis suis donec rediret ad se, his verbis blandiebatur :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Quid habes, Esther ? ego sum frater tuus : noli metuere.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Non morieris : non enim pro te, sed pro omnibus hæc lex constituta est.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Accede igitur, et tange sceptrum.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Cumque illa reticeret, tulit auream virgam, et posuit super collum ejus, et osculatus est eam, et ait : Cur mihi non loqueris ?",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Quæ respondit : Vidi te, domine, quasi angelum Dei, et conturbatum est cor meum præ timore gloriæ tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Valde enim mirabilis es, domine, et facies tua plena est gratiarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Cumque loqueretur, rursus corruit, et pene exanimata est.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Rex autem turbabatur, et omnes ministri ejus consolabantur eam.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Rex magnus Artaxerxes ab India usque Æthiopiam, centum viginti septem provinciarum ducibus ac principibus qui nostræ jussioni obediunt, salutem dicit.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Multi bonitate principum et honore, qui in eos collatus est, abusi sunt in superbiam :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et non solum subjectos regibus nituntur opprimere, sed datam sibi gloriam non ferentes, in ipsos qui dederunt, moliuntur insidias.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nec contenti sunt gratias non agere beneficiis, et humanitatis in se jura violare, sed Dei quoque cuncta cernentis arbitrantur se posse fugere sententiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et in tantum vesaniæ proruperunt, ut eos qui credita sibi officia diligenter observant, et ita cuncta agunt ut omnium laude digni sint, mendaciorum cuniculis conentur subvertere,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "dum aures principum simplices, et ex sua natura alios æstimantes, callida fraude decipiunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Quæ res et ex veteribus probatur historiis, et ex his quæ geruntur quotidie, quomodo malis quorumdam suggestionibus regum studia depraventur.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Unde providendum est paci omnium provinciarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nec putare debetis, si diversa jubeamus, ex animi nostri venire levitate, sed pro qualitate et necessitate temporum, ut reipublicæ poscit utilitas, ferre sententiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et ut manifestius quod dicimus intelligatis, Aman filius Amadathi, et animo et gente Macedo, alienusque a Persarum sanguine, et pietatem nostram sua crudelitate commaculans, peregrinus a nobis susceptus est :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et tantam in se expertus humanitatem, ut pater noster vocaretur, et adoraretur ab omnibus post regem secundus :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "qui in tantum arrogantiæ tumorem sublatus est, ut regno privare nos niteretur et spiritu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nam Mardochæum, cujus fide et beneficiis vivimus, et consortem regni nostri Esther cum omni gente sua, novis quibusdam atque inauditis machinis expetivit in mortem :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "hoc cogitans ut illis interfectis, insidiaretur nostræ solitudini, et regnum Persarum transferret in Macedonas.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Nos autem a pessimo mortalium Judæos neci destinatos, in nulla penitus culpa reperimus, sed e contrario justis utentes legibus,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "et filios altissimi et maximi semperque viventis Dei, cujus beneficio et patribus nostris et nobis regnum est traditum, et usque hodie custoditur.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Unde eas litteras, quas sub nomine nostro ille direxerat, sciatis esse irritas.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Pro quo scelere ante portas hujus urbis, id est, Susan, et ipse qui machinatus est, et omnis cognatio ejus pendet in patibulis : non nobis, sed Deo reddente ei quod meruit.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Hoc autem edictum, quod nunc mittimus, in cunctis urbibus proponatur, ut liceat Judæis uti legibus suis.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Quibus debetis esse adminiculo, ut eos qui se ad necem eorum paraverant, possint interficere tertiadecima die mensis duodecimi, qui vocatur Adar.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Hanc enim diem, Deus omnipotens, mœroris et luctus, eis vertit in gaudium.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Unde et vos inter ceteros festos dies, hanc habetote diem, et celebrate eam cum omni lætitia, ut et in posterum cognoscatur,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "omnes qui fideliter Persis obediunt, dignam pro fide recipere mercedem ; qui autem insidiantur regno eorum, perire pro scelere.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Omnis autem provincia et civitas quæ noluerit solemnitatis hujus esse particeps, gladio et igne pereat, et sic deleatur, ut non solum hominibus, sed etiam bestiis invia sit in sempiternum, pro exemplo contemptus et inobedientiæ.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

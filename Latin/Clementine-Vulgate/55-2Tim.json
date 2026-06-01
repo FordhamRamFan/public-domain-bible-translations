@@ -1,0 +1,534 @@
+{
+  "book": "ad Timotheum II",
+  "abbreviation": "2Tim",
+  "number": 55,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulus Apostolus Jesu Christi per voluntatem Dei, secundum promissionem vitæ, quæ est in Christo Jesu,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Timotheo carissimo filio : gratia, misericordia, pax a Deo Patre, et Christo Jesu Domino nostro.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Gratias ago Deo, cui servio a progenitoribus in conscientia pura, quod sine intermissione habeam tui memoriam in orationibus meis, nocte ac die",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "desiderans te videre, memor lacrimarum tuarum, ut gaudio implear,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "recordationem accipiens ejus fidei, quæ est in te non ficta, quæ et habitavit primum in avia tua Loide, et matre tua Eunice, certus sum autem quod et in te.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Propter quam causam admoneo te ut resuscites gratiam Dei, quæ est in te per impositionem manuum mearum.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Non enim dedit nobis Deus spiritum timoris : sed virtutis, et dilectionis, et sobrietatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Noli itaque erubescere testimonium Domini nostri, neque me vinctum ejus : sed collabora Evangelio secundum virtutem Dei :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "qui nos liberavit, et vocavit vocatione sua sancta, non secundum opera nostra, sed secundum propositum suum, et gratiam, quæ data est nobis in Christo Jesu ante tempora sæcularia.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Manifestata est autem nunc per illuminationem Salvatoris nostri Jesu Christi, qui destruxit quidem mortem, illuminavit autem vitam, et incorruptionem per Evangelium :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "in quo positus sum ego prædicator, et Apostolus, et magister gentium.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ob quam causam etiam hæc patior, sed non confundor. Scio enim cui credidi, et certus sum quia potens est depositum meum servare in illum diem.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Formam habe sanorum verborum, quæ a me audisti in fide, et in dilectione in Christo Jesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Bonum depositum custodi per Spiritum Sanctum, qui habitat in nobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Scis hoc, quod aversi sunt a me omnes, qui in Asia sunt, ex quibus est Phigellus, et Hermogenes.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Det misericordiam Dominus Onesiphori domui : quia sæpe me refrigeravit, et catenam meam non erubuit :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "sed cum Romam venisset, sollicite me quæsivit, et invenit.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Det illi Dominus invenire misericordiam a Domino in illa die. Et quanta Ephesi ministravit mihi, tu melius nosti.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Tu ergo fili mi, confortare in gratia, quæ est in Christo Jesu :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "et quæ audisti a me per multos testes, hæc commenda fidelibus hominibus, qui idonei erant et alios docere.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Labora sicut bonus miles Christi Jesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nemo militans Deo implicat se negotiis sæcularibus : ut ei placeat, cui se probavit.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nam et qui certat in agone, non coronatur nisi legitime certaverit.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Laborantem agricolam oportet primum de fructibus percipere.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Intellige quæ dico : dabit enim tibi Dominus in omnibus intellectum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Memor esto Dominum Jesum Christum resurrexisse a mortuis ex semine David, secundum Evangelium meum,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "in quo laboro usque ad vincula, quasi male operans : sed verbum Dei non est alligatum.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ideo omnia sustineo propter electos, ut et ipsi salutem consequantur, quæ est in Christo Jesu, cum gloria cælesti.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Fidelis sermo : nam si commortui sumus, et convivemus :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "si sustinebimus, et conregnabimus : si negaverimus, et ille negabit nos :",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "si non credimus, ille fidelis permanet, negare seipsum non potest.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Hæc commone, testificans coram Domino. Noli contendere verbis : ad nihil enim utile est, nisi ad subversionem audientium.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Sollicite cura teipsum probabilem exhibere Deo, operarium inconfusibilem, recte tractantem verbum veritatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Profana autem et vaniloquia devita : multum enim proficiunt ad impietatem :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "et sermo eorum ut cancer serpit : ex quibus est Hymenæus et Philetus,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "qui a veritate exciderunt, dicentes resurrectionem esse jam factam, et subverterunt quorumdam fidem.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Sed firmum fundamentum Dei stat, habens signaculum hoc : cognovit Dominus qui sunt ejus, et discedat ab iniquitate omnis qui nominat nomen Domini.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "In magna autem domo non solum sunt vasa aurea, et argentea, sed et lignea, et fictilia : et quædam quidem in honorem, quædam autem in contumeliam.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Si quis ergo emundaverit se ab istis, erit vas in honorem sanctificatum, et utile Domino ad omne opus bonum paratum.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Juvenilia autem desideria fuge, sectare vero justitiam, fidem, spem, caritatem, et pacem cum iis qui invocant Dominum de corde puro.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Stultas autem et sine disciplina quæstiones devita : sciens quia generant lites.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Servum autem Domini non oportet litigare : sed mansuetum esse ad omnes, docibilem, patientem,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "cum modestia corripientem eos qui resistunt veritati, nequando Deus det illis pœnitentiam ad cognoscendam veritatem,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "et resipiscant a diaboli laqueis, a quo captivi tenentur ad ipsius voluntatem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hoc autem scito, quod in novissimis diebus instabunt tempora periculosa :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "erunt homines seipsos amantes, cupidi, elati, superbi, blasphemi, parentibus non obedientes, ingrati, scelesti,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "sine affectione, sine pace, criminatores, incontinentes, immites, sine benignitate,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "proditores, protervi, tumidi, et voluptatum amatores magis quam Dei :",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "habentes speciem quidem pietatis, virtutem autem ejus abnegantes. Et hos devita :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ex his enim sunt qui penetrant domos, et captivas ducunt mulierculas oneratas peccatis, quæ ducuntur variis desideriis :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "semper discentes, et numquam ad scientiam veritatis pervenientes.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Quemadmodum autem Jannes et Mambres restiterunt Moysi : ita et hi resistunt veritati, homines corrupti mente, reprobi circa fidem ;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "sed ultra non proficient : insipientia enim eorum manifesta erit omnibus, sicut et illorum fuit.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Tu autem assecutus es meam doctrinam, institutionem, propositum, fidem, longanimitatem, dilectionem, patientiam,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "persecutiones, passiones : qualia mihi facta sunt Antiochiæ, Iconii, et Lystris : quales persecutiones sustinui, et ex omnibus eripuit me Dominus.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et omnes, qui pie volunt vivere in Christo Jesu, persecutionem patientur.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mali autem homines et seductores proficient in pejus, errantes, et in errorem mittentes.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Tu vero permane in iis quæ didicisti, et credita sunt tibi : sciens a quo didiceris :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "et quia ab infantia sacras litteras nosti, quæ te possunt instruere ad salutem, per fidem quæ est in Christo Jesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Omnis Scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corripiendum, et erudiendum in justitia :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "ut perfectus sit homo Dei, ad omne opus bonum instructus.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Testificor coram Deo, et Jesu Christo, qui judicaturus est vivos et mortuos, per adventum ipsius, et regnum ejus :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "prædica verbum, insta opportune, importune : argue, obsecra, increpa in omni patientia, et doctrina.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Erit enim tempus, cum sanam doctrinam non sustinebunt, sed ad sua desideria coacervabunt sibi magistros, prurientes auribus,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "et a veritate quidem auditum avertent, ad fabulas autem convertentur.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Tu vero vigila, in omnibus labora, opus fac evangelistæ, ministerium tuum imple. Sobrius esto.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ego enim jam delibor, et tempus resolutionis meæ instat.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Bonum certamen certavi, cursum consummavi, fidem servavi.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "In reliquo reposita est mihi corona justitiæ, quam reddet mihi Dominus in illa die, justus judex : non solum autem mihi, sed et iis, qui diligunt adventum ejus. Festina ad me venire cito.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Demas enim me reliquit, diligens hoc sæculum, et abiit Thessalonicam :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Crescens in Galatiam, Titus in Dalmatiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Lucas est mecum solus. Marcum assume, et adduc tecum : est enim mihi utilis in ministerium.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Tychicum autem misi Ephesum.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Penulam, quam reliqui Troade apud Carpum, veniens affer tecum, et libros, maxime autem membranas.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Alexander ærarius multa mala mihi ostendit : reddet illi Dominus secundum opera ejus :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "quem et tu devita : valde enim restitit verbis nostris.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "In prima mea defensione nemo mihi affuit, sed omnes me dereliquerunt : non illis imputetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Dominus autem mihi astitit, et confortavit me, ut per me prædicatio impleatur, et audiant omnes gentes : et liberatus sum de ore leonis.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Liberavit me Dominus ab omni opere malo : et salvum faciet in regnum suum cæleste, cui gloria in sæcula sæculorum. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Saluta Priscam, et Aquilam, et Onesiphori domum.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Erastus remansit Corinthi. Trophimum autem reliqui infirmum Mileti.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Festina ante hiemem venire. Salutant te Eubulus, et Pudens, et Linus, et Claudia, et fratres omnes.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Dominus Jesus Christus cum spiritu tuo. Gratia vobiscum. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

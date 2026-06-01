@@ -1,0 +1,5715 @@
+{
+  "book": "Proverbia",
+  "abbreviation": "Prov",
+  "number": 20,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Parabolæ Salomonis, filii David, regis Israël,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ad sciendam sapientiam et disciplinam ;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ad intelligenda verba prudentiæ, et suscipiendam eruditionem doctrinæ, justitiam, et judicium, et æquitatem :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ut detur parvulis astutia, adolescenti scientia et intellectus.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Audiens sapiens, sapientior erit, et intelligens gubernacula possidebit.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Animadvertet parabolam et interpretationem, verba sapientum et ænigmata eorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Timor Domini principium sapientiæ ; sapientiam atque doctrinam stulti despiciunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Audi, fili mi, disciplinam patris tui, et ne dimittas legem matris tuæ :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ut addatur gratia capiti tuo, et torques collo tuo.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Fili mi, si te lactaverint peccatores, ne acquiescas eis.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Si dixerint : Veni nobiscum, insidiemur sanguini ; abscondamus tendiculas contra insontem frustra ;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "deglutiamus eum sicut infernus viventem, et integrum quasi descendentem in lacum ;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "omnem pretiosam substantiam reperiemus ; implebimus domos nostras spoliis :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "sortem mitte nobiscum, marsupium unum sit omnium nostrum :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "fili mi, ne ambules cum eis ; prohibe pedem tuum a semitis eorum :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "pedes enim illorum ad malum currunt, et festinant ut effundant sanguinem.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Frustra autem jacitur rete ante oculos pennatorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ipsi quoque contra sanguinem suum insidiantur, et moliuntur fraudes contra animas suas.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Sic semitæ omnis avari : animas possidentium rapiunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sapientia foris prædicat ; in plateis dat vocem suam :",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "in capite turbarum clamitat ; in foribus portarum urbis profert verba sua, dicens :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Usquequo, parvuli, diligitis infantiam, et stulti ea quæ sibi sunt noxia cupient, et imprudentes odibunt scientiam ?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "convertimini ad correptionem meam. En proferam vobis spiritum meum, et ostendam vobis verba mea.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Quia vocavi, et renuistis ; extendi manum meam, et non fuit qui aspiceret :",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "despexistis omne consilium meum, et increpationes meas neglexistis.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ego quoque in interitu vestro ridebo, et subsannabo cum vobis id quod timebatis advenerit.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Cum irruerit repentina calamitas, et interitus quasi tempestas ingruerit ; quando venerit super vos tribulatio et angustia :",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "tunc invocabunt me, et non exaudiam ; mane consurgent, et non invenient me :",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "eo quod exosam habuerint disciplinam, et timorem Domini non susceperint,",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "nec acquieverint consilio meo, et detraxerint universæ correptioni meæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Comedent igitur fructus viæ suæ, suisque consiliis saturabuntur.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Aversio parvulorum interficiet eos, et prosperitas stultorum perdet illos.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Qui autem me audierit, absque terrore requiescet, et abundantia perfruetur, timore malorum sublato.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fili mi, si susceperis sermones meos, et mandata mea absconderis penes te :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ut audiat sapientiam auris tua, inclina cor tuum ad cognoscendam prudentiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Si enim sapientiam invocaveris, et inclinaveris cor tuum prudentiæ ;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "si quæsieris eam quasi pecuniam, et sicut thesauros effoderis illam :",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "tunc intelliges timorem Domini, et scientiam Dei invenies,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "quia Dominus dat sapientiam, et ex ore ejus prudentia et scientia.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Custodiet rectorum salutem, et proteget gradientes simpliciter,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "servans semitas justitiæ, et vias sanctorum custodiens.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tunc intelliges justitiam, et judicium, et æquitatem, et omnem semitam bonam.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Si intraverit sapientia cor tuum, et scientia animæ tuæ placuerit,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "consilium custodiet te, et prudentia servabit te :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "ut eruaris a via mala, et ab homine qui perversa loquitur ;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "qui relinquunt iter rectum, et ambulant per vias tenebrosas ;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "qui lætantur cum malefecerint, et exsultant in rebus pessimis ;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "quorum viæ perversæ sunt, et infames gressus eorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ut eruaris a muliere aliena, et ab extranea quæ mollit sermones suos,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "et relinquit ducem pubertatis suæ,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "et pacti Dei sui oblita est. Inclinata est enim ad mortem domus ejus, et ad inferos semitæ ipsius.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Omnes qui ingrediuntur ad eam non revertentur, nec apprehendent semitas vitæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ut ambules in via bona, et calles justorum custodias :",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "qui enim recti sunt habitabunt in terra, et simplices permanebunt in ea ;",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "impii vero de terra perdentur, et qui inique agunt auferentur ex ea.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fili mi, ne obliviscaris legis meæ, et præcepta mea cor tuum custodiat :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "longitudinem enim dierum, et annos vitæ, et pacem, apponent tibi.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Misericordia et veritas te non deserant ; circumda eas gutturi tuo, et describe in tabulis cordis tui :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "et invenies gratiam, et disciplinam bonam, coram Deo et hominibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Habe fiduciam in Domino ex toto corde tuo, et ne innitaris prudentiæ tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "In omnibus viis tuis cogita illum, et ipse diriget gressus tuos.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ne sis sapiens apud temetipsum ; time Deum, et recede a malo :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "sanitas quippe erit umbilico tuo, et irrigatio ossium tuorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Honora Dominum de tua substantia, et de primitiis omnium frugum tuarum da ei :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et implebuntur horrea tua saturitate, et vino torcularia tua redundabunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Disciplinam Domini, fili mi, ne abjicias, nec deficias cum ab eo corriperis :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "quem enim diligit Dominus, corripit, et quasi pater in filio complacet sibi.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Beatus homo qui invenit sapientiam, et qui affluit prudentia.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Melior est acquisitio ejus negotiatione argenti, et auri primi et purissimi fructus ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Pretiosior est cunctis opibus, et omnia quæ desiderantur huic non valent comparari.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Longitudo dierum in dextera ejus, et in sinistra illius divitiæ et gloria.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Viæ ejus viæ pulchræ, et omnes semitæ illius pacificæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Lignum vitæ est his qui apprehenderint eam, et qui tenuerit eam beatus.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Dominus sapientia fundavit terram ; stabilivit cælos prudentia.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sapientia illius eruperunt abyssi, et nubes rore concrescunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Fili mi, ne effluant hæc ab oculis tuis. Custodi legem atque consilium,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "et erit vita animæ tuæ, et gratia faucibus tuis.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Tunc ambulabis fiducialiter in via tua, et pes tuus non impinget.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Si dormieris, non timebis ; quiesces, et suavis erit somnus tuus.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ne paveas repentino terrore, et irruentes tibi potentias impiorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Dominus enim erit in latere tuo, et custodiet pedem tuum, ne capiaris.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Noli prohibere benefacere eum qui potest : si vales, et ipse benefac.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ne dicas amico tuo : Vade, et revertere : cras dabo tibi : cum statim possis dare.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Ne moliaris amico tuo malum, cum ille in te habeat fiduciam.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Ne contendas adversus hominem frustra, cum ipse tibi nihil mali fecerit.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Ne æmuleris hominem injustum, nec imiteris vias ejus :",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "quia abominatio Domini est omnis illusor, et cum simplicibus sermocinatio ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Egestas a Domino in domo impii ; habitacula autem justorum benedicentur.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Ipse deludet illusores, et mansuetis dabit gratiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Gloriam sapientes possidebunt ; stultorum exaltatio ignominia.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Audite, filii, disciplinam patris, et attendite ut sciatis prudentiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Donum bonum tribuam vobis : legem meam ne derelinquatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Nam et ego filius fui patris mei, tenellus et unigenitus coram matre mea.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et docebat me, atque dicebat : Suscipiat verba mea cor tuum ; custodi præcepta mea, et vives.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Posside sapientiam, posside prudentiam : ne obliviscaris, neque declines a verbis oris mei.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ne dimittas eam, et custodiet te : dilige eam, et conservabit te.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Principium sapientiæ : posside sapientiam, et in omni possessione tua acquire prudentiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Arripe illam, et exaltabit te ; glorificaberis ab ea cum eam fueris amplexatus.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Dabit capiti tuo augmenta gratiarum, et corona inclyta proteget te.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Audi, fili mi, et suscipe verba mea, ut multiplicentur tibi anni vitæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Viam sapientiæ monstrabo tibi ; ducam te per semitas æquitatis :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "quas cum ingressus fueris, non arctabuntur gressus tui, et currens non habebis offendiculum.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tene disciplinam, ne dimittas eam ; custodi illam, quia ipsa est vita tua.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ne delecteris in semitis impiorum, nec tibi placeat malorum via.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Fuge ab ea, nec transeas per illam ; declina, et desere eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Non enim dormiunt nisi malefecerint, et rapitur somnus ab eis nisi supplantaverint.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Comedunt panem impietatis, et vinum iniquitatis bibunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Justorum autem semita quasi lux splendens procedit, et crescit usque ad perfectam diem.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Via impiorum tenebrosa ; nesciunt ubi corruant.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Fili mi, ausculta sermones meos, et ad eloquia mea inclina aurem tuam.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ne recedant ab oculis tuis : custodi ea in medio cordis tui :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "vita enim sunt invenientibus ea, et universæ carni sanitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Omni custodia serva cor tuum, quia ex ipso vita procedit.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Remove a te os pravum, et detrahentia labia sint procul a te.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Oculi tui recta videant, et palpebræ tuæ præcedant gressus tuos.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Dirige semitam pedibus tuis, et omnes viæ tuæ stabilientur.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Ne declines ad dexteram neque ad sinistram ; averte pedem tuum a malo : vias enim quæ a dextris sunt novit Dominus : perversæ vero sunt quæ a sinistris sunt. Ipse autem rectos faciet cursus tuos, itinera autem tua in pace producet.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fili mi, attende ad sapientiam meam, et prudentiæ meæ inclina aurem tuam :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ut custodias cogitationes, et disciplinam labia tua conservent. Ne attendas fallaciæ mulieris ;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "favus enim distillans labia meretricis, et nitidius oleo guttur ejus :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "novissima autem illius amara quasi absinthium, et acuta quasi gladius biceps.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Pedes ejus descendunt in mortem, et ad inferos gressus illius penetrant.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Per semitam vitæ non ambulant ; vagi sunt gressus ejus et investigabiles.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Nunc ergo fili mi, audi me, et ne recedas a verbis oris mei.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Longe fac ab ea viam tuam, et ne appropinques foribus domus ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ne des alienis honorem tuum, et annos tuos crudeli :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ne forte implentur extranei viribus tuis, et labores tui sint in domo aliena,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et gemas in novissimis, quando consumpseris carnes tuas et corpus tuum, et dicas :",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Cur detestatus sum disciplinam, et increpationibus non acquievit cor meum,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "nec audivi vocem docentium me, et magistris non inclinavi aurem meam ?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "pene fui in omni malo, in medio ecclesiæ et synagogæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Bibe aquam de cisterna tua, et fluenta putei tui ;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "deriventur fontes tui foras, et in plateis aquas tuas divide.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Habeto eas solus, nec sint alieni participes tui.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sit vena tua benedicta, et lætare cum muliere adolescentiæ tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Cerva carissima, et gratissimus hinnulus : ubera ejus inebrient te in omni tempore ; in amore ejus delectare jugiter.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Quare seduceris, fili mi, ab aliena, et foveris in sinu alterius ?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Respicit Dominus vias hominis, et omnes gressus ejus considerat.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Iniquitates suas capiunt impium, et funibus peccatorum suorum constringitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ipse morietur, quia non habuit disciplinam, et in multitudine stultitiæ suæ decipietur.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fili mi, si spoponderis pro amico tuo, defixisti apud extraneum manum tuam :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "illaqueatus es verbis oris tui, et captus propriis sermonibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Fac ergo quod dico, fili mi, et temetipsum libera, quia incidisti in manum proximi tui. Discurre, festina, suscita amicum tuum.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ne dederis somnum oculis tuis, nec dormitent palpebræ tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Eruere quasi damula de manu, et quasi avis de manu aucupis.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Vade ad formicam, o piger, et considera vias ejus, et disce sapientiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Quæ cum non habeat ducem, nec præceptorem, nec principem,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "parat in æstate cibum sibi, et congregat in messe quod comedat.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Usquequo, piger, dormies ? quando consurges e somno tuo ?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Paululum dormies, paululum dormitabis, paululum conseres manus ut dormias ;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et veniet tibi quasi viator egestas, et pauperies quasi vir armatus. Si vero impiger fueris, veniet ut fons messis tua, et egestas longe fugiet a te.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Homo apostata, vir inutilis, graditur ore perverso ;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "annuit oculis, terit pede, digito loquitur,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "pravo corde machinatur malum, et omni tempore jurgia seminat.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Huic extemplo veniet perditio sua, et subito conteretur, nec habebit ultra medicinam.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sex sunt quæ odit Dominus, et septimum detestatur anima ejus :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "oculos sublimes, linguam mendacem, manus effundentes innoxium sanguinem,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "cor machinans cogitationes pessimas, pedes veloces ad currendum in malum,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "proferentem mendacia testem fallacem, et eum qui seminat inter fratres discordias.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Conserva, fili mi, præcepta patris tui, et ne dimittas legem matris tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Liga ea in corde tuo jugiter, et circumda gutturi tuo.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Cum ambulaveris, gradiantur tecum ; cum dormieris, custodiant te : et evigilans loquere cum eis.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Quia mandatum lucerna est, et lex lux, et via vitæ increpatio disciplinæ :",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ut custodiant te a muliere mala, et a blanda lingua extraneæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Non concupiscat pulchritudinem ejus cor tuum, nec capiaris nutibus illius :",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "pretium enim scorti vix est unius panis, mulier autem viri pretiosam animam capit.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Numquid potest homo abscondere ignem in sinu suo, ut vestimenta illius non ardeant ?",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "aut ambulare super prunas, ut non comburantur plantæ ejus ?",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "sic qui ingreditur ad mulierem proximi sui, non erit mundus cum tetigerit eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Non grandis est culpa cum quis furatus fuerit : furatur enim ut esurientem impleat animam ;",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "deprehensus quoque reddet septuplum, et omnem substantiam domus suæ tradet.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Qui autem adulter est, propter cordis inopiam perdet animam suam ;",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "turpitudinem et ignominiam congregat sibi, et opprobrium illius non delebitur :",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "quia zelus et furor viri non parcet in die vindictæ,",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "nec acquiescet cujusquam precibus, nec suscipiet pro redemptione dona plurima.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fili mi, custodi sermones meos, et præcepta mea reconde tibi. Fili,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "serva mandata mea, et vives ; et legem meam quasi pupillam oculi tui :",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "liga eam in digitis tuis, scribe illam in tabulis cordis tui.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Dic sapientiæ : Soror mea es, et prudentiam voca amicam tuam :",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "ut custodiant te a muliere extranea, et ab aliena quæ verba sua dulcia facit.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De fenestra enim domus meæ per cancellos prospexi,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "et video parvulos ; considero vecordem juvenem,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "qui transit per plateam juxta angulum et prope viam domus illius graditur :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "in obscuro, advesperascente die, in noctis tenebris et caligine.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et ecce occurrit illi mulier ornatu meretricio, præparata ad capiendas animas : garrula et vaga,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "quietis impatiens, nec valens in domo consistere pedibus suis ;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "nunc foris, nunc in plateis, nunc juxta angulos insidians.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Apprehensumque deosculatur juvenem, et procaci vultu blanditur, dicens :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Victimas pro salute vovi ; hodie reddidi vota mea :",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "idcirco egressa sum in occursum tuum, desiderans te videre, et reperi.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Intexui funibus lectulum meum ; stravi tapetibus pictis ex Ægypto :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "aspersi cubile meum myrrha, et aloë, et cinnamomo.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Veni, inebriemur uberibus, et fruamur cupitis amplexibus donec illucescat dies.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Non est enim vir in domo sua : abiit via longissima :",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "sacculum pecuniæ secum tulit ; in die plenæ lunæ reversurus est in domum suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Irretivit eum multis sermonibus, et blanditiis labiorum protraxit illum.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Statim eam sequitur quasi bos ductus ad victimam, et quasi agnus lasciviens, et ignorans quod ad vincula stultus trahatur :",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "donec transfigat sagitta jecur ejus, velut si avis festinet ad laqueum, et nescit quod de periculo animæ illius agitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Nunc ergo, fili mi, audi me, et attende verbis oris mei.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ne abstrahatur in viis illius mens tua, neque decipiaris semitis ejus ;",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "multos enim vulneratos dejecit, et fortissimi quique interfecti sunt ab ea.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Viæ inferi domus ejus, penetrantes in interiora mortis.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Numquid non sapientia clamitat, et prudentia dat vocem suam ?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "In summis excelsisque verticibus supra viam, in mediis semitis stans,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "juxta portas civitatis, in ipsis foribus loquitur, dicens :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "O viri, ad vos clamito, et vox mea ad filios hominum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Intelligite, parvuli, astutiam, et insipientes, animadvertite.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Audite, quoniam de rebus magnis locutura sum, et aperientur labia mea ut recta prædicent.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Veritatem meditabitur guttur meum, et labia mea detestabuntur impium.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Justi sunt omnes sermones mei : non est in eis pravum quid, neque perversum ;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "recti sunt intelligentibus, et æqui invenientibus scientiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Accipite disciplinam meam, et non pecuniam ; doctrinam magis quam aurum eligite :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "melior est enim sapientia cunctis pretiosissimis, et omne desiderabile ei non potest comparari.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ego sapientia, habito in consilio, et eruditis intersum cogitationibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Timor Domini odit malum : arrogantiam, et superbiam, et viam pravam, et os bilingue, detestor.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Meum est consilium et æquitas ; mea est prudentia, mea est fortitudo.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Per me reges regnant, et legum conditores justa decernunt ;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "per me principes imperant, et potentes decernunt justitiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ego diligentes me diligo, et qui mane vigilant ad me, invenient me.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mecum sunt divitiæ et gloria, opes superbæ et justitia.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Melior est enim fructus meus auro et lapide pretioso, et genimina mea argento electo.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "In viis justitiæ ambulo, in medio semitarum judicii :",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ut ditem diligentes me, et thesauros eorum repleam.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Dominus possedit me in initio viarum suarum antequam quidquam faceret a principio.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ab æterno ordinata sum, et ex antiquis antequam terra fieret.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Nondum erant abyssi, et ego jam concepta eram : necdum fontes aquarum eruperant,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "necdum montes gravi mole constiterant : ante colles ego parturiebar.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Adhuc terram non fecerat, et flumina, et cardines orbis terræ.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Quando præparabat cælos, aderam ; quando certa lege et gyro vallabat abyssos ;",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "quando æthera firmabat sursum, et librabat fontes aquarum ;",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "quando circumdabat mari terminum suum, et legem ponebat aquis, ne transirent fines suos ; quando appendebat fundamenta terræ :",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "cum eo eram, cuncta componens. Et delectabar per singulos dies, ludens coram eo omni tempore,",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ludens in orbe terrarum ; et deliciæ meæ esse cum filiis hominum.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Nunc ergo, filii, audite me : beati qui custodiunt vias meas.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Audite disciplinam, et estote sapientes, et nolite abjicere eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Beatus homo qui audit me, et qui vigilat ad fores meas quotidie, et observat ad postes ostii mei.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Qui me invenerit, inveniet vitam, et hauriet salutem a Domino.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Qui autem in me peccaverit, lædet animam suam ; omnes qui me oderunt diligunt mortem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Sapientia ædificavit sibi domum : excidit columnas septem.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Immolavit victimas suas, miscuit vinum, et proposuit mensam suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Misit ancillas suas ut vocarent ad arcem et ad mœnia civitatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Si quis est parvulus, veniat ad me. Et insipientibus locuta est :",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Venite, comedite panem meum, et bibite vinum quod miscui vobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Relinquite infantiam, et vivite, et ambulate per vias prudentiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Qui erudit derisorem, ipse injuriam sibi facit, et qui arguit impium, sibi maculam generat.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Noli arguere derisorem, ne oderit te : argue sapientem, et diliget te.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Da sapienti occasionem, et addetur ei sapientia ; doce justum, et festinabit accipere.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Principium sapientiæ timor Domini, et scientia sanctorum prudentia.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Per me enim multiplicabuntur dies tui, et addentur tibi anni vitæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Si sapiens fueris, tibimetipsi eris ; si autem illusor, solus portabis malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mulier stulta et clamosa, plenaque illecebris, et nihil omnino sciens,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "sedit in foribus domus suæ, super sellam in excelso urbis loco,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ut vocaret transeuntes per viam, et pergentes itinere suo :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Qui est parvulus declinet ad me. Et vecordi locuta est :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Aquæ furtivæ dulciores sunt, et panis absconditus suavior.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Et ignoravit quod ibi sint gigantes, et in profundis inferni convivæ ejus.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Filius sapiens lætificat patrem, filius vero stultus mœstitia est matris suæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Nil proderunt thesauri impietatis, justitia vero liberabit a morte.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Non affliget Dominus fame animam justi, et insidias impiorum subvertet.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Egestatem operata est manus remissa ; manus autem fortium divitias parat. Qui nititur mendaciis, hic pascit ventos ; idem autem ipse sequitur aves volantes.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Qui congregat in messe, filius sapiens est ; qui autem stertit æstate, filius confusionis.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Benedictio Domini super caput justi ; os autem impiorum operit iniquitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Memoria justi cum laudibus, et nomen impiorum putrescet.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Sapiens corde præcepta suscipit ; stultus cæditur labiis.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Qui ambulat simpliciter ambulat confidenter ; qui autem depravat vias suas manifestus erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Qui annuit oculo dabit dolorem ; et stultus labiis verberabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Vena vitæ os justi, et os impiorum operit iniquitatem.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Odium suscitat rixas, et universa delicta operit caritas.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "In labiis sapientis invenitur sapientia, et virga in dorso ejus qui indiget corde.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sapientes abscondunt scientiam ; os autem stulti confusioni proximum est.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Substantia divitis, urbs fortitudinis ejus ; pavor pauperum egestas eorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Opus justi ad vitam, fructus autem impii ad peccatum.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Via vitæ custodienti disciplinam ; qui autem increpationes relinquit, errat.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Abscondunt odium labia mendacia ; qui profert contumeliam, insipiens est.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "In multiloquio non deerit peccatum, qui autem moderatur labia sua prudentissimus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Argentum electum lingua justi ; cor autem impiorum pro nihilo.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Labia justi erudiunt plurimos ; qui autem indocti sunt in cordis egestate morientur.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Benedictio Domini divites facit, nec sociabitur eis afflictio.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Quasi per risum stultus operatur scelus, sapientia autem est viro prudentia.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Quod timet impius veniet super eum ; desiderium suum justus dabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Quasi tempestas transiens non erit impius ; justus autem quasi fundamentum sempiternum.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Sicut acetum dentibus, et fumus oculis, sic piger his qui miserunt eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Timor Domini apponet dies, et anni impiorum breviabuntur.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Exspectatio justorum lætitia, spes autem impiorum peribit.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Fortitudo simplicis via Domini, et pavor his qui operantur malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Justus in æternum non commovebitur, impii autem non habitabunt super terram.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Os justi parturiet sapientiam ; lingua pravorum peribit.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Labia justi considerant placita, et os impiorum perversa.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Statera dolosa abominatio est apud Dominum, et pondus æquum voluntas ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ubi fuerit superbia, ibi erit et contumelia ; ubi autem est humilitas, ibi et sapientia.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Simplicitas justorum diriget eos, et supplantatio perversorum vastabit illos.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Non proderunt divitiæ in die ultionis ; justitia autem liberabit a morte.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Justitia simplicis diriget viam ejus, et in impietate sua corruet impius.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Justitia rectorum liberabit eos, et in insidiis suis capientur iniqui.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mortuo homine impio, nulla erit ultra spes, et exspectatio sollicitorum peribit.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Justus de angustia liberatus est, et tradetur impius pro eo.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Simulator ore decipit amicum suum ; justi autem liberabuntur scientia.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "In bonis justorum exsultabit civitas, et in perditione impiorum erit laudatio.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Benedictione justorum exaltabitur civitas, et ore impiorum subvertetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Qui despicit amicum suum indigens corde est ; vir autem prudens tacebit.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Qui ambulat fraudulenter, revelat arcana ; qui autem fidelis est animi, celat amici commissum.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ubi non est gubernator, populus corruet ; salus autem, ubi multa consilia.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Affligetur malo qui fidem facit pro extraneo ; qui autem cavet laqueos securus erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mulier gratiosa inveniet gloriam, et robusti habebunt divitias.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Benefacit animæ suæ vir misericors ; qui autem crudelis est, etiam propinquos abjicit.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Impius facit opus instabile, seminanti autem justitiam merces fidelis.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Clementia præparat vitam, et sectatio malorum mortem.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Abominabile Domino cor pravum, et voluntas ejus in iis qui simpliciter ambulant.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Manus in manu non erit innocens malus ; semen autem justorum salvabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Circulus aureus in naribus suis, mulier pulchra et fatua.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Desiderium justorum omne bonum est ; præstolatio impiorum furor.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Alii dividunt propria, et ditiores fiunt ; alii rapiunt non sua, et semper in egestate sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Anima quæ benedicit impinguabitur, et qui inebriat, ipse quoque inebriabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Qui abscondit frumenta maledicetur in populis ; benedictio autem super caput vendentium.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Bene consurgit diluculo qui quærit bona ; qui autem investigator malorum est, opprimetur ab eis.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Qui confidit in divitiis suis corruet : justi autem quasi virens folium germinabunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Qui conturbat domum suam possidebit ventos, et qui stultus est serviet sapienti.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Fructus justi lignum vitæ, et qui suscipit animas sapiens est.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Si justus in terra recipit, quanto magis impius et peccator !",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Qui diligit disciplinam diligit scientiam ; qui autem odit increpationes insipiens est.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Qui bonus est hauriet gratiam a Domino ; qui autem confidit in cogitationibus suis impie agit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Non roborabitur homo ex impietate, et radix justorum non commovebitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mulier diligens corona est viro suo ; et putredo in ossibus ejus, quæ confusione res dignas gerit.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Cogitationes justorum judicia, et consilia impiorum fraudulenta.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Verba impiorum insidiantur sanguini ; os justorum liberabit eos.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Verte impios, et non erunt ; domus autem justorum permanebit.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Doctrina sua noscetur vir ; qui autem vanus et excors est patebit contemptui.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Melior est pauper et sufficiens sibi quam gloriosus et indigens pane.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Novit justus jumentorum suorum animas ; viscera autem impiorum crudelia.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Qui operatur terram suam satiabitur panibus ; qui autem sectatur otium stultissimus est. Qui suavis est in vini demorationibus, in suis munitionibus relinquit contumeliam.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Desiderium impii munimentum est pessimorum ; radix autem justorum proficiet.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Propter peccata labiorum ruina proximat malo ; effugiet autem justus de angustia.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "De fructu oris sui unusquisque replebitur bonis, et juxta opera manuum suarum retribuetur ei.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Via stulti recta in oculis ejus ; qui autem sapiens est audit consilia.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Fatuus statim indicat iram suam ; qui autem dissimulat injuriam callidus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Qui quod novit loquitur, index justitiæ est ; qui autem mentitur, testis est fraudulentus.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Est qui promittit, et quasi gladio pungitur conscientiæ : lingua autem sapientium sanitas est.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Labium veritatis firmum erit in perpetuum ; qui autem testis est repentinus, concinnat linguam mendacii.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Dolus in corde cogitantium mala ; qui autem pacis ineunt consilia, sequitur eos gaudium.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Non contristabit justum quidquid ei acciderit : impii autem replebuntur malo.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Abominatio est Domino labia mendacia ; qui autem fideliter agunt placent ei.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Homo versatus celat scientiam, et cor insipientium provocat stultitiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Manus fortium dominabitur ; quæ autem remissa est, tributis serviet.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Mœror in corde viri humiliabit illum, et sermone bono lætificabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Qui negligit damnum propter amicum, justus est ; iter autem impiorum decipiet eos.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Non inveniet fraudulentus lucrum, et substantia hominis erit auri pretium.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "In semita justitiæ vita ; iter autem devium ducit ad mortem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Filius sapiens doctrina patris ; qui autem illusor est non audit cum arguitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "De fructu oris sui homo satiabitur bonis : anima autem prævaricatorum iniqua.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Qui custodit os suum custodit animam suam ; qui autem inconsideratus est ad loquendum, sentiet mala.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Vult et non vult piger ; anima autem operantium impinguabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Verbum mendax justus detestabitur ; impius autem confundit, et confundetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Justitia custodit innocentis viam, impietas autem peccatorem supplantat.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Est quasi dives, cum nihil habeat, et est quasi pauper, cum in multis divitiis sit.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Redemptio animæ viri divitiæ suæ ; qui autem pauper est, increpationem non sustinet.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Lux justorum lætificat : lucerna autem impiorum extinguetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Inter superbos semper jurgia sunt ; qui autem agunt omnia cum consilio, reguntur sapientia.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Substantia festinata minuetur ; quæ autem paulatim colligitur manu, multiplicabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Spes quæ differtur affligit animam ; lignum vitæ desiderium veniens.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Qui detrahit alicui rei, ipse se in futurum obligat ; qui autem timet præceptum, in pace versabitur. Animæ dolosæ errant in peccatis : justi autem misericordes sunt, et miserantur.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Lex sapientis fons vitæ, ut declinet a ruina mortis.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Doctrina bona dabit gratiam ; in itinere contemptorum vorago.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Astutus omnia agit cum consilio ; qui autem fatuus est aperit stultitiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Nuntius impii cadet in malum ; legatus autem fidelis, sanitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Egestas et ignominia ei qui deserit disciplinam ; qui autem acquiescit arguenti glorificabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Desiderium si compleatur delectat animam ; detestantur stulti eos qui fugiunt mala.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Qui cum sapientibus graditur sapiens erit ; amicus stultorum similis efficietur.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Peccatores persequitur malum, et justis retribuentur bona.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Bonus reliquit hæredes filios et nepotes, et custoditur justo substantia peccatoris.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Multi cibi in novalibus patrum, et aliis congregantur absque judicio.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Qui parcit virgæ odit filium suum ; qui autem diligit illum instanter erudit.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Justus comedit et replet animam suam ; venter autem impiorum insaturabilis.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Sapiens mulier ædificat domum suam ; insipiens exstructam quoque manibus destruet.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ambulans recto itinere, et timens Deum, despicitur ab eo qui infami graditur via.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "In ore stulti virga superbiæ ; labia autem sapientium custodiunt eos.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ubi non sunt boves, præsepe vacuum est ; ubi autem plurimæ segetes, ibi manifesta est fortitudo bovis.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Testis fidelis non mentitur ; profert autem mendacium dolosus testis.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Quærit derisor sapientiam, et non invenit ; doctrina prudentium facilis.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Vade contra virum stultum, et nescit labia prudentiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Sapientia callidi est intelligere viam suam, et imprudentia stultorum errans.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Stultus illudet peccatum, et inter justos morabitur gratia.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Cor quod novit amaritudinem animæ suæ, in gaudio ejus non miscebitur extraneus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Domus impiorum delebitur : tabernacula vero justorum germinabunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Est via quæ videtur homini justa, novissima autem ejus deducunt ad mortem.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Risus dolore miscebitur, et extrema gaudii luctus occupat.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Viis suis replebitur stultus, et super eum erit vir bonus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Innocens credit omni verbo ; astutus considerat gressus suos. Filio doloso nihil erit boni ; servo autem sapienti prosperi erunt actus, et dirigetur via ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sapiens timet, et declinat a malo ; stultus transilit, et confidit.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Impatiens operabitur stultitiam, et vir versutus odiosus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Possidebunt parvuli stultitiam, et exspectabunt astuti scientiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Jacebunt mali ante bonos, et impii ante portas justorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Etiam proximo suo pauper odiosus erit : amici vero divitum multi.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Qui despicit proximum suum peccat ; qui autem miseretur pauperis beatus erit. Qui credit in Domino misericordiam diligit.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Errant qui operantur malum ; misericordia et veritas præparant bona.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "In omni opere erit abundantia ; ubi autem verba sunt plurima, ibi frequenter egestas.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Corona sapientium divitiæ eorum ; fatuitas stultorum imprudentia.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Liberat animas testis fidelis, et profert mendacia versipellis.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "In timore Domini fiducia fortitudinis, et filiis ejus erit spes.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Timor Domini fons vitæ, ut declinent a ruina mortis.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "In multitudine populi dignitas regis, et in paucitate plebis ignominia principis.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Qui patiens est multa gubernatur prudentia ; qui autem impatiens est exaltat stultitiam suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Vita carnium sanitas cordis ; putredo ossium invidia.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Qui calumniatur egentem exprobrat factori ejus ; honorat autem eum qui miseretur pauperis.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "In malitia sua expelletur impius : sperat autem justus in morte sua.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "In corde prudentis requiescit sapientia, et indoctos quosque erudiet.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Justitia elevat gentem ; miseros autem facit populos peccatum.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Acceptus est regi minister intelligens ; iracundiam ejus inutilis sustinebit.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Responsio mollis frangit iram ; sermo durus suscitat furorem.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Lingua sapientium ornat scientiam ; os fatuorum ebullit stultitiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "In omni loco, oculi Domini contemplantur bonos et malos.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Lingua placabilis lignum vitæ ; quæ autem immoderata est conteret spiritum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Stultus irridet disciplinam patris sui ; qui autem custodit increpationes astutior fiet. In abundanti justitia virtus maxima est : cogitationes autem impiorum eradicabuntur.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Domus justi plurima fortitudo, et in fructibus impii conturbatio.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Labia sapientium disseminabunt scientiam ; cor stultorum dissimile erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Victimæ impiorum abominabiles Domino ; vota justorum placabilia.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Abominatio est Domino via impii ; qui sequitur justitiam diligitur ab eo.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Doctrina mala deserenti viam vitæ ; qui increpationes odit, morietur.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Infernus et perditio coram Domino ; quanto magis corda filiorum hominum !",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Non amat pestilens eum qui se corripit, nec ad sapientes graditur.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Cor gaudens exhilarat faciem ; in mœrore animi dejicitur spiritus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Cor sapientis quærit doctrinam, et os stultorum pascitur imperitia.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Omnes dies pauperis, mali ; secura mens quasi juge convivium.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Melius est parum cum timore Domini, quam thesauri magni et insatiabiles.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Melius est vocari ad olera cum caritate, quam ad vitulum saginatum cum odio.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Vir iracundus provocat rixas ; qui patiens est mitigat suscitatas.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Iter pigrorum quasi sepes spinarum ; via justorum absque offendiculo.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Filius sapiens lætificat patrem, et stultus homo despicit matrem suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Stultitia gaudium stulto, et vir prudens dirigit gressus suos.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Dissipantur cogitationes ubi non est consilium ; ubi vero sunt plures consiliarii, confirmantur.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Lætatur homo in sententia oris sui, et sermo opportunus est optimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Semita vitæ super eruditum, ut declinet de inferno novissimo.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Domum superborum demolietur Dominus, et firmos faciet terminos viduæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Abominatio Domini cogitationes malæ, et purus sermo pulcherrimus firmabitur ab eo.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Conturbat domum suam qui sectatur avaritiam ; qui autem odit munera, vivet. Per misericordiam et fidem purgantur peccata : per timorem autem Domini declinat omnis a malo.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Mens justi meditatur obedientiam ; os impiorum redundat malis.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Longe est Dominus ab impiis, et orationes justorum exaudiet.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Lux oculorum lætificat animam ; fama bona impinguat ossa.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Auris quæ audit increpationes vitæ in medio sapientium commorabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Qui abjicit disciplinam despicit animam suam ; qui autem acquiescit increpationibus possessor est cordis.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Timor Domini disciplina sapientiæ, et gloriam præcedit humilitas.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hominis est animam præparare, et Domini gubernare linguam.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Omnes viæ hominis patent oculis ejus ; spirituum ponderator est Dominus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Revela Domino opera tua, et dirigentur cogitationes tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Universa propter semetipsum operatus est Dominus ; impium quoque ad diem malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Abominatio Domini est omnis arrogans ; etiamsi manus ad manum fuerit, non est innocens. Initium viæ bonæ facere justitiam ; accepta est autem apud Deum magis quam immolare hostias.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Misericordia et veritate redimitur iniquitas, et in timore Domini declinatur a malo.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Cum placuerint Domino viæ hominis, inimicos quoque ejus convertet ad pacem.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Melius est parum cum justitia quam multi fructus cum iniquitate.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Cor hominis disponit viam suam, sed Domini est dirigere gressus ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Divinatio in labiis regis ; in judicio non errabit os ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Pondus et statera judicia Domini sunt, et opera ejus omnes lapides sacculi.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Abominabiles regi qui agunt impie, quoniam justitia firmatur solium.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Voluntas regum labia justa ; qui recta loquitur diligetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Indignatio regis nuntii mortis, et vir sapiens placabit eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "In hilaritate vultus regis vita, et clementia ejus quasi imber serotinus.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Posside sapientiam, quia auro melior est, et acquire prudentiam, quia pretiosior est argento.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Semita justorum declinat mala ; custos animæ suæ servat viam suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Contritionem præcedit superbia, et ante ruinam exaltatur spiritus.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Melius est humiliari cum mitibus quam dividere spolia cum superbis.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Eruditus in verbo reperiet bona, et qui sperat in Domino beatus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Qui sapiens est corde appellabitur prudens, et qui dulcis eloquio majora percipiet.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Fons vitæ eruditio possidentis ; doctrina stultorum fatuitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Cor sapientis erudiet os ejus, et labiis ejus addet gratiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Favus mellis composita verba ; dulcedo animæ sanitas ossium.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Est via quæ videtur homini recta, et novissima ejus ducunt ad mortem.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Anima laborantis laborat sibi, quia compulit eum os suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Vir impius fodit malum, et in labiis ejus ignis ardescit.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Homo perversus suscitat lites, et verbosus separat principes.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Vir iniquus lactat amicum suum, et ducit eum per viam non bonam.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Qui attonitis oculis cogitat prava, mordens labia sua perficit malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Corona dignitatis senectus, quæ in viis justitiæ reperietur.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Melior est patiens viro forti, et qui dominatur animo suo expugnatore urbium.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Sortes mittuntur in sinum, sed a Domino temperantur.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Melior est buccella sicca cum gaudio quam domus plena victimis cum jurgio.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Servus sapiens dominabitur filiis stultis, et inter fratres hæreditatem dividet.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Sicut igne probatur argentum et aurum camino, ita corda probat Dominus.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Malus obedit linguæ iniquæ, et fallax obtemperat labiis mendacibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Qui despicit pauperem exprobrat factori ejus, et qui ruina lætatur alterius non erit impunitus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Corona senum filii filiorum, et gloria filiorum patres eorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Non decent stultum verba composita, nec principem labium mentiens.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Gemma gratissima exspectatio præstolantis ; quocumque se vertit, prudenter intelligit.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Qui celat delictum quærit amicitias ; qui altero sermone repetit, separat fœderatos.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Plus proficit correptio apud prudentem, quam centum plagæ apud stultum.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Semper jurgia quærit malus : angelus autem crudelis mittetur contra eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Expedit magis ursæ occurrere raptis fœtibus, quam fatuo confidenti in stultitia sua.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Qui reddit mala pro bonis, non recedet malum de domo ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Qui dimittit aquam caput est jurgiorum, et antequam patiatur contumeliam judicium deserit.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Qui justificat impium, et qui condemnat justum, abominabilis est uterque apud Deum.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Quid prodest stulto habere divitias, cum sapientiam emere non possit ? Qui altum facit domum suam quærit ruinam, et qui evitat discere incidet in mala.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Omni tempore diligit qui amicus est, et frater in angustiis comprobatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Stultus homo plaudet manibus, cum spoponderit pro amico suo.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Qui meditatur discordias diligit rixas, et qui exaltat ostium quærit ruinam.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Qui perversi cordis est non inveniet bonum, et qui vertit linguam incidet in malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Natus est stultus in ignominiam suam ; sed nec pater in fatuo lætabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Animus gaudens ætatem floridam facit ; spiritus tristis exsiccat ossa.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Munera de sinu impius accipit, ut pervertat semitas judicii.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "In facie prudentis lucet sapientia ; oculi stultorum in finibus terræ.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ira patris filius stultus, et dolor matris quæ genuit eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Non est bonum damnum inferre justo, nec percutere principem qui recta judicat.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Qui moderatur sermones suos doctus et prudens est, et pretiosi spiritus vir eruditus.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Stultus quoque, si tacuerit, sapiens reputabitur, et si compresserit labia sua, intelligens.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Occasiones quærit qui vult recedere ab amico : omni tempore erit exprobrabilis.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Non recipit stultus verba prudentiæ, nisi ea dixeris quæ versantur in corde ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Impius, cum in profundum venerit peccatorum, contemnit ; sed sequitur eum ignominia et opprobrium.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Aqua profunda verba ex ore viri, et torrens redundans fons sapientiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Accipere personam impii non est bonum, ut declines a veritate judicii.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Labia stulti miscent se rixis, et os ejus jurgia provocat.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Os stulti contritio ejus, et labia ipsius ruina animæ ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Verba bilinguis quasi simplicia, et ipsa perveniunt usque ad interiora ventris. Pigrum dejicit timor ; animæ autem effeminatorum esurient.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Qui mollis et dissolutus est in opere suo frater est sua opera dissipantis.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Turris fortissima nomen Domini ; ad ipsum currit justus, et exaltabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Substantia divitis urbs roboris ejus, et quasi murus validus circumdans eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Antequam conteratur, exaltatur cor hominis, et antequam glorificetur, humiliatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Qui prius respondet quam audiat, stultum se esse demonstrat, et confusione dignum.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Spiritus viri sustentat imbecillitatem suam ; spiritum vero ad irascendum facilem quis poterit sustinere ?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Cor prudens possidebit scientiam, et auris sapientium quærit doctrinam.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Donum hominis dilatat viam ejus, et ante principes spatium ei facit.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Justus prior est accusator sui : venit amicus ejus, et investigabit eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Contradictiones comprimit sors, et inter potentes quoque dijudicat.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Frater qui adjuvatur a fratre quasi civitas firma, et judicia quasi vectes urbium.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "De fructu oris viri replebitur venter ejus, et genimina labiorum ipsius saturabunt eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Mors et vita in manu linguæ ; qui diligunt eam comedent fructus ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Qui invenit mulierem bonam invenit bonum, et hauriet jucunditatem a Domino. Qui expellit mulierem bonam expellit bonum ; qui autem tenet adulteram stultus est et impius.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Cum obsecrationibus loquetur pauper, et dives effabitur rigide.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Vir amabilis ad societatem magis amicus erit quam frater.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Melior est pauper qui ambulat in simplicitate sua quam dives torquens labia sua, et insipiens.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ubi non est scientia animæ, non est bonum, et qui festinus est pedibus offendet.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Stultitia hominis supplantat gressus ejus, et contra Deum fervet animo suo.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Divitiæ addunt amicos plurimos ; a paupere autem et hi quos habuit separantur.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Testis falsus non erit impunitus, et qui mendacia loquitur non effugiet.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Multi colunt personam potentis, et amici sunt dona tribuentis.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Fratres hominis pauperis oderunt eum ; insuper et amici procul recesserunt ab eo. Qui tantum verba sectatur nihil habebit ;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "qui autem possessor est mentis diligit animam suam, et custos prudentiæ inveniet bona.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Falsus testis non erit impunitus, et qui loquitur mendacia peribit.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Non decent stultum deliciæ, nec servum dominari principibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Doctrina viri per patientiam noscitur, et gloria ejus est iniqua prætergredi.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sicut fremitus leonis, ita et regis ira, et sicut ros super herbam, ita et hilaritas ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Dolor patris filius stultus, et tecta jugiter perstillantia litigiosa mulier.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Domus et divitiæ dantur a parentibus ; a Domino autem proprie uxor prudens.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Pigredo immittit soporem, et anima dissoluta esuriet.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Qui custodit mandatum custodit animam suam ; qui autem negligit viam suam mortificabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Fœneratur Domino qui miseretur pauperis, et vicissitudinem suam reddet ei.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Erudi filium tuum ; ne desperes : ad interfectionem autem ejus ne ponas animam tuam.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Qui impatiens est sustinebit damnum, et cum rapuerit, aliud apponet.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Audi consilium, et suscipe disciplinam, ut sis sapiens in novissimis tuis.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Multæ cogitationes in corde viri ; voluntas autem Domini permanebit.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Homo indigens misericors est, et melior est pauper quam vir mendax.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Timor Domini ad vitam, et in plenitudine commorabitur absque visitatione pessima.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Abscondit piger manum suam sub ascella, nec ad os suum applicat eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Pestilente flagellato stultus sapientior erit ; si autem corripueris sapientem, intelliget disciplinam.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Qui affligit patrem, et fugat matrem, ignominiosus est et infelix.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Non cesses, fili, audire doctrinam, nec ignores sermones scientiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Testis iniquus deridet judicium, et os impiorum devorat iniquitatem.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Parata sunt derisoribus judicia, et mallei percutientes stultorum corporibus.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Luxuriosa res vinum, et tumultuosa ebrietas : quicumque his delectatur non erit sapiens.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Sicut rugitus leonis, ita et terror regis : qui provocat eum peccat in animam suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Honor est homini qui separat se a contentionibus ; omnes autem stulti miscentur contumeliis.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Propter frigus piger arare noluit ; mendicabit ergo æstate, et non dabitur illi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Sicut aqua profunda, sic consilium in corde viri ; sed homo sapiens exhauriet illud.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Multi homines misericordes vocantur ; virum autem fidelem quis inveniet ?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Justus qui ambulat in simplicitate sua beatos post se filios derelinquet.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Rex qui sedet in solio judicii dissipat omne malum intuitu suo.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Quis potest dicere : Mundum est cor meum ; purus sum a peccato ?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Pondus et pondus, mensura et mensura : utrumque abominabile est apud Deum.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ex studiis suis intelligitur puer, si munda et recta sint opera ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Aurem audientem, et oculum videntem : Dominus fecit utrumque.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Noli diligere somnum, ne te egestas opprimat : aperi oculos tuos, et saturare panibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Malum est, malum est, dicit omnis emptor ; et cum recesserit, tunc gloriabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Est aurum et multitudo gemmarum, et vas pretiosum labia scientiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Tolle vestimentum ejus qui fidejussor extitit alieni, et pro extraneis aufer pignus ab eo.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Suavis est homini panis mendacii, et postea implebitur os ejus calculo.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Cogitationes consiliis roborantur, et gubernaculis tractanda sunt bella.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ei qui revelat mysteria, et ambulat fraudulenter, et dilatat labia sua, ne commiscearis.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Qui maledicit patri suo et matri, extinguetur lucerna ejus in mediis tenebris :",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "hæreditas ad quam festinatur in principio, in novissimo benedictione carebit.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ne dicas : Reddam malum : exspecta Dominum, et liberabit te.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Abominatio est apud Dominum pondus et pondus ; statera dolosa non est bona.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "A Domino diriguntur gressus viri : quis autem hominum intelligere potest viam suam ?",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ruina est homini devorare sanctos, et post vota retractare.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Dissipat impios rex sapiens, et incurvat super eos fornicem.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Lucerna Domini spiraculum hominis, quæ investigat omnia secreta ventris.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Misericordia et veritas custodiunt regem, et roboratur clementia thronus ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Exsultatio juvenum fortitudo eorum, et dignitas senum canities.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Livor vulneris absterget mala, et plagæ in secretioribus ventris.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Sicut divisiones aquarum, ita cor regis in manu Domini : quocumque voluerit, inclinabit illud.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Omnis via viri recta sibi videtur : appendit autem corda Dominus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Facere misericordiam et judicium magis placet Domino quam victimæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Exaltatio oculorum est dilatatio cordis ; lucerna impiorum peccatum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Cogitationes robusti semper in abundantia ; omnis autem piger semper in egestate est.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Qui congregat thesauros lingua mendacii vanus et excors est, et impingetur ad laqueos mortis.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Rapinæ impiorum detrahent eos, quia noluerunt facere judicium.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Perversa via viri aliena est ; qui autem mundus est, rectum opus ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Melius est sedere in angulo domatis, quam cum muliere litigiosa, et in domo communi.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Anima impii desiderat malum : non miserebitur proximo suo.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mulctato pestilente, sapientior erit parvulus, et si sectetur sapientem, sumet scientiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Excogitat justus de domo impii, ut detrahat impios a malo.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Qui obturat aurem suam ad clamorem pauperis, et ipse clamabit, et non exaudietur.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Munus absconditum extinguit iras, et donum in sinu indignationem maximam.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Gaudium justo est facere judicium, et pavor operantibus iniquitatem.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Vir qui erraverit a via doctrinæ in cœtu gigantum commorabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Qui diligit epulas in egestate erit ; qui amat vinum et pinguia non ditabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Pro justo datur impius, et pro rectis iniquus.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Melius est habitare in terra deserta quam cum muliere rixosa et iracunda.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Thesaurus desiderabilis, et oleum in habitaculo justi : et imprudens homo dissipabit illud.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Qui sequitur justitiam et misericordiam inveniet vitam, justitiam, et gloriam.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Civitatem fortium ascendit sapiens, et destruxit robur fiduciæ ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Qui custodit os suum et linguam suam custodit ab angustiis animam suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Superbus et arrogans vocatur indoctus, qui in ira operatur superbiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Desideria occidunt pigrum : noluerunt enim quidquam manus ejus operari.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Tota die concupiscit et desiderat ; qui autem justus est, tribuet, et non cessabit.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Hostiæ impiorum abominabiles, quia offeruntur ex scelere.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Testis mendax peribit ; vir obediens loquetur victoriam.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Vir impius procaciter obfirmat vultum suum ; qui autem rectus est corrigit viam suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Non est sapientia, non est prudentia, non est consilium contra Dominum.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Equus paratur ad diem belli ; Dominus autem salutem tribuit.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Melius est nomen bonum quam divitiæ multæ ; super argentum et aurum gratia bona.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Dives et pauper obviaverunt sibi : utriusque operator est Dominus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Callidus vidit malum, et abscondit se ; innocens pertransiit, et afflictus est damno.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Finis modestiæ timor Domini, divitiæ, et gloria, et vita.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Arma et gladii in via perversi ; custos autem animæ suæ longe recedit ab eis.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Proverbium est : adolescens juxta viam suam ; etiam cum senuerit, non recedet ab ea.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Dives pauperibus imperat, et qui accipit mutuum servus est fœnerantis.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Qui seminat iniquitatem metet mala, et virga iræ suæ consummabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Qui pronus est ad misericordiam benedicetur : de panibus enim suis dedit pauperi. Victoriam et honorem acquiret qui dat munera ; animam autem aufert accipientium.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ejice derisorem, et exibit cum eo jurgium, cessabuntque causæ et contumeliæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Qui diligit cordis munditiam, propter gratiam labiorum suorum habebit amicum regem.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Oculi Domini custodiunt scientiam, et supplantantur verba iniqui.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Dicit piger : Leo est foris ; in medio platearum occidendus sum.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Fovea profunda os alienæ : cui iratus est Dominus, incidet in eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Stultitia colligata est in corde pueri, et virga disciplinæ fugabit eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Qui calumniatur pauperem ut augeat divitias suas, dabit ipse ditiori, et egebit.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Inclina aurem tuam, et audi verba sapientium : appone autem cor ad doctrinam meam,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "quæ pulchra erit tibi cum servaveris eam in ventre tuo, et redundabit in labiis tuis :",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ut sit in Domino fiducia tua, unde et ostendi eam tibi hodie.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ecce descripsi eam tibi tripliciter, in cogitationibus et scientia :",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ut ostenderem tibi firmitatem et eloquia veritatis, respondere ex his illis qui miserunt te.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Non facias violentiam pauperi quia pauper est, neque conteras egenum in porta :",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "quia judicabit Dominus causam ejus, et configet eos qui confixerunt animam ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Noli esse amicus homini iracundo, neque ambules cum viro furioso :",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "ne forte discas semitas ejus, et sumas scandalum animæ tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Noli esse cum his qui defigunt manus suas, et qui vades se offerunt pro debitis :",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "si enim non habes unde restituas, quid causæ est ut tollat operimentum de cubili tuo ?",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ne transgrediaris terminos antiquos, quos posuerunt patres tui.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Vidisti virum velocem in opere suo ? coram regibus stabit, nec erit ante ignobiles.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Quando sederis ut comedas cum principe, diligenter attende quæ apposita sunt ante faciem tuam.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et statue cultrum in gutture tuo : si tamen habes in potestate animam tuam.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ne desideres de cibis ejus, in quo est panis mendacii.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Noli laborare ut diteris, sed prudentiæ tuæ pone modum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ne erigas oculos tuos ad opes quas non potes habere, quia facient sibi pennas quasi aquilæ, et volabunt in cælum.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ne comedas cum homine invido, et ne desideres cibos ejus :",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "quoniam in similitudinem arioli et conjectoris æstimat quod ignorat. Comede et bibe, dicet tibi ; et mens ejus non est tecum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Cibos quos comederas evomes, et perdes pulchros sermones tuos.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "In auribus insipientium ne loquaris, qui despicient doctrinam eloquii tui.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ne attingas parvulorum terminos, et agrum pupillorum ne introëas :",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "propinquus enim illorum fortis est, et ipse judicabit contra te causam illorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ingrediatur ad doctrinam cor tuum, et aures tuæ ad verba scientiæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Noli subtrahere a puero disciplinam : si enim percusseris eum virga, non morietur.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Tu virga percuties eum, et animam ejus de inferno liberabis.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Fili mi, si sapiens fuerit animus tuus, gaudebit tecum cor meum :",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "et exsultabunt renes mei, cum locuta fuerint rectum labia tua.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Non æmuletur cor tuum peccatores, sed in timore Domini esto tota die :",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "quia habebis spem in novissimo, et præstolatio tua non auferetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Audi, fili mi, et esto sapiens, et dirige in via animum tuum.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Noli esse in conviviis potatorum, nec in comessationibus eorum qui carnes ad vescendum conferunt :",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "quia vacantes potibus et dantes symbola consumentur, et vestietur pannis dormitatio.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Audi patrem tuum, qui genuit te, et ne contemnas cum senuerit mater tua.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Veritatem eme, et noli vendere sapientiam, et doctrinam, et intelligentiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Exsultat gaudio pater justi ; qui sapientem genuit, lætabitur in eo.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Gaudeat pater tuus et mater tua, et exsultet quæ genuit te.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Præbe, fili mi, cor tuum mihi, et oculi tui vias meas custodiant.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Fovea enim profunda est meretrix, et puteus angustus aliena.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Insidiatur in via quasi latro, et quos incautos viderit, interficiet.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Cui væ ? cujus patri væ ? cui rixæ ? cui foveæ ? cui sine causa vulnera ? cui suffusio oculorum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "nonne his qui commorantur in vino, et student calicibus epotandis ?",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Ne intuearis vinum quando flavescit, cum splenduerit in vitro color ejus : ingreditur blande,",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "sed in novissimo mordebit ut coluber, et sicut regulus venena diffundet.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Oculi tui videbunt extraneas, et cor tuum loquetur perversa.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Et eris sicut dormiens in medio mari, et quasi sopitus gubernator, amisso clavo.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Et dices : Verberaverunt me, sed non dolui ; traxerunt me, et ego non sensi. Quando evigilabo, et rursus vina reperiam ?",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ne æmuleris viros malos, nec desideres esse cum eis :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "quia rapinas meditatur mens eorum, et fraudes labia eorum loquuntur.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Sapientia ædificabitur domus, et prudentia roborabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "In doctrina replebuntur cellaria, universa substantia pretiosa et pulcherrima.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Vir sapiens fortis est, et vir doctus robustus et validus :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "quia cum dispositione initur bellum, et erit salus ubi multa consilia sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Excelsa stulto sapientia ; in porta non aperiet os suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Qui cogitat mala facere stultus vocabitur :",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "cogitatio stulti peccatum est, et abominatio hominum detractor.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Si desperaveris lassus in die angustiæ, imminuetur fortitudo tua.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Erue eos qui ducuntur ad mortem, et qui trahuntur ad interitum, liberare ne cesses.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Si dixeris : Vires non suppetunt ; qui inspector est cordis ipse intelligit : et servatorem animæ tuæ nihil fallit, reddetque homini juxta opera sua.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Comede, fili mi, mel, quia bonum est, et favum dulcissimum gutturi tuo.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sic et doctrina sapientiæ animæ tuæ : quam cum inveneris, habebis in novissimis spem, et spes tua non peribit.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ne insidieris, et quæras impietatem in domo justi, neque vastes requiem ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Septies enim cadet justus, et resurget : impii autem corruent in malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Cum ceciderit inimicus tuus ne gaudeas, et in ruina ejus ne exsultet cor tuum :",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ne forte videat Dominus, et displiceat ei, et auferat ab eo iram suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ne contendas cum pessimis, nec æmuleris impios :",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "quoniam non habent futurorum spem mali, et lucerna impiorum extinguetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Time Dominum, fili mi, et regem, et cum detractoribus non commiscearis :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "quoniam repente consurget perditio eorum, et ruinam utriusque quis novit ?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Hæc quoque sapientibus. Cognoscere personam in judicio non est bonum.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Qui dicunt impio : Justus es : maledicent eis populi, et detestabuntur eos tribus.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Qui arguunt eum laudabuntur, et super ipsos veniet benedictio.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Labia deosculabitur qui recta verba respondet.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Præpara foris opus tuum, et diligenter exerce agrum tuum, ut postea ædifices domum tuam.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ne sis testis frustra contra proximum tuum, nec lactes quemquam labiis tuis.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Ne dicas : Quomodo fecit mihi, sic faciam ei ; reddam unicuique secundum opus suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Per agrum hominis pigri transivi, et per vineam viri stulti :",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "et ecce totum repleverant urticæ, et operuerant superficiem ejus spinæ, et maceria lapidum destructa erat.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Quod cum vidissem, posui in corde meo, et exemplo didici disciplinam.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Parum, inquam, dormies, modicum dormitabis ; pauxillum manus conseres ut quiescas :",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "et veniet tibi quasi cursor egestas, et mendicitas quasi vir armatus.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hæ quoque parabolæ Salomonis, quas transtulerunt viri Ezechiæ regis Juda.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Gloria Dei est celare verbum, et gloria regum investigare sermonem.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Cælum sursum, et terra deorsum, et cor regum inscrutabile.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Aufer rubiginem de argento, et egredietur vas purissimum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Aufer impietatem de vultu regis, et firmabitur justitia thronus ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ne gloriosus appareas coram rege, et in loco magnorum ne steteris.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Melius est enim ut dicatur tibi : Ascende huc, quam ut humilieris coram principe.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Quæ viderunt oculi tui ne proferas in jurgio cito, ne postea emendare non possis, cum dehonestaveris amicum tuum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Causam tuam tracta cum amico tuo, et secretum extraneo ne reveles :",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ne forte insultet tibi cum audierit, et exprobrare non cesset. Gratia et amicitia liberant : quas tibi serva, ne exprobrabilis fias.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mala aurea in lectis argenteis, qui loquitur verbum in tempore suo.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Inauris aurea, et margaritum fulgens, qui arguit sapientem et aurem obedientem.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Sicut frigus nivis in die messis, ita legatus fidelis ei qui misit eum : animam ipsius requiescere facit.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nubes, et ventus, et pluviæ non sequentes, vir gloriosus et promissa non complens.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Patientia lenietur princeps, et lingua mollis confringet duritiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mel invenisti : comede quod sufficit tibi, ne forte satiatus evomas illud.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Subtrahe pedem tuum de domo proximi tui, nequando satiatus oderit te.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Jaculum, et gladius, et sagitta acuta, homo qui loquitur contra proximum suum falsum testimonium.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Dens putridus, et pes lassus, qui sperat super infideli in die angustiæ,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "et amittit pallium in die frigoris. Acetum in nitro, qui cantat carmina cordi pessimo. Sicut tinea vestimento, et vermis ligno, ita tristitia viri nocet cordi.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Si esurierit inimicus tuus, ciba illum ; si sitierit, da ei aquam bibere :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "prunas enim congregabis super caput ejus, et Dominus reddet tibi.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ventus aquilo dissipat pluvias, et facies tristis linguam detrahentem.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Melius est sedere in angulo domatis quam cum muliere litigiosa et in domo communi.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Aqua frigida animæ sitienti, et nuntius bonus de terra longinqua.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Fons turbatus pede et vena corrupta, justus cadens coram impio.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Sicut qui mel multum comedit non est ei bonum, sic qui scrutator est majestatis opprimetur a gloria.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Sicut urbs patens et absque murorum ambitu, ita vir qui non potest in loquendo cohibere spiritum suum.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Quomodo nix in æstate, et pluviæ in messe, sic indecens est stulto gloria.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Sicut avis ad alia transvolans, et passer quolibet vadens, sic maledictum frustra prolatum in quempiam superveniet.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Flagellum equo, et camus asino, et virga in dorso imprudentium.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ne respondeas stulto juxta stultitiam suam, ne efficiaris ei similis.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Responde stulto juxta stultitiam suam, ne sibi sapiens esse videatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Claudus pedibus, et iniquitatem bibens, qui mittit verba per nuntium stultum.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Quomodo pulchras frustra habet claudus tibias, sic indecens est in ore stultorum parabola.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Sicut qui mittit lapidem in acervum Mercurii, ita qui tribuit insipienti honorem.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Quomodo si spina nascatur in manu temulenti, sic parabola in ore stultorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Judicium determinat causas, et qui imponit stulto silentium iras mitigat.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Sicut canis qui revertitur ad vomitum suum, sic imprudens qui iterat stultitiam suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Vidisti hominem sapientem sibi videri ? magis illo spem habebit insipiens.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Dicit piger : Leo est in via, et leæna in itineribus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sicut ostium vertitur in cardine suo, ita piger in lectulo suo.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Abscondit piger manum sub ascella sua, et laborat si ad os suum eam converterit.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sapientior sibi piger videtur septem viris loquentibus sententias.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sicut qui apprehendit auribus canem, sic qui transit impatiens et commiscetur rixæ alterius.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sicut noxius est qui mittit sagittas et lanceas in mortem,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ita vir fraudulenter nocet amico suo, et cum fuerit deprehensus dicit : Ludens feci.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Cum defecerint ligna extinguetur ignis, et susurrone subtracto, jurgia conquiescent.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Sicut carbones ad prunas, et ligna ad ignem, sic homo iracundus suscitat rixas.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Verba susurronis quasi simplicia, et ipsa perveniunt ad intima ventris.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Quomodo si argento sordido ornare velis vas fictile, sic labia tumentia cum pessimo corde sociata.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Labiis suis intelligitur inimicus, cum in corde tractaverit dolos.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Quando submiserit vocem suam, ne credideris ei, quoniam septem nequitiæ sunt in corde illius.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Qui operit odium fraudulenter, revelabitur malitia ejus in consilio.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Qui fodit foveam incidet in eam, et qui volvit lapidem revertetur ad eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Lingua fallax non amat veritatem, et os lubricum operatur ruinas.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ne glorieris in crastinum, ignorans quid superventura pariat dies.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Laudet te alienus, et non os tuum ; extraneus, et non labia tua.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Grave est saxum, et onerosa arena, sed ira stulti utroque gravior.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ira non habet misericordiam nec erumpens furor, et impetum concitati ferre quis poterit ?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Melior est manifesta correptio quam amor absconditus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Meliora sunt vulnera diligentis quam fraudulenta oscula odientis.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Anima saturata calcabit favum, et anima esuriens etiam amarum pro dulci sumet.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Sicut avis transmigrans de nido suo, sic vir qui derelinquit locum suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Unguento et variis odoribus delectatur cor, et bonis amici consiliis anima dulcoratur.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Amicum tuum et amicum patris tui ne dimiseris, et domum fratris tui ne ingrediaris in die afflictionis tuæ. Melior est vicinus juxta quam frater procul.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Stude sapientiæ, fili mi, et lætifica cor meum, ut possis exprobranti respondere sermonem.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Astutus videns malum, absconditus est : parvuli transeuntes sustinuerunt dispendia.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tolle vestimentum ejus qui spopondit pro extraneo, et pro alienis aufer ei pignus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Qui benedicit proximo suo voce grandi, de nocte consurgens maledicenti similis erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Tecta perstillantia in die frigoris et litigiosa mulier comparantur.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Qui retinet eam quasi qui ventum teneat, et oleum dexteræ suæ vocabit.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ferrum ferro exacuitur, et homo exacuit faciem amici sui.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Qui servat ficum comedet fructus ejus, et qui custos est domini sui glorificabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Quomodo in aquis resplendent vultus prospicientium, sic corda hominum manifesta sunt prudentibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Infernus et perditio numquam implentur : similiter et oculi hominum insatiabiles.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Quomodo probatur in conflatorio argentum et in fornace aurum, sic probatur homo ore laudantis. Cor iniqui inquirit mala, cor autem rectum inquirit scientiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Si contuderis stultum in pila quasi ptisanas feriente desuper pilo, non auferetur ab eo stultitia ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Diligenter agnosce vultum pecoris tui, tuosque greges considera :",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "non enim habebis jugiter potestatem, sed corona tribuetur in generationem et generationem.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Aperta sunt prata, et apparuerunt herbæ virentes, et collecta sunt fœna de montibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Agni ad vestimentum tuum, et hædi ad agri pretium.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Sufficiat tibi lac caprarum in cibos tuos, et in necessaria domus tuæ, et ad victum ancillis tuis.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fugit impius nemine persequente ; justus autem, quasi leo confidens, absque terrore erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Propter peccata terræ multi principes ejus ; et propter hominis sapientiam, et horum scientiam quæ dicuntur, vita ducis longior erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Vir pauper calumnians pauperes similis est imbri vehementi in quo paratur fames.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Qui derelinquunt legem laudant impium ; qui custodiunt, succenduntur contra eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Viri mali non cogitant judicium ; qui autem inquirunt Dominum animadvertunt omnia.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Melior est pauper ambulans in simplicitate sua quam dives in pravis itineribus.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Qui custodit legem filius sapiens est ; qui autem comessatores pascit confundit patrem suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Qui coacervat divitias usuris et fœnore, liberali in pauperes congregat eas.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Qui declinat aures suas ne audiat legem, oratio ejus erit execrabilis.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Qui decipit justos in via mala, in interitu suo corruet, et simplices possidebunt bona ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Sapiens sibi videtur vir dives ; pauper autem prudens scrutabitur eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "In exsultatione justorum multa gloria est ; regnantibus impiis, ruinæ hominum.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Qui abscondit scelera sua non dirigetur ; qui autem confessus fuerit et reliquerit ea, misericordiam consequetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Beatus homo qui semper est pavidus ; qui vero mentis est duræ corruet in malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Leo rugiens et ursus esuriens, princeps impius super populum pauperem.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Dux indigens prudentia multos opprimet per calumniam ; qui autem odit avaritiam, longi fient dies ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hominem qui calumniatur animæ sanguinem, si usque ad lacum fugerit, nemo sustinet.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Qui ambulat simpliciter salvus erit ; qui perversis graditur viis concidet semel.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Qui operatur terram suam satiabitur panibus ; qui autem sectatur otium replebitur egestate.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Vir fidelis multum laudabitur ; qui autem festinat ditari non erit innocens.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Qui cognoscit in judicio faciem non bene facit ; iste et pro buccella panis deserit veritatem.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Vir qui festinat ditari, et aliis invidet, ignorat quod egestas superveniet ei.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Qui corripit hominem gratiam postea inveniet apud eum, magis quam ille qui per linguæ blandimenta decipit.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Qui subtrahit aliquid a patre suo et a matre, et dicit hoc non esse peccatum, particeps homicidæ est.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Qui se jactat et dilatat, jurgia concitat ; qui vero sperat in Domino sanabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Qui confidit in corde suo stultus est ; qui autem graditur sapienter, ipse salvabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Qui dat pauperi non indigebit ; qui despicit deprecantem sustinebit penuriam.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Cum surrexerint impii, abscondentur homines ; cum illi perierint, multiplicabuntur justi.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Viro qui corripientem dura cervice contemnit, repentinus ei superveniet interitus, et eum sanitas non sequetur.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "In multiplicatione justorum lætabitur vulgus ; cum impii sumpserint principatum, gemet populus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Vir qui amat sapientiam lætificat patrem suum ; qui autem nutrit scorta perdet substantiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Rex justus erigit terram ; vir avarus destruet eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Homo qui blandis fictisque sermonibus loquitur amico suo rete expandit gressibus ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Peccantem virum iniquum involvet laqueus, et justus laudabit atque gaudebit.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Novit justus causam pauperum ; impius ignorat scientiam.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Homines pestilentes dissipant civitatem ; sapientes vero avertunt furorem.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Vir sapiens si cum stulto contenderit, sive irascatur, sive rideat, non inveniet requiem.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Viri sanguinum oderunt simplicem ; justi autem quærunt animam ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Totum spiritum suum profert stultus ; sapiens differt, et reservat in posterum.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Princeps qui libenter audit verba mendacii, omnes ministros habet impios.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Pauper et creditor obviaverunt sibi : utriusque illuminator est Dominus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Rex qui judicat in veritate pauperes, thronus ejus in æternum firmabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Virga atque correptio tribuit sapientiam ; puer autem qui dimittitur voluntati suæ confundit matrem suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "In multiplicatione impiorum multiplicabuntur scelera, et justi ruinas eorum videbunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Erudi filium tuum, et refrigerabit te, et dabit delicias animæ tuæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Cum prophetia defecerit, dissipabitur populus ; qui vero custodit legem beatus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Servus verbis non potest erudiri, quia quod dicis intelligit, et respondere contemnit.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Vidisti hominem velocem ad loquendum ? stultitia magis speranda est quam illius correptio.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Qui delicate a pueritia nutrit servum suum postea sentiet eum contumacem.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Vir iracundus provocat rixas, et qui ad indignandum facilis est erit ad peccandum proclivior.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Superbum sequitur humilitas, et humilem spiritu suscipiet gloria.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Qui cum fure participat odit animam suam ; adjurantem audit, et non indicat.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Qui timet hominem cito corruet ; qui sperat in Domino sublevabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Multi requirunt faciem principis, et judicium a Domino egreditur singulorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Abominantur justi virum impium, et abominantur impii eos qui in recta sunt via. Verbum custodiens filius extra perditionem erit.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Verba Congregantis, filii Vomentis. Visio quam locutus est vir cum quo est Deus, et qui Deo secum morante confortatus, ait :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Stultissimus sum virorum, et sapientia hominum non est mecum.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Non didici sapientiam, et non novi scientiam sanctorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Quis ascendit in cælum, atque descendit ? quis continuit spiritum in manibus suis ? quis colligavit aquas quasi in vestimento ? quis suscitavit omnes terminos terræ ? quod nomen est ejus, et quod nomen filii ejus, si nosti ?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Omnis sermo Dei ignitus : clypeus est sperantibus in se.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ne addas quidquam verbis illius, et arguaris, inveniarisque mendax.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Duo rogavi te : ne deneges mihi antequam moriar :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "vanitatem et verba mendacia longe fac a me ; mendicitatem et divitias ne dederis mihi : tribue tantum victui meo necessaria,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ne forte satiatus illiciar ad negandum, et dicam : Quis est Dominus ? aut egestate compulsus, furer, et perjurem nomen Dei mei.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ne accuses servum ad dominum suum, ne forte maledicat tibi, et corruas.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Generatio quæ patri suo maledicit, et quæ matri suæ non benedicit ;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "generatio quæ sibi munda videtur, et tamen non est lota a sordibus suis ;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "generatio cujus excelsi sunt oculi, et palpebræ ejus in alta surrectæ ;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "generatio quæ pro dentibus gladios habet, et commandit molaribus suis, ut comedat inopes de terra, et pauperes ex hominibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Sanguisugæ duæ sunt filiæ, dicentes : Affer, affer. Tria sunt insaturabilia, et quartum quod numquam dicit : Sufficit.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Infernus, et os vulvæ, et terra quæ non satiatur aqua : ignis vero numquam dicit : Sufficit.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Oculum qui subsannat patrem, et qui despicit partum matris suæ, effodiant eum corvi de torrentibus, et comedant eum filii aquilæ !",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Tria sunt difficilia mihi, et quartum penitus ignoro :",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "viam aquilæ in cælo, viam colubri super petram, viam navis in medio mari, et viam viri in adolescentia.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Talis est et via mulieris adulteræ, quæ comedit, et tergens os suum dicit : Non sum operata malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Per tria movetur terra, et quartum non potest sustinere :",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "per servum, cum regnaverit ; per stultum, cum saturatus fuerit cibo ;",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "per odiosam mulierem, cum in matrimonio fuerit assumpta ; et per ancillam, cum fuerit hæres dominæ suæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Quatuor sunt minima terræ, et ipsa sunt sapientiora sapientibus :",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "formicæ, populus infirmus, qui præparat in messe cibum sibi ;",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "lepusculus, plebs invalida, qui collocat in petra cubile suum ;",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "regem locusta non habet, et egreditur universa per turmas suas ;",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "stellio manibus nititur, et moratur in ædibus regis.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Tria sunt quæ bene gradiuntur, et quartum quod incedit feliciter :",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "leo, fortissimus bestiarum, ad nullius pavebit occursum ;",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "gallus succinctus lumbos ; et aries ; nec est rex, qui resistat ei.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Est qui stultus apparuit postquam elevatus est in sublime ; si enim intellexisset, ori suo imposuisset manum.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Qui autem fortiter premit ubera ad eliciendum lac exprimit butyrum ; et qui vehementer emungit elicit sanguinem ; et qui provocat iras producit discordias.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Verba Lamuelis regis. Visio qua erudivit eum mater sua.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Quid, dilecte mi ? quid, dilecte uteri mei ? quid, dilecte votorum meorum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ne dederis mulieribus substantiam tuam, et divitias tuas ad delendos reges.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Noli regibus, o Lamuel, noli regibus dare vinum, quia nullum secretum est ubi regnat ebrietas ;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "et ne forte bibant, et obliviscantur judiciorum, et mutent causam filiorum pauperis.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Date siceram mœrentibus, et vinum his qui amaro sunt animo.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Bibant, et obliviscantur egestatis suæ, et doloris sui non recordentur amplius.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Aperi os tuum muto, et causis omnium filiorum qui pertranseunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Aperi os tuum, decerne quod justum est, et judica inopem et pauperem.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mulierem fortem quis inveniet ? procul et de ultimis finibus pretium ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Confidit in ea cor viri sui, et spoliis non indigebit.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Reddet ei bonum, et non malum, omnibus diebus vitæ suæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Quæsivit lanam et linum, et operata est consilia manuum suarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Facta est quasi navis institoris, de longe portans panem suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et de nocte surrexit, deditque prædam domesticis suis, et cibaria ancillis suis.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Consideravit agrum, et emit eum ; de fructu manuum suarum plantavit vineam.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Accinxit fortitudine lumbos suos, et roboravit brachium suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Gustavit, et vidit quia bona est negotiatio ejus ; non extinguetur in nocte lucerna ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Manum suam misit ad fortia, et digiti ejus apprehenderunt fusum.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Manum suam aperuit inopi, et palmas suas extendit ad pauperem.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Non timebit domui suæ a frigoribus nivis ; omnes enim domestici ejus vestiti sunt duplicibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Stragulatam vestem fecit sibi ; byssus et purpura indumentum ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Nobilis in portis vir ejus, quando sederit cum senatoribus terræ.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Sindonem fecit, et vendidit, et cingulum tradidit Chananæo.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Fortitudo et decor indumentum ejus, et ridebit in die novissimo.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Os suum aperuit sapientiæ, et lex clementiæ in lingua ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Consideravit semitas domus suæ, et panem otiosa non comedit.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Surrexerunt filii ejus, et beatissimam prædicaverunt ; vir ejus, et laudavit eam.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Multæ filiæ congregaverunt divitias ; tu supergressa es universas.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Fallax gratia, et vana est pulchritudo : mulier timens Dominum, ipsa laudabitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Date ei de fructu manuum suarum, et laudent eam in portis opera ejus.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "book": "Lamentationes",
+  "abbreviation": "Lam",
+  "number": 25,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Prologus Et factum est, postquam in captivitatem redactus est Israël, et Jerusalem deserta est, sedit Jeremias propheta flens, et planxit lamentatione hac in Jerusalem : et amaro animo suspirans et ejulans, dixit : Aleph Quomodo sedet sola civitas plena populo ! Facta est quasi vidua domina gentium ; princeps provinciarum facta est sub tributo.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Beth Plorans ploravit in nocte, et lacrimæ ejus in maxillis ejus : non est qui consoletur eam ex omnibus caris ejus ; omnes amici ejus spreverunt eam, et facti sunt ei inimici.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ghimel Migravit Judas propter afflictionem, et multitudinem servitutis ; habitavit inter gentes, nec invenit requiem : omnes persecutores ejus apprehenderunt eam inter angustias.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Daleth Viæ Sion lugent, eo quod non sint qui veniant ad solemnitatem : omnes portæ ejus destructæ, sacerdotes ejus gementes ; virgines ejus squalidæ, et ipsa oppressa amaritudine.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "He Facti sunt hostes ejus in capite ; inimici ejus locupletati sunt : quia Dominus locutus est super eam propter multitudinem iniquitatum ejus. Parvuli ejus ducti sunt in captivitatem ante faciem tribulantis.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Vau Et egressus est a filia Sion omnis decor ejus ; facti sunt principes ejus velut arietes non invenientes pascua, et abierunt absque fortitudine ante faciem subsequentis.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Zain Recordata est Jerusalem dierum afflictionis suæ, et prævaricationis, omnium desiderabilium suorum, quæ habuerat a diebus antiquis, cum caderet populus ejus in manu hostili, et non esset auxiliator : viderunt eam hostes, et deriserunt sabbata ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Heth Peccatum peccavit Jerusalem, propterea instabilis facta est ; omnes qui glorificabant eam spreverunt illam, quia viderunt ignominiam ejus : ipsa autem gemens conversa est retrorsum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Teth Sordes ejus in pedibus ejus, nec recordata est finis sui ; deposita est vehementer, non habens consolatorem. Vide, Domine, afflictionem meam, quoniam erectus est inimicus.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Jod Manum suam misit hostis ad omnia desiderabilia ejus, quia vidit gentes ingressas sanctuarium suum, de quibus præceperas ne intrarent in ecclesiam tuam.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Caph Omnis populus ejus gemens, et quærens panem ; dederunt pretiosa quæque pro cibo ad refocillandam animam. Vide, Domine, et considera quoniam facta sum vilis !",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Lamed O vos omnes qui transitis per viam, attendite, et videte si est dolor sicut dolor meus ! quoniam vindemiavit me, ut locutus est Dominus, in die iræ furoris sui.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mem De excelso misit ignem in ossibus meis, et erudivit me : expandit rete pedibus meis, convertit me retrorsum ; posuit me desolatam, tota die mœrore confectam.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nun Vigilavit jugum iniquitatum mearum ; in manu ejus convolutæ sunt, et impositæ collo meo. Infirmata est virtus mea : dedit me Dominus in manu de qua non potero surgere.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Samech Abstulit omnes magnificos meos Dominus de medio mei ; vocavit adversum me tempus ut contereret electos meos. Torcular calcavit Dominus virgini filiæ Juda.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ain Idcirco ego plorans, et oculus meus deducens aquas, quia longe factus est a me consolator, convertens animam meam. Facti sunt filii mei perditi, quoniam invaluit inimicus.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Phe Expandit Sion manus suas ; non est qui consoletur eam. Mandavit Dominus adversum Jacob in circuitu ejus hostes ejus ; facta est Jerusalem quasi polluta menstruis inter eos.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sade Justus est Dominus, quia os ejus ad iracundiam provocavi. Audite, obsecro, universi populi, et videte dolorem meum : virgines meæ et juvenes mei abierunt in captivitatem.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Coph Vocavi amicos meos, et ipsi deceperunt me ; sacerdotes mei et senes mei in urbe consumpti sunt, quia quæsierunt cibum sibi ut refocillarent animam suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Res Vide, Domine, quoniam tribulor : conturbatus est venter meus, subversum est cor meum in memetipsa, quoniam amaritudine plena sum. Foris interfecit gladius, et domi mors similis est.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Sin Audierunt quia ingemisco ego, et non est qui consoletur me ; omnes inimici mei audierunt malum meum, lætati sunt quoniam tu fecisti : adduxisti diem consolationis, et fient similes mei.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Thau Ingrediatur omne malum eorum coram te : et vindemia eos, sicut vindemiasti me propter omnes iniquitates meas : multi enim gemitus mei, et cor meum mœrens.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Aleph Quomodo obtexit caligine in furore suo Dominus filiam Sion ; projecit de cælo in terram inclytam Israël, et non est recordatus scabelli pedum suorum in die furoris sui !",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Beth Præcipitavit Dominus, nec pepercit omnia speciosa Jacob : destruxit in furore suo munitiones virginis Juda, et dejecit in terram ; polluit regnum et principes ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ghimel Confregit in ira furoris sui omne cornu Israël ; avertit retrorsum dexteram suam a facie inimici, et succendit in Jacob quasi ignem flammæ devorantis in gyro.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Daleth Tetendit arcum suum quasi inimicus, firmavit dexteram suam quasi hostis, et occidit omne quod pulchrum erat visu in tabernaculo filiæ Sion ; effudit quasi ignem indignationem suam.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "He Factus est Dominus velut inimicus, præcipitavit Israël : præcipitavit omnia mœnia ejus, dissipavit munitiones ejus, et replevit in filia Juda humiliatum et humiliatam.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Vau Et dissipavit quasi hortum tentorium suum ; demolitus est tabernaculum suum. Oblivioni tradidit Dominus in Sion festivitatem et sabbatum ; et in opprobrium, et in indignationem furoris sui, regem et sacerdotem.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Zain Repulit Dominus altare suum ; maledixit sanctificationi suæ : tradidit in manu inimici muros turrium ejus. Vocem dederunt in domo Domini sicut in die solemni.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Heth Cogitavit Dominus dissipare murum filiæ Sion ; tetendit funiculum suum, et non avertit manum suam a perditione : luxitque antemurale, et murus pariter dissipatus est.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Teth Defixæ sunt in terra portæ ejus, perdidit et contrivit vectes ejus ; regem ejus et principes ejus in gentibus : non est lex, et prophetæ ejus non invenerunt visionem a Domino.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Jod Sederunt in terra, conticuerunt senes filiæ Sion ; consperserunt cinere capita sua, accincti sunt ciliciis : abjecerunt in terram capita sua virgines Jerusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Caph Defecerunt præ lacrimis oculi mei, conturbata sunt viscera mea ; effusum est in terra jecur meum super contritione filiæ populi mei, cum deficeret parvulus et lactens in plateis oppidi.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Lamed Matribus suis dixerunt : Ubi est triticum et vinum ? cum deficerent quasi vulnerati in plateis civitatis, cum exhalarent animas suas in sinu matrum suarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mem Cui comparabo te, vel cui assimilabo te, filia Jerusalem ? cui exæquabo te, et consolabor te, virgo, filia Sion ? magna est enim velut mare contritio tua : quis medebitur tui ?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nun Prophetæ tui viderunt tibi falsa et stulta ; nec aperiebant iniquitatem tuam, ut te ad pœnitentiam provocarent ; viderunt autem tibi assumptiones falsas, et ejectiones.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Samech Plauserunt super te manibus omnes transeuntes per viam ; sibilaverunt et moverunt caput suum super filiam Jerusalem : Hæccine est urbs, dicentes, perfecti decoris, gaudium universæ terræ ?",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Phe Aperuerunt super te os suum omnes inimici tui : sibilaverunt, et fremuerunt dentibus, et dixerunt : Devorabimus : en ista est dies quam exspectabamus ; invenimus, vidimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ain Fecit Dominus quæ cogitavit ; complevit sermonem suum, quem præceperat a diebus antiquis : destruxit, et non pepercit, et lætificavit super te inimicum, et exaltavit cornu hostium tuorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sade Clamavit cor eorum ad Dominum super muros filiæ Sion : Deduc quasi torrentem lacrimas per diem et noctem ; non des requiem tibi, neque taceat pupilla oculi tui.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Coph Consurge, lauda in nocte, in principio vigiliarum ; effunde sicut aquam cor tuum ante conspectum Domini : leva ad eum manus tuas pro anima parvulorum tuorum, qui defecerunt in fame in capite omnium compitorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Res Vide, Domine, et considera quem vindemiaveris ita. Ergone comedent mulieres fructum suum, parvulos ad mensuram palmæ ? si occiditur in sanctuario Domini sacerdos et propheta ?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Sin Jacuerunt in terra foris puer et senex ; virgines meæ et juvenes mei ceciderunt in gladio : interfecisti in die furoris tui, percussisti, nec misertus es.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Thau Vocasti quasi ad diem solemnem, qui terrerent me de circuitu ; et non fuit in die furoris Domini qui effugeret, et relinqueretur : quos educavi et enutrivi, inimicus meus consumpsit eos.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Aleph Ego vir videns paupertatem meam in virga indignationis ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Aleph Me minavit, et adduxit in tenebras, et non in lucem.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Aleph Tantum in me vertit et convertit manum suam tota die.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Beth Vetustam fecit pellem meam et carnem meam ; contrivit ossa mea.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Beth Ædificavit in gyro meo, et circumdedit me felle et labore.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Beth In tenebrosis collocavit me, quasi mortuos sempiternos.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ghimel Circumædificavit adversum me, ut non egrediar ; aggravavit compedem meum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ghimel Sed et cum clamavero, et rogavero, exclusit orationem meam.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ghimel Conclusit vias meas lapidibus quadris ; semitas meas subvertit.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Daleth Ursus insidians factus est mihi, leo in absconditis.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Daleth Semitas meas subvertit, et confregit me ; posuit me desolatam.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Daleth Tetendit arcum suum, et posuit me quasi signum ad sagittam.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "He Misit in renibus meis filias pharetræ suæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "He Factus sum in derisum omni populo meo, canticum eorum tota die.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "He Replevit me amaritudinibus ; inebriavit me absinthio.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Vau Et fregit ad numerum dentes meos ; cibavit me cinere.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Vau Et repulsa est a pace anima mea ; oblitus sum bonorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Vau Et dixi : Periit finis meus, et spes mea a Domino.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Zain Recordare paupertatis, et transgressionis meæ, absinthii et fellis.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Zain Memoria memor ero, et tabescet in me anima mea.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Zain Hæc recolens in corde meo, ideo sperabo.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Heth Misericordiæ Domini, quia non sumus consumpti ; quia non defecerunt miserationes ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Heth Novi diluculo, multa est fides tua.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Heth Pars mea Dominus, dixit anima mea ; propterea exspectabo eum.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Teth Bonus est Dominus sperantibus in eum, animæ quærenti illum.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Teth Bonum est præstolari cum silentio salutare Dei.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Teth Bonum est viro cum portaverit jugum ab adolescentia sua.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Jod Sedebit solitarius, et tacebit, quia levavit super se.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Jod Ponet in pulvere os suum, si forte sit spes.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Jod Dabit percutienti se maxillam : saturabitur opprobriis.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Caph Quia non repellet in sempiternum Dominus.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Caph Quia si abjecit, et miserebitur, secundum multitudinem misericordiarum suarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Caph Non enim humiliavit ex corde suo et abjecit filios hominum.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Lamed Ut conteret sub pedibus suis omnes vinctos terræ.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Lamed Ut declinaret judicium viri in conspectu vultus Altissimi.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Lamed Ut perverteret hominem in judicio suo ; Dominus ignoravit.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Mem Quis est iste qui dixit ut fieret, Domino non jubente ?",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Mem Ex ore Altissimi non egredientur nec mala nec bona ?",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Mem Quid murmuravit homo vivens, vir pro peccatis suis ?",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Nun Scrutemur vias nostras, et quæramus, et revertamur ad Dominum.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "Nun Levemus corda nostra cum manibus ad Dominum in cælos.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "Nun Nos inique egimus, et ad iracundiam provocavimus ; idcirco tu inexorabilis es.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "Samech Operuisti in furore, et percussisti nos ; occidisti, nec pepercisti.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "Samech Opposuisti nubem tibi, ne transeat oratio.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "Samech Eradicationem et abjectionem posuisti me in medio populorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "Phe Aperuerunt super nos os suum omnes inimici.",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "Phe Formido et laqueus facta est nobis vaticinatio, et contritio.",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "Phe Divisiones aquarum deduxit oculus meus, in contritione filiæ populi mei.",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "Ain Oculus meus afflictus est, nec tacuit, eo quod non esset requies.",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "Ain Donec respiceret et videret Dominus de cælis.",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "Ain Oculus meus deprædatus est animam meam in cunctis filiabus urbis meæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "Sade Venatione ceperunt me quasi avem inimici mei gratis.",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "Sade Lapsa est in lacum vita mea, et posuerunt lapidem super me.",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "Sade Inundaverunt aquæ super caput meum ; dixi : Perii.",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "heading": null,
+          "text": "Coph Invocavi nomen tuum, Domine, de lacu novissimo.",
+          "footnotes": []
+        },
+        {
+          "verse": 56,
+          "heading": null,
+          "text": "Coph Vocem meam audisti ; ne avertas aurem tuam a singultu meo et clamoribus.",
+          "footnotes": []
+        },
+        {
+          "verse": 57,
+          "heading": null,
+          "text": "Coph Appropinquasti in die quando invocavi te ; dixisti : Ne timeas.",
+          "footnotes": []
+        },
+        {
+          "verse": 58,
+          "heading": null,
+          "text": "Res Judicasti, Domine, causam animæ meæ, redemptor vitæ meæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 59,
+          "heading": null,
+          "text": "Res Vidisti, Domine, iniquitatem illorum adversum me : judica judicium meum.",
+          "footnotes": []
+        },
+        {
+          "verse": 60,
+          "heading": null,
+          "text": "Res Vidisti omnem furorem, universas cogitationes eorum adversum me.",
+          "footnotes": []
+        },
+        {
+          "verse": 61,
+          "heading": null,
+          "text": "Sin Audisti opprobrium eorum, Domine, omnes cogitationes eorum adversum me.",
+          "footnotes": []
+        },
+        {
+          "verse": 62,
+          "heading": null,
+          "text": "Sin Labia insurgentium mihi, et meditationes eorum adversum me tota die.",
+          "footnotes": []
+        },
+        {
+          "verse": 63,
+          "heading": null,
+          "text": "Sin Sessionem eorum et resurrectionem eorum vide ; ego sum psalmus eorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 64,
+          "heading": null,
+          "text": "Thau Redes eis vicem, Domine, juxta opera manuum suarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 65,
+          "heading": null,
+          "text": "Thau Dabis eis scutum cordis, laborem tuum.",
+          "footnotes": []
+        },
+        {
+          "verse": 66,
+          "heading": null,
+          "text": "Thau Persequeris in furore, et conteres eos sub cælis, Domine.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Aleph Quomodo obscuratum est aurum, mutatus est color optimus ! dispersi sunt lapides sanctuarii in capite omnium platearum !",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Beth Filii Sion inclyti, et amicti auro primo : quomodo reputati sunt in vasa testea, opus manuum figuli !",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ghimel Sed et lamiæ nudaverunt mammam, lactaverunt catulos suos : filia populi mei crudelis quasi struthio in deserto.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Daleth Adhæsit lingua lactentis ad palatum ejus in siti ; parvuli petierunt panem, et non erat qui frangeret eis.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "He Qui vescebantur voluptuose, interierunt in viis ; qui nutriebantur in croceis, amplexati sunt stercora.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Vau Et major effecta est iniquitas filiæ populi mei peccato Sodomorum, quæ subversa est in momento, et non ceperunt in ea manus.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Zain Candidiores Nazaræi ejus nive, nitidiores lacte, rubicundiores ebore antiquo, sapphiro pulchriores.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Heth Denigrata est super carbones facies eorum et non sunt cogniti in plateis ; adhæsit cutis eorum ossibus : aruit, et facta est quasi lignum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Teth Melius fuit occisis gladio quam interfectis fame, quoniam isti extabuerunt consumpti a sterilitate terræ.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Jod Manus mulierum misericordium coxerunt filios suos ; facti sunt cibus earum in contritione filiæ populi mei.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Caph Complevit Dominus furorem suum, effudit iram indignationis suæ : et succendit ignem in Sion, et devoravit fundamenta ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Lamed Non crediderunt reges terræ, et universi habitatores orbis, quoniam ingrederetur hostis et inimicus per portas Jerusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mem Propter peccata prophetarum ejus, et iniquitates sacerdotum ejus, qui effuderunt in medio ejus sanguinem justorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nun Erraverunt cæci in plateis, polluti sunt in sanguine ; cumque non possent, tenuerunt lacinias suas.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Samech Recedite polluti, clamaverunt eis ; recedite, abite, nolite tangere : jurgati quippe sunt, et commoti dixerunt inter gentes : Non addet ultra ut habitet in eis.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Phe Facies Domini divisit eos, non addet ut respiciat eos ; facies sacerdotum non erubuerunt, neque senum miserti sunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ain Cum adhuc subsisteremus, defecerunt oculi nostri ad auxilium nostrum vanum ; cum respiceremus attenti ad gentem quæ salvare non poterat.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sade Lubricaverunt vestigia nostra in itinere platearum nostrarum ; appropinquavit finis noster, completi sunt dies nostri, quia venit finis noster.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Coph Velociores fuerunt persecutores nostri aquilis cæli ; super montes persecuti sunt nos, in deserto insidiati sunt nobis.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Res Spiritus oris nostri, christus Dominus, captus est in peccatis nostris, cui diximus : In umbra tua vivemus in gentibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Sin Gaude et lætare, filia Edom, quæ habitas in terra Hus ! ad te quoque perveniet calix : inebriaberis, atque nudaberis.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Thau Completa est iniquitas tua, filia Sion : non addet ultra ut transmigret te. Visitavit iniquitatem tuam, filia Edom ; discooperuit peccata tua.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Recordare, Domine, quid acciderit nobis ; intuere et respice opprobrium nostrum.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hæreditas nostra versa est ad alienos, domus nostræ ad extraneos.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Pupilli facti sumus absque patre, matres nostræ quasi viduæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Aquam nostram pecunia bibimus ; ligna nostra pretio comparavimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Cervicibus nostris minabamur, lassis non dabatur requies.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ægypto dedimus manum et Assyriis, ut saturaremur pane.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Patres nostri peccaverunt, et non sunt : et nos iniquitates eorum portavimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Servi dominati sunt nostri : non fuit qui redimeret de manu eorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "In animabus nostris afferebamus panem nobis, a facie gladii in deserto.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Pellis nostra quasi clibanus exusta est, a facie tempestatum famis.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mulieres in Sion humiliaverunt, et virgines in civitatibus Juda.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Principes manu suspensi sunt ; facies senum non erubuerunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Adolescentibus impudice abusi sunt, et pueri in ligno corruerunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Senes defecerunt de portis, juvenes de choro psallentium.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Defecit gaudium cordis nostri ; versus est in luctum chorus noster.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Cecidit corona capitis nostri : væ nobis, quia peccavimus !",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Propterea mœstum factum est cor nostrum ; ideo contenebrati sunt oculi nostri,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "propter montem Sion quia disperiit ; vulpes ambulaverunt in eo.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Tu autem, Domine, in æternum permanebis, solium tuum in generationem et generationem.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Quare in perpetuum oblivisceris nostri, derelinques nos in longitudine dierum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Converte nos, Domine, ad te, et convertemur ; innova dies nostros, sicut a principio.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Sed projiciens repulisti nos : iratus es contra nos vehementer.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

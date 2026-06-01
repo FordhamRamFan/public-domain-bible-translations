@@ -1,0 +1,1424 @@
+{
+  "book": "Ecclesiastes",
+  "abbreviation": "Eccl",
+  "number": 21,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Verba Ecclesiastæ, filii David, regis Jerusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Vanitas vanitatum, dixit Ecclesiastes ; vanitas vanitatum, et omnia vanitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Quid habet amplius homo de universo labore suo quo laborat sub sole ?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Generatio præterit, et generatio advenit ; terra autem in æternum stat.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Oritur sol et occidit, et ad locum suum revertitur ; ibique renascens,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "gyrat per meridiem, et flectitur ad aquilonem. Lustrans universa in circuitu pergit spiritus, et in circulos suos revertitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Omnia flumina intrant in mare, et mare non redundat ; ad locum unde exeunt flumina revertuntur ut iterum fluant.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Cunctæ res difficiles ; non potest eas homo explicare sermone. Non saturatur oculus visu, nec auris auditu impletur.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Quid est quod fuit ? Ipsum quod futurum est. Quid est quod factum est ? Ipsum quod faciendum est.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Nihil sub sole novum, nec valet quisquam dicere : Ecce hoc recens est : jam enim præcessit in sæculis quæ fuerunt ante nos.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Non est priorum memoria ; sed nec eorum quidem quæ postea futura sunt erit recordatio apud eos qui futuri sunt in novissimo.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ego Ecclesiastes fui rex Israël in Jerusalem ;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "et proposui in animo meo quærere et investigare sapienter de omnibus quæ fiunt sub sole. Hanc occupationem pessimam dedit Deus filiis hominum, ut occuparentur in ea.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Vidi cuncta quæ fiunt sub sole, et ecce universa vanitas et afflictio spiritus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Perversi difficile corriguntur, et stultorum infinitus est numerus.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Locutus sum in corde meo, dicens : Ecce magnus effectus sum, et præcessi omnes sapientia qui fuerunt ante me in Jerusalem ; et mens mea contemplata est multa sapienter, et didici.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Dedique cor meum ut scirem prudentiam atque doctrinam, erroresque et stultitiam ; et agnovi quod in his quoque esset labor et afflictio spiritus :",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "eo quod in multa sapientia multa sit indignatio ; et qui addit scientiam, addit et laborem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Dixi ego in corde meo : Vadam, et affluam deliciis, et fruar bonis ; et vidi quod hoc quoque esset vanitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Risum reputavi errorem, et gaudio dixi : Quid frustra deciperis ?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Cogitavi in corde meo abstrahere a vino carnem meam, ut animam meam transferrem ad sapientiam, devitaremque stultitiam, donec viderem quid esset utile filiis hominum, quo facto opus est sub sole numero dierum vitæ suæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Magnificavi opera mea, ædificavi mihi domos, et plantavi vineas ;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "feci hortos et pomaria, et consevi ea cuncti generis arboribus ;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "et exstruxi mihi piscinas aquarum, ut irrigarem silvam lignorum germinantium.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Possedi servos et ancillas, multamque familiam habui : armenta quoque, et magnos ovium greges, ultra omnes qui fuerunt ante me in Jerusalem ;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "coacervavi mihi argentum et aurum, et substantias regum ac provinciarum ; feci mihi cantores et cantatrices, et delicias filiorum hominum, scyphos, et urceos in ministerio ad vina fundenda ;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "et supergressus sum opibus omnes qui ante me fuerunt in Jerusalem : sapientia quoque perseveravit mecum.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et omnia quæ desideraverunt oculi mei non negavi eis, nec prohibui cor meum quin omni voluptate frueretur, et oblectaret se in his quæ præparaveram ; et hanc ratus sum partem meam si uterer labore meo.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Cumque me convertissem ad universa opera quæ fecerant manus meæ, et ad labores in quibus frustra sudaveram, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Transivi ad contemplandam sapientiam, erroresque, et stultitiam. (Quid est, inquam, homo, ut sequi possit regem, factorem suum ?)",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et vidi quod tantum præcederet sapientia stultitiam, quantum differt lux a tenebris.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sapientis oculi in capite ejus ; stultus in tenebris ambulat : et didici quod unus utriusque esset interitus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et dixi in corde meo : Si unus et stulti et meus occasus erit, quid mihi prodest quod majorem sapientiæ dedi operam ? Locutusque cum mente mea, animadverti quod hoc quoque esset vanitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Non enim erit memoria sapientis similiter ut stulti in perpetuum, et futura tempora oblivione cuncta pariter operient : moritur doctus similiter ut indoctus.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Et idcirco tæduit me vitæ meæ, videntem mala universa esse sub sole, et cuncta vanitatem et afflictionem spiritus.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Rursus detestatus sum omnem industriam meam, qua sub sole studiosissime laboravi, habiturus hæredem post me,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "quem ignoro utrum sapiens an stultus futurus sit, et dominabitur in laboribus meis, quibus desudavi et sollicitus fui : et est quidquam tam vanum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Unde cessavi, renuntiavitque cor meum ultra laborare sub sole.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Nam cum alius laboret in sapientia, et doctrina, et sollicitudine, homini otioso quæsita dimittit ; et hoc ergo vanitas et magnum malum.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Quid enim proderit homini de universo labore suo, et afflictione spiritus, qua sub sole cruciatus est ?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Cuncti dies ejus doloribus et ærumnis pleni sunt, nec per noctem mente requiescit. Et hoc nonne vanitas est ?",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Nonne melius est comedere et bibere, et ostendere animæ suæ bona de laboribus suis ? et hoc de manu Dei est.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Quis ita devorabit et deliciis affluet ut ego ?",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et lætitiam ; peccatori autem dedit afflictionem et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo ; sed et hoc vanitas est, et cassa sollicitudo mentis.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Omnia tempus habent, et suis spatiis transeunt universa sub cælo.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Tempus nascendi, et tempus moriendi ; tempus plantandi, et tempus evellendi quod plantatum est.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Tempus occidendi, et tempus sanandi ; tempus destruendi, et tempus ædificandi.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Tempus flendi, et tempus ridendi ; tempus plangendi, et tempus saltandi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Tempus spargendi lapides, et tempus colligendi, tempus amplexandi, et tempus longe fieri ab amplexibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Tempus acquirendi, et tempus perdendi ; tempus custodiendi, et tempus abjiciendi.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Tempus scindendi, et tempus consuendi ; tempus tacendi, et tempus loquendi.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Tempus dilectionis, et tempus odii ; tempus belli, et tempus pacis.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Quid habet amplius homo de labore suo ?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Vidi afflictionem quam dedit Deus filiis hominum, ut distendantur in ea.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Cuncta fecit bona in tempore suo, et mundum tradidit disputationi eorum, ut non inveniat homo opus quod operatus est Deus ab initio usque ad finem.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et cognovi quod non esset melius nisi lætari, et facere bene in vita sua ;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "omnis enim homo qui comedit et bibit, et videt bonum de labore suo, hoc donum Dei est.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Didici quod omnia opera quæ fecit Deus perseverent in perpetuum ; non possumus eis quidquam addere, nec auferre, quæ fecit Deus ut timeatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Quod factum est, ipsum permanet ; quæ futura sunt jam fuerunt, et Deus instaurat quod abiit.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Vidi sub sole in loco judicii impietatem, et in loco justitiæ iniquitatem :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "et dixi in corde meo : Justum et impium judicabit Deus, et tempus omnis rei tunc erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Dixi in corde meo de filiis hominum, ut probaret eos Deus, et ostenderet similes esse bestiis.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Idcirco unus interitus est hominis et jumentorum, et æqua utriusque conditio. Sicut moritur homo, sic et illa moriuntur. Similiter spirant omnia, et nihil habet homo jumento amplius : cuncta subjacent vanitati,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "et omnia pergunt ad unum locum. De terra facta sunt, et in terram pariter revertuntur.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Quis novit si spiritus filiorum Adam ascendat sursum, et si spiritus jumentorum descendat deorsum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Et deprehendi nihil esse melius quam lætari hominem in opere suo, et hanc esse partem illius. Quis enim eum adducet ut post se futura cognoscat ?",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Verti me ad alia, et vidi calumnias quæ sub sole geruntur, et lacrimas innocentium, et neminem consolatorem, nec posse resistere eorum violentiæ, cunctorum auxilio destitutos,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "et laudavi magis mortuos quam viventes ;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et feliciorem utroque judicavi qui necdum natus est, nec vidit mala quæ sub sole fiunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Rursum contemplatus sum omnes labores hominum, et industrias animadverti patere invidiæ proximi ; et in hoc ergo vanitas et cura superflua est.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Stultus complicat manus suas, et comedit carnes suas, dicens :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Melior est pugillus cum requie, quam plena utraque manus cum labore et afflictione animi.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Considerans, reperi et aliam vanitatem sub sole.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Unus est, et secundum non habet, non filium, non fratrem, et tamen laborare non cessat, nec satiantur oculi ejus divitiis ; nec recogitat, dicens : Cui laboro, et fraudo animam meam bonis ? In hoc quoque vanitas est et afflictio pessima.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Melius est ergo duos esse simul quam unum ; habent enim emolumentum societatis suæ.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Si unus ceciderit, ab altero fulcietur. Væ soli, quia cum ceciderit, non habet sublevantem se.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Et si dormierint duo, fovebuntur mutuo ; unus quomodo calefiet ?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et si quispiam prævaluerit contra unum, duo resistunt ei ; funiculus triplex difficile rumpitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Melior est puer pauper et sapiens, rege sene et stulto, qui nescit prævidere in posterum.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Quod de carcere catenisque interdum quis egrediatur ad regnum ; et alius, natus in regno, inopia consumatur.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Vidi cunctos viventes qui ambulant sub sole cum adolescente secundo, qui consurget pro eo.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Infinitus numerus est populi omnium qui fuerunt ante eum, et qui postea futuri sunt non lætabuntur in eo ; sed et hoc vanitas et afflictio spiritus.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Custodi pedem tuum ingrediens domum Dei, et appropinqua ut audias. Multo enim melior est obedientia quam stultorum victimæ, qui nesciunt quid faciunt mali.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ne temere quid loquaris, neque cor tuum sit velox ad proferendum sermonem coram Deo. Deus enim in cælo, et tu super terram ; idcirco sint pauci sermones tui.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Multas curas sequuntur somnia, et in multis sermonibus invenietur stultitia.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Si quid vovisti Deo, ne moreris reddere : displicet enim ei infidelis et stulta promissio, sed quodcumque voveris redde :",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "multoque melius est non vovere, quam post votum promissa non reddere.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ne dederis os tuum ut peccare facias carnem tuam, neque dicas coram angelo : Non est providentia : ne forte iratus Deus contra sermones tuos dissipet cuncta opera manuum tuarum.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ubi multa sunt somnia, plurimæ sunt vanitates, et sermones innumeri ; tu vero Deum time.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Si videris calumnias egenorum, et violenta judicia, et subverti justitiam in provincia, non mireris super hoc negotio : quia excelso excelsior est alius, et super hos quoque eminentiores sunt alii ;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "et insuper universæ terræ rex imperat servienti.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Avarus non implebitur pecunia, et qui amat divitias fructum non capiet ex eis ; et hoc ergo vanitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ubi multæ sunt opes, multi et qui comedunt eas. Et quid prodest possessori, nisi quod cernit divitias oculis suis ?",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Dulcis est somnus operanti, sive parum sive multum comedat ; saturitas autem divitis non sinit eum dormire.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Est et alia infirmitas pessima quam vidi sub sole : divitiæ conservatæ in malum domini sui.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Pereunt enim in afflictione pessima : generavit filium qui in summa egestate erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sicut egressus est nudus de utero matris suæ, sic revertetur, et nihil auferet secum de labore suo.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Miserabilis prorsus infirmitas : quomodo venit, sic revertetur. Quid ergo prodest ei quod laboravit in ventum ?",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "cunctis diebus vitæ suæ comedit in tenebris, et in curis multis, et in ærumna atque tristitia.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hoc itaque visum est mihi bonum, ut comedat quis et bibat, et fruatur lætitia ex labore suo quo laboravit ipse sub sole, numero dierum vitæ suæ quos dedit ei Deus ; et hæc est pars illius.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Et omni homini cui dedit Deus divitias atque substantiam, potestatemque ei tribuit ut comedat ex eis, et fruatur parte sua, et lætetur de labore suo : hoc est donum Dei.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Non enim satis recordabitur dierum vitæ suæ, eo quod Deus occupet deliciis cor ejus.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Est et aliud malum quod vidi sub sole, et quidem frequens apud homines :",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "vir cui dedit Deus divitias, et substantiam, et honorem, et nihil deest animæ suæ ex omnibus quæ desiderat ; nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud : hoc vanitas et miseria magna est.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Si genuerit quispiam centum liberos, et vixerit multos annos, et plures dies ætatis habuerit, et anima illius non utatur bonis substantiæ suæ, sepulturaque careat : de hoc ergo pronuntio quod melior illo sit abortivus.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Frustra enim venit, et pergit ad tenebras, et oblivione delebitur nomen ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Non vidit solem, neque cognovit distantiam boni et mali.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis, nonne ad unum locum properant omnia ?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Omnis labor hominis in ore ejus ; sed anima ejus non implebitur.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Quid habet amplius sapiens a stulto ? et quid pauper, nisi ut pergat illuc ubi est vita ?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Melius est videre quod cupias, quam desiderare quod nescias. Sed et hoc vanitas est, et præsumptio spiritus.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Qui futurus est, jam vocatum est nomen ejus ; et scitur quod homo sit, et non possit contra fortiorem se in judicio contendere.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Verba sunt plurima, multamque in disputando habentia vanitatem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Quid necesse est homini majora se quærere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suæ, et tempore quod velut umbra præterit ? aut quis ei poterit indicare quod post eum futurum sub sole sit ?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Melius est nomen bonum quam unguenta pretiosa, et dies mortis die nativitatis.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Melius est ire ad domum luctus quam ad domum convivii ; in illa enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Melior est ira risu, quia per tristitiam vultus corrigitur animus delinquentis.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Cor sapientium ubi tristitia est, et cor stultorum ubi lætitia.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Melius est a sapiente corripi, quam stultorum adulatione decipi ;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "quia sicut sonitus spinarum ardentium sub olla, sic risus stulti. Sed et hoc vanitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Calumnia conturbat sapientem, et perdet robur cordis illius.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Melior est finis orationis quam principium. Melior est patiens arrogante.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ne sis velox ad irascendum, quia ira in sinu stulti requiescit.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ne dicas : Quid putas causæ est quod priora tempora meliora fuere quam nunc sunt ? stulta enim est hujuscemodi interrogatio.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Utilior est sapientia cum divitiis, et magis prodest videntibus solem.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Sicut enim protegit sapientia, sic protegit pecunia ; hoc autem plus habet eruditio et sapientia, quod vitam tribuunt possessori suo.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Considera opera Dei, quod nemo possit corrigere quem ille despexerit.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "In die bona fruere bonis, et malam diem præcave ; sicut enim hanc, sic et illam fecit Deus, ut non inveniat homo contra eum justas querimonias.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Hæc quoque vidi in diebus vanitatis meæ : justus perit in justitia sua, et impius multo vivit tempore in malitia sua.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Noli esse justus multum, neque plus sapias quam necesse est, ne obstupescas.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ne impie agas multum, et noli esse stultus, ne moriaris in tempore non tuo.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Bonum est te sustentare justum : sed et ab illo ne subtrahas manum tuam ; quia qui timet Deum nihil negligit.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sapientia confortavit sapientem super decem principes civitatis ;",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "non est enim homo justus in terra qui faciat bonum et non peccet.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Sed et cunctis sermonibus qui dicuntur ne accomodes cor tuum, ne forte audias servum tuum maledicentem tibi ;",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "scit enim conscientia tua quia et tu crebro maledixisti aliis.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Cuncta tentavi in sapientia. Dixi : Sapiens efficiar : et ipsa longius recessit a me,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "multo magis quam erat. Et alta profunditas, quis inveniet eam ?",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Lustravi universa animo meo, ut scirem et considerarem, et quærerem sapientiam, et rationem, et ut cognoscerem impietatem stulti, et errorem imprudentium :",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "et inveni amariorem morte mulierem, quæ laqueus venatorum est, et sagena cor ejus ; vincula sunt manus illius. Qui placet Deo effugiet illam ; qui autem peccator est capietur ab illa.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ecce hoc inveni, dixit Ecclesiastes, unum et alterum ut invenirem rationem,",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "quam adhuc quærit anima mea, et non inveni. Virum de mille unum reperi ; mulierem ex omnibus non inveni.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Solummodo hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quæstionibus. Quis talis ut sapiens est ? et quis cognovit solutionem verbi ?",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Sapientia hominis lucet in vultu ejus, et potentissimus faciem illius commutabit.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ego os regis observo, et præcepta juramenti Dei.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ne festines recedere a facie ejus, neque permaneas in opere malo : quia omne quod voluerit faciet.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et sermo illius potestate plenus est, nec dicere ei quisquam potest : Quare ita facis ?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Qui custodit præceptum non experietur quidquam mali. Tempus et responsionem cor sapientis intelligit.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Omni negotio tempus est, et opportunitas : et multa hominis afflictio,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "quia ignorat præterita, et futura nullo scire potest nuntio.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Non est in hominis potestate prohibere spiritum, nec habet potestatem in die mortis : nec sinitur quiescere ingruente bello, neque salvabit impietas impium.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Omnia hæc consideravi, et dedi cor meum in cunctis operibus quæ fiunt sub sole. Interdum dominatur homo homini in malum suum.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Vidi impios sepultos, qui etiam cum adhuc viverent in loco sancto erant, et laudabantur in civitate quasi justorum operum. Sed et hoc vanitas est.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Etenim quia non profertur cito contra malos sententia, absque timore ullo filii hominum perpetrant mala.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Attamen peccator ex eo quod centies facit malum, et per patientiam sustentatur ; ego cognovi quod erit bonum timentibus Deum, qui verentur faciem ejus.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Non sit bonum impio, nec prolongentur dies ejus, sed quasi umbra transeant qui non timent faciem Domini.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Est et alia vanitas quæ fit super terram : sunt justi quibus mala proveniunt quasi opera egerint impiorum : et sunt impii qui ita securi sunt quasi justorum facta habeant. Sed et hoc vanissimum judico.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Laudavi igitur lætitiam ; quod non esset homini bonum sub sole, nisi quod comederet, et biberet, atque gauderet, et hoc solum secum auferret de labore suo, in diebus vitæ suæ quos dedit ei Deus sub sole.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Et apposui cor meum ut scirem sapientiam, et intelligerem distentionem quæ versatur in terra. Est homo qui diebus et noctibus somnum non capit oculis.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Et intellexi quod omnium operum Dei nullam possit homo invenire rationem eorum quæ fiunt sub sole ; et quanto plus laboraverit ad quærendum, tanto minus inveniat : etiam si dixerit sapiens se nosse, non poterit reperire.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Omnia hæc tractavi in corde meo, ut curiose intelligerem. Sunt justi atque sapientes, et opera eorum in manu Dei ; et tamen nescit homo utrum amore an odio dignus sit.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Sed omnia in futurum servantur incerta, eo quod universa æque eveniant justo et impio, bono et malo, mundo et immundo, immolanti victimas et sacrificia contemnenti. Sicut bonus, sic et peccator ; ut perjurus, ita et ille qui verum dejerat.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hoc est pessimum inter omnia quæ sub sole fiunt : quia eadem cunctis eveniunt. Unde et corda filiorum hominum implentur malitia et contemptu in vita sua, et post hæc ad inferos deducentur.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nemo est qui semper vivat, et qui hujus rei habeat fiduciam ; melior est canis vivus leone mortuo.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Viventes enim sciunt se esse morituros ; mortui vero nihil noverunt amplius, nec habent ultra mercedem, quia oblivioni tradita est memoria eorum.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Amor quoque, et odium, et invidiæ simul perierunt ; nec habent partem in hoc sæculo, et in opere quod sub sole geritur.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Vade ergo, et comede in lætitia panem tuum, et bibe cum gaudio vinum tuum, quia Deo placent opera tua.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Omni tempore sint vestimenta tua candida, et oleum de capite tuo non deficiat.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Perfruere vita cum uxore quam diligis, cunctis diebus vitæ instabilitatis tuæ, qui dati sunt tibi sub sole omni tempore vanitatis tuæ : hæc est enim pars in vita et in labore tuo quo laboras sub sole.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Quodcumque facere potest manus tua, instanter operare, quia nec opus, nec ratio, nec sapientia, nec scientia erunt apud inferos, quo tu properas.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Verti me ad aliud, et vidi sub sole nec velocium esse cursum, nec fortium bellum, nec sapientium panem, nec doctorum divitias, nec artificum gratiam ; sed tempus casumque in omnibus.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Nescit homo finem suum ; sed sicut pisces capiuntur hamo, et sicut aves laqueo comprehenduntur, sic capiuntur homines in tempore malo, cum eis extemplo supervenerit.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Hanc quoque sub sole vidi sapientiam, et probavi maximam :",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "civitas parva, et pauci in ea viri ; venit contra eam rex magnus, et vallavit eam, exstruxitque munitiones per gyrum, et perfecta est obsidio.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Inventusque est in ea vir pauper et sapiens, et liberavit urbem per sapientiam suam ; et nullus deinceps recordatus est hominis illius pauperis.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Et dicebam ego meliorem esse sapientiam fortitudine. Quomodo ergo sapientia pauperis contempta est, et verba ejus non sunt audita ?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Verba sapientium audiuntur in silentio, plus quam clamor principis inter stultos.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Melior est sapientia quam arma bellica ; et qui in uno peccaverit, multa bona perdet.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Muscæ morientes perdunt suavitatem unguenti. Pretiosior est sapientia et gloria, parva et ad tempus stultitia.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Cor sapientis in dextera ejus, et cor stulti in sinistra illius.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Sed et in via stultus ambulans, cum ipse insipiens sit, omnes stultos æstimat.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Si spiritus potestatem habentis ascenderit super te, locum tuum ne demiseris, quia curatio faciet cessare peccata maxima.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Est malum quod vidi sub sole, quasi per errorem egrediens a facie principis :",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "positum stultum in dignitate sublimi, et divites sedere deorsum.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Vidi servos in equis, et principes ambulantes super terram quasi servos.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Qui fodit foveam incidet in eam, et qui dissipat sepem mordebit eum coluber.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Qui transfert lapides affligetur in eis, et qui scindit ligna vulnerabitur ab eis.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Si retusum fuerit ferrum, et hoc non ut prius, sed hebetatum fuerit, multo labore exacuetur, et post industriam sequetur sapientia.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Verba oris sapientis gratia, et labia insipientis præcipitabunt eum ;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "initium verborum ejus stultitia, et novissimum oris illius error pessimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Stultus verba multiplicat. Ignorat homo quid ante se fuerit ; et quid post se futurum sit, quis ei poterit indicare ?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Labor stultorum affliget eos, qui nesciunt in urbem pergere.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Væ tibi, terra, cujus rex puer est, et cujus principes mane comedunt.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Beata terra cujus rex nobilis est, et cujus principes vescuntur in tempore suo, ad reficiendum, et non ad luxuriam.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "In pigritiis humiliabitur contignatio, et in infirmitate manuum perstillabit domus.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "In risum faciunt panem et vinum ut epulentur viventes ; et pecuniæ obediunt omnia.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "In cogitatione tua regi ne detrahas, et in secreto cubiculi tui ne maledixeris diviti : quia et aves cæli portabunt vocem tuam, et qui habet pennas annuntiabit sententiam.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mitte panem tuum super transeuntes aquas, quia post tempora multa invenies illum.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Da partem septem necnon et octo, quia ignoras quid futurum sit mali super terram.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Si repletæ fuerint nubes, imbrem super terram effundent. Si ceciderit lignum ad austrum aut ad aquilonem, in quocumque loco ceciderit, ibi erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Qui observat ventum non seminat ; et qui considerat nubes numquam metet.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Quomodo ignoras quæ sit via spiritus, et qua ratione compingantur ossa in ventre prægnantis, sic nescis opera Dei, qui fabricator est omnium.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mane semina semen tuum, et vespere ne cesset manus tua : quia nescis quid magis oriatur, hoc aut illud ; et si utrumque simul, melius erit.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Dulce lumen, et delectabile est oculis videre solem.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Si annis multis vixerit homo, et in his omnibus lætatus fuerit, meminisse debet tenebrosi temporis, et dierum multorum, qui cum venerint, vanitatis arguentur præterita.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Lætare ergo, juvenis, in adolescentia tua, et in bono sit cor tuum in diebus juventutis tuæ : et ambula in viis cordis tui, et in intuitu oculorum tuorum, et scito quod pro omnibus his adducet te Deus in judicium.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Aufer iram a corde tuo, et amove malitiam a carne tua : adolescentia enim et voluptas vana sunt.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Memento Creatoris tui in diebus juventutis tuæ, antequam veniat tempus afflictionis, et appropinquent anni de quibus dicas : Non mihi placent ;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "antequam tenebrescat sol, et lumen, et luna, et stellæ, et revertantur nubes post pluviam ;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "quando commovebuntur custodes domus, et nutabunt viri fortissimi, et otiosæ erunt molentes in minuto numero, et tenebrescent videntes per foramina ;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "et claudent ostia in platea, in humilitate vocis molentis, et consurgent ad vocem volucris, et obsurdescent omnes filiæ carminis :",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "excelsa quoque timebunt, et formidabunt in via. Florebit amygdalus, impinguabitur locusta, et dissipabitur capparis, quoniam ibit homo in domum æternitatis suæ, et circuibunt in platea plangentes.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Antequam rumpatur funiculus argenteus, et recurrat vitta aurea, et conteratur hydria super fontem, et confringatur rota super cisternam,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "et revertatur pulvis in terram suam unde erat, et spiritus redeat ad Deum, qui dedit illum.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Vanitas vanitatum, dixit Ecclesiastes, et omnia vanitas.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Cumque esset sapientissimus Ecclesiastes, docuit populum, et enarravit quæ fecerat ; et investigans composuit parabolas multas.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Quæsivit verba utilia, et conscripsit sermones rectissimos ac veritate plenos.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Verba sapientium sicut stimuli, et quasi clavi in altum defixi, quæ per magistrorum consilium data sunt a pastore uno.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "His amplius, fili mi, ne requiras. Faciendi plures libros nullus est finis ; frequensque meditatio, carnis afflictio est.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Finem loquendi pariter omnes audiamus. Deum time, et mandata ejus observa : hoc est enim omnis homo,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "et cuncta quæ fiunt adducet Deus in judicium pro omni errato, sive bonum, sive malum illud sit.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
