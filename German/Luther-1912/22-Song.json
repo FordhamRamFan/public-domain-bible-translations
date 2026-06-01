@@ -1,0 +1,766 @@
+{
+  "book": "Hoheslied",
+  "abbreviation": "Song",
+  "number": 22,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Das Hohelied Salomos.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Er küsse mich mit dem Kusse seines Mundes; denn deine Liebe ist lieblicher als Wein.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Es riechen deine Salben köstlich; dein Name ist eine ausgeschüttete Salbe, darum lieben dich die Jungfrauen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Zieh mich dir nach, so laufen wir. Der König führte mich in seine Kammern. Wir freuen uns und sind fröhlich über dir; wir gedenken an deine Liebe mehr denn an den Wein. Die Frommen lieben dich.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ich bin schwarz, aber gar lieblich, ihr Töchter Jerusalems, wie die Hütten Kedars, wie die Teppiche Salomos.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Seht mich nicht an, daß ich so schwarz bin; denn die Sonne hat mich so verbrannt. Meiner Mutter Kinder zürnen mit mir. Sie haben mich zur Hüterin der Weinberge gesetzt; aber meinen eigenen Weinberg habe ich nicht behütet.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Sage mir an, du, den meine Seele liebt, wo du weidest, wo du ruhest im Mittage, daß ich nicht hin und her gehen müsse bei den Herden deiner Gesellen.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Weiß du es nicht, du schönste unter den Weibern, so gehe hinaus auf die Fußtapfen der Schafe und weide deine Zicklein bei den Hirtenhäusern.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ich vergleiche dich, meine Freundin, meinem Gespann an den Wagen Pharaos.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Deine Backen stehen lieblich in den Kettchen und dein Hals in den Schnüren.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wir wollen dir goldene Kettchen machen mit silbernen Pünktlein.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Da der König sich herwandte, gab meine Narde ihren Geruch.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mein Freund ist mir ein Büschel Myrrhen, das zwischen meinen Brüsten hanget.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mein Freund ist mir eine Traube von Zyperblumen in den Weinbergen zu Engedi.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Siehe, meine Freundin, du bist schön; schön bist du, deine Augen sind wie Taubenaugen.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Siehe, mein Freund, du bist schön und lieblich. Unser Bett grünt,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "unserer Häuser Balken sind Zedern, unser Getäfel Zypressen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ich bin eine Blume zu Saron und eine Rose im Tal.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wie eine Rose unter den Dornen, so ist meine Freundin unter den Töchtern.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Wie ein Apfelbaum unter den wilden Bäumen, so ist mein Freund unter den Söhnen. Ich sitze unter dem Schatten, des ich begehre, und seine Frucht ist meiner Kehle süß.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Er führt mich in den Weinkeller, und die Liebe ist sein Panier über mir.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Er erquickt mich mit Blumen und labt mich mit Äpfeln; denn ich bin krank vor Liebe.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Seine Linke liegt unter meinem Haupte, und seine Rechte herzt mich.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ich beschwöre euch, ihr Töchter Jerusalems, bei den Rehen oder bei den Hinden auf dem Felde, daß ihr meine Freundin nicht aufweckt noch regt, bis es ihr selbst gefällt.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Da ist die Stimme meines Freundes! Siehe, er kommt und hüpft auf den Bergen und springt auf den Hügeln.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mein Freund ist gleich einem Reh oder jungen Hirsch. Siehe, er steht hinter unsrer Wand, sieht durchs Fenster und schaut durchs Gitter.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mein Freund antwortet und spricht zu mir: Stehe auf, meine Freundin, meine Schöne, und komm her!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Denn siehe, der Winter ist vergangen, der Regen ist weg und dahin;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "die Blumen sind hervorgekommen im Lande, der Lenz ist herbeigekommen, und die Turteltaube läßt sich hören in unserm Lande;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "der Feigenbaum hat Knoten gewonnen, die Weinstöcke haben Blüten gewonnen und geben ihren Geruch. Stehe auf, meine Freundin, und komm, meine Schöne, komm her!",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Meine Taube in den Felsklüften, in den Steinritzen, zeige mir deine Gestalt, laß mich hören deine Stimme; denn die Stimme ist süß, und deine Gestalt ist lieblich.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Fanget uns die Füchse, die kleinen Füchse, die die Weinberge verderben; denn unsere Weinberge haben Blüten gewonnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mein Freund ist mein, und ich bin sein, der unter Rosen weidet.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Bis der Tag kühl wird und die Schatten weichen, kehre um; werde wie ein Reh, mein Freund, oder wie ein junger Hirsch auf den Scheidebergen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Des Nachts auf meinem Lager suchte ich, den meine Seele liebt. Ich suchte; aber ich fand ihn nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ich will aufstehen und in der Stadt umgehen auf den Gassen und Straßen und suchen, den meine Seele liebt. Ich suchte; aber ich fand ihn nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Es fanden mich die Wächter, die in der Stadt umgehen: \"Habt ihr nicht gesehen, den meine Seele liebt?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Da ich ein wenig an ihnen vorüber war, da fand ich, den meine Seele liebt. Ich halte ihn und will ihn nicht lassen, bis ich ihn bringe in meiner Mutter Haus, in die Kammer der, die mich geboren hat.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ich beschwöre euch, ihr Töchter Jerusalems, bei den Rehen oder Hinden auf dem Felde, daß ihr meine Freundin nicht aufweckt noch regt, bis es ihr selbst gefällt.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Wer ist die, die heraufgeht aus der Wüste wie ein gerader Rauch, wie ein Geräuch von Myrrhe, Weihrauch und allerlei Gewürzstaub des Krämers?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Siehe, um das Bett Salomos her stehen sechzig Starke aus den Starken in Israel.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Sie halten alle Schwerter und sind geschickt, zu streiten. Ein jeglicher hat sein Schwert an seiner Hüfte um des Schreckens willen in der Nacht.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Der König Salomo ließ sich eine Sänfte machen von Holz aus Libanon.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ihre Säulen sind silbern, die Decke golden, der Sitz purpurn, und inwendig ist sie lieblich ausgeziert um der Töchter Jerusalems willen.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Gehet heraus und schauet an, ihr Töchter Zions, den König Salomo in der Krone, damit ihn seine Mutter gekrönt hat am Tage seiner Hochzeit und am Tage der Freude seines Herzens.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Siehe, meine Freundin, du bist schön! siehe, schön bist du! Deine Augen sind wie Taubenaugen zwischen deinen Zöpfen. Dein Haar ist wie eine Herde Ziegen, die gelagert sind am Berge Gilead herab.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Deine Zähne sind wie eine Herde Schafe mit bechnittener Wolle, die aus der Schwemme kommen, die allzumal Zwillinge haben, und es fehlt keiner unter ihnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Deine Lippen sind wie eine scharlachfarbene Schnur und deine Rede lieblich. Deine Wangen sind wie der Ritz am Granatapfel zwischen deinen Zöpfen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Dein Hals ist wie der Turm Davids, mit Brustwehr gebaut, daran tausend Schilde hangen und allerlei Waffen der Starken.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Deine zwei Brüste sind wie zwei junge Rehzwillinge, die unter den Rosen weiden.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Bis der Tag kühl wird und die Schatten weichen, will ich zum Myrrhenberge gehen und zum Weihrauchhügel.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Du bist allerdinge schön, meine Freundin, und ist kein Flecken an dir.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Komm mit mir, meine Braut, vom Libanon, komm mit mir vom Libanon, tritt her von der Höhe Amana, von der Höhe Senir und Hermon, von den Wohnungen der Löwen, von den Bergen der Leoparden!",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Du hast mir das Herz genommen, meine Schwester, liebe Braut, mit deiner Augen einem und mit deiner Halsketten einer.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wie schön ist deine Liebe, meine Schwester, liebe Braut! Deine Liebe ist lieblicher denn Wein, und der Geruch deiner Salben übertrifft alle Würze.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Deine Lippen, meine Braut, sind wie triefender Honigseim; Honig und Milch ist unter deiner Zunge, und deiner Kleider Geruch ist wie der Geruch des Libanon.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Meine Schwester, liebe Braut, du bist ein verschlossener Garten, eine verschlossene Quelle, ein versiegelter Born.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Deine Gewächse sind wie ein Lustgarten von Granatäpfeln mit edlen Früchten, Zyperblumen mit Narden,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Narde und Safran, Kalmus und Zimt, mit allerlei Bäumen des Weihrauchs, Myrrhen und Aloe mit allen besten Würzen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ein Gartenbrunnen bist du, ein Born lebendiger Wasser, die vom Libanon fließen.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Stehe auf, Nordwind, und komm, Südwind, und wehe durch meinen Garten, daß seine Würzen triefen! Mein Freund komme in seinen Garten und esse von seinen edlen Früchten.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ich bin gekommen, meine Schwester, liebe Braut, in meinen Garten. Ich habe meine Myrrhe samt meinen Würzen abgebrochen; ich habe meinen Seim samt meinem Honig gegessen; ich habe meinen Wein samt meiner Milch getrunken. Eßt, meine Lieben, und trinkt, meine Freunde, und werdet trunken!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ich schlafe, aber mein Herz wacht. Da ist die Stimme meines Freundes, der anklopft: Tue mir auf, liebe Freundin, meine Schwester, meine Taube, meine Fromme! denn mein Haupt ist voll Tau und meine Locken voll Nachttropfen.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ich habe meinen Rock ausgezogen, wie soll ich ihn wieder anziehen? Ich habe meine Füße gewaschen, wie soll ich sie wieder besudeln?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Aber mein Freund steckte seine Hand durchs Riegelloch, und mein Innerstes erzitterte davor.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Da stand ich auf, daß ich meinem Freund auftäte; meine Hände troffen von Myrrhe und meine Finger von fließender Myrrhe an dem Riegel am Schloß.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Und da ich meinem Freund aufgetan hatte, war er weg und hingegangen. Meine Seele war außer sich, als er redete. Ich suchte ihn, aber ich fand ihn nicht; ich rief, aber er antwortete mir nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Es fanden mich die Hüter, die in der Stadt umgehen; die schlugen mich wund; die Hüter auf der Mauer nahmen mir meinen Schleier.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ich beschwöre euch, ihr Töchter Jerusalems, findet ihr meinen Freund, so sagt ihm, daß ich vor Liebe krank liege.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Was ist dein Freund vor andern Freunden, o du schönste unter den Weibern? Was ist dein Freund vor andern Freunden, daß du uns so beschworen hast?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mein Freund ist weiß und rot, auserkoren unter vielen Tausenden.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Sein Haupt ist das feinste Gold. Seine Locken sind kraus, schwarz wie ein Rabe.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Seine Augen sind wie Augen der Tauben an den Wasserbächen, mit Milch gewaschen und stehen in Fülle.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Seine Backen sind wie Würzgärtlein, da Balsamkräuter wachsen. Seine Lippen sind wie Rosen, die von fließender Myrrhe triefen.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Seine Hände sind wie goldene Ringe, voll Türkise. Sein Leib ist wie reines Elfenbein, mit Saphiren geschmückt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Seine Beine sind wie Marmelsäulen, gegründet auf goldenen Füßen. Seine Gestalt ist wie Libanon, auserwählt wie Zedern.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Seine Kehle ist süß, und er ist ganz lieblich. Ein solcher ist mein Freund; mein Freund ist ein solcher, ihr Töchter Jerusalems!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Wo ist denn dein Freund hin gegangen, o du schönste unter den Weibern? Wo hat sich dein Freund hin gewandt? So wollen wir mit dir ihn suchen.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mein Freund ist hinabgegangen in seinen Garten, zu den Würzgärtlein, daß er weide in den Gärten und Rosen breche.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mein Freund ist mein, und ich bin sein, der unter den Rosen weidet.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Du bist schön, meine Freundin, wie Thirza, lieblich wie Jerusalem, schrecklich wie Heerscharen.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Wende deine Augen von mir; denn sie verwirren mich. Deine Haare sind wie eine Herde Ziegen, die am Berge Gilead herab gelagert sind.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Deine Zähne sind wie eine Herde Schafe, die aus der Schwemme kommen, die allzumal Zwillinge haben, und es fehlt keiner unter ihnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Deine Wangen sind wie ein Ritz am Granatapfel zwischen deinen Zöpfen.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Sechzig sind der Königinnen und achtzig der Kebsweiber, und der Jungfrauen ist keine Zahl.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Aber eine ist meine Taube, meine Fromme, eine ist ihrer Mutter die Liebste und die Auserwählte ihrer Mutter. Da sie die Töchter sahen, priesen sie dieselbe selig; die Königinnen und Kebsweiber lobten sie.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wer ist, die hervorbricht wie die Morgenröte, schön wie der Mond, auserwählt wie die Sonne, schrecklich wie Heerscharen?",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ich bin hinab in den Nußgarten gegangen, zu schauen die Sträuchlein am Bach, zu schauen, ob die Granatbäume blühten.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ich wußte nicht, daß meine Seele mich gesetzt hatte zu den Wagen Ammi-Nadibs.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Kehre wieder, kehre wieder, o Sulamith! kehre wieder, kehre wieder, daß wir dich schauen! Was sehet ihr an Sulamith? Den Reigen zu Mahanaim.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wie schön ist dein Gang in den Schuhen, du Fürstentochter! Deine Lenden stehen gleich aneinander wie zwei Spangen, die des Meisters Hand gemacht hat.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Dein Schoß ist wie ein runder Becher, dem nimmer Getränk mangelt. Dein Leib ist wie ein Weizenhaufen, umsteckt mit Rosen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Deine zwei Brüste sind wie zwei Rehzwillinge.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Dein Hals ist wie ein elfenbeinerner Turm. Deine Augen sind wie die Teiche zu Hesbon am Tor Bathrabbims. Deine Nase ist wie der Turm auf dem Libanon, der gen Damaskus sieht.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Dein Haupt steht auf dir wie der Karmel. Das Haar auf deinem Haupt ist wie der Purpur des Königs, in Falten gebunden.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wie schön und wie lieblich bist du, du Liebe voller Wonne!",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Dein Wuchs ist hoch wie ein Palmbaum und deine Brüste gleich den Weintrauben.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ich sprach: Ich muß auf dem Palmbaum steigen und seine Zweige ergreifen. Laß deine Brüste sein wie Trauben am Weinstock und deiner Nase Duft wie Äpfel",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "und deinen Gaumen wie guter Wein, der meinem Freunde glatt eingeht und der Schläfer Lippen reden macht.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mein Freund ist mein, und nach mir steht sein Verlangen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Komm, mein Freund, laß uns aufs Feld hinausgehen und auf den Dörfern bleiben,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "daß wir früh aufstehen zu den Weinbergen, daß wir sehen, ob der Weinstock sprosse und seine Blüten aufgehen, ob die Granatbäume blühen; da will ich dir meine Liebe geben.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Die Lilien geben den Geruch, und über unsrer Tür sind allerlei edle Früchte. Mein Freund, ich habe dir beide, heurige und vorjährige, behalten.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "O, daß du mir gleich einem Bruder wärest, der meiner Mutter Brüste gesogen! Fände ich dich draußen, so wollte ich dich küssen, und niemand dürfte mich höhnen!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ich wollte dich führen und in meiner Mutter Haus bringen, da du mich lehren solltest; da wollte ich dich tränken mit gewürztem Wein und mit dem Most meiner Granatäpfel.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Seine Linke liegt unter meinem Haupt, und seine Rechte herzt mich.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ich beschwöre euch, Töchter Jerusalems, daß ihr meine Liebe nicht aufweckt noch regt, bis es ihr selbst gefällt.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Wer ist die, die heraufsteigt von der Wüste und lehnt sich auf ihren Freund? Unter dem Apfelbaum weckte ich dich; da ist dein genesen deine Mutter, da ist dein genesen, die dich geboren hat.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Setze mich wie ein Siegel auf dein Herz und wie ein Siegel auf deinen Arm. Denn Liebe ist stark wie der Tod, und ihr Eifer ist fest wie die Hölle. Ihre Glut ist feurig und eine Flamme des HERRN,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "daß auch viele Wasser nicht mögen die Liebe auslöschen noch die Ströme sie ertränken. Wenn einer alles Gut in seinem Hause um die Liebe geben wollte, so gölte es alles nichts.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Unsere Schwester ist klein und hat keine Brüste. Was sollen wir unsrer Schwester tun, wenn man nun um sie werben wird?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ist sie eine Mauer, so wollen wir ein silbernes Bollwerk darauf bauen. Ist sie eine Tür, so wollen wir sie festigen mit Zedernbohlen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ich bin eine Mauer und meine Brüste sind wie Türme. Da bin ich geworden vor seinen Augen, als die Frieden findet.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Salomo hat einen Weinberg zu Baal-Hamon. Er gab den Weinberg den Hütern, daß ein jeglicher für seine Früchte brächte tausend Silberlinge.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mein eigener Weinberg ist vor mir. Dir, Salomo, gebühren tausend, aber zweihundert den Hütern seiner Früchte.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Die du wohnst in den Gärten, laß mich deine Stimme hören; die Genossen merken darauf.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Flieh, mein Freund, und sei gleich einem Reh oder jungen Hirsch auf den Würzbergen!",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

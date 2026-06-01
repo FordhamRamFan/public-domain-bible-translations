@@ -1,0 +1,728 @@
+{
+  "book": "1. Timotheus",
+  "abbreviation": "1Tim",
+  "number": 54,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulus, ein Apostel Jesu Christi nach dem Befehl Gottes, unsers Heilandes, und des HERRN Jesu Christi, der unsre Hoffnung ist,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "dem Timotheus, meinem rechtschaffenen Sohn im Glauben: Gnade, Barmherzigkeit, Friede von Gott, unserm Vater, und unserm HERRN Jesus Christus!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Wie ich dich ermahnt habe, daß du zu Ephesus bliebest, da ich nach Mazedonien zog, und gebötest etlichen, daß sie nicht anders lehrten,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "und nicht acht hätten auf die Fabeln und Geschlechtsregister, die kein Ende haben und Fragen aufbringen mehr denn Besserung zu Gott im Glauben;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "denn die Hauptsumme des Gebotes ist Liebe von reinem Herzen und von gutem Gewissen und von ungefärbtem Glauben;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "wovon etliche sind abgeirrt und haben sich umgewandt zu unnützem Geschwätz,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "wollen der Schrift Meister sein, und verstehen nicht, was sie sagen oder was sie setzen.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wir wissen aber, daß das Gesetz gut ist, so es jemand recht braucht",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "und weiß solches, daß dem Gerechten kein Gesetz gegeben ist, sondern den Ungerechten und Ungehorsamen, den Gottlosen und Sündern, den Unheiligen und Ungeistlichen, den Vatermördern und Muttermördern, den Totschlägern",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "den Hurern, den Knabenschändern, den Menschendieben, den Lügnern, den Meineidigen und so etwas mehr der heilsamen Lehre zuwider ist,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "nach dem herrlichen Evangelium des seligen Gottes, welches mir anvertrauet ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ich danke unserm HERR Christus Jesus, der mich stark gemacht und treu geachtet hat und gesetzt in das Amt,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "der ich zuvor war ein Lästerer und ein Verfolger und ein Schmäher; aber mir ist Barmherzigkeit widerfahren, denn ich habe es unwissend getan im Unglauben.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Es ist aber desto reicher gewesen die Gnade unsers HERRN samt dem Glauben und der Liebe, die in Christo Jesu ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Das ist gewißlich wahr und ein teuer wertes Wort, daß Christus Jesus gekommen ist in die Welt, die Sünder selig zu machen, unter welchen ich der vornehmste bin.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Aber darum ist mir Barmherzigkeit widerfahren, auf daß an mir vornehmlich Jesus Christus erzeigte alle Geduld, zum Vorbild denen, die an ihn glauben sollten zum ewigen Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Aber Gott, dem ewigen König, dem Unvergänglichen und Unsichtbaren und allein Weisen, sei Ehre und Preis in Ewigkeit! Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Dies Gebot befehle ich dir, mein Sohn Timotheus, nach den vorherigen Weissagungen über dich, daß du in ihnen eine gute Ritterschaft übest",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "und habest den Glauben und gutes Gewissen, welches etliche von sich gestoßen und am Glauben Schiffbruch erlitten haben;",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "unter welchen ist Hymenäus und Alexander, welche ich habe dem Satan übergeben, daß sie gezüchtigt werden, nicht mehr zu lästern.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "So ermahne ich euch nun, daß man vor allen Dingen zuerst tue Bitte, Gebet, Fürbitte und Danksagung für alle Menschen,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "für die Könige und alle Obrigkeit, auf daß wir ein ruhiges und stilles Leben führen mögen in aller Gottseligkeit und Ehrbarkeit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Denn solches ist gut und angenehm vor Gott, unserm Heiland,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "welcher will, daß allen Menschen geholfen werde und sie zur Erkenntnis der Wahrheit kommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Denn es ist ein Gott und ein Mittler zwischen Gott und den Menschen, nämlich der Mensch Christus Jesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "der sich selbst gegeben hat für alle zur Erlösung, daß solches zu seiner Zeit gepredigt würde;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "dazu ich gesetzt bin als Prediger und Apostel (ich sage die Wahrheit in Christo und lüge nicht), als Lehrer der Heiden im Glauben und in der Wahrheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "So will ich nun, daß die Männer beten an allen Orten und aufheben heilige Hände ohne Zorn und Zweifel.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Desgleichen daß die Weiber in zierlichem Kleide mit Scham und Zucht sich schmücken, nicht mit Zöpfen oder Gold oder Perlen oder köstlichem Gewand,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "sondern, wie sich's ziemt den Weibern, die da Gottseligkeit beweisen wollen, durch gute Werke.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ein Weib lerne in der Stille mit aller Untertänigkeit.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Einem Weibe aber gestatte ich nicht, daß sie lehre, auch nicht, daß sie des Mannes Herr sei, sondern stille sei.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Denn Adam ist am ersten gemacht, darnach Eva.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Und Adam ward nicht verführt; das Weib aber ward verführt und hat die Übertretung eingeführt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Sie wird aber selig werden durch Kinderzeugen, so sie bleiben im Glauben und in der Liebe und in der Heiligung samt der Zucht.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Das ist gewißlich wahr: So jemand ein Bischofsamt begehrt, der begehrt ein köstlich Werk.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Es soll aber ein Bischof unsträflich sein, eines Weibes Mann, nüchtern, mäßig, sittig, gastfrei, lehrhaft,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "nicht ein Weinsäufer, nicht raufen, nicht unehrliche Hantierung treiben, sondern gelinde, nicht zänkisch, nicht geizig,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "der seinem eigenen Hause wohl vorstehe, der gehorsame Kinder habe mit aller Ehrbarkeit,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "(so aber jemand seinem eigenen Hause nicht weiß vorzustehen, wie wird er die Gemeinde Gottes versorgen?);",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nicht ein Neuling, auf daß er sich nicht aufblase und ins Urteil des Lästerers falle.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Er muß aber auch ein gutes Zeugnis haben von denen, die draußen sind, auf daß er nicht falle dem Lästerer in Schmach und Strick.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Desgleichen die Diener sollen ehrbar sein, nicht zweizüngig, nicht Weinsäufer, nicht unehrliche Hantierungen treiben;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "die das Geheimnis des Glaubens in reinem Gewissen haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Und diese lasse man zuvor versuchen; darnach lasse man sie dienen, wenn sie unsträflich sind.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Desgleichen ihre Weiber sollen ehrbar sein, nicht Lästerinnen, nüchtern, treu in allen Dingen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Die Diener laß einen jeglichen sein eines Weibes Mann, die ihren Kindern wohl vorstehen und ihren eigenen Häusern.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Welche aber wohl dienen, die erwerben sich selbst eine gute Stufe und eine große Freudigkeit im Glauben an Christum Jesum.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Solches schreibe ich dir und hoffe, bald zu dir zu kommen;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "so ich aber verzöge, daß du wissest, wie du wandeln sollst in dem Hause Gottes, welches ist die Gemeinde des lebendigen Gottes, ein Pfeiler und eine Grundfeste der Wahrheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Und kündlich groß ist das gottselige Geheimnis: Gott ist offenbart im Fleisch, gerechtfertigt im Geist, erschienen den Engeln, gepredigt den Heiden, geglaubt von der Welt, aufgenommen in die Herrlichkeit.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Der Geist aber sagt deutlich, daß in den letzten Zeiten werden etliche von dem Glauben abtreten und anhangen den verführerischen Geistern und Lehren der Teufel",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "durch die, so in Gleisnerei Lügen reden und Brandmal in ihrem Gewissen haben,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "die da gebieten, nicht ehelich zu werden und zu meiden die Speisen, die Gott geschaffen hat zu nehmen mit Danksagung, den Gläubigen und denen, die die Wahrheit erkennen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Denn alle Kreatur Gottes ist gut, und nichts ist verwerflich, das mit Danksagung empfangen wird;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "denn es wird geheiligt durch das Wort Gottes und Gebet.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Wenn du den Brüdern solches vorhältst, so wirst du ein guter Diener Jesu Christi sein, auferzogen in den Worten des Glaubens und der guten Lehre, bei welcher du immerdar gewesen bist.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Aber der ungeistlichen Altweiberfabeln entschlage dich; übe dich selbst aber in der Gottseligkeit.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Denn die leibliche Übung ist wenig nütz; aber die Gottseligkeit ist zu allen Dingen nütz und hat die Verheißung dieses und des zukünftigen Lebens.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Das ist gewißlich wahr und ein teuer wertes Wort.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Denn dahin arbeiten wir auch und werden geschmäht, daß wir auf den lebendigen Gott gehofft haben, welcher ist der Heiland aller Menschen, sonderlich der Gläubigen.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Solches gebiete und lehre.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Niemand verachte deine Jugend; sondern sei ein Vorbild den Gläubigen im Wort, im Wandel, in der Liebe, im Geist, im Glauben, in der Keuschheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Halte an mit Lesen, mit Ermahnen, mit Lehren, bis ich komme.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Laß nicht aus der Acht die Gabe, die dir gegeben ist durch die Weissagung mit Handauflegung der Ältesten.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Dessen warte, gehe damit um, auf daß dein Zunehmen in allen Dingen offenbar sei.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Habe acht auf dich selbst und auf die Lehre; beharre in diesen Stücken. Denn wo du solches tust, wirst du dich selbst selig machen und die dich hören.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Einen Alten schilt nicht, sondern ermahne ihn als einen Vater, die Jungen als Brüder,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Die alten Weiber als Mütter, die jungen als Schwestern mit aller Keuschheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ehre die Witwen, welche rechte Witwen sind.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "So aber eine Witwe Enkel oder Kinder hat, solche laß zuvor lernen, ihre eigenen Häuser göttlich regieren und den Eltern Gleiches vergelten; denn das ist wohl getan und angenehm vor Gott.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Das ist aber die rechte Witwe, die einsam ist, die ihre Hoffnung auf Gott stellt und bleibt am Gebet und Flehen Tag und Nacht.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Welche aber in Wollüsten lebt, die ist lebendig tot.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Solches gebiete, auf daß sie untadelig seien.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "So aber jemand die Seinen, sonderlich seine Hausgenossen, nicht versorgt, der hat den Glauben verleugnet und ist ärger denn ein Heide.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Laß keine Witwe erwählt werden unter sechzig Jahren, und die da gewesen sei eines Mannes Weib,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "und die ein Zeugnis habe guter Werke: so sie Kinder aufgezogen hat, so sie gastfrei gewesen ist, so sie der Heiligen Füße gewaschen hat, so sie den Trübseligen Handreichung getan hat, so sie in allem guten Werk nachgekommen ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Der jungen Witwen aber entschlage dich; denn wenn sie geil geworden sind wider Christum, so wollen sie freien",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "und haben ihr Urteil, daß sie den ersten Glauben gebrochen haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Daneben sind sie faul und lernen umlaufen durch die Häuser; nicht allein aber sind sie faul sondern auch geschwätzig und vorwitzig und reden, was nicht sein soll.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "So will ich nun, daß die jungen Witwen freien, Kinder zeugen, haushalten, dem Widersacher keine Ursache geben zu schelten.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Denn es sind schon etliche umgewandt dem Satan nach.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "So aber ein Gläubiger oder Gläubige Witwen hat, der versorge sie und lasse die Gemeinde nicht beschwert werden, auf daß die, so rechte Witwen sind, mögen genug haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Die Ältesten, die wohl vorstehen, die halte man zweifacher Ehre wert, sonderlich die da arbeiten im Wort und in der Lehre.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Denn es spricht die Schrift: \"Du sollst dem Ochsen nicht das Maul verbinden, der da drischt;\" und \"Ein Arbeiter ist seines Lohnes wert.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Wider einen Ältesten nimm keine Klage an ohne zwei oder drei Zeugen.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Die da sündigen, die strafe vor allen, auf daß sich auch die andern fürchten.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ich bezeuge vor Gott und dem HERRN Jesus Christus und den auserwählten Engeln, daß du solches haltest ohne eigenes Gutdünken und nichts tust nach Gunst.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Die Hände lege niemand zu bald auf, mache dich auch nicht teilhaftig fremder Sünden. Halte dich selber keusch.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Trinke nicht mehr Wasser, sondern auch ein wenig Wein um deines Magens willen und weil du oft krank bist.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Etlicher Menschen Sünden sind offenbar, daß man sie zuvor richten kann; bei etlichen aber werden sie hernach offenbar.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Desgleichen auch etlicher gute Werke sind zuvor offenbar, und die andern bleiben auch nicht verborgen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Die Knechte, so unter dem Joch sind, sollen ihre Herren aller Ehre wert halten, auf daß nicht der Name Gottes und die Lehre verlästert werde.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Welche aber gläubige Herren haben, sollen sie nicht verachten, weil sie Brüder sind, sondern sollen viel mehr dienstbar sein, dieweil sie gläubig und geliebt und der Wohltat teilhaftig sind. Solches lehre und ermahne.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "So jemand anders lehrt und bleibt nicht bei den heilsamen Worten unsers HERRN Jesu Christi und bei der Lehre, die gemäß ist der Gottseligkeit,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "der ist aufgeblasen und weiß nichts, sondern hat die Seuche der Fragen und Wortkriege, aus welchen entspringt Neid, Hader, Lästerung, böser Argwohn.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Schulgezänke solcher Menschen, die zerrüttete Sinne haben und der Wahrheit beraubt sind, die da meinen, Gottseligkeit sei ein Gewerbe. Tue dich von solchen!",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Es ist aber ein großer Gewinn, wer gottselig ist und lässet sich genügen.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Denn wir haben nichts in die Welt gebracht; darum offenbar ist, wir werden auch nichts hinausbringen.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wenn wir aber Nahrung und Kleider haben, so lasset uns genügen.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Denn die da reich werden wollen, die fallen in Versuchung und Stricke und viel törichte und schädliche Lüste, welche versenken die Menschen ins Verderben und Verdammnis.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Denn Geiz ist eine Wurzel alles Übels; das hat etliche gelüstet und sind vom Glauben irregegangen und machen sich selbst viel Schmerzen.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Aber du, Gottesmensch, fliehe solches! Jage aber nach der Gerechtigkeit, der Gottseligkeit, dem Glauben, der Liebe, der Geduld, der Sanftmut;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "kämpfe den guten Kampf des Glaubens; ergreife das ewige Leben, dazu du auch berufen bist und bekannt hast ein gutes Bekenntnis vor vielen Zeugen.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ich gebiete dir vor Gott, der alle Dinge lebendig macht, und vor Christo Jesu, der unter Pontius Pilatus bezeugt hat ein gutes Bekenntnis,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "daß du haltest das Gebot ohne Flecken, untadelig, bis auf die Erscheinung unsers HERRN Jesu Christi,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "welche wird zeigen zu seiner Zeit der Selige und allein Gewaltige, der König aller Könige und HERR aller Herren.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "der allein Unsterblichkeit hat, der da wohnt in einem Licht, da niemand zukommen kann, welchen kein Mensch gesehen hat noch sehen kann; dem sei Ehre und ewiges Reich! Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Den Reichen von dieser Welt gebiete, daß sie nicht stolz seien, auch nicht hoffen auf den ungewissen Reichtum, sondern auf den lebendigen Gott, der uns dargibt reichlich, allerlei zu genießen;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "daß sie Gutes tun, reich werden an guten Werken, gern geben, behilflich seien,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Schätze sammeln, sich selbst einen guten Grund aufs Zukünftige, daß sie ergreifen das wahre Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "O Timotheus! bewahre, was dir vertraut ist, und meide die ungeistlichen, losen Geschwätze und das Gezänke der falsch berühmten Kunst,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "welche etliche vorgeben und gehen vom Glauben irre. Die Gnade sei mit dir! Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5715 @@
+{
+  "book": "Sprüche",
+  "abbreviation": "Prov",
+  "number": 20,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Dies sind die Sprüche Salomos, des Königs in Israel, des Sohnes Davids,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "zu lernen Weisheit und Zucht, Verstand",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Klugheit, Gerechtigkeit, Recht und Schlecht;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "daß die Unverständigen klug und die Jünglinge vernünftig und vorsichtig werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Wer weise ist der hört zu und bessert sich; wer verständig ist, der läßt sich raten,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "daß er verstehe die Sprüche und ihre Deutung, die Lehre der Weisen und ihre Beispiele.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Des HERRN Furcht ist Anfang der Erkenntnis. Die Ruchlosen verachten Weisheit und Zucht.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mein Kind, gehorche der Zucht deines Vaters und verlaß nicht das Gebot deiner Mutter.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Denn solches ist ein schöner Schmuck deinem Haupt und eine Kette an deinem Hals.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mein Kind, wenn dich die bösen Buben locken, so folge nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wenn sie sagen: \"Gehe mit uns! wir wollen auf Blut lauern und den Unschuldigen ohne Ursache nachstellen;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "wir wollen sie lebendig verschlingen wie die Hölle und die Frommen wie die, so hinunter in die Grube fahren;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "wir wollen großes Gut finden; wir wollen unsre Häuser mit Raub füllen;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "wage es mit uns! es soll unser aller ein Beutel sein\":",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "mein Kind, wandle den Weg nicht mit ihnen; wehre deinem Fuß vor ihrem Pfad.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Denn ihr Füße laufen zum Bösen und eilen, Blut zu vergießen.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Denn es ist vergeblich, das Netz auswerfen vor den Augen der Vögel.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sie aber lauern auf ihr eigen Blut und stellen sich selbst nach dem Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Also geht es allen, die nach Gewinn geizen, daß ihr Geiz ihnen das Leben nimmt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Die Weisheit klagt draußen und läßt sich hören auf den Gassen;",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "sie ruft in dem Eingang des Tores, vorn unter dem Volk; sie redet ihre Worte in der Stadt:",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Wie lange wollt ihr Unverständigen unverständig sein und die Spötter Lust zu Spötterei und die Ruchlosen die Lehre hassen?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Kehret euch zu meiner Strafe. Siehe, ich will euch heraussagen meinen Geist und euch meine Worte kundtun.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Weil ich denn rufe, und ihr weigert euch, ich recke meine Hand aus, und niemand achtet darauf,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "und laßt fahren allen meinen Rat und wollt meine Strafe nicht:",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "so will ich auch lachen in eurem Unglück und eurer spotten, wenn da kommt, was ihr fürchtet,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "wenn über euch kommt wie ein Sturm, was ihr fürchtet, und euer Unglück als ein Wetter, wenn über euch Angst und Not kommt.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Dann werden sie nach mir rufen, aber ich werde nicht antworten; sie werden mich suchen, und nicht finden.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Darum, daß sie haßten die Lehre und wollten des HERRN Furcht nicht haben,",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "wollten meinen Rat nicht und lästerten alle meine Strafe:",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "so sollen sie essen von den Früchten ihres Wesens und ihres Rats satt werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Was die Unverständigen gelüstet, tötet sie, und der Ruchlosen Glück bringt sie um.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Wer aber mir gehorcht, wird sicher bleiben und genug haben und kein Unglück fürchten.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mein Kind, so du willst meine Rede annehmen und meine Gebote bei dir behalten,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "daß dein Ohr auf Weisheit achthat und du dein Herz mit Fleiß dazu neigest;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ja, so du mit Fleiß darnach rufest und darum betest;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "so du sie suchest wie Silber und nach ihr froschest wie nach Schätzen:",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "alsdann wirst du die Furcht des HERRN verstehen und Gottes Erkenntnis finden.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Denn der HERR gibt Weisheit, und aus seinem Munde kommt Erkenntnis und Verstand.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Er läßt's den Aufrichtigen gelingen und beschirmt die Frommen",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "und behütet die, so recht tun, und bewahrt den Weg seiner Heiligen.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Alsdann wirst du verstehen Gerechtigkeit und Recht und Frömmigkeit und allen guten Weg.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Denn Weisheit wird in dein Herz eingehen, daß du gerne lernst;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "guter Rat wird dich bewahren, und Verstand wird dich behüten,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "daß du nicht geratest auf den Weg der Bösen noch unter die verkehrten Schwätzer,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "die da verlassen die rechte Bahn und gehen finstere Wege,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "die sich freuen, Böses zu tun, und sind fröhlich in ihrem bösen, verkehrten Wesen,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "welche ihren Weg verkehren und folgen ihrem Abwege;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "daß du nicht geratest an eines andern Weib, an eine Fremde, die glatte Worte gibt",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "und verläßt den Freund ihrer Jugend und vergißt den Bund ihres Gottes",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "(denn ihr Haus neigt sich zum Tod und ihre Gänge zu den Verlorenen;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "alle, die zu ihr eingehen, kommen nicht wieder und ergreifen den Weg des Lebens nicht);",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "auf daß du wandelst auf gutem Wege und bleibst auf der rechten Bahn.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Denn die Gerechten werden im Lande wohnen, und die Frommen werden darin bleiben;",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "aber die Gottlosen werden aus dem Lande ausgerottet, und die Verächter werden daraus vertilgt.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mein Kind, vergiß meines Gesetzes nicht, und dein Herz behalte meine Gebote.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Denn sie werden dir langes Leben und gute Jahre und Frieden bringen;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Gnade und Treue werden dich nicht lassen. Hänge sie an deinen Hals und schreibe sie auf die Tafel deines Herzens,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "so wirst du Gunst und Klugheit finden, die Gott und Menschen gefällt.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Verlaß dich auf den HERRN von ganzem Herzen und verlaß dich nicht auf deinen Verstand;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "sondern gedenke an ihn in allen deinen Wegen, so wird er dich recht führen.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Dünke dich nicht, weise zu sein, sondern fürchte den HERRN und weiche vom Bösen.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Das wird deinem Leibe gesund sein und deine Gebeine erquicken.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ehre den HERRN von deinem Gut und von den Erstlingen all deines Einkommens,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "so werden deine Scheunen voll werden und deine Kelter mit Most übergehen.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mein Kind, verwirf die Zucht des HERRN nicht und sei nicht ungeduldig über seine Strafe.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Denn welchen der HERR liebt, den straft er, und hat doch Wohlgefallen an ihm wie ein Vater am Sohn.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Wohl dem Menschen, der Weisheit findet, und dem Menschen, der Verstand bekommt!",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Denn es ist besser, sie zu erwerben, als Silber; denn ihr Ertrag ist besser als Gold.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Sie ist edler denn Perlen; und alles, was du wünschen magst, ist ihr nicht zu vergleichen.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Langes Leben ist zu ihrer rechten Hand; zu ihrer Linken ist Reichtum und Ehre.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ihre Wege sind liebliche Wege, und alle ihre Steige sind Friede.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sie ist ein Baum des Lebens allen, die sie ergreifen; und selig sind, die sie halten.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Denn der HERR hat die Erde durch Weisheit gegründet und durch seinen Rat die Himmel bereitet.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Durch seine Weisheit sind die Tiefen zerteilt und die Wolken mit Tau triefend gemacht.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Mein Kind, laß sie nicht von deinen Augen weichen, so wirst du glückselig und klug werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Das wird deiner Seele Leben sein und ein Schmuck deinem Halse.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Dann wirst du sicher wandeln auf deinem Wege, daß dein Fuß sich nicht stoßen wird.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Legst du dich, so wirst du dich nicht fürchten, sondern süß schlafen,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "daß du dich nicht fürchten darfst vor plötzlichem Schrecken noch vor dem Sturm der Gottlosen, wenn er kommt.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Denn der HERR ist dein Trotz; der behütet deinen Fuß, daß er nicht gefangen werde.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Weigere dich nicht, dem Dürftigen Gutes zu tun, so deine Hand von Gott hat, solches zu tun.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Sprich nicht zu deinem Nächsten: \"Geh hin und komm wieder; morgen will ich dir geben\", so du es wohl hast.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Trachte nicht Böses wider deinen Nächsten, der auf Treue bei dir wohnt.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Hadere nicht mit jemand ohne Ursache, so er dir kein Leid getan hat.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Eifere nicht einem Frevler nach und erwähle seiner Wege keinen;",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "denn der HERR hat Greuel an dem Abtrünnigen, und sein Geheimnis ist bei den Frommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Im Hause des Gottlosen ist der Fluch des HERRN; aber das Haus der Gerechten wird gesegnet.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Er wird der Spötter spotten; aber den Elenden wird er Gnade geben.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Die Weisen werden Ehre erben; aber wenn die Narren hochkommen, werden sie doch zu Schanden.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Höret, meine Kinder, die Zucht eures Vaters; merket auf, daß ihr lernt und klug werdet!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Denn ich gebe euch eine gute Lehre; verlaßt mein Gesetz nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Denn ich war meines Vaters Sohn, ein zarter und ein einziger vor meiner Mutter.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Und er lehrte mich und sprach: Laß dein Herz meine Worte aufnehmen; halte meine Gebote, so wirst du leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nimm an Weisheit, nimm an Verstand; vergiß nicht und weiche nicht von der Rede meines Mundes.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Verlaß sie nicht, so wird sie dich bewahren; liebe sie, so wird sie dich behüten.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Denn der Weisheit Anfang ist, wenn man sie gerne hört und die Klugheit lieber hat als alle Güter.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Achte sie hoch, so wird sie dich erhöhen, und wird dich zu Ehren bringen, wo du sie herzest.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Sie wird dein Haupt schön schmücken und wird dich zieren mit einer prächtigen Krone.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "So höre, mein Kind, und nimm an meine Rede, so werden deiner Jahre viel werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ich will dich den Weg der Weisheit führen; ich will dich auf rechter Bahn leiten,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "daß, wenn du gehst, dein Gang dir nicht sauer werde, und wenn du läufst, daß du nicht anstoßest.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Fasse die Zucht, laß nicht davon; bewahre sie, denn sie ist dein Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Komm nicht auf der Gottlosen Pfad und tritt nicht auf den Weg der Bösen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Laß ihn fahren und gehe nicht darin; weiche von ihm und gehe vorüber.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Denn sie schlafen nicht, sie haben denn Übel getan; und ruhen nicht, sie haben den Schaden getan.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Denn sie nähren sich von gottlosem Brot und trinken vom Wein des Frevels.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Aber der Gerechten Pfad glänzt wie das Licht, das immer heller leuchtet bis auf den vollen Tag.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Der Gottlosen Weg aber ist wie Dunkel; sie wissen nicht, wo sie fallen werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mein Sohn, merke auf meine Worte und neige dein Ohr zu meiner Rede.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Laß sie nicht von deinen Augen fahren, behalte sie in deinem Herzen.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Denn sie sind das Leben denen, die sie finden, und gesund ihrem ganzen Leibe.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Behüte dein Herz mit allem Fleiß; denn daraus geht das Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Tue von dir den verkehrten Mund und laß das Lästermaul ferne von dir sein.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Laß deine Augen stracks vor sich sehen und deine Augenlider richtig vor dir hin blicken.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Laß deinen Fuß gleich vor sich gehen, so gehst du gewiß.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Wanke weder zur Rechten noch zur Linken; wende deinen Fuß vom Bösen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mein Kind, merke auf meine Weisheit; neige dein Ohr zu meiner Lehre,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "daß du bewahrest guten Rat und dein Mund wisse Unterschied zu halten.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Denn die Lippen der Hure sind süß wie Honigseim, und ihre Kehle ist glätter als Öl,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "aber hernach bitter wie Wermut und scharf wie ein zweischneidiges Schwert.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ihre Füße laufen zum Tod hinunter; ihre Gänge führen ins Grab.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Sie geht nicht stracks auf dem Wege des Lebens; unstet sind ihre Tritte, daß sie nicht weiß, wo sie geht.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "So gehorchet mir nun, meine Kinder, und weichet nicht von der Rede meines Mundes.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Laß deine Wege ferne von ihr sein, und nahe nicht zur Tür ihres Hauses,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "daß du nicht den Fremden gebest deine Ehre und deine Jahre dem Grausamen;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "daß sich nicht Fremde von deinem Vermögen sättigen und deine Arbeit nicht sei in eines andern Haus,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "und müssest hernach seufzen, wenn du Leib und Gut verzehrt hast,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "und sprechen: \"Ach, wie habe ich die Zucht gehaßt und wie hat mein Herz die Strafe verschmäht!",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "wie habe ich nicht gehorcht der Stimme meiner Lehrer und mein Ohr nicht geneigt zu denen, die mich lehrten!",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ich bin schier in alles Unglück gekommen vor allen Leuten und allem Volk.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Trink Wasser aus deiner Grube und Flüsse aus deinem Brunnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Laß deine Brunnen herausfließen und die Wasserbäche auf die Gassen.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Habe du aber sie allein, und kein Fremder mit dir.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Dein Born sei gesegnet, und freue dich des Weibes deiner Jugend.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Sie ist lieblich wie die Hinde und holdselig wie ein Reh. Laß dich ihre Liebe allezeit sättigen und ergötze dich allewege in ihrer Liebe.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mein Kind, warum willst du dich an der Fremden ergötzen und herzest eine andere?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Denn jedermanns Wege sind offen vor dem HERRN, und er mißt alle ihre Gänge.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Die Missetat des Gottlosen wird ihn fangen, und er wird mit dem Strick seiner Sünde gehalten werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Er wird sterben, darum daß er sich nicht will ziehen lassen; und um seiner großen Torheit willen wird's ihm nicht wohl gehen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mein Kind, wirst du Bürge für deinen Nächsten und hast deine Hand bei einem Fremden verhaftet,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "so bist du verknüpft durch die Rede deines Mundes und gefangen mit den Reden deines Mundes.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "So tue doch, mein Kind, also und errette dich, denn du bist deinem Nächsten in die Hände gekommen: eile, dränge und treibe deinen Nächsten.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Laß deine Augen nicht schlafen, noch deinen Augenlider schlummern.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Errette dich wie ein Reh von der Hand und wie eine Vogel aus der Hand des Voglers.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Gehe hin zur Ameise, du Fauler; siehe ihre Weise an und lerne!",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ob sie wohl keinen Fürsten noch Hauptmann noch Herrn hat,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "bereitet sie doch ihr Brot im Sommer und sammelt ihre Speise in der Ernte.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Wie lange liegst du, Fauler? Wann willst du aufstehen von deinem Schlaf?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ja, schlafe noch ein wenig, schlummere ein wenig, schlage die Hände ineinander ein wenig, daß du schlafest,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "so wird dich die Armut übereilen wie ein Fußgänger und der Mangel wie ein gewappneter Mann.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ein heilloser Mensch, ein schädlicher Mann geht mit verstelltem Munde,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "winkt mit Augen, deutet mit Füßen, zeigt mit Fingern,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "trachtet allezeit Böses und Verkehrtes in seinem Herzen und richtet Hader an.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Darum wird ihm plötzlich sein Verderben kommen, und er wird schnell zerbrochen werden, da keine Hilfe dasein wird.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Diese sechs Stücke haßt der HERR, und am siebenten hat er einen Greuel:",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "hohe Augen, falsche Zunge, Hände, die unschuldig Blut vergießen,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Herz, das mit böser Tücke umgeht, Füße, die behend sind, Schaden zu tun,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "falscher Zeuge, der frech Lügen redet und wer Hader zwischen Brüdern anrichtet.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mein Kind, bewahre die Gebote deines Vaters und laß nicht fahren das Gesetz deiner Mutter.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Binde sie zusammen auf dein Herz allewege und hänge sie an deinen Hals,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "wenn du gehst, daß sie dich geleiten; wenn du dich legst, daß sie dich bewahren; wenn du aufwachst, daß sie zu dir sprechen.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Denn das Gebot ist eine Leuchte und das Gesetz ein Licht, und die Strafe der Zucht ist ein Weg des Lebens,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "auf daß du bewahrt werdest vor dem bösen Weibe, vor der glatten Zunge der Fremden.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Laß dich ihre Schöne nicht gelüsten in deinem Herzen und verfange dich nicht an ihren Augenlidern.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Denn eine Hure bringt einen ums Brot; aber eines andern Weib fängt das edle Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Kann auch jemand ein Feuer im Busen behalten, daß seine Kleider nicht brennen?",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Wie sollte jemand auf Kohlen gehen, daß seine Füße nicht verbrannt würden?",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Also gehet's dem, der zu seines Nächsten Weib geht; es bleibt keiner ungestraft, der sie berührt.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Es ist einem Diebe nicht so große Schmach, ob er stiehlt, seine Seele zu sättigen, weil ihn hungert;",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "und ob er ergriffen wird, gibt er's siebenfältig wieder und legt dar alles Gut in seinem Hause.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Aber wer mit einem Weibe die Ehe bricht, der ist ein Narr; der bringt sein Leben ins Verderben.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Dazu trifft ihn Plage und Schande, und seine Schande wird nicht ausgetilgt.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Denn der Grimm des Mannes eifert, und schont nicht zur Zeit der Rache",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "und sieht keine Person an, die da versöhne, und nimmt's nicht an, ob du viel schenken wolltest.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mein Kind, behalte meine Rede und verbirg meine Gebote bei dir.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Behalte meine Gebote, so wirst du leben, und mein Gesetz wie deinen Augapfel.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Binde sie an deine Finger; schreibe sie auf die Tafel deines Herzens.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Sprich zur Weisheit: \"Du bist meine Schwester\", und nenne die Klugheit deine Freundin,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "daß du behütet werdest vor dem fremden Weibe, vor einer andern, die glatte Worte gibt.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Denn am Fenster meines Hauses guckte ich durchs Gitter",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "und sah unter den Unverständigen und ward gewahr unter den Kindern eines törichten Jünglings,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "der ging auf der Gasse an einer Ecke und trat daher auf dem Wege bei ihrem Hause,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "in der Dämmerung, am Abend des Tages, da es Nacht ward und dunkel war.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Und siehe, da begegnete ihm ein Weib im Hurenschmuck, listig,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "wild und unbändig, daß ihr Füße in ihrem Hause nicht bleiben können.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Jetzt ist sie draußen, jetzt auf der Gasse, und lauert an allen Ecken.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Und erwischte ihn und küßte ihn unverschämt und sprach zu ihm:",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ich habe Dankopfer für mich heute bezahlt für meine Gelübde.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Darum bin herausgegangen, dir zu begegnen, dein Angesicht zu suchen, und habe dich gefunden.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ich habe mein Bett schön geschmückt mit bunten Teppichen aus Ägypten.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ich habe mein Lager mit Myrrhe, Aloe und Zimt besprengt.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Komm, laß uns buhlen bis an den Morgen und laß uns der Liebe pflegen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Denn der Mann ist nicht daheim; er ist einen fernen Weg gezogen.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Er hat den Geldsack mit sich genommen; er wird erst aufs Fest wieder heimkommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Sie überredete ihn mit vielen Worten und gewann ihn mit ihrem glatten Munde.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Er folgt ihr alsbald nach, wie ein Ochse zur Fleischbank geführt wird, und wie zur Fessel, womit man die Narren züchtigt,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "bis sie ihm mit dem Pfeil die Leber spaltet; wie ein Vogel zum Strick eilt und weiß nicht, daß es ihm sein Leben gilt.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "So gehorchet mir nun, meine Kinder, und merket auf die Rede meines Mundes.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Laß dein Herz nicht weichen auf ihren Weg und laß dich nicht verführen auf ihrer Bahn.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Denn sie hat viele verwundet und gefällt, und sind allerlei Mächtige von ihr erwürgt.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Ihr Haus sind Wege zum Grab, da man hinunterfährt in des Todes Kammern.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ruft nicht die Weisheit, und die Klugheit läßt sich hören?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Öffentlich am Wege und an der Straße steht sie.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "An den Toren bei der Stadt, da man zur Tür eingeht, schreit sie:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "O ihr Männer, ich schreie zu euch und rufe den Leuten.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Merkt, ihr Unverständigen, auf Klugheit und, ihr Toren, nehmt es zu Herzen!",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Höret, denn ich will reden, was fürstlich ist, und lehren, was recht ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Denn mein Mund soll die Wahrheit reden, und meine Lippen sollen hassen, was gottlos ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Alle Reden meines Mundes sind gerecht; es ist nichts Verkehrtes noch falsches darin.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Sie sind alle gerade denen, die sie verstehen, und richtig denen, die es annehmen wollen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Nehmet an meine Zucht lieber denn Silber, und die Lehre achtet höher denn köstliches Gold.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Denn Weisheit ist besser als Perlen; und alles, was man wünschen mag, kann ihr nicht gleichen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ich, Weisheit, wohne bei der Klugheit und weiß guten Rat zu geben.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Die Furcht des HERRN haßt das Arge, die Hoffart, den Hochmut und bösen Weg; und ich bin feind dem verkehrten Mund.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mein ist beides, Rat und Tat; ich habe Verstand und Macht.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Durch mich regieren die Könige und setzen die Ratsherren das Recht.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Durch mich herrschen die Fürsten und alle Regenten auf Erden.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ich liebe, die mich lieben; und die mich frühe suchen, finden mich.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Reichtum und Ehre ist bei mir, währendes Gut und Gerechtigkeit.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Meine Frucht ist besser denn Gold und feines Gold und mein Ertrag besser denn auserlesenes Silber.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ich wandle auf dem rechten Wege, auf der Straße des Rechts,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "daß ich wohl versorge, die mich lieben, und ihre Schätze vollmache.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Der HERR hat mich gehabt im Anfang seiner Wege; ehe er etwas schuf, war ich da.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ich bin eingesetzt von Ewigkeit, von Anfang, vor der Erde.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Da die Tiefen noch nicht waren, da war ich schon geboren, da die Brunnen noch nicht mit Wasser quollen.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ehe denn die Berge eingesenkt waren, vor den Hügeln war ich geboren,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "da er die Erde noch nicht gemacht hatte und was darauf ist, noch die Berge des Erdbodens.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Da er die Himmel bereitete, war ich daselbst, da er die Tiefe mit seinem Ziel faßte.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Da er die Wolken droben festete, da er festigte die Brunnen der Tiefe,",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "da er dem Meer das Ziel setzte und den Wassern, daß sie nicht überschreiten seinen Befehl, da er den Grund der Erde legte:",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "da war ich der Werkmeister bei ihm und hatte meine Lust täglich und spielte vor ihm allezeit",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "und spielte auf seinem Erdboden, und meine Lust ist bei den Menschenkindern.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "So gehorchet mir nun, meine Kinder. Wohl denen, die meine Wege halten!",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Höret die Zucht und werdet weise und lasset sie nicht fahren.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Wohl dem Menschen, der mir gehorcht, daß er wache an meiner Tür täglich, daß er warte an den Pfosten meiner Tür.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Wer mich findet, der findet das Leben und wird Wohlgefallen vom HERRN erlangen.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Wer aber an mir sündigt, der verletzt seine Seele. Alle, die mich hassen, lieben den Tod.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Die Weisheit baute ihr Haus und hieb sieben Säulen,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "schlachtete ihr Vieh und trug ihren Wein auf und bereitete ihren Tisch",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "und sandte ihre Dirnen aus, zu rufen oben auf den Höhen der Stadt:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "\"Wer verständig ist, der mache sich hierher!\", und zum Narren sprach sie:",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "\"Kommet, zehret von meinem Brot und trinket den Wein, den ich schenke;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "verlaßt das unverständige Wesen, so werdet ihr leben, und gehet auf dem Wege der Klugheit.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wer den Spötter züchtigt, der muß Schande auf sich nehmen; und wer den Gottlosen straft, der muß gehöhnt werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Strafe den Spötter nicht, er haßt dich; strafe den Weisen, der wird dich lieben.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Gib dem Weisen, so wird er noch weiser werden; lehre den Gerechten, so wird er in der Lehre zunehmen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Der Weisheit Anfang ist des HERRN Furcht, und den Heiligen erkennen ist Verstand.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Denn durch mich werden deiner Tage viel werden und werden dir der Jahre des Lebens mehr werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Bist du weise, so bist du dir weise; bist du ein Spötter, so wirst du es allein tragen.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Es ist aber ein törichtes, wildes Weib, voll Schwätzens, und weiß nichts;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "die sitzt in der Tür ihres Hauses auf dem Stuhl, oben in der Stadt,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "zu laden alle, die vorübergehen und richtig auf ihrem Wege wandeln:",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "\"Wer unverständig ist, der mache sich hierher!\", und zum Narren spricht sie:",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "\"Die gestohlenen Wasser sind süß, und das verborgene Brot schmeckt wohl.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Er weiß aber nicht, daß daselbst Tote sind und ihre Gäste in der tiefen Grube.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Dies sind die Sprüche Salomos. Ein weiser Sohn ist seines Vaters Freude; aber ein törichter Sohn ist seiner Mutter Grämen.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Unrecht Gut hilft nicht; aber Gerechtigkeit errettet vor dem Tode.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Der HERR läßt die Seele des Gerechten nicht Hunger leiden; er stößt aber weg der Gottlosen Begierde.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Lässige Hand macht arm; aber der Fleißigen Hand macht reich.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Wer im Sommer sammelt, der ist klug; wer aber in der Ernte schläft, wird zu Schanden.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Den Segen hat das Haupt des Gerechten; aber den Mund der Gottlosen wird ihr Frevel überfallen.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Das Gedächtnis der Gerechten bleibt im Segen; aber der Gottlosen Name wird verwesen.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wer weise von Herzen ist nimmt die Gebote an; wer aber ein Narrenmaul hat, wird geschlagen.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Wer unschuldig lebt, der lebt sicher; wer aber verkehrt ist auf seinen Wegen, wird offenbar werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wer mit Augen winkt, wird Mühsal anrichten; und der ein Narrenmaul hat, wird geschlagen.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Des Gerechten Mund ist ein Brunnen des Lebens; aber den Mund der Gottlosen wird ihr Frevel überfallen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Haß erregt Hader; aber Liebe deckt zu alle Übertretungen.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "In den Lippen des Verständigen findet man Weisheit; aber auf den Rücken der Narren gehört eine Rute.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Die Weisen bewahren die Lehre; aber der Narren Mund ist nahe dem Schrecken.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Das Gut des Reichen ist seine feste Stadt; aber die Armen macht die Armut blöde.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Der Gerechte braucht sein Gut zum Leben; aber der Gottlose braucht sein Einkommen zur Sünde.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Die Zucht halten ist der Weg zum Leben; wer aber der Zurechtweisung nicht achtet, der bleibt in der Irre.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Falsche Mäuler bergen Haß; und wer verleumdet, der ist ein Narr.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Wo viel Worte sind, da geht's ohne Sünde nicht ab; wer aber seine Lippen hält, ist klug.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Des Gerechten Zunge ist köstliches Silber; aber der Gottlosen Herz ist wie nichts.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Des Gerechten Lippen weiden viele; aber die Narren werden an ihrer Torheit sterben.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Der Segen des HERRN macht reich ohne Mühe.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ein Narr treibt Mutwillen und hat dazu noch seinen Spott; aber der Mann ist weise, der aufmerkt.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Was der Gottlose fürchtet, das wird ihm begegnen; und was die Gerechten begehren, wird ihnen gegeben.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Der Gottlose ist wie ein Wetter, das vorübergeht und nicht mehr ist; der Gerechte aber besteht ewiglich.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Wie der Essig den Zähnen und der Rauch den Augen tut, so tut der Faule denen, die ihn senden.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Die Furcht des HERRN mehrt die Tage; aber die Jahre der Gottlosen werden verkürzt.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Das Warten der Gerechten wird Freude werden; aber der Gottlosen Hoffnung wird verloren sein.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Der Weg des HERRN ist des Frommen Trotz; aber die Übeltäter sind blöde.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Der Gerechte wird nimmermehr umgestoßen; aber die Gottlosen werden nicht im Lande bleiben.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Der Mund des Gerechten bringt Weisheit; aber die Zunge der Verkehrten wird ausgerottet.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Die Lippen der Gerechten lehren heilsame Dinge; aber der Gottlosen Mund ist verkehrt.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Falsche Waage ist dem HERRN ein Greuel; aber völliges Gewicht ist sein Wohlgefallen.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wo Stolz ist, da ist auch Schmach; aber Weisheit ist bei den Demütigen.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Unschuld wird die Frommen leiten; aber die Bosheit wird die Verächter verstören.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Gut hilft nicht am Tage des Zorns; aber Gerechtigkeit errettet vom Tod.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Die Gerechtigkeit des Frommen macht seinen Weg eben; aber der Gottlose wird fallen durch sein gottloses Wesen.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Die Gerechtigkeit der Frommen wird sie erretten; aber die Verächter werden gefangen in ihrer Bosheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wenn der gottlose Mensch stirbt, ist seine Hoffnung verloren und das Harren des Ungerechten wird zunichte.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Der Gerechte wird aus seiner Not erlöst, und der Gottlose kommt an seine Statt.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Durch den Mund des Heuchlers wird sein Nächster verderbt; aber die Gerechten merken's und werden erlöst.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Eine Stadt freut sich, wenn's den Gerechten wohl geht; und wenn die Gottlosen umkommen, wird man froh.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Durch den Segen der Frommen wird eine Stadt erhoben; aber durch den Mund der Gottlosen wird sie zerbrochen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wer seinen Nächsten schändet, ist ein Narr; aber ein verständiger Mann schweigt still.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ein Verleumder verrät, was er heimlich weiß; aber wer eines getreuen Herzens ist, verbirgt es.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Wo nicht Rat ist, da geht das Volk unter; wo aber viel Ratgeber sind, da geht es wohl zu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Wer für einen andern Bürge wird, der wird Schaden haben; wer aber sich vor Geloben hütet, ist sicher.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ein holdselig Weib erlangt Ehre; aber die Tyrannen erlangen Reichtum.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ein barmherziger Mann tut sich selber Gutes; aber ein unbarmherziger betrübt auch sein eigen Fleisch.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Der Gottlosen Arbeit wird fehlschlagen; aber wer Gerechtigkeit sät, das ist gewisses Gut.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Gerechtigkeit fördert zum Leben; aber dem Übel nachjagen fördert zum Tod.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Der HERR hat Greuel an den verkehrten Herzen, und Wohlgefallen an den Frommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Den Bösen hilft nichts, wenn sie auch alle Hände zusammentäten; aber der Gerechten Same wird errettet werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ein schönes Weib ohne Zucht ist wie eine Sau mit einem goldenen Haarband.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Der Gerechten Wunsch muß doch wohl geraten, und der Gottlosen Hoffen wird Unglück.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Einer teilt aus und hat immer mehr; ein anderer kargt, da er nicht soll, und wird doch ärmer.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Die Seele, die da reichlich segnet, wird gelabt; wer reichlich tränkt, der wird auch getränkt werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Wer Korn innehält, dem fluchen die Leute; aber Segen kommt über den, der es verkauft.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Wer da Gutes sucht, dem widerfährt Gutes; wer aber nach Unglück ringt, dem wird's begegnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Wer sich auf seinen Reichtum verläßt, der wird untergehen; aber die Gerechten werden grünen wie ein Blatt.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Wer sein eigen Haus betrübt, der wird Wind zum Erbteil haben; und ein Narr muß ein Knecht des Weisen sein.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Die Frucht des Gerechten ist ein Baum des Lebens, und ein Weiser gewinnt die Herzen.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "So der Gerechte auf Erden leiden muß, wie viel mehr der Gottlose und der Sünder!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Wer sich gern läßt strafen, der wird klug werden; wer aber ungestraft sein will, der bleibt ein Narr.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wer fromm ist, der bekommt Trost vom HERRN; aber ein Ruchloser verdammt sich selbst.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ein gottlos Wesen fördert den Menschen nicht; aber die Wurzel der Gerechten wird bleiben.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ein tugendsam Weib ist eine Krone ihres Mannes; aber eine böse ist wie Eiter in seinem Gebein.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Die Gedanken der Gerechten sind redlich; aber die Anschläge der Gottlosen sind Trügerei.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Der Gottlosen Reden richten Blutvergießen an; aber der Frommen Mund errettet.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Die Gottlosen werden umgestürzt und nicht mehr sein; aber das Haus der Gerechten bleibt stehen.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Eines weisen Mannes Rat wird gelobt; aber die da tückisch sind, werden zu Schanden.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Wer gering ist und wartet des Seinen, der ist besser, denn der groß sein will, und des Brotes mangelt.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Der Gerechte erbarmt sich seines Viehs; aber das Herz der Gottlosen ist unbarmherzig.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wer seinen Acker baut, der wird Brot die Fülle haben; wer aber unnötigen Sachen nachgeht, der ist ein Narr.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Des Gottlosen Lust ist, Schaden zu tun; aber die Wurzel der Gerechten wird Frucht bringen.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Der Böse wird gefangen in seinen eigenen falschen Worten; aber der Gerechte entgeht der Angst.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Viel Gutes kommt dem Mann durch die Frucht des Mundes; und dem Menschen wird vergolten, nach dem seine Hände verdient haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Dem Narren gefällt seine Weise wohl; aber wer auf Rat hört, der ist weise.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ein Narr zeigt seinen Zorn alsbald; aber wer die Schmach birgt, ist klug.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Wer wahrhaftig ist, der sagt frei, was recht ist; aber ein falscher Zeuge betrügt.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Wer unvorsichtig herausfährt, sticht wie ein Schwert; aber die Zunge der Weisen ist heilsam.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Wahrhaftiger Mund besteht ewiglich; aber die falsche Zunge besteht nicht lange.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Die, so Böses raten, betrügen; aber die zum Frieden raten, schaffen Freude.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Es wird dem Gerechten kein Leid geschehen; aber die Gottlosen werden voll Unglück sein.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Falsche Mäuler sind dem HERRN ein Greuel; die aber treulich handeln, gefallen ihm wohl.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ein verständiger Mann trägt nicht Klugheit zur Schau; aber das Herz der Narren ruft seine Narrheit aus.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Fleißige Hand wird herrschen; die aber lässig ist, wird müssen zinsen.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Sorge im Herzen kränkt, aber ein freundliches Wort erfreut.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Der Gerechte hat's besser denn sein Nächster; aber der Gottlosen Weg verführt sie.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Einem Lässigen gerät sein Handel nicht; aber ein fleißiger Mensch wird reich.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Auf dem Wege der Gerechtigkeit ist Leben, und auf ihrem gebahnten Pfad ist kein Tod.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ein weiser Sohn läßt sich vom Vater züchtigen; aber ein Spötter gehorcht der Strafe nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Die Frucht des Mundes genießt man; aber die Verächter denken nur zu freveln.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Wer seinen Mund bewahrt, der bewahrt sein Leben; wer aber mit seinem Maul herausfährt, der kommt in Schrecken.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Der Faule begehrt und kriegt's doch nicht; aber die Fleißigen kriegen genug.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Der Gerechte ist der Lüge feind; aber der Gottlose schändet und schmäht sich selbst.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Die Gerechtigkeit behütet den Unschuldigen; aber das gottlose Wesen bringt zu Fall den Sünder.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mancher ist arm bei großem Gut, und mancher ist reich bei seiner Armut.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mit Reichtum kann einer sein Leben erretten; aber ein Armer hört kein Schelten.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Das Licht der Gerechten brennt fröhlich; aber die Leuchte der Gottlosen wird auslöschen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Unter den Stolzen ist immer Hader; aber Weisheit ist bei denen, die sich raten lassen.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Reichtum wird wenig, wo man's vergeudet; was man aber zusammenhält, das wird groß.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Die Hoffnung, die sich verzieht, ängstet das Herz; wenn's aber kommt, was man begehrt, das ist wie ein Baum des Lebens.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Wer das Wort verachtet, der verderbt sich selbst; wer aber das Gebot fürchtet, dem wird's vergolten.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Die Lehre des Weisen ist eine Quelle des Lebens, zu meiden die Stricke des Todes.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Feine Klugheit schafft Gunst; aber der Verächter Weg bringt Wehe.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ein Kluger tut alles mit Vernunft; ein Narr aber breitet Narrheit aus.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ein gottloser Bote bringt Unglück; aber ein treuer Bote ist heilsam.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Wer Zucht läßt fahren, der hat Armut und Schande; wer sich gerne strafen läßt, wird zu ehren kommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Wenn's kommt, was man begehrt, das tut dem Herzen wohl; aber das Böse meiden ist den Toren ein Greuel.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Wer mit den Weisen umgeht, der wird weise; wer aber der Narren Geselle ist, der wird Unglück haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Unglück verfolgt die Sünder; aber den Gerechten wird Gutes vergolten.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Der Gute wird vererben auf Kindeskind; aber des Sünders Gut wird für den Gerechten gespart.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Es ist viel Speise in den Furchen der Armen; aber die Unrecht tun, verderben.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Wer seine Rute schont, der haßt seinen Sohn; wer ihn aber liebhat, der züchtigt ihn bald.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Der Gerechte ißt, daß sein Seele satt wird; der Gottlosen Bauch aber hat nimmer genug.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Durch weise Weiber wird das Haus erbaut; eine Närrin aber zerbricht's mit ihrem Tun.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wer den HERRN fürchtet, der wandelt auf rechter Bahn; wer ihn aber verachtet, der geht auf Abwegen.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Narren reden tyrannisch; aber die Weisen bewahren ihren Mund.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Wo nicht Ochsen sind, da ist die Krippe rein; aber wo der Ochse geschäftig ist, da ist viel Einkommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ein treuer Zeuge lügt nicht; aber ein Falscher Zeuge redet frech Lügen.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Der Spötter sucht Weisheit, und findet sie nicht; aber dem Verständigen ist die Erkenntnis leicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Gehe von dem Narren; denn du lernst nichts von ihm.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Das ist des Klugen Weisheit, daß er auf seinen Weg merkt; aber der Narren Torheit ist eitel Trug.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Die Narren treiben das Gespött mit der Sünde; aber die Frommen haben Lust an den Frommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Das Herz kennt sein eigen Leid, und in seine Freude kann sich kein Fremder mengen.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Das Haus der Gottlosen wird vertilgt; aber die Hütte der Frommen wird grünen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Es gefällt manchem ein Weg wohl; aber endlich bringt er ihn zum Tode.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Auch beim Lachen kann das Herz trauern, und nach der Freude kommt Leid.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Einem losen Menschen wird's gehen wie er handelt; aber ein Frommer wird über ihn sein.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ein Unverständiger glaubt alles; aber ein Kluger merkt auf seinen Gang.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ein Weiser fürchtet sich und meidet das Arge; ein Narr aber fährt trotzig hindurch.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ein Ungeduldiger handelt töricht; aber ein Bedächtiger haßt es.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Die Unverständigen erben Narrheit; aber es ist der Klugen Krone, vorsichtig handeln.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Die Bösen müssen sich bücken vor dem Guten und die Gottlosen in den Toren des Gerechten.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Einen Armen hassen auch seine Nächsten; aber die Reichen haben viele Freunde.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Der Sünder verachtet seinen Nächsten; aber wohl dem, der sich der Elenden erbarmt!",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Die mit bösen Ränken umgehen, werden fehlgehen; die aber Gutes denken, denen wird Treue und Güte widerfahren.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Wo man arbeitet, da ist genug; wo man aber mit Worten umgeht, da ist Mangel.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den Weisen ist ihr Reichtum eine Krone; aber die Torheit der Narren bleibt Torheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ein treuer Zeuge errettet das Leben; aber ein falscher Zeuge betrügt.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Wer den HERRN fürchtet, der hat eine sichere Festung, und seine Kinder werden auch beschirmt.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Die Furcht des HERRN ist eine Quelle des Lebens, daß man meide die Stricke des Todes.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Wo ein König viel Volks hat, das ist seine Herrlichkeit; wo aber wenig Volks ist, das macht einen Herrn blöde.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Wer geduldig ist, der ist weise; wer aber ungeduldig ist, der offenbart seine Torheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Ein gütiges Herz ist des Leibes Leben; aber Neid ist Eiter in den Gebeinen.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Wer dem Geringen Gewalt tut, der lästert desselben Schöpfer; aber wer sich des Armen erbarmt, der ehrt Gott.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Der Gottlose besteht nicht in seinem Unglück; aber der Gerechte ist auch in seinem Tod getrost.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Im Herzen des Verständigen ruht Weisheit, und wird offenbar unter den Narren.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Gerechtigkeit erhöhet ein Volk; aber die Sünde ist der Leute Verderben.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Ein kluger Knecht gefällt dem König wohl; aber einem schändlichen Knecht ist er feind.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Eine linde Antwort stillt den Zorn; aber ein hartes Wort richtet Grimm an.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Der Weisen Zunge macht die Lehre lieblich; der Narren Mund speit eitel Narrheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Die Augen des HERRN schauen an allen Orten beide, die Bösen und die Frommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ein heilsame Zunge ist ein Baum des Lebens; aber eine lügenhafte macht Herzeleid.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Der Narr lästert die Zucht seines Vaters; wer aber Strafe annimmt, der wird klug werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "In des Gerechten Haus ist Guts genug; aber in dem Einkommen des Gottlosen ist Verderben.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Der Weisen Mund streut guten Rat; aber der Narren Herz ist nicht richtig.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Der Gottlosen Opfer ist dem HERRN ein Greuel; aber das Gebet der Frommen ist ihm angenehm.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Der Gottlosen Weg ist dem HERRN ein Greuel; wer aber der Gerechtigkeit nachjagt, den liebt er.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Den Weg verlassen bringt böse Züchtigung, und wer Strafe haßt, der muß sterben.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Hölle und Abgrund ist vor dem HERRN; wie viel mehr der Menschen Herzen!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Der Spötter liebt den nicht, der ihn straft, und geht nicht zu den Weisen.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ein fröhlich Herz macht ein fröhlich Angesicht; aber wenn das Herz bekümmert ist, so fällt auch der Mut.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ein kluges Herz handelt bedächtig; aber der Narren Mund geht mit Torheit um.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ein Betrübter hat nimmer einen guten Tag; aber ein guter Mut ist ein täglich Wohlleben.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Es ist besser ein wenig mit der Furcht des HERRN denn großer Schatz, darin Unruhe ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Es ist besser ein Gericht Kraut mit Liebe, denn ein gemästeter Ochse mit Haß.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ein zorniger Mann richtet Hader an; ein Geduldiger aber stillt den Zank.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Der Weg des Faulen ist dornig; aber der Weg des Frommen ist wohl gebahnt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ein weiser Sohn erfreut den Vater, und ein törichter Mensch ist seiner Mutter Schande.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Dem Toren ist die Torheit eine Freude; aber ein verständiger Mann bleibt auf dem rechten Wege.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Die Anschläge werden zunichte, wo nicht Rat ist; wo aber viel Ratgeber sind, bestehen sie.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Es ist einem Manne eine Freude, wenn er richtig antwortet; und ein Wort zu seiner Zeit ist sehr lieblich.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Der Weg des Lebens geht überwärts für den Klugen, auf daß er meide die Hölle unterwärts.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Der HERR wird das Haus des Hoffärtigen zerbrechen und die Grenze der Witwe bestätigen.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Die Anschläge des Argen sind dem HERRN ein Greuel; aber freundlich reden die Reinen.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Der Geizige verstört sein eigen Haus; wer aber Geschenke haßt, der wird leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Das Herz des Gerechten ersinnt, was zu antworten ist; aber der Mund der Gottlosen schäumt Böses.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Der HERR ist fern von den Gottlosen; aber der Gerechten Gebet erhört er.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Freundlicher Anblick erfreut das Herz; eine gute Botschaft labt das Gebein.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Das Ohr, das da hört die Strafe des Lebens, wird unter den Weisen wohnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Wer sich nicht ziehen läßt, der macht sich selbst zunichte; wer aber auf Strafe hört, der wird klug.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Die Furcht des HERRN ist Zucht und Weisheit; und ehe man zu Ehren kommt, muß man zuvor leiden.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Der Mensch setzt sich's wohl vor im Herzen; aber vom HERRN kommt, was die Zunge reden soll.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Einem jeglichen dünken seine Wege rein; aber der HERR wägt die Geister.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Befiehl dem HERRN deine Werke, so werden deine Anschläge fortgehen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Der HERR macht alles zu bestimmtem Ziel, auch den Gottlosen für den bösen Tag.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ein stolzes Herz ist dem HERRN ein Greuel und wird nicht ungestraft bleiben, wenn sie gleich alle aneinander hängen.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Durch Güte und Treue wird Missetat versöhnt, und durch die Furcht des HERRN meidet man das Böse.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wenn jemands Wege dem HERRN wohl gefallen, so macht er auch seine Feinde mit ihm zufrieden.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Es ist besser ein wenig mit Gerechtigkeit denn viel Einkommen mit Unrecht.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Des Menschen Herz erdenkt sich seinen Weg; aber der HERR allein gibt, daß er fortgehe.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Weissagung ist in dem Munde des Königs; sein Mund fehlt nicht im Gericht.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Rechte Waage und Gewicht ist vom HERRN; und alle Pfunde im Sack sind seine Werke.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Den Königen ist Unrecht tun ein Greuel; denn durch Gerechtigkeit wird der Thron befestigt.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Recht raten gefällt den Königen; und wer aufrichtig redet, wird geliebt.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Des Königs Grimm ist ein Bote des Todes; aber ein weiser Mann wird ihn versöhnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Wenn des Königs Angesicht freundlich ist, das ist Leben, und seine Gnade ist wie ein Spätregen.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Nimm an die Weisheit, denn sie ist besser als Gold; und Verstand haben ist edler als Silber.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Der Frommen Weg meidet das Arge; und wer seinen Weg bewahrt, der erhält sein Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Wer zu Grunde gehen soll, der wird zuvor stolz; und Hochmut kommt vor dem Fall.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Es ist besser niedrigen Gemüts sein mit den Elenden, denn Raub austeilen mit den Hoffärtigen.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Wer eine Sache klüglich führt, der findet Glück; und wohl dem, der sich auf den HERRN verläßt!",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ein Verständiger wird gerühmt für einen weisen Mann, und liebliche Reden lehren wohl.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Klugheit ist wie ein Brunnen des Lebens dem, der sie hat; aber die Zucht der Narren ist Narrheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ein weises Herz redet klug und lehrt wohl.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Die Reden des Freundlichen sind Honigseim, trösten die Seele und erfrischen die Gebeine.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Manchem gefällt ein Weg wohl; aber zuletzt bringt er ihn zum Tode.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Mancher kommt zu großem Unglück durch sein eigen Maul.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Ein loser Mensch gräbt nach Unglück, und in seinem Maul brennt Feuer.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ein verkehrter Mensch richtet Hader an, und ein Verleumder macht Freunde uneins.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Ein Frevler lockt seinen Nächsten und führt ihn auf keinen guten Weg.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Wer mit den Augen winkt, denkt nichts Gutes; und wer mit den Lippen andeutet, vollbringt Böses.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Graue Haare sind eine Krone der Ehren, die auf dem Wege der Gerechtigkeit gefunden wird.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Ein Geduldiger ist besser denn ein Starker, und der seines Mutes Herr ist, denn der Städte gewinnt.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Das Los wird geworfen in den Schoß; aber es fällt, wie der HERR will.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Es ist ein trockner Bissen, daran man sich genügen läßt, besser denn ein Haus voll Geschlachtetes mit Hader.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ein kluger Knecht wird herrschen über unfleißige Erben und wird unter den Brüdern das Erbe austeilen.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Wie das Feuer Silber und der Ofen Gold, also prüft der HERR die Herzen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ein Böser achtet auf böse Mäuler, und ein Falscher gehorcht den schädlichen Zungen.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Wer des Dürftigen spottet, der höhnt desselben Schöpfer; und wer sich über eines andern Unglück freut, der wird nicht ungestraft bleiben.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Der Alten Krone sind Kindeskinder, und der Kinder Ehre sind ihre Väter.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Es steht einem Narren nicht wohl an, von hohen Dingen reden, viel weniger einem Fürsten, daß er gern lügt.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wer zu schenken hat, dem ist's ein Edelstein; wo er sich hin kehrt, ist er klug geachtet.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Wer Sünde zudeckt, der macht Freundschaft; wer aber die Sache aufrührt, der macht Freunde uneins.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Schelten bringt mehr ein an dem Verständigen denn hundert Schläge an dem Narren.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ein bitterer Mensch trachtet, eitel Schaden zu tun; aber es wird ein grimmiger Engel über ihn kommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Es ist besser, einem Bären begegnen, dem die Jungen geraubt sind, denn einem Narren in seiner Narrheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Wer Gutes mit Bösem vergilt, von dessen Haus wird Böses nicht lassen.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Wer Hader anfängt, ist gleich dem, der dem Wasser den Damm aufreißt. Laß du vom Hader, ehe du drein gemengt wirst.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Wer den Gottlosen gerechtspricht und den Gerechten verdammt, die sind beide dem HERRN ein Greuel.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Was soll dem Narren Geld in der Hand, Weisheit zu kaufen, so er doch ein Narr ist?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ein Freund liebt allezeit, und als ein Bruder wird er in Not erfunden.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Es ist ein Narr, der in die Hand gelobt und Bürge wird für seinen Nächsten.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Wer Zank liebt, der liebt Sünde; und wer seine Türe hoch macht, ringt nach Einsturz.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ein verkehrtes Herz findet nichts Gutes; und der verkehrter Zunge ist, wird in Unglück fallen.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Wer einen Narren zeugt, der hat Grämen; und eines Narren Vater hat keine Freude.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ein fröhlich Herz macht das Leben lustig; aber ein betrübter Mut vertrocknet das Gebein.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Der Gottlose nimmt heimlich gern Geschenke, zu beugen den Weg des Rechts.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Ein Verständiger gebärdet sich weise; ein Narr wirft die Augen hin und her.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ein törichter Sohn ist seines Vaters Trauern und Betrübnis der Mutter, die ihn geboren hat.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Es ist nicht gut, daß man den Gerechten schindet, noch den Edlen zu schlagen, der recht handelt.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Ein Vernünftiger mäßigt seine Rede; und ein verständiger Mann ist kaltes Muts.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ein Narr, wenn er schwiege, wurde auch für weise gerechnet, und für verständig, wenn er das Maul hielte.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Wer sich absondert, der sucht, was ihn gelüstet, und setzt sich wider alles, was gut ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ein Narr hat nicht Lust am Verstand, sondern kundzutun, was in seinem Herzen steckt.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Wo der Gottlose hin kommt, da kommt Verachtung und Schmach mit Hohn.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Die Worte in eines Mannes Munde sind wie tiefe Wasser, und die Quelle der Weisheit ist ein voller Strom.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Es ist nicht gut, die Person des Gottlosen achten, zu beugen den Gerechten im Gericht.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Die Lippen des Narren bringen Zank, und sein Mund ringt nach Schlägen.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Der Mund des Narren schadet ihm selbst, und seine Lippen fangen seine eigene Seele.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Die Worte des Verleumders sind Schläge und gehen einem durchs Herz.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Wer lässig ist in seiner Arbeit, der ist ein Bruder des, der das Seine umbringt.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Der Name des HERRN ist ein festes Schloß; der Gerechte läuft dahin und wird beschirmt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Das Gut des Reichen ist ihm eine feste Stadt und wie hohe Mauern in seinem Dünkel.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wenn einer zu Grunde gehen soll, wird sein Herz zuvor stolz; und ehe man zu Ehren kommt, muß man zuvor leiden.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Wer antwortet ehe er hört, dem ist's Narrheit und Schande.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Wer ein fröhlich Herz hat, der weiß sich in seinem Leiden zu halten; wenn aber der Mut liegt, wer kann's tragen?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ein verständiges Herz weiß sich vernünftig zu halten; und die Weisen hören gern, wie man vernünftig handelt.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Das Geschenk des Menschen macht ihm Raum und bringt ihn vor die großen Herren.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ein jeglicher ist zuerst in seiner Sache gerecht; kommt aber sein Nächster hinzu, so findet sich's.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Das Los stillt den Hader und scheidet zwischen den Mächtigen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ein verletzter Bruder hält härter den eine feste Stadt, und Zank hält härter denn Riegel am Palast.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Einem Mann wird vergolten, darnach sein Mund geredet hat, und er wird gesättigt von der Frucht seiner Lippen.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Tod und Leben steht in der Zunge Gewalt; wer sie liebt, der wird von ihrer Frucht essen.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Wer eine Ehefrau findet, der findet etwas Gutes und kann guter Dinge sein im HERRN.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ein Armer redet mit Flehen, ein Reicher antwortet stolz.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Ein treuer Freund liebt mehr uns steht fester bei denn ein Bruder.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ein Armer, der in seiner Frömmigkeit wandelt, ist besser denn ein Verkehrter mit seinen Lippen, der doch ein Narr ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wo man nicht mit Vernunft handelt, da geht's nicht wohl zu; und wer schnell ist mit Füßen, der tut sich Schaden.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Die Torheit eines Menschen verleitet seinen Weg, und doch tobt sein Herz wider den HERRN.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Gut macht viele Freunde; aber der Arme wird von seinen Freunden verlassen.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ein falscher Zeuge bleibt nicht ungestraft; und wer Lügen frech redet, wird nicht entrinnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Viele schmeicheln der Person des Fürsten; und alle sind Freunde des, der Geschenke gibt.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Den Armen hassen alle seine Brüder; wie viel mehr halten sich seine Freunde von ihm fern! Und wer sich auf Worte verläßt, dem wird nichts.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wer klug wird, liebt sein Leben; und der Verständige findet Gutes.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ein falscher Zeuge bleibt nicht ungestraft; und wer frech Lügen redet, wird umkommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Dem Narren steht nicht wohl an, gute Tage haben, viel weniger einem Knecht, zu herrschen über Fürsten.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wer geduldig ist, der ist ein kluger Mensch, und ist ihm eine Ehre, daß er Untugend überhören kann.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Die Ungnade des Königs ist wie das Brüllen eines jungen Löwen; aber seine Gnade ist wie der Tau auf dem Grase.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ein törichter Sohn ist seines Vaters Herzeleid, und ein zänkisches Weib ein stetiges Triefen.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Haus und Güter vererben die Eltern; aber ein vernünftiges Weib kommt vom HERRN.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Faulheit bringt Schlafen, und eine lässige Seele wird Hunger leiden.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Wer das Gebot bewahrt, der bewahrt sein Leben; wer aber seines Weges nicht achtet, wird sterben.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Wer sich des Armen erbarmt, der leihet dem HERRN; der wird ihm wieder Gutes vergelten.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Züchtige deinen Sohn, solange Hoffnung da ist; aber laß deine Seele nicht bewegt werden, ihn zu töten.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Großer Grimm muß Schaden leiden; denn willst du ihm steuern, so wird er noch größer.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Gehorche dem Rat, und nimm Zucht an, daß du hernach weise seiest.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Es sind viel Anschläge in eines Mannes Herzen; aber der Rat des HERRN besteht.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ein Mensch hat Lust an seiner Wohltat; und ein Armer ist besser denn ein Lügner.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Die Furcht des HERRN fördert zum Leben, und wird satt bleiben, daß kein Übel sie heimsuchen wird.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Der Faule verbirgt seine Hand im Topf und bringt sie nicht wieder zum Munde.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Schlägt man den Spötter, so wird der Unverständige klug; straft man einen Verständigen, so wird er vernünftig.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Wer Vater verstört und Mutter verjagt, der ist ein schändliches und verfluchtes Kind.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Laß ab, mein Sohn, zu hören die Zucht, und doch abzuirren von vernünftiger Lehre.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ein loser Zeuge spottet des Rechts, und der Gottlosen Mund verschlingt das Unrecht.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Den Spöttern sind Strafen bereitet, und Schläge auf der Narren Rücken.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Der Wein macht lose Leute, und starkes Getränk macht wild; wer dazu Lust hat, wird nimmer weise.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Das Schrecken des Königs ist wie das Brüllen eines jungen Löwen; wer ihn erzürnt, der sündigt wider sein Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Es ist dem Mann eine Ehre, vom Hader bleiben; aber die gern Hadern, sind allzumal Narren.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Um der Kälte willen will der Faule nicht pflügen; so muß er in der Ernte betteln und nichts kriegen.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Der Rat im Herzen eines Mannes ist wie tiefe Wasser; aber ein Verständiger kann's merken, was er meint.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Viele Menschen werden fromm gerühmt; aber wer will finden einen, der rechtschaffen fromm sei?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ein Gerechter, der in seiner Frömmigkeit wandelt, des Kindern wird's wohl gehen nach ihm.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ein König, der auf seinem Stuhl sitzt, zu richten, zerstreut alles Arge mit seinen Augen.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Wer kann sagen: Ich bin rein in meinem Herzen und lauter von meiner Sünde?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mancherlei Gewicht und Maß ist beides Greuel dem HERRN.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Auch einen Knaben kennt man an seinem Wesen, ob er fromm und redlich werden will.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ein hörend Ohr und sehend Auge, die macht beide der HERR.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Liebe den Schlaf nicht, daß du nicht arm werdest; laß deine Augen wacker sein, so wirst du Brot genug haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "\"Böse, böse!\" spricht man, wenn man's hat; aber wenn's weg ist, so rühmt man es dann.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Es gibt Gold und viele Perlen; aber ein vernünftiger Mund ist ein edles Kleinod.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Nimm dem sein Kleid, der für einen andern Bürge wird, und pfände ihn um des Fremden willen.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Das gestohlene Brot schmeckt dem Manne wohl; aber hernach wird ihm der Mund voll Kieselsteine werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Anschläge bestehen, wenn man sie mit Rat führt; und Krieg soll man mit Vernunft führen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Sei unverworren mit dem, der Heimlichkeit offenbart, und mit dem Verleumder und mit dem falschen Maul.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Wer seinem Vater und seiner Mutter flucht, des Leuchte wird verlöschen mitten in der Finsternis.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Das Erbe, darnach man zuerst sehr eilt wird zuletzt nicht gesegnet sein.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Sprich nicht: Ich will Böses vergelten! Harre des HERRN, der wird dir helfen.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Mancherlei Gewicht ist ein Greuel dem HERRN, und eine falsche Waage ist nicht gut.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Jedermanns Gänge kommen vom HERRN. Welcher Mensch versteht seinen Weg?",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Es ist dem Menschen ein Strick, sich mit Heiligem übereilen und erst nach den Geloben überlegen.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ein weiser König zerstreut die Gottlosen und bringt das Rad über sie.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Eine Leuchte des HERRN ist des Menschen Geist; die geht durch alle Kammern des Leibes.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Fromm und wahrhaftig sein behütet den König, und sein Thron besteht durch Frömmigkeit.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Der Jünglinge Stärke ist ihr Preis; und graues Haar ist der Alten Schmuck.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Man muß dem Bösen wehren mit harter Strafe und mit ernsten Schlägen, die man fühlt.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Des Königs Herz ist in der Hand des HERRN wie Wasserbäche, und er neigt es wohin er will.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Einen jeglichen dünkt sein Weg recht; aber der HERR wägt die Herzen.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Wohl und recht tun ist dem HERRN lieber denn Opfer.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hoffärtige Augen und stolzer Mut, die Leuchte der Gottlosen, ist Sünde.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Die Anschläge eines Emsigen bringen Überfluß; wer aber allzu jach ist, dem wird's mangeln.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Wer Schätze sammelt mit Lügen, der wird fehlgehen und ist unter denen, die den Tod suchen.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Der Gottlosen Rauben wird sie erschrecken; denn sie wollten nicht tun, was recht war.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wer mit Schuld beladen ist, geht krumme Wege; wer aber rein ist, des Werk ist recht.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Es ist besser wohnen im Winkel auf dem Dach, denn bei einem zänkischen Weibe in einem Haus beisammen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Die Seele des Gottlosen wünscht Arges und gönnt seinem Nächsten nichts.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wenn der Spötter gestraft wird, so werden die Unvernünftigen Weise; und wenn man einen Weisen unterrichtet, so wird er vernünftig.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Der Gerechte hält sich weislich gegen des Gottlosen Haus; aber die Gottlosen denken nur Schaden zu tun.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Wer seine Ohren verstopft vor dem Schreien des Armen, der wird auch rufen, und nicht erhört werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Eine heimliche Gabe stillt den Zorn, und ein Geschenk im Schoß den heftigen Grimm.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Es ist dem Gerechten eine Freude, zu tun, was recht ist, aber eine Furcht den Übeltätern.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ein Mensch, der vom Wege der Klugheit irrt, wird bleiben in der Toten Gemeinde.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Wer gern in Freuden lebt, dem wird's mangeln; und wer Wein und Öl liebt, wird nicht reich.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Der Gottlose muß für den Gerechten gegeben werden und der Verächter für die Frommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Es ist besser, wohnen im wüsten Lande denn bei einem zänkischen und zornigen Weibe.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Im Hause des Weisen ist ein lieblicher Schatz und Öl; aber ein Narr verschlemmt es.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Wer der Gerechtigkeit und Güte nachjagt, der findet Leben, Gerechtigkeit und Ehre.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ein Weiser gewinnt die Stadt der Starken und stürzt ihre Macht, darauf sie sich verläßt.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Wer seinen Mund und seine Zunge bewahrt, der bewahrt seine Seele vor Angst.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Der stolz und vermessen ist, heißt ein Spötter, der im Zorn Stolz beweist.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Der Faule stirbt über seinem Wünschen; denn seine Hände wollen nichts tun.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Er wünscht den ganzen Tag; aber der Gerechte gibt, und versagt nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Der Gottlosen Opfer ist ein Greuel; denn es wird in Sünden geopfert.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ein lügenhafter Zeuge wird umkommen; aber wer sich sagen läßt, den läßt man auch allezeit wiederum reden.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Der Gottlose fährt mit dem Kopf hindurch; aber wer fromm ist, des Weg wird bestehen.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Es hilft keine Weisheit, kein Verstand, kein Rat wider den HERRN.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Rosse werden zum Streittage bereitet; aber der Sieg kommt vom HERRN.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ein guter Ruf ist köstlicher denn großer Reichtum, und Gunst besser denn Silber und Gold.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Reiche und Arme müssen untereinander sein; der HERR hat sie alle gemacht.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Der Kluge sieht das Unglück und verbirgt sich; die Unverständigen gehen hindurch und werden beschädigt.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Wo man leidet in des HERRN Furcht, da ist Reichtum, Ehre und Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Stachel und Stricke sind auf dem Wege des Verkehrten; wer sich aber davon fernhält, bewahrt sein Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Wie man einen Knaben gewöhnt, so läßt er nicht davon, wenn er alt wird.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Der Reiche herrscht über die Armen; und wer borgt, ist des Leihers Knecht.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wer Unrecht sät, der wird Mühsal ernten und wird durch die Rute seiner Bosheit umkommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ein gütiges Auge wird gesegnet; denn er gibt von seinem Brot den Armen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Treibe den Spötter aus, so geht der Zank weg, so hört auf Hader und Schmähung.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wer ein treues Herz und liebliche Rede hat, des Freund ist der König.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Die Augen des HERRN behüten guten Rat; aber die Worte des Verächters verkehrt er.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Der Faule spricht: Es ist ein Löwe draußen, ich möchte erwürgt werden auf der Gasse.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Der Huren Mund ist eine Tiefe Grube; wem der HERR ungnädig ist, der fällt hinein.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Torheit steckt dem Knaben im Herzen; aber die Rute der Zucht wird sie fern von ihm treiben.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Wer dem Armen Unrecht tut, daß seines Guts viel werde, der wird auch einem Reichen geben, und Mangel haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Neige deine Ohren und höre die Worte der Weisen und nimm zu Herzen meine Lehre.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Denn es wird dir sanft tun, wo du sie wirst im Sinne behalten und sie werden miteinander durch deinen Mund wohl geraten.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Daß deine Hoffnung sei auf den HERRN, erinnere ich dich an solches heute dir zugut.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Habe ich dir's nicht mannigfaltig vorgeschrieben mit Rat und Lehren,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "daß ich dir zeigte einen gewissen Grund der Wahrheit, daß du recht antworten könntest denen, die dich senden?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Beraube den Armen nicht, ob er wohl arm ist, und unterdrücke den Elenden nicht im Tor.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Denn der HERR wird ihre Sache führen und wird ihre Untertreter untertreten.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Geselle dich nicht zum Zornigen und halte dich nicht zu einem grimmigen Mann;",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "du möchtest seinen Weg lernen und an deiner Seele Schaden nehmen.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Sei nicht bei denen, die ihre Hand verhaften und für Schuld Bürge werden;",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "denn wo du es nicht hast, zu bezahlen, so wird man dir dein Bett unter dir wegnehmen.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Verrücke nicht die vorigen Grenzen, die deine Väter gemacht haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Siehst du einen Mann behend in seinem Geschäft, der wird vor den Königen stehen und wird nicht stehen vor den Unedlen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Wenn du sitzest und issest mit einem Herrn, so merke, wen du vor dir hast,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "und setze ein Messer an deine Kehle, wenn du gierig bist.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Wünsche dir nichts von seinen feinen Speisen; denn es ist falsches Brot.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Bemühe dich nicht reich zu werden und laß ab von deinen Fündlein.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Laß dein Augen nicht fliegen nach dem, was du nicht haben kannst; denn dasselbe macht sich Flügel wie ein Adler und fliegt gen Himmel.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Iß nicht Brot bei einem Neidischen und wünsche dir von seinen feinen Speisen nichts.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Denn wie ein Gespenst ist er inwendig; er spricht: Iß und trink! und sein Herz ist doch nicht mit dir.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Deine Bissen die du gegessen hattest, mußt du ausspeien, und mußt deine freundlichen Worte verloren haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Rede nicht vor des Narren Ohren; denn er verachtet die Klugheit deiner Rede.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Verrücke nicht die vorigen Grenzen und gehe nicht auf der Waisen Acker.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Denn ihr Erlöser ist mächtig; der wird ihre Sache wider dich ausführen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Gib dein Herz zur Zucht und deine Ohren zu vernünftiger Rede.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Laß nicht ab den Knaben zu züchtigen; denn wenn du ihn mit der Rute haust, so wird man ihn nicht töten.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Du haust ihn mit der Rute; aber du errettest seine Seele vom Tode.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Mein Sohn, wenn dein Herz weise ist, so freut sich auch mein Herz;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "und meine Nieren sind froh, wenn deine Lippen reden, was recht ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Dein Herz folge nicht den Sündern, sondern sei täglich in der Furcht des HERRN.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Denn es wird dir hernach gut sein, und dein Warten wird nicht trügen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Höre, mein Sohn, und sei weise und richte dein Herz in den Weg.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sei nicht unter den Säufern und Schlemmern;",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "denn die Säufer und Schlemmer verarmen, und ein Schläfer muß zerrissene Kleider tragen.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Gehorche deinem Vater, der dich gezeugt hat, und verachte deine Mutter nicht, wenn sie alt wird.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Kaufe Wahrheit, und verkaufe sie nicht, Weisheit, Zucht und Verstand.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Der Vater eines Gerechten freut sich; und wer einen Weisen gezeugt hat, ist fröhlich darüber.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Laß sich deinen Vater und deine Mutter freuen, und fröhlich sein, die dich geboren hat.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Gib mir, mein Sohn, dein Herz, und laß deinen Augen meine Wege wohl gefallen.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Denn eine Hure ist eine tiefe Grube, und eine Ehebrecherin ist ein enger Brunnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Auch lauert sie wie ein Räuber, und die Frechen unter den Menschen sammelt sie zu sich.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Wo ist Weh? wo ist Leid? wo ist Zank? wo ist Klagen? wo sind Wunden ohne Ursache? wo sind trübe Augen?",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Wo man beim Wein liegt und kommt, auszusaufen, was eingeschenkt ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Siehe den Wein nicht an, daß er so rot ist und im Glase so schön steht. Er geht glatt ein;",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "aber danach beißt er wie eine Schlange und sticht wie eine Otter.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "So werden deine Augen nach andern Weibern sehen, und dein Herz wird verkehrte Dinge reden,",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "und wirst sein wie einer, der mitten im Meer schläft, und wie einer schläft oben auf dem Mastbaum.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "\"Sie schlagen mich, aber es tut mir nicht weh; sie klopfen mich, aber ich fühle es nicht. Wann will ich aufwachen, daß ich's mehr treibe?\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Folge nicht bösen Leuten und wünsche nicht, bei ihnen zu sein;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "denn ihr Herz trachte nach Schaden, und ihre Lippen raten zu Unglück.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Durch Weisheit wird ein Haus gebaut und durch Verstand erhalten.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Durch ordentliches Haushalten werden die Kammern voll aller köstlichen, lieblichen Reichtümer.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ein weiser Mann ist stark, und ein vernünftiger Mann ist mächtig von Kräften.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Denn mit Rat muß man Krieg führen; und wo viele Ratgeber sind, da ist der Sieg.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Weisheit ist dem Narren zu hoch; er darf seinen Mund im Tor nicht auftun.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wer sich vornimmt, Böses zu tun, den heißt man billig einen Erzbösewicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Des Narren Tücke ist Sünde, und der Spötter ist ein Greuel vor den Leuten.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Der ist nicht stark, der in der Not nicht fest ist.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Errette die, so man töten will; und entzieh dich nicht von denen, die man würgen will.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sprichst du: \"Siehe, wir verstehen's nicht!\" meinst du nicht, der die Herzen wägt, merkt es, und der auf deine Seele achthat, kennt es und vergilt dem Menschen nach seinem Werk?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Iß, mein Sohn, Honig, denn er ist gut, und Honigseim ist süß in deinem Halse.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Also lerne die Weisheit für deine Seele. Wo du sie findest, so wird's hernach wohl gehen, und deine Hoffnung wird nicht umsonst sein.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Laure nicht als Gottloser auf das Haus des Gerechten; verstöre seine Ruhe nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Denn ein Gerechter fällt siebenmal und steht wieder auf; aber die Gottlosen versinken im Unglück.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Freue dich des Falles deines Feindes nicht, und dein Herz sei nicht froh über seinem Unglück;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "der HERR möchte es sehen, und es möchte ihm übel gefallen und er seine Zorn von ihm wenden.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Erzürne dich nicht über die Bösen und eifere nicht über die Gottlosen.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Denn der Böse hat nichts zu hoffen, und die Leuchte der Gottlosen wird verlöschen.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Mein Kind, fürchte den HERRN und den König und menge dich nicht unter die Aufrührer.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Denn ihr Verderben wird plötzlich entstehen; und wer weiß, wann beider Unglück kommt?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Dies sind auch Worte von Weisen. Die Person ansehen im Gericht ist nicht gut.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Wer zum Gottlosen spricht: \"Du bist fromm\", dem fluchen die Leute, und das Volk haßt ihn.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Welche aber strafen, die gefallen wohl, und kommt ein reicher Segen auf sie.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Eine richtige Antwort ist wie ein lieblicher Kuß.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Richte draußen dein Geschäft aus und bearbeite deinen Acker; darnach baue dein Haus.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Sei nicht Zeuge ohne Ursache wider deinen Nächsten und betrüge nicht mit deinem Munde.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Sprich nicht: \"Wie man mir tut, so will ich wieder tun und einem jeglichen sein Werk vergelten.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Ich ging am Acker des Faulen vorüber und am Weinberg des Narren;",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "und siehe, da waren eitel Nesseln darauf, und er stand voll Disteln, und die Mauer war eingefallen.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Da ich das sah, nahm ich's zu Herzen und schaute und lernte daran.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Du willst ein wenig schlafen und ein wenig schlummern und ein wenig deine Hände zusammentun, daß du ruhest:",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "aber es wird dir deine Armut kommen wie ein Wanderer und dein Mangel wie ein gewappneter Mann.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Dies sind auch Sprüche Salomos, die hinzugesetzt haben die Männer Hiskias, des Königs in Juda.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Es ist Gottes Ehre, eine Sache verbergen; aber der Könige Ehre ist's, eine Sache zu erforschen.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Der Himmel ist hoch und die Erde tief; aber der Könige Herz ist unerforschlich.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Man tue den Schaum vom Silber, so wird ein reines Gefäß daraus.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Man tue den Gottlosen hinweg vor dem König, so wird sein Thron mit Gerechtigkeit befestigt.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Prange nicht vor dem König und tritt nicht an den Ort der Großen.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Denn es ist dir besser, daß man zu dir sage: Tritt hier herauf! als daß du vor dem Fürsten erniedrigt wirst, daß es deine Augen sehen müssen.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Fahre nicht bald heraus, zu zanken; denn was willst du hernach machen, wenn dich dein Nächster beschämt hat?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Führe deine Sache mit deinem Nächsten, und offenbare nicht eines andern Heimlichkeit,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "auf daß nicht übel von dir spreche, der es hört, und dein böses Gerücht nimmer ablasse.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ein Wort geredet zu seiner Zeit, ist wie goldene Äpfel auf silbernen Schalen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wer einem Weisen gehorcht, der ihn straft, das ist wie ein goldenes Stirnband und goldenes Halsband.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Wie die Kühle des Schnees zur Zeit der Ernte, so ist ein treuer Bote dem, der ihn gesandt hat, und labt seines Herrn Seele.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Wer viel verspricht und hält nicht, der ist wie Wolken und Wind ohne Regen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Durch Geduld wird ein Fürst versöhnt, und eine linde Zunge bricht die Härtigkeit.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Findest du Honig, so iß davon, so viel dir genug ist, daß du nicht zu satt wirst und speiest ihn aus.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Entzieh deinen Fuß vom Hause deines Nächsten; er möchte dein überdrüssig und dir gram werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Wer wider seinen Nächsten falsch Zeugnis redet, der ist ein Spieß, Schwert und scharfer Pfeil.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Die Hoffnung auf einen Treulosen zur Zeit der Not ist wie ein fauler Zahn und gleitender Fuß.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Wer einem betrübten Herzen Lieder singt, das ist, wie wenn einer das Kleid ablegt am kalten Tage, und wie Essig auf der Kreide.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Hungert deinen Feind, so speise ihn mit Brot; dürstet ihn, so tränke ihn mit Wasser.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Denn du wirst feurige Kohlen auf sein Haupt häufen, und der HERR wird dir's vergelten.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Der Nordwind bringt Ungewitter, und die heimliche Zunge macht saures Angesicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Es ist besser, im Winkel auf dem Dach sitzen denn bei einem zänkischen Weibe in einem Haus beisammen.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Eine gute Botschaft aus fernen Landen ist wie kalt Wasser einer durstigen Seele.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ein Gerechter, der vor einem Gottlosen fällt, ist wie ein getrübter Brunnen und eine verderbte Quelle.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Wer zuviel Honig ißt, das ist nicht gut; und wer schwere Dinge erforscht, dem wird's zu schwer.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ein Mann, der seinen Geist nicht halten kann, ist wie eine offene Stadt ohne Mauern.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Wie der Schnee im Sommer und Regen in der Ernte, also reimt sich dem Narren die Ehre nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wie ein Vogel dahinfährt und eine Schwalbe fliegt, also ein unverdienter Fluch trifft nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Dem Roß eine Geißel und dem Esel einen Zaum und dem Narren eine Rute auf den Rücken!",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Antworte dem Narren nicht nach seiner Narrheit, daß du ihm nicht auch gleich werdest.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Antworte aber dem Narren nach seiner Narrheit, daß er sich nicht weise lasse dünken.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Wer eine Sache durch einen törichten Boten ausrichtet, der ist wie ein Lahmer an den Füßen und nimmt Schaden.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wie einem Krüppel das Tanzen, also steht den Narren an, von Weisheit zu reden.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wer einem Narren Ehre antut, das ist, als wenn einer einen edlen Stein auf den Rabenstein würfe.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ein Spruch in eines Narren Mund ist wie ein Dornzweig, der in eines Trunkenen Hand sticht.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ein guter Meister macht ein Ding recht; aber wer einen Stümper dingt, dem wird's verderbt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wie ein Hund sein Gespeites wieder frißt, also ist der Narr, der seine Narrheit wieder treibt.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wenn du einen siehst, der sich weise dünkt, da ist an einem Narren mehr Hoffnung denn an ihm.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Der Faule spricht: Es ist ein junger Löwe auf dem Wege und ein Löwe auf den Gassen.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ein Fauler wendet sich im Bette wie die Tür in der Angel.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Der Faule verbirgt seine Hand in dem Topf, und wird ihm sauer, daß er sie zum Munde bringe.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ein Fauler dünkt sich weiser denn sieben, die da Sitten lehren.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Wer vorgeht und sich mengt in fremden Hader, der ist wie einer, der den Hund bei den Ohren zwackt.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Wie ein Unsinniger mit Geschoß und Pfeilen schießt und tötet,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "also tut ein falscher Mensch mit seinem Nächsten und spricht danach: Ich habe gescherzt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Wenn nimmer Holz da ist, so verlischt das Feuer; und wenn der Verleumder weg ist, so hört der Hader auf.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Wie die Kohlen eine Glut und Holz ein Feuer, also facht ein zänkischer Mann Hader an.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Die Worte des Verleumders sind wie Schläge, und sie gehen durchs Herz.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Brünstige Lippen und ein böses Herz ist wie eine Scherbe, mit Silberschaum überzogen.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Der Feind verstellt sich mit seiner Rede, und im Herzen ist er falsch.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Wenn er seine Stimme holdselig macht, so glaube ihm nicht; denn es sind sieben Greuel in seinem Herzen.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Wer den Haß heimlich hält, Schaden zu tun, des Bosheit wird vor der Gemeinde offenbar werden.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Wer eine Grube macht, der wird hineinfallen; und wer einen Stein wälzt, auf den wird er zurückkommen.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Eine falsche Zunge haßt den, der sie straft; und ein Heuchelmaul richtet Verderben an.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Rühme dich nicht des morgenden Tages; denn du weißt nicht, was heute sich begeben mag.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Laß dich einen andern loben, und nicht deinen Mund, einen Fremden, und nicht deine eigenen Lippen.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Stein ist schwer und Sand ist Last; aber des Narren Zorn ist schwerer denn die beiden.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Zorn ist ein wütig Ding, und Grimm ist ungestüm; aber wer kann vor dem Neid bestehen?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Offene Strafe ist besser denn heimliche Liebe.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Die Schläge des Liebhabers meinen's recht gut; aber die Küsse des Hassers sind gar zu reichlich.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Eine satte Seele zertritt wohl Honigseim; aber einer hungrigen Seele ist alles Bittere süß.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wie ein Vogel, der aus seinem Nest weicht, also ist, wer von seiner Stätte weicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Das Herz erfreut sich an Salbe und Räuchwerk; aber ein Freund ist lieblich um Rats willen der Seele.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Deinen Freund und deines Vaters Freund verlaß nicht, und gehe nicht ins Haus deines Bruders, wenn dir's übel geht; denn dein Nachbar in der Nähe ist besser als dein Bruder in der Ferne.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Sei weise, mein Sohn, so freut sich mein Herz, so will ich antworten dem, der mich schmäht.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ein Kluger sieht das Unglück und verbirgt sich; aber die Unverständigen gehen hindurch und leiden Schaden.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nimm dem sein Kleid, der für einen andern Bürge wird, und pfände ihn um der Fremden willen.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Wenn einer seinen Nächsten des Morgens früh mit lauter Stimme segnet, das wird ihm für einen Fluch gerechnet.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ein zänkisches Weib und stetiges Triefen, wenn's sehr regnet, werden wohl miteinander verglichen.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Wer sie aufhält, der hält den Wind und will das Öl mit der Hand fassen.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ein Messer wetzt das andere und ein Mann den andern.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Wer seinen Feigenbaum bewahrt, der ißt Früchte davon; und wer seinen Herrn bewahrt, wird geehrt.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Wie das Spiegelbild im Wasser ist gegenüber dem Angesicht, also ist eines Menschen Herz gegenüber dem andern.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Hölle und Abgrund werden nimmer voll, und der Menschen Augen sind auch unersättlich.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ein Mann wird durch den Mund des, der ihn lobt, bewährt wie Silber im Tiegel und das Gold im Ofen.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Wenn du den Narren im Mörser zerstießest mit dem Stämpel wie Grütze, so ließe doch seine Narrheit nicht von ihm.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Auf deine Schafe habe acht und nimm dich deiner Herden an.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Denn Gut währt nicht ewiglich, und die Krone währt nicht für und für.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Das Heu ist weggeführt, und wiederum ist Gras da und wird Kraut auf den Bergen gesammelt.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Die Lämmer kleiden dich und die Böcke geben dir das Geld, einen Acker zu kaufen.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Du hast Ziegenmilch genug zu deiner Speise, zur Speise deines Hauses und zur Nahrung deiner Dirnen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Der Gottlose flieht, und niemand jagt ihn; der Gerechte aber ist getrost wie ein junger Löwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Um des Landes Sünde willen werden viel Änderungen der Fürstentümer; aber um der Leute willen, die verständig und vernünftig sind, bleiben sie lange.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ein armer Mann, der die Geringen bedrückt, ist wie ein Meltau, der die Frucht verdirbt.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Die das Gesetz verlassen, loben den Gottlosen; die es aber bewahren, sind unwillig auf sie.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Böse Leute merken nicht aufs Recht; die aber nach dem HERRN fragen, merken auf alles.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Es ist besser ein Armer, der in seiner Frömmigkeit geht, denn ein Reicher, der in verkehrten Wegen geht.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wer das Gesetz bewahrt, ist ein verständiges Kind; wer aber der Schlemmer Geselle ist, schändet seinen Vater.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Wer sein Gut mehrt mit Wucher und Zins, der sammelt es für den, der sich der Armen erbarmt.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Wer sein Ohr abwendet, das Gesetz zu hören, des Gebet ist ein Greuel.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wer die Frommen verführt auf bösem Wege, der wird in seine Grube fallen; aber die Frommen werden Gutes ererben.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ein Reicher dünkt sich, weise zu sein; aber ein verständiger Armer durchschaut ihn.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wenn die Gerechten Oberhand haben, so geht's sehr fein zu; wenn aber Gottlose aufkommen, wendet sich's unter den Leuten.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Wer seine Missetat leugnet, dem wird's nicht gelingen; wer sie aber bekennt und läßt, der wird Barmherzigkeit erlangen.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Wohl dem, der sich allewege fürchtet; wer aber sein Herz verhärtet, wird in Unglück fallen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ein Gottloser, der über ein armes Volk regiert, das ist ein brüllender Löwe und gieriger Bär.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Wenn ein Fürst ohne Verstand ist, so geschieht viel Unrecht; wer aber den Geiz haßt, der wird lange leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ein Mensch, der am Blut einer Seele schuldig ist, der wird flüchtig sein bis zur Grube, und niemand halte ihn auf.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Wer fromm einhergeht, dem wird geholfen; wer aber verkehrtes Weges ist, wird auf einmal fallen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Wer seinen Acker baut, wird Brot genug haben; wer aber dem Müßiggang nachgeht, wird Armut genug haben.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ein treuer Mann wird viel gesegnet; wer aber eilt, reich zu werden, wird nicht unschuldig bleiben.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Person ansehen ist nicht gut; und mancher tut übel auch wohl um ein Stück Brot.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Wer eilt zum Reichtum und ist neidisch, der weiß nicht, daß Mangel ihm begegnen wird.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Wer einen Menschen straft, wird hernach Gunst finden, mehr denn der da heuchelt.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Wer seinem Vater oder seiner Mutter etwas nimmt und spricht, es sei nicht Sünde, der ist des Verderbers Geselle.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ein Stolzer erweckt Zank; wer aber auf den HERRN sich verläßt, wird gelabt.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Wer sich auf sein Herz verläßt, ist ein Narr; wer aber mit Weisheit geht, wird entrinnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Wer dem Armen gibt, dem wird nichts mangeln; wer aber seine Augen abwendet, der wird viel verflucht.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Wenn die Gottlosen aufkommen, so verbergen sich die Leute; wenn sie aber umkommen, werden der Gerechten viel.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Wer wider die Strafe halsstarrig ist, der wird plötzlich verderben ohne alle Hilfe.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wenn der Gerechten viel sind, freut sich das Volk; wenn aber der Gottlose herrscht, seufzt das Volk.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Wer Weisheit liebt, erfreut seinen Vater; wer aber mit Huren umgeht, kommt um sein Gut.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ein König richtet das Land auf durchs Recht; ein geiziger aber verderbt es.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Wer mit seinem Nächsten heuchelt, der breitet ein Netz aus für seine Tritte.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Wenn ein Böser sündigt, verstrickt er sich selbst; aber ein Gerechter freut sich und hat Wonne.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Der Gerechte erkennt die Sache der Armen; der Gottlose achtet keine Vernunft.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Die Spötter bringen frech eine Stadt in Aufruhr; aber die Weisen stillen den Zorn.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Wenn ein Weiser mit einem Narren zu rechten kommt, er zürne oder lache, so hat er nicht Ruhe.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Die Blutgierigen hassen den Frommen; aber die Gerechten suchen sein Heil.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ein Narr schüttet seinen Geist ganz aus; aber ein Weiser hält an sich.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ein Herr, der zu Lügen Lust hat, des Diener sind alle gottlos.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Arme und Reiche begegnen einander: beider Augen erleuchtet der HERR.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ein König, der die Armen treulich richtet, des Thron wird ewig bestehen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Rute und Strafe gibt Weisheit; aber ein Knabe, sich selbst überlassen, macht seiner Mutter Schande.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Wo viele Gottlose sind, da sind viel Sünden; aber die Gerechten werden ihren Fall erleben.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Züchtige deinen Sohn, so wird er dich ergötzen und wird deiner Seele sanft tun.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Wo keine Weissagung ist, wird das Volk wild und wüst; wohl aber dem, der das Gesetz handhabt!",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ein Knecht läßt sich mit Worten nicht züchtigen; denn ob er sie gleich versteht, nimmt er sich's doch nicht an.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Siehst du einen, der schnell ist zu reden, da ist am Narren mehr Hoffnung denn an ihm.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Wenn ein Knecht von Jugend auf zärtlich gehalten wird, so will er darnach ein Junker sein.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ein zorniger Mann richtet Hader an, und ein Grimmiger tut viel Sünde.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Die Hoffart des Menschen wird ihn stürzen; aber der Demütige wird Ehre empfangen.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Wer mit Dieben teilhat, den Fluch aussprechen hört, und sagt's nicht an, der haßt sein Leben.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Vor Menschen sich scheuen bringt zu Fall; wer sich aber auf den HERRN verläßt, wird beschützt.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Viele suchen das Angesicht eines Fürsten; aber eines jeglichen Gericht kommt vom HERRN.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Ein ungerechter Mann ist dem Gerechten ein Greuel; und wer rechtes Weges ist, der ist des Gottlosen Greuel.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Dies sind die Worte Agurs, des Sohnes Jakes. Lehre und Rede des Mannes: Ich habe mich gemüht, o Gott; ich habe mich gemüht, o Gott, und ablassen müssen.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Denn ich bin der allernärrischste, und Menschenverstand ist nicht bei mir;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ich habe Weisheit nicht gelernt, daß ich den Heiligen erkennete.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Wer fährt hinauf gen Himmel und herab? Wer faßt den Wind in seine Hände? Wer bindet die Wasser in ein Kleid? Wer hat alle Enden der Welt gestellt? Wie heißt er? Und wie heißt sein Sohn? Weißt du das?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Alle Worte Gottes sind durchläutert; er ist ein Schild denen, die auf ihn trauen.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Tue nichts zu seinen Worten, daß er dich nicht strafe und werdest lügenhaft erfunden.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Zweierlei bitte ich von dir; das wollest du mir nicht weigern, ehe ich denn sterbe:",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Abgötterei und Lüge laß ferne von mir sein; Armut und Reichtum gib mir nicht, laß mich aber mein bescheiden Teil Speise dahinnehmen.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ich möchte sonst, wo ich zu satt würde, verleugnen und sagen: Wer ist der HERR? Oder wo ich zu arm würde, möchte ich stehlen und mich an dem Namen meines Gottes vergreifen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Verleumde den Knecht nicht bei seinem Herrn, daß er dir nicht fluche und du die Schuld tragen müssest.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Es ist eine Art, die ihrem Vater flucht und ihre Mutter nicht segnet;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "eine Art, die sich rein dünkt, und ist doch von ihrem Kot nicht gewaschen;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "eine Art, die ihre Augen hoch trägt und ihre Augenlider emporhält;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "eine Art, die Schwerter für Zähne hat und Messer für Backenzähne und verzehrt die Elenden im Lande und die Armen unter den Leuten.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Blutegel hat zwei Töchter: Bring her, bring her! Drei Dinge sind nicht zu sättigen, und das vierte spricht nicht: Es ist genug:",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "die Hölle, der Frauen verschlossenen Mutter, die Erde wird nicht des Wassers satt, und das Feuer spricht nicht: Es ist genug.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ein Auge, das den Vater verspottet, und verachtet der Mutter zu gehorchen, das müssen die Raben am Bach aushacken und die jungen Adler fressen.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Drei sind mir zu wunderbar, und das vierte verstehe ich nicht:",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "des Adlers Weg am Himmel, der Schlange Weg auf einem Felsen, des Schiffes Weg mitten im Meer und eines Mannes Weg an einer Jungfrau.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Also ist auch der Weg der Ehebrecherin; die verschlingt und wischt ihr Maul und spricht: Ich habe kein Böses getan.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ein Land wird durch dreierlei unruhig, und das vierte kann es nicht ertragen:",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "ein Knecht, wenn er König wird; ein Narr, wenn er zu satt ist;",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "eine Verschmähte, wenn sie geehelicht wird; und eine Magd, wenn sie ihrer Frau Erbin wird.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Vier sind klein auf Erden und klüger denn die Weisen:",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "die Ameisen, ein schwaches Volk; dennoch schaffen sie im Sommer ihre Speise,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Kaninchen, ein schwaches Volk; dennoch legt es sein Haus in den Felsen,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Heuschrecken, haben keinen König; dennoch ziehen sie aus ganz in Haufen,",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "die Spinne, wirkt mit ihren Händen und ist in der Könige Schlössern.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Dreierlei haben einen feinen Gang, und das vierte geht wohl:",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "der Löwe, mächtig unter den Tieren und kehrt nicht um vor jemand;",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ein Windhund von guten Lenden, und ein Widder, und ein König, wider den sich niemand legen darf.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Bist du ein Narr gewesen und zu hoch gefahren und hast Böses vorgehabt, so lege die Hand aufs Maul.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Wenn man Milch stößt, so macht man Butter daraus; und wer die Nase hart schneuzt, zwingt Blut heraus; und wer den Zorn reizt, zwingt Hader heraus.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Dies sind die Worte des Königs Lamuel, die Lehre, die ihn seine Mutter lehrte.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ach mein Auserwählter, ach du Sohn meines Leibes, ach mein gewünschter Sohn,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "laß nicht den Weibern deine Kraft und gehe die Wege nicht, darin sich die Könige verderben!",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "O, nicht den Königen, Lamuel, nicht den Königen ziemt es, Wein zu trinken, noch den Fürsten starkes Getränk!",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Sie möchten trinken und der Rechte vergessen und verändern die Sache aller elenden Leute.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Gebt starkes Getränk denen, die am Umkommen sind, und den Wein den betrübten Seelen,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "daß sie trinken und ihres Elends vergessen und ihres Unglücks nicht mehr gedenken.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Tue deinen Mund auf für die Stummen und für die Sache aller, die verlassen sind.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tue deinen Mund auf und richte recht und räche den Elenden und Armen.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wem ein tugendsam Weib beschert ist, die ist viel edler denn die köstlichsten Perlen.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ihres Mannes Herz darf sich auf sie verlassen, und Nahrung wird ihm nicht mangeln.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sie tut ihm Liebes und kein Leides ihr Leben lang.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Sie geht mit Wolle und Flachs um und arbeitet gern mit ihren Händen.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sie ist wie ein Kaufmannsschiff, das seine Nahrung von ferne bringt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Sie steht vor Tages auf und gibt Speise ihrem Hause und Essen ihren Dirnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sie denkt nach einem Acker und kauft ihn und pflanzt einen Weinberg von den Früchten ihrer Hände.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sie gürtet ihre Lenden mit Kraft und stärkt ihre Arme.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sie merkt, wie ihr Handel Frommen bringt; ihre Leuchte verlischt des Nachts nicht.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Sie streckt ihre Hand nach dem Rocken, und ihre Finger fassen die Spindel.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sie breitet ihre Hände aus zu dem Armen und reicht ihre Hand dem Dürftigen.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Sie fürchtet für ihr Haus nicht den Schnee; denn ihr ganzes Haus hat zwiefache Kleider.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Sie macht sich selbst Decken; feine Leinwand und Purpur ist ihr Kleid.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ihr Mann ist bekannt in den Toren, wenn er sitzt bei den Ältesten des Landes.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Sie macht einen Rock und verkauft ihn; einen Gürtel gibt sie dem Krämer.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Kraft und Schöne sind ihr Gewand, und sie lacht des kommenden Tages.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Sie tut ihren Mund auf mit Weisheit, und auf ihrer Zunge ist holdselige Lehre.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Sie schaut, wie es in ihrem Hause zugeht, und ißt ihr Brot nicht mit Faulheit.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ihre Söhne stehen auf und preisen sie selig; ihr Mann lobt sie:",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "\"Viele Töchter halten sich tugendsam; du aber übertriffst sie alle.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Lieblich und schön sein ist nichts; ein Weib, das den HERRN fürchtet, soll man loben.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Sie wird gerühmt werden von den Früchten ihrer Hände, und ihre Werke werden sie loben in den Toren.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
