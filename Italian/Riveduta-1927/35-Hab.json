@@ -1,0 +1,365 @@
+{
+  "book": "Abacuc",
+  "abbreviation": "Hab",
+  "number": 35,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Oracolo che il profeta Habacuc ebbe per visione.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Fino a quando, o Eterno, griderò, senza che tu mi dia ascolto? Io grido a te: \"Violenza!\" e tu non salvi.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Perché mi fai veder l’iniquità, e tolleri lo spettacolo della perversità? e perché mi stanno dinanzi la rapina e la violenza? Vi son liti, e sorge la discordia.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Perciò la legge è senza forza e il diritto non fa strada, perché l’empio aggira il giusto, e il diritto n’esce pervertito.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Vedete fra le nazioni, guardate, maravigliatevi, e siate stupefatti! Poiché io sto per fare ai vostri giorni un’opera, che voi non credereste, se ve la raccontassero.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Perché, ecco, io sto per suscitare i Caldei, questa nazione aspra e impetuosa, che percorre la terra quant’è larga, per impadronirsi di dimore, che non son sue.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "E’ terribile, formidabile; il suo diritto e la sua grandezza emanano da lui stesso.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "I suoi cavalli son più veloci de’ leopardi, più agili de’ lupi della sera; i suoi cavalieri procedon con fierezza; i suoi cavalieri vengon di lontano, volan come l’aquila che piomba sulla preda.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tutta quella gente viene per darsi alla violenza, le lor facce bramose son tese in avanti, e ammassan prigionieri senza numero come la rena.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Si fan beffe dei re, e i principi son per essi oggetto di scherno; si ridono di tutte le fortezze; mmontano un po’ di terra, e le prendono.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Poi passan come il vento; passan oltre e si rendon colpevoli, questa lor forza è il loro dio.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Non sei tu ab antico; o Eterno, il mio Dio, il mio Santo? Noi non morremo! O Eterno, tu l’hai posto, questo popolo, per esercitare i tuoi giudizi, tu, o Ròcca, l’hai stabilito per infliggere i tuoi castighi.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tu, che hai gli occhi troppo puri per sopportar la vista del male, e che non puoi tollerar lo spettacolo dell’iniquità, perché guardi i perfidi, e taci quando il malvagio divora l’uomo ch’è più giusto di lui?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "E perché rendi gli uomini come i pesci del mare e come i rettili, che non hanno signore?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Il Caldeo li trae tutti su con l’amo, li piglia nella sua rete, li raccoglie nel suo giacchio; perciò si rallegra ed esulta.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Per questo fa sacrifizi alla sua rete, e offre profumi al suo giacchio; perché per essi la sua parte è grassa, e il suo cibo è succulento.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Dev’egli per questo seguitare a vuotare la sua rete, e massacrar del continuo le nazioni senza pietà?",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Io starò alla mia vedetta, mi porrò sopra una torre, e starò attento a quello che l’Eterno mi dirà, e a quello che dovrò rispondere circa la rimostranza che ho fatto.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "E l’Eterno mi rispose e disse: \"Scrivi la visione, incidila su delle tavole, perché si possa leggere speditamente;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "poiché è una visione per un tempo già fissato; ella s’affretta verso la fine, e non mentirà; se tarda, spettala; poiché per certo verrà; non tarderà\".",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ecco, l’anima sua è gonfia, non è retta in lui; ma il giusto vivrà per la sua fede.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "E poi, il vino è perfido; l’uomo arrogante non può starsene tranquillo; egli allarga le sue brame come il soggiorno de’ morti; è come la morte e non si può saziare, ma raduna presso di sé tutte le nazioni, raccoglie intorno a sé tutti i popoli.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Tutti questi non faranno contro di lui proverbi, sarcasmi, enigmi? Si dirà: \"Guai a colui che accumula ciò che non è suo! Fino a quando? Guai a colui che si carica di pegni!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "I tuoi creditori non si leveranno essi ad un tratto? I tuoi tormentatori non si desteranno essi? E tu diventerai loro preda.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Poiché tu hai saccheggiato molte nazioni, tutto il resto dei popoli ti saccheggerà, a motivo del sangue umano sparso, della violenza fatta ai paesi, alle città e a tutti i loro abitanti.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Guai a colui ch’è avido d’illecito guadagno per la sua casa, per porre il suo nido in alto e mettersi al sicuro dalla mano della sventura!",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Tu hai divisato l’onta della tua casa, sterminando molti popoli; e hai peccato contro te stesso.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Poiché la pietra grida dalla parete, e la trave le risponde dall’armatura di legname.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Guai a colui che edifica la città col sangue, e fonda una città sull’iniquità!",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ecco, questo non procede egli dall’Eterno che i popoli s’affatichino per il fuoco, e le nazioni si stanchino per nulla?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Poiché la terra sarà ripiena della conoscenza della gloria dell’Eterno, come le acque coprono il fondo del mare.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Guai a colui che dà da bere al prossimo, a te che gli versi il tuo veleno e l’ubriachi, per guardare la sua nudità!",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Tu sarai saziato d’onta anziché di gloria; bevi anche tu, e scopri la tua incirconcisione! La coppa della destra dell’Eterno farà il giro fino a te, e l’ignominia coprirà la tua gloria.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Poiché la violenza fatta al Libano e la devastazione che spaventava le bestie, ricadranno su te, a motivo del sangue umano sparso, della violenza fatta ai paesi, alle città e a tutti loro abitanti.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "A che giova l’immagine scolpita perché l’artefice la scolpisca? A che giova l’immagine fusa che insegna la menzogna, perché l’artefice si confidi nel suo lavoro, fabbricando idoli muti?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Guai a chi dice al legno: \"Svegliati!\" e alla pietra muta: \"Lèvati!\" Può essa ammaestrare? Ecco, è ricoperta d’oro e d’argento, ma non v’è in lei spirito alcuno.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ma l’Eterno è nel suo tempio santo; tutta la terra faccia silenzio in presenza sua!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Preghiera del profeta Habacuc. Sopra Scighionoth.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "O Eterno, io ho udito il tuo messaggio, e son preso da timore; o Eterno, da’ vita all’opera tua nel corso degli anni! Nel corso degli anni falla conoscere! Nell’ira, ricordati d’aver pietà!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Iddio viene da Teman, e il santo viene dal monte di Paran. Sela. La sua gloria copre i cieli, e la terra è piena della sua lode.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Il suo splendore è pari alla luce; dei raggi partono dalla sua mano; ivi si nasconde la sua potenza.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Davanti a lui cammina la peste, la febbre ardente segue i suoi passi.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Egli si ferma, e scuote la terra; guarda, e fa tremar le nazioni; i monti eterni si frantumano, i colli antichi s’abbassano; le sue vie son quelle d’un tempo.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Io vedo nell’afflizione le tende d’Etiopia; i padiglioni del paese di Madian tremano.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "O Eterno, t’adiri tu contro i fiumi? E’ egli contro i fiumi che s’accende l’ira tua, o contro il mare che va il tuo sdegno, che tu avanzi sui tuoi cavalli, sui tuoi carri di vittoria?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Il tuo arco è messo a nudo; i dardi lanciati dalla tua parola sono esecrazioni. Sela. Tu fendi la terra in tanti letti di fiumi.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "I monti ti vedono e tremano; passa una piena d’acque: l’abisso fa udir la sua voce, e leva un alto le mani.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Il sole e la luna si fermano nella loro dimora; si cammina alla luce delle tue saette, al lampeggiare della ua lancia sfolgorante.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Tu percorri la terra nella tua indignazione, tu schiacci le nazioni nella tua ira.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tu esci per salvare il tuo popolo, per liberare il tuo unto; tu abbatti la sommità della casa dell’empio, e la demolisci da capo a fondo. Sela.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Tu trafiggi coi lor propri dardi la testa de’ suoi capi, che vengon come un uragano per disperdermi, mandando gridi di gioia, come se già divorassero il misero nei loro nascondigli.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Coi tuoi cavalli tu calpesti il mare, le grandi acque spumeggianti.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ho udito, e le mie viscere fremono, le mie labbra tremano a quella voce; un tarlo m’entra nelle ossa, e io tremo qui dove sto, a dover aspettare in silenzio il dì della distretta, quando il nemico salirà contro il popolo per assalirlo.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Poiché il fico non fiorirà, non ci sarà più frutto nelle vigne; il prodotto dell’ulivo fallirà, i campi non daran più cibo, i greggi verranno a mancare negli ovili, e non ci saran più buoi nelle stalle;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ma io mi rallegrerò nell’Eterno, esulterò nell’Iddio della mia salvezza.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "l’Eterno, il Signore, è la mia forza; egli renderà i miei piedi come quelli delle cerve, e mi farà camminare sui miei alti luoghi. Al Capo de Musici. Per strumenti a corda.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

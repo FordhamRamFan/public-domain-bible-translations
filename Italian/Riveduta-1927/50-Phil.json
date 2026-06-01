@@ -1,0 +1,660 @@
+{
+  "book": "Filippesi",
+  "abbreviation": "Phil",
+  "number": 50,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paolo e Timoteo, servitori di Cristo Gesù, a tutti i santi in Cristo Gesù che sono in Filippi, coi vescovi e coi diaconi,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "grazia a voi e pace da Dio nostro Padre e dal Signor Gesù Cristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Io rendo grazie all’Iddio mio di tutto il ricordo che ho di voi;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "e sempre, in ogni mia preghiera, prego per voi tutti con allegrezza",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "a cagion della vostra partecipazione al progresso del Vangelo, dal primo giorno fino ad ora;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "avendo fiducia in questo: che Colui che ha cominciato in voi un’opera buona, la condurrà a compimento fino al giorno di Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ed è ben giusto ch’io senta così di tutti voi; perché io vi ho nel cuore, voi tutti che, tanto nelle mie atene quanto nella difesa e nella conferma del Vangelo, siete partecipi con me della grazia.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Poiché Iddio mi è testimone com’io sospiri per voi tutti con affetto sviscerato in Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "E la mia preghiera è che il vostro amore sempre più abbondi in conoscenza e in ogni discernimento,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "onde possiate distinguere fra il bene ed il male, affinché siate sinceri e irreprensibili per il giorno di risto,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ripieni di frutti di giustizia che si hanno per mezzo di Gesù Cristo, a gloria e lode di Dio.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Or, fratelli, io voglio che sappiate che le cose mie son riuscite piuttosto al progresso del Vangelo;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "tanto che a tutta la guardia pretoriana e a tutti gli altri è divenuto notorio che io sono in catene per risto;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "e la maggior parte de’ fratelli nel Signore, incoraggiati dai miei legami, hanno preso vie maggiore ardire nell’annunziare senza paura la Parola di Dio.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Vero è che alcuni predicano Cristo anche per invidia e per contenzione; ma ce ne sono anche altri che lo predicano di buon animo.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Questi lo fanno per amore, sapendo che sono incaricato della difesa del Vangelo;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "ma quelli annunziano Cristo con spirito di parte, non sinceramente, credendo cagionarmi afflizione nelle mie catene.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Che importa? Comunque sia, o per pretesto o in sincerità, Cristo è annunziato; e io di questo mi rallegro, e mi rallegrerò ancora,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "perché so che ciò tornerà a mia salvezza, mediante le vostre supplicazioni e l’assistenza dello Spirito di Gesù Cristo,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "secondo la mia viva aspettazione e la mia speranza di non essere svergognato in cosa alcuna; ma che con ogni franchezza, ora come sempre Cristo sarà magnificato nel mio corpo, sia con la vita, sia con la morte.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Poiché per me il vivere è Cristo, e il morire guadagno.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ma se il continuare a vivere nella carne rechi frutto all’opera mia e quel ch’io debba preferire, non saprei dire.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Io sono stretto dai due lati: ho desiderio di partire e d’esser con Cristo, perché è cosa di gran lunga migliore;",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ma il mio rimanere nella carne è più necessario per voi.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ed ho questa ferma fiducia ch’io rimarrò e dimorerò con tutti voi per il vostro progresso e per la gioia della vostra fede;",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "onde il vostro gloriarvi abbondi in Cristo Gesù a motivo di me, per la mia presenza di nuovo in mezzo a voi.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Soltanto, conducetevi in modo degno del Vangelo di Cristo, affinché, o che io venga a vedervi o che sia assente, oda di voi che state fermi in uno stesso spirito, combattendo assieme di un medesimo animo per la fede del Vangelo,",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "e non essendo per nulla spaventati dagli avversari: il che per loro è una prova evidente di perdizione; a per voi, di salvezza; e ciò da parte di Dio.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Poiché a voi è stato dato, rispetto a Cristo, non soltanto di credere in lui, ma anche di soffrire per lui,",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "sostenendo voi la stessa lotta che mi avete veduto sostenere, e nella quale ora udite ch’io mi trovo.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Se dunque v’è qualche consolazione in Cristo, se v’è qualche conforto d’amore, se v’è qualche comunione di Spirito, se v’è qualche tenerezza d’affetto e qualche compassione,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "rendente perfetta la mia allegrezza, avendo un medesimo sentimento, un medesimo amore, essendo d’un animo, di un unico sentire;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "non facendo nulla per spirito di parte o per vanagloria, ma ciascun di voi, con umiltà, stimando altrui da più di se stesso,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "avendo ciascun di voi riguardo non alle cose proprie, ma anche a quelle degli altri.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Abbiate in voi lo stesso sentimento che è stato in Cristo Gesù;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "il quale, essendo in forma di Dio non riputò rapina l’essere uguale a Dio,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ma annichilì se stesso, prendendo forma di servo e divenendo simile agli uomini;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ed essendo trovato nell’esteriore come un uomo, abbassò se stesso, facendosi ubbidiente fino alla morte, e alla morte della croce.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ed è perciò che Dio lo ha sovranamente innalzato e gli ha dato il nome che è al di sopra d’ogni nome,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "affinché nel nome di Gesù si pieghi ogni ginocchio nei cieli, sulla terra e sotto la terra,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "e ogni lingua confessi che Gesù Cristo è il Signore, alla gloria di Dio Padre.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Così, miei cari, come sempre siete stati ubbidienti, non solo come s’io fossi presente, ma molto più adesso che sono assente, compiete la vostra salvezza con timore e tremore;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "poiché Dio è quel che opera in voi il volere e l’operare, per la sua benevolenza.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Fate ogni cosa senza mormorii e senza dispute,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "affinché siate irreprensibili e schietti, figliuoli di Dio senza biasimo in mezzo a una generazione storta e perversa, nella quale voi risplendete come luminari nel mondo, tenendo alta la Parola della vita,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "onde nel giorno di Cristo io abbia da gloriarmi di non aver corso invano, né invano faticato.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "E se anche io debba essere offerto a mo’ di libazione sul sacrificio e sul servigio della vostra fede, io ne gioisco e me ne rallegro con tutti voi;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "e nello stesso modo gioitene anche voi e rallegratevene meco.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Or io spero nel Signor Gesù di mandarvi tosto Timoteo affinché io pure sia incoraggiato, ricevendo notizie dello stato vostro.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Perché non ho alcuno d’animo pari al suo, che abbia sinceramente a cuore quel che vi concerne.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Poiché tutti cercano il loro proprio; non ciò che è di Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ma voi lo conoscete per prova, poiché nella maniera che un figliuolo serve al padre egli ha servito meco nella causa del Vangelo.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Spero dunque di mandarvelo, appena avrò veduto come andranno i fatti miei;",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ma ho fiducia nel Signore che io pure verrò presto.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Però ho stimato necessario di mandarvi Epafròdito, mio fratello, mio collaboratore e commilitone, inviatomi da voi per supplire ai miei bisogni,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "giacché egli avea gran brama di vedervi tutti ed era angosciato perché avevate udito ch’egli era stato infermo.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "E difatti è stato infermo, e ben vicino alla morte; ma Iddio ha avuto pietà di lui; e non soltanto di lui, ma anche di me, perch’io non avessi tristezza sopra tristezza.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Perciò ve l’ho mandato con tanta maggior premura, affinché, vedendolo di nuovo, vi rallegriate, e anch’io sia men rattristato.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Accoglietelo dunque nel Signore con ogni allegrezza, e abbiate stima di uomini cosiffatti;",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "perché, per l’opera di Cristo egli è stato vicino alla morte, avendo arrischiata la propria vita per supplire ai servizi che non potevate rendermi voi stessi.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Del resto, fratelli miei, rallegratevi nel Signore. A me certo non è grave lo scrivervi le medesime cose, e per voi è sicuro.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Guardatevi dai cani, guardatevi dai cattivi operai, guardatevi da quei della mutilazione;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "poiché i veri circoncisi siamo noi, che offriamo il nostro culto per mezzo dello Spirito di Dio, che ci gloriamo in Cristo Gesù, e non ci confidiamo nella carne;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "benché anche nella carne io avessi di che confidarmi. Se qualcun altro pensa aver di che confidarsi nella carne, io posso farlo molto di più;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "io, circonciso l’ottavo giorno, della razza d’Israele, della tribù di Beniamino, ebreo d’ebrei; quanto alla legge, Fariseo;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "quanto allo zelo, persecutore della chiesa; quanto alla giustizia che è nella legge, irreprensibile.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ma le cose che m’eran guadagni, io le ho reputate danno a cagion di Cristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Anzi, a dir vero, io reputo anche ogni cosa essere un danno di fronte alla eccellenza della conoscenza o Cristo Gesù, mio Signore, per il quale rinunziai a tutte codeste cose e le reputo tanta spazzatura affin di guadagnare Cristo,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "e d’esser trovato in lui avendo non una giustizia mia, derivante dalla legge, ma quella che si ha mediante la fede in Cristo; la giustizia che vien da Dio, basata sulla fede;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "in guisa ch’io possa conoscere esso Cristo, e la potenza della sua risurrezione, e la comunione delle sue sofferenze, essendo reso conforme a lui nella sua morte,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "per giungere in qualche modo alla risurrezione dei morti.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Non ch’io abbia già ottenuto il premio o che sia già arrivato alla perfezione; ma proseguo il corso se mai io possa afferrare il premio; poiché anch’io sono stato afferrato da Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Fratelli, io non reputo d’avere ancora ottenuto il premio; ma una cosa fo: dimenticando le cose che stanno dietro e protendendomi verso quelle che stanno dinanzi,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "proseguo il corso verso la mèta per ottenere il premio della superna vocazione di Dio in Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Sia questo dunque il sentimento di quanti siamo maturi; e se in alcuna cosa voi sentite altrimenti, Iddio vi rivelerà anche quella.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Soltanto, dal punto al quale siamo arrivati, continuiamo a camminare per la stessa via.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Siate miei imitatori, fratelli, e riguardate a coloro che camminano secondo l’esempio che avete in noi.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Perché molti camminano (ve l’ho detto spesso e ve lo dico anche ora piangendo), da nemici della croce di Cristo;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "la fine de’ quali è la perdizione, il cui dio è il ventre, e la cui gloria è in quel che torna a loro vergogna; ente che ha l’animo alle cose della terra.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Quanto a noi, la nostra cittadinanza è ne’ cieli, d’onde anche aspettiamo come Salvatore il Signor Gesù risto,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "il quale trasformerà il corpo della nostra umiliazione rendendolo conforme al corpo della sua gloria, in virtù della potenza per la quale egli può anche sottoporsi ogni cosa.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Perciò, fratelli miei cari e desideratissimi, allegrezza e corona mia, state in questa maniera fermi nel ignore, o diletti.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Io esorto Evodìa ed esorto Sintìche ad avere un medesimo sentimento nel Signore.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Sì, io prego te pure, mio vero collega, vieni in aiuto a queste donne, le quali hanno lottato meco per l’Evangelo, assieme con Clemente e gli altri miei collaboratori, i cui nomi sono nel libro della vita.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Rallegratevi del continuo nel Signore. Da capo dico: Rallegratevi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "La vostra mansuetudine sia nota a tutti gli uomini.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Il Signore è vicino. Non siate con ansietà solleciti di cosa alcuna; ma in ogni cosa siano le vostre richieste rese note a Dio in preghiera e supplicazione con azioni di grazie.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "E la pace di Dio che sopravanza ogni intelligenza, guarderà i vostri cuori e i vostri pensieri in Cristo esù.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Del rimanente, fratelli, tutte le cose vere, tutte le cose onorevoli, tutte le cose giuste, tutte le cose pure, tutte le cose amabili, tutte le cose di buona fama, quelle in cui è qualche virtù e qualche lode, siano oggetto dei vostri pensieri.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Le cose che avete imparate, ricevute, udite da me e vedute in me, fatele; e l’Iddio della pace sarà con voi.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Or io mi sono grandemente rallegrato nel Signore che finalmente avete fatto rinverdire le vostre cure per me; ci pensavate sì, ma vi mancava l’opportunità.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Non lo dico perché io mi trovi in bisogno; giacché ho imparato ad esser contento nello stato in cui mi trovo.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Io so essere abbassato e so anche abbondare; in tutto e per tutto sono stato ammaestrato ad esser saziato e ad aver fame; ad esser nell’abbondanza e ad esser nella penuria.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Io posso ogni cosa in Colui che mi fortifica.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nondimeno avete fatto bene a prender parte alla mia afflizione.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Anche voi sapete, o Filippesi, che quando cominciai a predicar l’Evangelo, dopo aver lasciato la acedonia, nessuna chiesa mi fece parte di nulla per quanto concerne il dare e l’avere, se non voi soli;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "poiché anche a Tessalonica m’avete mandato una prima e poi una seconda volta di che sovvenire al mio bisogno.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Non già ch’io ricerchi i doni; ricerco piuttosto il frutto che abbondi a conto vostro.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Or io ho ricevuto ogni cosa, e abbondo. Sono pienamente provvisto, avendo ricevuto da Epafròdito quel che m’avete mandato, e che è un profumo d’odor soave, un sacrificio accettevole, gradito a Dio.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "E l’Iddio mio supplirà ad ogni vostro bisogno secondo le sue ricchezze e con gloria, in Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Or all’Iddio e Padre nostro sia la gloria nei secoli dei secoli. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Salutate ognuno dei santi in Cristo Gesù.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "I fratelli che sono meco vi salutano. Tutti i santi vi salutano, e specialmente quelli della casa di Cesare.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "La grazia del Signor Gesù Cristo sia con lo spirito vostro.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
