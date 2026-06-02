@@ -1,0 +1,944 @@
+{
+  "book": "Galatians",
+  "abbreviation": "Gal",
+  "number": 48,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paul, an apostle — not from men, nor through man, but through Jesus Christ, and God the Father, who did raise him out of the dead —",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "and all the brethren with me, to the assemblies of Galatia:",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Grace to you, and peace from God the Father, and our Lord Jesus Christ,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "who did give himself for our sins, that he might deliver us out of the present evil age, according to the will of God even our Father,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "to whom [is] the glory to the ages of the ages. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "I wonder that ye are so quickly removed from Him who did call you in the grace of Christ to another good news;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "that is not another, except there be certain who are troubling you, and wishing to pervert the good news of the Christ;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "but even if we or a messenger out of heaven may proclaim good news to you different from what we did proclaim to you — anathema let him be!",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "as we have said before, and now say again, If any one to you may proclaim good news different from what ye did receive — anathema let him be!",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "for now men do I persuade, or God? or do I seek to please men? for if yet men I did please — Christ's servant I should not be.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "And I make known to you, brethren, the good news that were proclaimed by me, that it is not according to man,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "for neither did I from man receive it, nor was I taught [it], but through a revelation of Jesus Christ,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "for ye did hear of my behaviour once in Judaism, that exceedingly I was persecuting the assembly of God, and wasting it,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "and I was advancing in Judaism above many equals in age in mine own race, being more abundantly zealous of my fathers' deliverances,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "and when God was well pleased — having separated me from the womb of my mother, and having called [me] through His grace —",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "to reveal His Son in me, that I might proclaim him good news among the nations, immediately I conferred not with flesh and blood,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "nor did I go up to Jerusalem unto those who were apostles before me, but I went away to Arabia, and again returned to Damascus,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "then, after three years I went up to Jerusalem to enquire about Peter, and remained with him fifteen days,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "and other of the apostles I did not see, except James, the brother of the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "And the things that I write to you, lo, before God — I lie not;",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "then I came to the regions of Syria and of Cilicia,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "and was unknown by face to the assemblies of Judea, that [are] in Christ,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "and only they were hearing, that 'he who is persecuting us then, doth now proclaim good news — the faith that then he was wasting;'",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "and they were glorifying God in me.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Then, after fourteen years again I went up to Jerusalem with Barnabas, having taken with me also Titus;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "and I went up by revelation, and did submit to them the good news that I preach among the nations, and privately to those esteemed, lest in vain I might run or did run;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "but not even Titus, who [is] with me, being a Greek, was compelled to be circumcised —",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "and [that] because of the false brethren brought in unawares, who did come in privily to spy out our liberty that we have in Christ Jesus, that us they might bring under bondage,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "to whom not even for an hour we gave place by subjection, that the truth of the good news might remain to you.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "And from those who were esteemed to be something — whatever they were then, it maketh no difference to me — the face of man God accepteth not, for — to me those esteemed did add nothing,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "but, on the contrary, having seen that I have been entrusted with the good news of the uncircumcision, as Peter with [that] of the circumcision,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "for He who did work with Peter to the apostleship of the circumcision, did work also in me in regard to the nations,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "and having known the grace that was given to me, James, and Cephas, and John, who were esteemed to be pillars, a right hand of fellowship they did give to me, and to Barnabas, that we to the nations, and they to the circumcision [may go],",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "only, of the poor that we should be mindful, which also I was diligent — this very thing — to do.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "And when Peter came to Antioch, to the face I stood up against him, because he was blameworthy,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "for before the coming of certain from James, with the nations he was eating, and when they came, he was withdrawing and separating himself, fearing those of the circumcision,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "and dissemble with him also did the other Jews, so that also Barnabas was carried away by their dissimulation.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "But when I saw that they are not walking uprightly to the truth of the good news, I said to Peter before all, 'If thou, being a Jew, in the manner of the nations dost live, and not in the manner of the Jews, how the nations dost thou compel to Judaize?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "we by nature Jews, and not sinners of the nations,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "having known also that a man is not declared righteous by works of law, if not through the faith of Jesus Christ, also we in Christ Jesus did believe, that we might be declared righteous by the faith of Christ, and not by works of law, wherefore declared righteous by works of law shall be no flesh.'",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "And if, seeking to be declared righteous in Christ, we ourselves also were found sinners, [is] then Christ a ministrant of sin? let it not be!",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "for if the things I threw down, these again I build up, a transgressor I set myself forth;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "for I through law, did die, that to God I may live;",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "with Christ I have been crucified, and live no more do I, and Christ doth live in me; and that which I now live in the flesh — in the faith I live of the Son of God, who did love me and did give himself for me;",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "I do not make void the grace of God, for if righteousness [be] through law — then Christ died in vain.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "O thoughtless Galatians, who did bewitch you, not to obey the truth — before whose eyes Jesus Christ was described before among you crucified?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "this only do I wish to learn from you — by works of law the Spirit did ye receive, or by the hearing of faith?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "so thoughtless are ye! having begun in the Spirit, now in the flesh do ye end?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "so many things did ye suffer in vain! if, indeed, even in vain.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "He, therefore, who is supplying to you the Spirit, and working mighty acts among you — by works of law or by the hearing of faith [is it]?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "according as Abraham did believe God, and it was reckoned to him — to righteousness;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "know ye, then, that those of faith — these are sons of Abraham,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "and the Writing having foreseen that by faith God doth declare righteous the nations did proclaim before the good news to Abraham —",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "'Blessed in thee shall be all the nations;' so that those of faith are blessed with the faithful Abraham,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "for as many as are of works of law are under a curse, for it hath been written, 'Cursed [is] every one who is not remaining in all things that have been written in the Book of the Law — to do them,'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "and that in law no one is declared righteous with God, is evident, because 'The righteous by faith shall live;'",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "and the law is not by faith, but — 'The man who did them shall live in them.'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Christ did redeem us from the curse of the law, having become for us a curse, for it hath been written, 'Cursed is every one who is hanging on a tree,'",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "that to the nations the blessing of Abraham may come in Christ Jesus, that the promise of the Spirit we may receive through the faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Brethren, as a man I say [it], even of man a confirmed covenant no one doth make void or doth add to,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "and to Abraham were the promises spoken, and to his seed; He doth not say, 'And to seeds,' as of many, but as of one, 'And to thy seed,' which is Christ;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "and this I say, A covenant confirmed before by God to Christ, the law, that came four hundred and thirty years after, doth not set aside, to make void the promise,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "for if by law [be] the inheritance, [it is] no more by promise, but to Abraham through promise did God grant [it].",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Why, then, the law? on account of the transgressions it was added, till the seed might come to which the promise hath been made, having been set in order through messengers in the hand of a mediator —",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "and the mediator is not of one, and God is one —",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "the law, then, [is] against the promises of God? — let it not be! for if a law was given that was able to make alive, truly by law there would have been the righteousness,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "but the Writing did shut up the whole under sin, that the promise by faith of Jesus Christ may be given to those believing.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "And before the coming of the faith, under law we were being kept, shut up to the faith about to be revealed,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "so that the law became our child-conductor — to Christ, that by faith we may be declared righteous,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "and the faith having come, no more under a child-conductor are we,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "for ye are all sons of God through the faith in Christ Jesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "for as many as to Christ were baptized did put on Christ;",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "there is not here Jew or Greek, there is not here servant nor freeman, there is not here male and female, for all ye are one in Christ Jesus;",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "and if ye [are] of Christ then of Abraham ye are seed, and according to promise — heirs.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "And I say, so long time as the heir is a babe, he differeth nothing from a servant — being lord of all,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "but is under tutors and stewards till the time appointed of the father,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "so also we, when we were babes, under the elements of the world were in servitude,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "and when the fulness of time did come, God sent forth His Son, come of a woman, come under law,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "that those under law he may redeem, that the adoption of sons we may receive;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "and because ye are sons, God did send forth the spirit of His Son into your hearts, crying, 'Abba, Father!'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "so that thou art no more a servant, but a son, and if a son, also an heir of God through Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "But then, indeed, not having known God, ye were in servitude to those not by nature gods,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "and now, having known God — and rather being known by God — how turn ye again unto the weak and poor elements to which anew ye desire to be in servitude?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "days ye observe, and months, and times, and years!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "I am afraid of you, lest in vain I did labour toward you.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Become as I [am] — because I also [am] as ye brethren, I beseech you; to me ye did no hurt,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "and ye have known that through infirmity of the flesh I did proclaim good news to you at the first,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "and my trial that [is] in my flesh ye did not despise nor reject, but as a messenger of God ye did receive me — as Christ Jesus;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "what then was your happiness? for I testify to you, that if possible, your eyes having plucked out, ye would have given to me;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "so that your enemy have I become, being true to you?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "they are zealous for you — [yet] not well, but they wish to shut us out, that for them ye may be zealous;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "and [it is] good to be zealously regarded, in what is good, at all times, and not only in my being present with you;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "my little children, of whom again I travail in birth, till Christ may be formed in you,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "and I was wishing to be present with you now, and to change my voice, because I am in doubt about you.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Tell me, ye who are willing to be under law, the law do ye not hear?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "for it hath been written, that Abraham had two sons, one by the maid-servant, and one by the free-woman,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "but he who [is] of the maid-servant, according to flesh hath been, and he who [is] of the free-woman, through the promise;",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "which things are allegorized, for these are the two covenants: one, indeed, from mount Sinai, to servitude bringing forth, which is Hagar;",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "for this Hagar is mount Sinai in Arabia, and doth correspond to the Jerusalem that now [is], and is in servitude with her children,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "and the Jerusalem above is the free-woman, which is mother of us all,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "for it hath been written, 'Rejoice, O barren, who art not bearing; break forth and cry, thou who art not travailing, because many [are] the children of the desolate — more than of her having the husband.'",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "And we, brethren, as Isaac, are children of promise,",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "but as then he who was born according to the flesh did persecute him according to the spirit, so also now;",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "but what saith the Writing? 'Cast forth the maid-servant and her son, for the son of the maid-servant may not be heir with the son of the free-woman;'",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "then, brethren, we are not a maid-servant's children, but the free-woman's.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "In the freedom, then, with which Christ did make you free — stand ye, and be not held fast again by a yoke of servitude;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "lo, I Paul do say to you, that if ye be circumcised, Christ shall profit you nothing;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "and I testify again to every man circumcised, that he is a debtor to do the whole law;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ye were freed from the Christ, ye who in law are declared righteous; from the grace ye fell away;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "for we by the Spirit, by faith, a hope of righteousness do wait for,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "for in Christ Jesus neither circumcision availeth anything, nor uncircumcision, but faith through love working.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ye were running well; who did hinder you — not to obey the truth?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "the obedience [is] not of him who is calling you!",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "a little leaven the whole lump doth leaven;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "I have confidence in regard to you in the Lord, that ye will be none otherwise minded; and he who is troubling you shall bear the judgment, whoever he may be.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "And I, brethren, if uncircumcision I yet preach, why yet am I persecuted? then hath the stumbling-block of the cross been done away;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "O that even they would cut themselves off who are unsettling you!",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "For ye — to freedom ye were called, brethren, only not the freedom for an occasion to the flesh, but through the love serve ye one another,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "for all the law in one word is fulfilled — in this: 'Thou shalt love thy neighbour as thyself;'",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "and if one another ye do bite and devour, see — that ye may not by one another be consumed.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "And I say: In the Spirit walk ye, and the desire of the flesh ye may not complete;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "for the flesh doth desire contrary to the Spirit, and the Spirit contrary to the flesh, and these are opposed one to another, that the things that ye may will — these ye may not do;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "and if by the Spirit ye are led, ye are not under law.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "And manifest also are the works of the flesh, which are: Adultery, whoredom, uncleanness, lasciviousness,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "idolatry, witchcraft, hatred, strifes, emulations, wraths, rivalries, dissensions, sects,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "envyings, murders, drunkennesses, revellings, and such like, of which I tell you before, as I also said before, that those doing such things the reign of God shall not inherit.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "And the fruit of the Spirit is: Love, joy, peace, long-suffering, kindness, goodness, faith,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "meekness, temperance: against such there is no law;",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "and those who are Christ's, the flesh did crucify with the affections, and the desires;",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "if we may live in the Spirit, in the Spirit also we may walk;",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "let us not become vain-glorious — one another provoking, one another envying!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Brethren, if a man also may be overtaken in any trespass, ye who [are] spiritual restore such a one in a spirit of meekness, considering thyself — lest thou also may be tempted;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "of one another the burdens bear ye, and so fill up the law of the Christ,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "for if any one doth think [himself] to be something — being nothing — himself he doth deceive;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "and his own work let each one prove, and then in regard to himself alone the glorying he shall have, and not in regard to the other,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "for each one his own burden shall bear.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "And let him who is instructed in the word share with him who is instructing — in all good things.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Be not led astray; God is not mocked; for what a man may sow — that also he shall reap,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "because he who is sowing to his own flesh, of the flesh shall reap corruption; and he who is sowing to the Spirit, of the Spirit shall reap life age-during;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "and in the doing good we may not be faint-hearted, for at the proper time we shall reap — not desponding;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "therefore, then, as we have opportunity, may we work the good to all, and especially unto those of the household of the faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ye see in how large letters I have written to you with my own hand;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "as many as are willing to make a good appearance in the flesh, these constrain you to be circumcised — only that for the cross of the Christ they may not be persecuted,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "for neither do those circumcised themselves keep the law, but they wish you to be circumcised, that in your flesh they may glory.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "And for me, let it not be — to glory, except in the cross of our Lord Jesus Christ, through which to me the world hath been crucified, and I to the world;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "for in Christ Jesus neither circumcision availeth anything, nor uncircumcision, but a new creation;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "and as many as by this rule do walk — peace upon them, and kindness, and on the Israel of God!",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Henceforth, let no one give me trouble, for I the scars of the Lord Jesus in my body do bear.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "The grace of our Lord Jesus Christ [is] with your spirit, brethren! Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
