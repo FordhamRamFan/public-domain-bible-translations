@@ -1,0 +1,5851 @@
+{
+  "book": "歴代志上",
+  "abbreviation": "1Chr",
+  "number": 13,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "アダム、セツ、エノス、",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ケナン、マハラレル、ヤレド、",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "エノク、メトセラ、ラメク、",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ノア、セム、ハム、ヤペテ。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "ヤペテの子らはゴメル、マゴグ、マダイ、ヤワン、トバル、メセク、テラス。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ゴメルの子らはアシケナズ、デパテ、トガルマ。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ヤワンの子らはエリシャ、タルシシ、キッテム、ロダニム。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ハムの子らはクシ、エジプト、プテ、カナン。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "クシの子らはセバ、ハビラ、サブタ、ラアマ、サブテカ。ラアマの子らはシバとデダン。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "クシはニムロデを生んだ。ニムロデは初めて世の権力ある者となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "エジプトはルデびと、アナムびと、レハブびと、ナフトびと、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "パテロスびと、カスルびと、カフトルびとを生んだ。カフトルびとからペリシテびとが出た。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "カナンは長子シドンとヘテを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "またエブスびと、アモリびと、ギルガシびと、",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ヒビびと、アルキびと、セニびと、",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "アルワデびと、ゼマリびと、ハマテびとを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "セムの子らはエラム、アシュル、アルパクサデ、ルデ、アラム、ウズ、ホル、ゲテル、メセクである。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "アルパクサデはシラを生み、シラはエベルを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "エベルにふたりの子が生れた。ひとりの名はペレグ――彼の代に地の民が散り分れたからである――その弟の名はヨクタンといった。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ヨクタンはアルモダデ、シャレフ、ハザル・マウテ、エラ、",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ハドラム、ウザル、デクラ、",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "エバル、アビマエル、シバ、",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "オフル、ハビラ、ヨバブを生んだ。これらはみなヨクタンの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "セム、アルパクサデ、シラ、",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "エベル、ペレグ、リウ、",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "セルグ、ナホル、テラ、",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "アブラムすなわちアブラハムである。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "アブラハムの子らはイサクとイシマエルである。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "彼らの子孫は次のとおりである。イシマエルの長子はネバヨテ、次はケダル、アデビエル、ミブサム、",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "ミシマ、ドマ、マッサ、ハダデ、テマ、",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "エトル、ネフシ、ケデマ。これらはイシマエルの子孫である。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "アブラハムのそばめケトラの子孫は次のとおりである。彼女はジムラン、ヨクシャン、メダン、ミデアン、イシバク、シュワを産んだ。ヨクシャンの子らはシバとデダンである。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "ミデアンの子らはエパ、エペル、ヘノク、アビダ、エルダア。これらはみなケトラの子孫である。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "アブラハムはイサクを生んだ。イサクの子らはエサウとイスラエル。",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "エサウの子らはエリパズ、リウエル、エウシ、ヤラム、コラ。",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "エリパズの子らはテマン、オマル、ゼピ、ガタム、ケナズ、テムナ、アマレク。",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "リウエルの子らはナハテ、ゼラ、シャンマ、ミッザ。",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "セイルの子らはロタン、ショバル、ヂベオン、アナ、デション、エゼル、デシャン。",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "ロタンの子らはホリとホマム。ロタンの妹はテムナ。",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "ショバルの子らはアルヤン、マナハテ、エバル、シピ、オナム。ヂベオンの子らはアヤとアナ。",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "アナの子はデション。デションの子らはハムラン、エシバン、イテラン、ケラン。",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "エゼルの子らはビルハン、ザワン、ヤカン。デシャンの子らはウズとアラン。",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "イスラエルの人々を治める王がまだなかった時、エドムの地を治めた王たちは次のとおりである。ベオルの子ベラ。その都の名はデナバといった。",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "ベラが死んで、ボズラのゼラの子ヨバブが代って王となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "ヨバブが死んで、テマンびとの地のホシャムが代って王となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "ホシャムが死んで、ベダテの子ハダデが代って王となった。彼はモアブの野でミデアンを撃った。彼の都の名はアビテといった。",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "ハダデが死んで、マスレカのサムラが代って王となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "サムラが死んで、ユフラテ川のほとりのレホボテのサウルが代って王となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "サウルが死んで、アクボルの子バアル・ハナンが代って王となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "バアル・ハナンが死んで、ハダデが代って王となった。彼の都の名はパイといった。彼の妻はマテレデの娘であって、名をメヘタベルといった。マテレデはメザハブの娘である。",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "ハダデも死んだ。エドムの族長は、テムナ侯、アルヤ侯、エテテ侯、",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "アホリバマ侯、エラ侯、ピノン侯、",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "ケナズ侯、テマン侯、ミブザル侯、",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "マグデエル侯、イラム侯。これらはエドムの族長である。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "イスラエルの子らは次のとおりである。ルベン、シメオン、レビ、ユダ、イッサカル、ゼブルン、",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ダン、ヨセフ、ベニヤミン、ナフタリ、ガド、アセル。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ユダの子らはエル、オナン、シラである。この三人はカナンの女バテシュアがユダによって産んだ者である。ユダの長子エルは主の前に悪を行ったので、主は彼を殺された。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ユダの嫁タマルはユダによってペレヅとゼラを産んだ。ユダの子らは合わせて五人である。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "ペレヅの子らはヘヅロンとハムル。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ゼラの子らはジムリ、エタン、ヘマン、カルコル、ダラで、合わせて五人である。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "カルミの子はアカル。アカルは奉納物について罪を犯し、イスラエルを悩ました者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "エタンの子はアザリヤである。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ヘヅロンに生れた子らはエラメル、ラム、ケルバイである。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ラムはアミナダブを生み、アミナダブはユダの子孫のつかさナションを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ナションはサルマを生み、サルマはボアズを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "ボアズはオベデを生み、オベデはエッサイを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "エッサイは長子エリアブ、次にアビナダブ、第三にシメア、",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "第四にネタンエル、第五にラダイ、",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "第六にオゼム、第七にダビデを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "彼らの姉妹はゼルヤとアビガイルである。ゼルヤの産んだ子はアビシャイ、ヨアブ、アサヘルの三人である。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "アビガイルはアマサを産んだ。アマサの父はイシマエルびとエテルである。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ヘヅロンの子カレブはその妻アズバおよびエリオテによって子をもうけた。その子らはエシル、ショバブ、アルドンである。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "カレブはアズバが死んだのでエフラタをめとった。エフラタはカレブによってホルを産んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ホルはウリを生み、ウリはベザレルを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "そののちヘヅロンはギレアデの父マキルの娘の所にはいった。彼が彼女をめとったときは六十歳であった。彼女はヘヅロンによってセグブを産んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "セグブはヤイルを生んだ。ヤイルはギレアデの地に二十三の町をもっていた。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "しかしゲシュルとアラムは彼らからハボテ・ヤイルおよびケナテとその村里など合わせて六十の町を取った。これらはみなギレアデの父マキルの子孫であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ヘヅロンが死んだのち、カレブは父ヘヅロンの妻エフラタの所にはいった。彼女は彼にテコアの父アシュルを産んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "ヘヅロンの長子エラメルの子らは長子ラム、次はブナ、オレン、オゼム、アヒヤである。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "エラメルはまたほかの妻をもっていた。名をアタラといって、オナムの母である。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "エラメルの長子ラムの子らはマアツ、ヤミン、エケルである。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "オナムの子らはシャンマイとヤダである。シャンマイの子らはナダブとアビシュルである。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "アビシュルの妻の名はアビハイルといって、アバンとモリデを産んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "ナダブの子らはセレデとアッパイムである。セレデは子をもたずに死んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "アッパイムの子はイシ、イシの子はセシャン、セシャンの子はアヘライである。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "シャンマイの兄弟ヤダの子らはエテルとヨナタンである。エテルは子をもたずに死んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "ヨナタンの子らはペレテとザザである。以上はエラメルの子孫である。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "セシャンには男の子はなく、ただ女の子のみであったが、彼はヤルハと呼ぶエジプトびとの奴隷をもっていたので、",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "セシャンは娘を奴隷ヤルハに与えてその妻とさせた。彼女はヤルハによってアッタイを産んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "アッタイはナタンを生み、ナタンはザバデを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "ザバデはエフラルを生み、エフラルはオベデを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "オベデはエヒウを生み、エヒウはアザリヤを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "アザリヤはヘレヅを生み、ヘレヅはエレアサを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "エレアサはシスマイを生み、シスマイはシャルムを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "シャルムはエカミヤを生み、エカミヤはエリシャマを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "エラメルの兄弟であるカレブの子らは長子をマレシャといってジフの父である。マレシャの子はヘブロン。",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "ヘブロンの子らはコラ、タップア、レケム、シマである。",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "シマはラハムを生んだ。ラハムはヨルカムの父である。またレケムはシャンマイを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "シャンマイの子はマオン。マオンはベテヅルの父である。",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "カレブのそばめエパはハラン、モザ、ガゼズを産んだ。ハランはガゼズを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "エダイの子らはレゲム、ヨタム、ゲシャン、ペレテ、エパ、シャフである。",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "カレブのそばめマアカはシベルとテルハナを産み、",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "またマデマンナの父シャフおよびマクベナとギベアの父シワを産んだ。カレブの娘はアクサである。",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "これらはカレブの子孫であった。エフラタの長子ホルの子らはキリアテ・ヤリムの父ショバル、",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "ベツレヘムの父サルマおよびベテガデルの父ハレフである。",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "キリアテ・ヤリムの父ショバル子らはハロエとメヌコテびとの半ばである。",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "キリアテ・ヤリムの氏族はイテルびと、プテびと、シュマびと、ミシラびとであって、これらからザレアびとおよびエシタオルびとが出た。",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "サルマの子らはベツレヘム、ネトパびと、アタロテ・ベテ・ヨアブ、マナハテびとの半ばおよびゾリびとである。",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "heading": null,
+          "text": "またヤベヅに住んでいた書記の氏族テラテびと、シメアテびと、スカテびとである。これらはケニびとであってレカブの家の先祖ハマテから出た者である。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ヘブロンで生れたダビデの子らは次のとおりである。長子はアムノンでエズレルびとアヒノアムから生れ、次はダニエルでカルメルびとアビガイルから生れ、",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "第三はアブサロムでゲシュルの王タルマイの娘マアカの産んだ子、第四はアドニヤでハギテの産んだ子、",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "第五はシパテヤでアビタルから生れ、第六はイテレアムで、彼の妻エグラから生れた。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "この六人はヘブロンで彼に生れた。ダビデがそこで王となっていたのは七年六か月、エルサレムで王となっていたのは三十三年であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "エルサレムで生れたものは次のとおりである。すなわちシメア、ショバブ、ナタン、ソロモン。この四人はアンミエルの娘バテシュアから生れた。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "またイブハル、エリシャマ、エリペレテ、",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ノガ、ネペグ、ヤピア、",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "エリシャマ、エリアダ、エリペレテの九人、",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "これらはみなダビデの子である。このほかに、そばめどもの産んだ子らがあり、タマルは彼らの姉妹であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ソロモンの子はレハベアム、その子はアビヤ、その子はアサ、その子はヨシャパテ、",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "その子はヨラム、その子はアハジヤ、その子はヨアシ、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "その子はアマジヤ、その子はアザリヤ、その子はヨタム、",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "その子はアハズ、その子はヒゼキヤ、その子はマナセ、",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "その子はアモン、その子はヨシヤ、",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ヨシヤの子らは長子ヨハナン、次はエホヤキム、第三はゼデキヤ、第四はシャルムである。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "エホヤキムの子孫はその子はエコニア、その子はゼデキヤである。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "捕虜となったエコニヤの子らはその子シャルテル、",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "マルキラム、ペダヤ、セナザル、エカミア、ホシャマ、ネダビヤである。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ペダヤの子らはゼルバベルとシメイである。ゼルバベルの子らはメシュラムとハナニヤ。シロミテは彼らの姉妹である。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "またハシュバ、オヘル、ベレキヤ、ハサデヤ、ユサブ・ヘセデの五人がある。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ハナニヤの子らはペラテヤとエシャヤ、その子レパヤ、その子アルナン、その子オバデヤ、その子シカニヤである。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "シカニヤの子らはシマヤ。シマヤの子らはハットシ、イガル、バリア、ネアリヤ、シャパテの六人である。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "ネアリヤの子らはエリオエナイ、ヒゼキヤ、アズリカムの三人である。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "エリオエナイの子らはホダヤ、エリアシブ、ペラヤ、アックブ、ヨハナン、デラヤ、アナニの七人である。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ユダの子らはペレヅ、ヘヅロン、カルミ、ホル、ショバルである。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ショバルの子レアヤはヤハテを生み、ヤハテはアホマイとラハデを生んだ。これらはザレアびとの一族である。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "エタムの子らはエズレル、イシマおよびイデバシ、彼らの姉妹の名はハゼレルポニである。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ゲドルの父はペヌエル、ホシャの父はエゼルである。これらはベツレヘムの父エフラタの長子ホルの子らである。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "テコアの父アシュルにはふたりの妻ヘラとナアラとがあった。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ナアラはアシュルによってアホザム、ヘペル、テメニおよびアハシタリを産んだ。これらはナアラの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ヘラの子らはゼレテ、エゾアル、エテナンである。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "コヅはアヌブとゾベバを生んだ。またハルムの子アハルヘルの氏族も彼から出た。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ヤベヅはその兄弟のうちで最も尊ばれた者であった。その母が「わたしは苦しんでこの子を産んだから」と言ってその名をヤベヅと名づけたのである。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ヤベヅはイスラエルの神に呼ばわって言った、「どうか、あなたが豊かにわたしを恵み、わたしの国境を広げ、あなたの手がわたしとともにあって、わたしを災から免れさせ、苦しみをうけさせられないように」。神は彼の求めるところをゆるされた。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "シュワの兄弟ケルブはメヒルを生んだ。メヒルはエシトンの父、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "エシトンはベテラパ、パセアおよびイルナハシの父テヒンナを生んだ。これらはレカの人々である。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ケナズの子らはオテニエルとセラヤ。オテニエルの子らはハタテとメオノタイ。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "メオノタイはオフラを生み、セラヤはゲハラシムの父ヨアブを生んだ。彼らは工人であったのでゲハラシムと呼ばれたのである。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "エフンネの子カレブの子らはイル、エラおよびナアム。エラの子はケナズ。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "エハレレルの子らはジフ、ジバ、テリア、アサレルである。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "エズラの子らはエテル、メレデ、エペル、ヤロン。次のものはメレデがめとったパロの娘ビテヤの子らである。すなわち彼女はみごもってミリアム、シャンマイおよびイシバを産んだ。イシバはエシテモアの父である。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "彼の妻はユダヤ人で、ゲドルの父エレデとソコの父ヘベルとザノアの父エクテエルを産んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ナハムの姉妹であるホデヤの妻の子らはガルムびとケイラの父およびマアカびとエシテモアである。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "シモンの子らはアムノン、リンナ、ベネハナン、テロンである。イシの子らはゾヘテとベネゾヘテである。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ユダの子シラの子らはレカの父エル、マレシャの父ラダおよびベテアシベアの亜麻布織の家の一族、",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "ならびにモアブを治めてレヘムに帰ったヨキム、コゼバの人々、ヨアシおよびサラフである。その記録は古い。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "これらの者は陶器を造る人で、ネタイムおよびゲデラに住み、王の用をするため、王とともに、そこに住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "シメオンの子らはネムエル、ヤミン、ヤリブ、ゼラ、シャウル。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "シャウルの子はシャルム、その子はミブサム、その子はミシマ。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "ミシマの子孫は、その子はハムエル、その子はザックル、その子はシメイ。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "シメイには男の子十六人、女の子六人あったが、その兄弟たちには多くの子はなかった。またその氏族の者はすべてユダの子孫ほどにはふえなかった。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "彼らの住んだ所はベエルシバ、モラダ、ハザル・シュアル、",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "ビルハ、エゼム、トラデ、",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "ベトエル、ホルマ、チクラグ、",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ベテ・マルカボテ、ハザル・スシム、ベテ・ビリ、およびシャライムである。これらはダビデの世に至るまで彼らの町であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "その村里はエタム、アイン、リンモン、トケン、アシャンの五つの町である。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "またこれらの町々の周囲に多くの村があって、バアルまでおよんだ。彼らのすみかは以上のとおりで、彼らはおのおの系図をもっていた。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "メショバブ、ヤムレク、アマジヤの子ヨシャ、",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "ヨエル、アシエルのひこ、セラヤの孫、ヨシビアの子エヒウ。",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "エリオエナイ、ヤコバ、エショハヤ、アサヤ、アデエル、エシミエル、ベナヤ、",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "およびシピの子ジザ。シピはアロンの子、アロンはエダヤの子、エダヤはシムリの子、シムリはシマヤの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "ここに名をあげた者どもはその氏族の長であって、それらの氏族は大いにふえ広がった。",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "彼らは群れのために牧場を求めてゲドルの入口に行き、谷の東の方まで進み、",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "ついに豊かな良い牧場を見いだした。その地は広く穏やかで、安らかであった。その地の前の住民はハムびとであったからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "これらの名をしるした者どもはユダの王ヒゼキヤの世に行って、彼らの天幕と、そこにいたメウニびとを撃ち破り、彼らをことごとく滅ぼして今日に至っている。そこには、群れのための牧場があったので、彼らはそこに住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "またシメオンびとのうちの五百人はイシの子らペラテヤ、ネアリヤ、レパヤ、ウジエルをかしらとしてセイル山に行き、",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "アマレクびとで、のがれて残っていた者を撃ち滅ぼして、今日までそこに住んでいる。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "イスラエルの長子ルベンの子らは次のとおりである。――ルベンは長子であったが父の床を汚したので、長子の権はイスラエルの子ヨセフの子らに与えられた。それで長子の権による系図にしるされていない。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "またユダは兄弟たちにまさる者となり、その中から君たる者がでたが長子の権はヨセフのものとなったのである。――",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "すなわちイスラエルの長子ルベンの子らはハノク、パル、ヘヅロン、カルミ。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ヨエルの子らはその子はシマヤ、その子はゴグ、その子はシメイ、",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "その子はミカ、その子はレアヤ、その子はバアル、",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "その子はベエラである。このベエラはアッスリヤの王テルガテ・ピルネセルが捕え移した者である。彼はルベンびとのつかさであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "彼の兄弟たちは、その氏族により、その歴代の系図によれば、かしらエイエルおよびゼカリヤ、",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ベラなどである。ベラはアザズの子、シマの孫、ヨエルのひこである。彼はアロエルに住み、ネボおよびバアル・メオンまで及んでいたが、",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ギレアデの地で彼の家畜がふえ増したので、彼は東の方ユフラテ川のこなたの荒野の入口にまで住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "またサウルの時、彼らはハガルびとと戦って、これを撃ち倒し、ギレアデの東の全部にわたって彼らの天幕に住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ガドの子孫はこれと相対してバシャンの地に住み、サルカまで及んでいた。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "そのかしらはヨエル、次はシャパム、ヤアナイ、シャパテで、ともにバシャンに住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "彼らの兄弟たちは、その氏族によればミカエル、メシュラム、シバ、ヨライ、ヤカン、ジア、エベルの七人である。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "これらはホリの子アビハイルの子らである。ホリはヤロアの子、ヤロアはギレアデの子、ギレアデはミカエルの子、ミカエルはエシサイの子、エシサイはヤドの子、ヤドはブズの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "アヒはアブデルの子、アブデルはグニの子、グニはその氏族の長である。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "彼らはギレアデとバシャンとその村里とシャロンのすべての放牧地に住んで、その四方の境にまで及んでいた。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "これらはみなユダの王ヨタムの世とイスラエルの王ヤラベアムの世に系図にのせられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ルベンびとと、ガドびとと、マナセの半部族には出て戦いうる者四万四千七百六十人あり、皆勇士で、盾とつるぎをとり、弓をひき、戦いに巧みな人々であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "彼らはハガルびとおよびエトル、ネフシ、ノダブなどと戦ったが、",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "助けを得てこれを攻めたので、ハガルびとおよびこれとともにいた者は皆、彼らの手にわたされた。これは彼らが戦いにあたって神に呼ばわり、神に寄り頼んだので神はその願いを聞かれたからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "彼らはその家畜を奪い取ったが、らくだ五万、羊二十五万、ろば二千あり、また人は十万人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "これはその戦いが神によったので、多くの者が殺されて倒れたからである。そして彼らは捕え移される時まで、これに代ってその所に住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "マナセの半部族の人々はこの地に住み、ふえ広がって、ついにバシャンからバアル・ヘルモン、セニルおよびヘルモン山にまで及んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "その氏族の長たちは次のとおりである。すなわち、エペル、イシ、エリエル、アズリエル、エレミヤ、ホダヤ、ヤデエル。これらは皆その氏族の長で名高い大勇士であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "彼らは先祖たちの神にむかって罪を犯し、神が、かつて彼らの前から滅ぼされた国の民の神々を慕って、これと姦淫したので、",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "イスラエルの神は、アッスリヤの王プルの心を奮い起し、またアッスリヤの王テルガテ・ピルネセルの心を奮い起されたので、彼はついにルベンびとと、ガドびとと、マナセの半部族を捕えて行き、ハウラとハボルとハラとゴザン川のほとりに移して今日に至っている。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "レビの子らはゲルション、コハテ、メラリ。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "コハテの子らはアムラム、イヅハル、ヘブロン、ウジエル。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "アムラムの子らはアロン、モーセ、ミリアム。アロンの子らはナダブ、アビウ、エレアザル、イタマル。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "エレアザルはピネハスを生み、ピネハスはアビシュアを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "アビシュアはブッキを生み、ブッキはウジを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ウジはゼラヒヤを生み、ゼラヒヤはメラヨテを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "メラヨテはアマリヤを生み、アマリヤはアヒトブを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "アヒトブはザドクを生み、ザドクはアヒマアズを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "アヒマアズはアザリヤを生み、アザリヤはヨナハンを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ヨナハンはアザリヤを生んだ。このアザリヤはソロモンがエルサレムに建てた宮で祭司の務をした者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "アザリヤはアマリヤを生み、アマリヤはアヒトブを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "アヒトブはザトクを生み、ザトクはシャルムを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "シャルムはヒルキヤを生み、ヒルキヤはアザリヤを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "アザリヤはセラヤを生み、セラヤはヨザダクを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ヨザダクは主がネブカデネザルの手によってユダとエルサレムの人を捕え移された時に捕えられて行った。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "レビの子らはゲルション、コハテおよびメラリ。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "ゲルションの子らの名はリブニとシメイ。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "コハテの子らはアムラム、イヅハル、ヘブロン、ウジエルである。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "メラリの子らはマヘリとムシ。これらはレビびとのその家筋による氏族である。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ゲルションの子はリブニ、その子はヤハテ、その子はジンマ、",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "その子はヨア、その子はイド、その子はゼラ、その子はヤテライ。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "コハテの子はアミナダブ、その子はコラ、その子はアシル、",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "その子はエルカナ、その子はエビアサフ、その子はアシル、",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "その子はタハテ、その子はウリエル、その子はウジヤ、その子はシャウル。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "エルカナの子らはアマサイとアヒモテ、",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "その子はエルカナ、その子はゾパイ、その子はナハテ、",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "その子はエリアブ、その子はエロハム、その子はエルカナ。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "サムエルの子らは、長子はヨエル、次はアビヤ。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "メラリの子はマヘリ、その子はリブニ、その子はシメイ、その子はウザ、",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "その子はシメア、その子はハギヤ、その子はアサヤである。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "契約の箱を安置したのち、ダビデが主の宮で歌をうたう事をつかさどらせた人々は次のとおりである。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "彼らは会見の幕屋の前で歌をもって仕えたが、ソロモンがエルサレムに主の宮を建ててからは、一定の秩序に従って務を行った。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "その務をしたもの、およびその子らは次のとおりである。コハテびとの子らのうちヘマンは歌をうたう者、ヘマンはヨエルの子、ヨエルはサムエルの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "サムエルはエルカナの子、エルカナはエロハムの子、エロハムはエリエルの子、エリエルはトアの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "トアはヅフの子、ヅフはエルカナの子、エルカナはマハテの子、マハテはアマサイの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "アマサイはエルカナの子、エルカナはヨエルの子、ヨエルはアザリヤの子、アザリヤはゼパニヤの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "ゼパニヤはタハテの子、タハテはアシルの子、アシルはエビアサフの子、エビアサフはコラの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "コラはイヅハルの子、イヅハルはコハテの子、コハテはレビの子、レビはイスラエルの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "ヘマンの兄弟アサフはヘマンの右に立った。アサフはベレキヤの子、ベレキヤはシメアの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "シメアはミカエルの子、ミカエルはバアセヤの子、バアセヤはマルキヤの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "マルキヤはエテニの子、エテニはゼラの子、ゼラはアダヤの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "アダヤはエタンの子、エタンはジンマの子、ジンマはシメイの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "シメイはヤハテの子、ヤハテはゲルションの子、ゲルションはレビの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "また彼らの兄弟であるメラリの子らが左に立った。そのうちのエタンはキシの子、キシはアブデの子、アブデはマルクの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "マルクはハシャビヤの子、ハシャビヤはアマジヤの子、アマジヤはヒルキヤの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "ヒルキヤはアムジの子、アムジはバニの子、バニはセメルの子、",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "セメルはマヘリの子、マヘリはムシの子、ムシはメラリの子、メラリはレビの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "彼らの兄弟であるレビびとたちは、神の宮の幕屋のもろもろの務に任じられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "アロンとその子らは燔祭の壇と香の祭壇の上にささげることをなし、また至聖所のすべてのわざをなし、かつイスラエルのためにあがないをなした。すべて神のしもべモーセの命じたとおりである。",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "アロンの子孫は次のとおりである。アロンの子はエレアザル、その子はピネハス、その子はアビシュア、",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "その子はブッキ、その子はウジ、その子はゼラヒヤ、",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "その子はメラヨテ、その子はアマリヤ、その子はアヒトブ、",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "その子はザドク、その子はアヒマアズである。",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "アロンの子孫の住む所はその境のうちにある宿営によっていえば次のとおりである。まずコハテびとの氏族がくじによって得たところ、",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "heading": null,
+          "text": "すなわち彼らが与えられたところは、ユダの地にあるヘブロンとその周囲の放牧地である。",
+          "footnotes": []
+        },
+        {
+          "verse": 56,
+          "heading": null,
+          "text": "ただし、その町の田畑とその村々は、エフンネの子カレブに与えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 57,
+          "heading": null,
+          "text": "そしてアロンの子孫に与えられたものは、のがれの町であるヘブロンおよびリブナとその放牧地、ヤッテルおよびエシテモアとその放牧地、",
+          "footnotes": []
+        },
+        {
+          "verse": 58,
+          "heading": null,
+          "text": "ヒレンとその放牧地、デビルとその放牧地、",
+          "footnotes": []
+        },
+        {
+          "verse": 59,
+          "heading": null,
+          "text": "アシャンとその放牧地、ベテシメシとその放牧地である。",
+          "footnotes": []
+        },
+        {
+          "verse": 60,
+          "heading": null,
+          "text": "またベニヤミンの部族のうちからはゲバとその放牧地、アレメテとその放牧地、アナトテとその放牧地を与えられた。彼らの町は、すべてその氏族のうちに十三あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 61,
+          "heading": null,
+          "text": "またコハテの子孫の残りの者は部族の氏族のうちからと、半部族すなわちマナセの半部族のうちからくじによって十の町を与えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 62,
+          "heading": null,
+          "text": "またゲルションの子孫はその氏族によってイッサカルの部族、アセルの部族、ナフタリの部族、およびバシャンのマナセの部族のうちから十三の町が与えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 63,
+          "heading": null,
+          "text": "メラリの子孫はその氏族によってルベンの部族、ガドの部族、およびゼブルンの部族のうちからくじによって十二の町が与えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 64,
+          "heading": null,
+          "text": "このようにイスラエルの人々はレビびとに町々とその放牧地とを与えた。",
+          "footnotes": []
+        },
+        {
+          "verse": 65,
+          "heading": null,
+          "text": "すなわちユダの子孫の部族とシメオンの部族の子孫と、ベニヤミンの子孫の部族のうちからここに名をあげたこれらの町をくじによって与えた。",
+          "footnotes": []
+        },
+        {
+          "verse": 66,
+          "heading": null,
+          "text": "コハテの子孫の氏族はまたエフライムの部族のうちからも町々を獲てその領地とした。",
+          "footnotes": []
+        },
+        {
+          "verse": 67,
+          "heading": null,
+          "text": "すなわち彼らが与えられた、のがれの町はエフライムの山地にあるシケムとその放牧地、ゲゼルとその放牧地、",
+          "footnotes": []
+        },
+        {
+          "verse": 68,
+          "heading": null,
+          "text": "ヨクメアムとその放牧地、ベテホロンとその放牧地、",
+          "footnotes": []
+        },
+        {
+          "verse": 69,
+          "heading": null,
+          "text": "アヤロンとその放牧地、ガテリンモンとその放牧地である。",
+          "footnotes": []
+        },
+        {
+          "verse": 70,
+          "heading": null,
+          "text": "またマナセの半部族のうちからは、アネルとその放牧地およびビレアムとその放牧地を、コハテの子孫の氏族の残りのものに与えた。",
+          "footnotes": []
+        },
+        {
+          "verse": 71,
+          "heading": null,
+          "text": "ゲルションの子孫に与えられたものはマナセの半部族のうちからはバシャンのゴランとその放牧地、アシタロテとその放牧地。",
+          "footnotes": []
+        },
+        {
+          "verse": 72,
+          "heading": null,
+          "text": "イッサカルの部族のうちからはケデシとその放牧地、ダベラテとその放牧地、",
+          "footnotes": []
+        },
+        {
+          "verse": 73,
+          "heading": null,
+          "text": "ラモテとその放牧地、アネムとその放牧地。",
+          "footnotes": []
+        },
+        {
+          "verse": 74,
+          "heading": null,
+          "text": "アセルの部族のうちからはマシャルとその放牧地、アブドンとその放牧地、",
+          "footnotes": []
+        },
+        {
+          "verse": 75,
+          "heading": null,
+          "text": "ホコクとその放牧地、レホブとその放牧地。",
+          "footnotes": []
+        },
+        {
+          "verse": 76,
+          "heading": null,
+          "text": "ナフタリの部族のうちからはガリラヤのケデシとその放牧地、ハンモンとその放牧地、キリアタイムとその放牧地である。",
+          "footnotes": []
+        },
+        {
+          "verse": 77,
+          "heading": null,
+          "text": "このほかのもの、すなわちメラリの子孫に与えられたものはゼブルンの部族のうちからリンモンとその放牧地、タボルとその放牧地、",
+          "footnotes": []
+        },
+        {
+          "verse": 78,
+          "heading": null,
+          "text": "エリコに近いヨルダンのかなた、すなわちヨルダンの東ではルベンの部族のうちからは荒野のベゼルとその放牧地、ヤザとその放牧地、",
+          "footnotes": []
+        },
+        {
+          "verse": 79,
+          "heading": null,
+          "text": "ケデモテとその放牧地、メパアテとその放牧地。",
+          "footnotes": []
+        },
+        {
+          "verse": 80,
+          "heading": null,
+          "text": "ガドの部族のうちからはギレアデのラモテとその放牧地、マハナイムとその放牧地、",
+          "footnotes": []
+        },
+        {
+          "verse": 81,
+          "heading": null,
+          "text": "ヘシボンとその放牧地、ヤゼルとその放牧地である。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "イッサカルの子らはトラ、プワ、ヤシュブ、シムロムの四人。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "トラの子らはウジ、レパヤ、エリエル、ヤマイ、エブサム、サムエル。これは皆トラの子で、その氏族の長である。その子孫の大勇士たる者はダビデの世にはその数二万二千六百人であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ウジの子はイズラヒヤ、イズラヒヤの子らはミカエル、オバデヤ、ヨエル、イシアの五人で、みな長たる者であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "その子孫のうちに、その氏族に従えば軍勢の士卒三万六千人あった。これは彼らが妻子を多くもっていたからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "イッサカルのすべての氏族のうちの兄弟たちで系図によって数えられた大勇士は合わせて八万七千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ベニヤミンの子らはベラ、ベケル、エデアエルの三人。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ベラの子らはエヅボン、ウジ、ウジエル、エレモテ、イリの五人で、皆その氏族の長である。その系図によって数えられた大勇士は二万二千三十四人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ベケルの子らはゼミラ、ヨアシ、エリエゼル、エリオエナイ、オムリ、エレモテ、アビヤ、アナトテ、アラメテで皆ベケルの子らである。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "その子孫のうち、その氏族の長として系図によって数えられた大勇士は二万二百人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "エデアエルの子はビルハン。ビルハンの子らはエウシ、ベニヤミン、エホデ、ケナアナ、ゼタン、タルシシ、アヒシャハル。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "皆エデアエルの子らで氏族の長であった。その子孫のうちには、いくさに出てよく戦う大勇士が一万七千二百人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "またイルの子らはシュパムとホパム。アヘルの子はホシムである。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ナフタリの子らはヤハジエル、グニ、エゼル、シャルムで皆ビルハの産んだ子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "マナセの子らはそのそばめであるスリヤの女の産んだアスリエル。彼女はまたギレアデの父マキルを産んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "マキルはホパムとシュパムの妹マアカという者を妻にめとった。二番目の子はゼロペハデという。ゼロペハデには女の子だけがあった。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "マキルの妻マアカは男の子を産んで名をペレシと名づけた。その弟の名はシャレシ。シャレシの子らはウラムとラケムである。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "ウラムの子はベダン。これらはマナセの子マキルの子であるギレアデの子らである。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "その妹ハンモレケテはイシホデ、アビエゼル、マヘラを産んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "セミダの子らはアヒアン、シケム、リキ、アニアムである。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "エフライムの子はシュテラ、その子はベレデ、その子はタハテ、その子はエラダ、その子はタハテ、",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "その子はザバデ、その子はシュテラである。エゼルとエレアデはガテの土人らに殺された。これは彼らが下って行ってその家畜を奪おうとしたからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "父エフライムが日久しくこのために悲しんだので、その兄弟たちが来て彼を慰めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "そののち、エフライムは妻のところにはいった。妻ははらんで男の子を産み、その名をベリアと名づけた。その家に災があったからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "エフライムの娘セラは上と下のベテホロンおよびウゼン・セラを建てた。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "ベリアの子はレパ、その子はレセフ、その子はテラ、その子はタハン、",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "その子はラダン、その子はアミホデ、その子はエリシャマ、",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "その子はヌン、その子はヨシュア。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "エフライムの子孫の領地と住所はベテルとその村々、また東の方ではナアラン、西の方ではゲゼルとその村々、またシケムとその村々、アワとその村々。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "またマナセの子孫の国境に沿って、ベテシャンとその村々、タアナクとその村々、メギドンとその村々、ドルとその村々で、イスラエルの子ヨセフの子孫はこれらの所に住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "アセルの子らはイムナ、イシワ、エスイ、ベリアおよびその姉妹セラ。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ベリアの子らはヘベルとマルキエル。マルキエルはビルザヒテの父である。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "ヘベルはヤフレテ、ショメル、ホタムおよびその姉妹シュアを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "ヤフレテの子らはパサク、ビムハル、アシワテ。これらはヤレフテの子らである。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "彼の兄弟ショメルの子らはロガ、ホバおよびアラム。",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "ショメルの兄弟ヘレムの子らはゾパ、イムナ、シレシ、アマル。",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "ゾパの子らはスア、ハルネペル、シュアル、ベリ、イムラ、",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "ベゼル、ホド、シャンマ、シルシャ、イテラン、ベエラ。",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "エテルの子らはエフンネ、ピスパおよびアラ。",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "ウラの子らはアラ、ハニエル、およびリヂア。",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "これらは皆アセルの子孫であって、その氏族の長、えりぬきの大勇士、つかさたちのかしらであった。その系図によって数えられた者で、いくさに出てよく戦う者の数は二万六千人であった。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ベニヤミンの生んだ者は長子はベラ、その次はアシベル、第三はアハラ、",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "第四はノハ、第五はラパ。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ベラの子らはアダル、ゲラ、アビウデ、",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "アビシュア、ナアマン、アホア、",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "ゲラ、シフパム、ヒラム。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "エホデの子らは次のとおりである。（これらはゲバの住民の氏族の長であって、マナハテに捕え移されたものである。）",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "すなわちナアマン、アヒヤ、ゲラすなわちヘグラム。ゲラはウザとアヒフデの父であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "シャハライムは妻ホシムとバアラを離別してのち、モアブの国で子らをもうけた。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "彼が妻ホデシによってもうけた子らはヨバブ、ヂビア、メシャ、マルカム、",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "エウヅ、シャキヤ、ミルマ。これらはその子らであって氏族の長である。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "彼はまたホシムによってアビトブとエルパアルをもうけた。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "エルパアルの子らはエベル、ミシャムおよびセメド。彼はオノとロドとその村々を建てた者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "またベリアとシマがあった。（これはアヤロンの住民の氏族の長であって、ガテの住民を追い払ったものである。）",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "またアヒオ、シャシャク、エレモテ。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ゼバデヤ、アラデ、アデル、",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ミカエル、イシパおよびヨハはベリアの子らであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "ゼバデヤ、メシュラム、ヘゼキ、ヘベル、",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "イシメライ、エズリアおよびヨバブはエルパアルの子らであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ヤキン、ジクリ、ザベデ、",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "エリエナイ、チルタイ、エリエル、",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "アダヤ、ベラヤおよびシムラテはシマの子らであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "イシパン、ヘベル、エリエル、",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "アブドン、ジクリ、ハナン、",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ハナニヤ、エラム、アントテヤ、",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "イペデヤおよびペヌエルはシャシャクの子らであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "シャムセライ、シハリア、アタリヤ、",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "ヤレシャ、エリヤおよびジクリはエロハムの子らであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "これらは歴代の氏族の長であり、またかしらであって、エルサレムに住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "ギベオンの父エイエルはギベオンに住み、その妻の名はマアカといった。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "その長子はアブドンで、次はツル、キシ、バアル、ナダブ、",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ゲドル、アヒオ、ザケル、",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "およびミクロテ。ミクロテはシメアを生んだ。これらもまた兄弟たちと向かいあってエルサレムに住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "ネルはキシを生み、キシはサウルを生み、サウルはヨナタン、マルキシュア、アビナダブ、エシバアルを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "ヨナタンの子はメリバアルで、メリバアルはミカエルを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "ミカの子らはピトン、メレク、タレア、アハズである。",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "アハズはエホアダを生み、エホアダはアレメテ、アズマウテ、ジムリを生み、ジムリはモザを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "モザはビネアを生んだ。ビネアの子はラパ、ラパの子はエレアサ、エレアサの子はアゼルである。",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "アゼルには六人の子があり、その名はアズリカム、ボケル、イシマエル、シャリヤ、オバデヤ、ハナンで、皆アゼルの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "その兄弟エセクの子らは、長子はウラム、次はエウシ、第三はエリペレテである。",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "ウラムの子らは大勇士で、よく弓を射る者であった。彼は多くの子と孫をもち、百五十人もあった。これらは皆ベニヤミンの子孫である。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "このようにすべてのイスラエルびとは系図によって数えられた。これらはイスラエルの列王紀にしるされている。ユダはその不信のゆえにバビロンに捕囚となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "その領地の町々に最初に住んだものはイスラエルびと、祭司、レビびとおよび宮に仕えるしもべたちであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "またエルサレムにはユダの子孫、ベニヤミンの子孫およびエフライムとマナセの子孫が住んでいた。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "すなわちユダの子ペレヅの子孫のうちではアミホデの子ウタイ。アミホデはオムリの子、オムリはイムリの子、イムリはバニの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "シロびとのうちでは長子アサヤとそのほかの子たち。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ゼラの子孫のうちではユエルとその兄弟六百九十人。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ベニヤミンの子孫のうちではハセヌアの子ホダビヤの子であるメシュラムの子サル、",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "エロハムの子イブニヤ、ミクリの子であるウジの子エラおよびイブニヤの子リウエルの子であるシパテヤの子メシュラム、",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ならびに彼らの兄弟たちで、その系図によれば合わせて九百五十六人。これらの人々は皆その氏族の長であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "祭司のうちではエダヤ、ヨアリブ、ヤキン、",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "およびヒルキヤの子アザリヤ、ヒルキヤはメシュラムの子、メシュラムはザドクの子、ザドクはメラヨテの子、メラヨテはアヒトブの子である。アザリヤは神の宮のつかさである。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "またエロハムの子アダヤ、エロハムはパシュルの子、パシュルはマルキヤの子である。またアデエルの子はマアセヤ、アデエルはヤゼラの子、ヤゼラはメシュラムの子、メシュラムはメシレモテの子、メシレモテはインメルの子である。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "そのほかに彼らの兄弟たちもあった。これらはその氏族の長で、合わせて一千七百六十人、みな神の宮の務をするのに、はなはだ力のある人々であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "レビびとのうちではハシュブの子シマヤ、ハシュブはアズリカムの子、アズリカムはハシャビヤの子で、これらはメラリの子孫である。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "またバクバッカル、ヘレシ、ガラル、およびアサフの子ジクリの子であるミカの子マッタニヤ、",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ならびにエドトンの子ガラルの子であるシマヤの子オバデヤおよびエルカナの子であるアサの子ベレキヤ、エルカナはネトパびとの村里に住んだ者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "門を守るものはシャルム、アックブ、タルモン、アヒマンおよびその兄弟たちで、シャルムはその長であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "彼は今日まで東の方にある王の門を守っている。これらはレビの子孫で営の門を守る者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "コラの子エビヤサフの子であるコレの子シャルムおよびその氏族の兄弟たちなどのコラびとは幕屋のもろもろの門を守る務をつかさどった。その先祖たちは主の営をつかさどり、その入口を守る者であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "エレアザルの子ピネハスが、むかし彼らのつかさであった。主は彼とともにおられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "メシレミヤの子ゼカリヤは会見の幕屋の門を守る者であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "これらは皆選ばれて門を守る者で、合わせて二百十二人あった。彼らはその村々で系図によって数えられた者で、ダビデと先見者サムエルが彼らを職に任じたのである。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "こうして彼らとその子孫は監守人として、主の家である幕屋の家の門をつかさどった。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "門を守る者は東西南北の四方にいた。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "またその村々にいる兄弟たちは七日ごとに代り、来て彼らを助けた。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "門を守る者の長である四人のレビびとは神の家のもろもろの室と宝とをつかさどった。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "彼らは神の家を守る身であるから、そのまわりに宿った。そして朝ごとにこれを開くことをした。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "そのうちに務の器をつかさどる者があった。彼らはその数を調べて携え入り、またその数を調べて携え出した。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "またそのほかの品、すべての聖なる器および麦粉、ぶどう酒、油、乳香、香料をつかさどる者があった。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "また祭司のともがらのうちに香料を混ぜる者があった。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "コラびとシャルムの長子でレビびとのひとりであるマタテヤはせんべいを造る勤めをつかさどった。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "またコハテびとの子孫であるその兄弟たちのうちに供えのパンをつかさどって、安息日ごとにこれを整える者どもがあった。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "レビびとの氏族の長であるこれらの者は歌うたう者であって、宮のもろもろの室に住み、ほかの務はしなかった。彼らは日夜自分の務に従ったからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "これらはレビびとの歴代の氏族の長であって、かしらたる人々であった。彼らはエルサレムに住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "ギベオンの父エヒエルはギベオンに住んでいた。その妻の名はマアカといった。",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "彼の長子はアブドン、次はツル、キシ、バアル、ネル、ナダブ、",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "ゲドル、アヒオ、ゼカリヤ、ミクロテである。",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "ミクロテはシメアムを生んだ。彼らもその兄弟たちとともにエルサレムに住んで、その兄弟たちと向かいあっていた。",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "ネルはキシを生み、キシはサウルを生み、サウルはヨナタン、マルキシュア、アビナダブ、エシバアルを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "ヨナタンの子はメリバアルで、メリバアルはミカを生んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "ミカの子らはピトン、メレク、タレアおよびアハズである。",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "アハズはヤラを生み、ヤラはアレメテ、アズマウテおよびジムリを生み、ジムリはモザを生み、",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "モザはビネアを生んだ。ビネアの子はレパヤ、その子はエレアサ、その子はアゼルである。",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "アゼルに六人の男の子があった。その名はアズリカム、ボケル、イシマエル、シャリヤ、オバデヤ、ハナン。これらはみなアゼルの子らであった。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "さてペリシテびとはイスラエルと戦ったが、イスラエルの人々がペリシテびとの前から逃げ、ギルボア山で殺されて倒れたので、",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ペリシテびとはサウルとその子たちのあとを追い、サウルの子ヨナタン、アビナダブおよびマルキシュアを殺した。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "戦いは激しくサウルにおし迫り、射手の者どもがついにサウルを見つけたので、彼は射手の者どもに傷を負わされた。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "そこでサウルはその武器を執る者に言った、「つるぎを抜き、それをもってわたしを刺せ。さもないと、これらの割礼なき者が来て、わたしをはずかしめるであろう」。しかしその武器を執る者がいたく恐れて聞きいれなかったので、サウルはつるぎをとってその上に伏した。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "武器を執る者はサウルの死んだのを見て、自分もまたつるぎの上に伏して死んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "こうしてサウルと三人の子らおよびその家族は皆ともに死んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "谷にいたイスラエルの人々は皆彼らの逃げるのを見、またサウルとその子らの死んだのを見て、町々をすてて逃げたので、ペリシテびとが来てそのうちに住んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "あくる日ペリシテびとは殺された者から、はぎ取るために来て、サウルとその子らのギルボア山に倒れているのを見、",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "サウルをはいでその首と、よろいかぶとを取り、ペリシテびとの国の四方に人をつかわして、この良き知らせをその偶像と民に告げさせた。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "そしてサウルのよろいかぶとを彼らの神の家に置き、首をダゴンの神殿にくぎづけにした。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "しかしヤベシ・ギレアデの人々は皆ペリシテびとがサウルにしたことを聞いたので、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "勇士たちが皆立ち上がり、サウルのからだとその子らのからだをとって、これをヤベシに持って来て、ヤベシのかしの木の下にその骨を葬り、七日の間、断食した。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "こうしてサウルは主にむかって犯した罪のために死んだ。すなわち彼は主の言葉を守らず、また口寄せに問うことをして、",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "主に問うことをしなかった。それで主は彼を殺し、その国を移してエッサイの子ダビデに与えられた。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ここにイスラエルの人は皆ヘブロンにいるダビデのもとに集まって来て言った、「われわれは、あなたの骨肉です。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "先にサウルが王であった時にも、あなたはイスラエルを率いて出入りされました。そしてあなたの神、主はあなたに『あなたはわが民イスラエルを牧する者となり、わが民イスラエルの君となるであろう』と言われました」。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "このようにイスラエルの長老が皆ヘブロンにいる王のもとに来たので、ダビデはヘブロンで主の前に彼らと契約を結んだ。そして彼らは、サムエルによって語られた主の言葉に従ってダビデに油を注ぎ、イスラエルの王とした。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ダビデとすべてのイスラエルはエルサレムへ行った。エルサレムはすなわちエブスであって、そこにはその地の住民であるエブスびとがいた。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "エブスの住民はダビデに言った、「あなたはここにはいってはならない」。しかし、ダビデはシオンの要害を取った。これがすなわちダビデの町である。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "この時ダビデは言った、「だれでも第一にエブスびとを撃つ者を、かしらとし、将とする」。ゼルヤの子ヨアブが第一にのぼっていったので、かしらとなった。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "そしてダビデがその要害に住んだので人々はこれをダビデの町と名づけた。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ダビデはまたその町の周囲すなわちミロから四方に石がきを築き、ヨアブは町のほかの部分を繕った。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "こうしてダビデはますます大いなる者となった。万軍の主が彼とともにおられたからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ダビデの勇士のおもなものは次のとおりである。彼らはイスラエルのすべての人とともにダビデに力をそえて国を得させ、主がイスラエルについて言われた言葉にしたがって、彼を王とした人々である。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ダビデの勇士の数は次のとおりである。すなわち三人の長であるハクモニびとの子ヤショベアム、彼はやりをふるって三百人に向かい、一度にこれを殺した者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "彼の次はアホアびとドドの子エレアザルで、三勇士のひとりである。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "彼はダビデとともにパスダミムにいたが、ペリシテびとがそこに集まって来て戦った。そこに一面に大麦のはえた地所があった。民はペリシテびとの前から逃げた。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "しかし彼は地所の中に立ってこれを防ぎ、ペリシテびとを殺した。そして主は大いなる勝利を与えて彼らを救われた。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "三十人の長たちのうちの三人は下っていってアドラムのほらあなの岩の所にいるダビデのもとへ行った。時にペリシテびとの軍勢はレパイムの谷に陣を取っていた。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "その時ダビデは要害におり、ペリシテびとの先陣はベツレヘムにあったが、",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "ダビデはせつに望んで、「だれかベツレヘムの門のかたわらにある井戸の水をわたしに飲ませてくれるとよいのだが」と言った。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "そこでその三人はペリシテびとの陣を突き通って、ベツレヘムの門のかたわらにある井戸の水をくみ取って、ダビデのもとに携えて来た。しかしダビデはそれを飲もうとはせず、それを主の前に注いで、",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "言った、「わが神よ、わたしは断じてこれをいたしません。命をかけて行ったこの人たちの血をどうしてわたしは飲むことができましょう。彼らは命をかけてこの水をとって来たのです」。それゆえ、ダビデはこの水を飲もうとはしなかった。三勇士はこのことをおこなった。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ヨアブの兄弟アビシャイは三十人の長であった。彼はやりをふるって三百人に立ち向かい、これを殺して三人のほかに名を得た。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "彼は三十人のうち、最も尊ばれた者で、彼らのかしらとなった。しかし、かの三人には及ばなかった。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "エホヤダの子ベナヤは、カブジエル出身の勇士であって、多くのてがらを立てた。彼はモアブのアリエルのふたりの子を撃ち殺した。彼はまた雪の日に下っていって、穴の中でししを撃ち殺した。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "彼はまた身のたけ五キュビトばかりのエジプトびとを撃ち殺した。そのエジプトびとは手に機の巻棒ほどのやりを持っていたが、ベナヤはつえをとって彼の所へ下って行き、エジプトびとの手から、やりをもぎとり、そのやりをもって彼を殺した。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "エホヤダの子ベナヤは、これらの事を行って三勇士のほかに名を得た。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "彼は三十人のうちに有名であったが、かの三人には及ばなかった。ダビデは彼を侍衛の長とした。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "軍団のうちの勇士はヨアブの兄弟アサヘル。ベツレヘム出身のドドの子エルハナン。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "ハロデ出身のシャンマ。ペロンびとヘレヅ。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "テコア出身のイッケシの子イラ。アナトテ出身のアビエゼル。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "ホシャテびとシベカイ。アホアびとイライ。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "ネトパ出身のマハライ。ネトパ出身のバアナの子ヘレデ。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ベニヤミンびとのギベアから出たリバイの子イタイ。ピラトンのベナヤ。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "ガアシの谷のホライ。アルバテびとアビエル。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "バハルム出身のアズマウテ。シャルボン出身のエリヤバ。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "ギゾンびとハセム。ハラルびとシャゲの子ヨナタン。",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "ハラルびとサカルの子アヒアム。ウルの子エリパル。",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "メケラテびとヘペル。ペロンびとアヒヤ。",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "カルメル出身のヘズロ。エズバイの子ナアライ。",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "ナタンの兄弟ヨエル。ハグリの子ミブハル。",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "アンモンびとゼレク。ゼルヤの子ヨアブの武器を執るもの、ベエロテ出身のナハライ。",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "イテルびとイラ。イテルびとガレブ。",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "ヘテびとウリヤ。アハライの子ザバデ。",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "ルベンびとシザの子アデナ。彼はルベンびとの長であって、三十人を率いた。",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "またマアカの子ハナン。ミテニびとヨシャパテ。",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "アシテラテびとウジヤ。アロエルびとホタムの子らシャマとエイエル。",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "テジびとシムリの子エデアエルおよびその兄弟ヨハ。",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "マハブびとエリエル。エルナアムの子らエリバイおよびヨシャビヤ。モアブびとイテマ。",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "エリエル、オベデおよびメゾバびとヤシエルである。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ダビデがキシの子サウルにしりぞけられて、なおチクラグにいた時、次の人々が彼のもとに来た。彼らはダビデを助けて戦った勇士たちのうちにあり、",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "弓をよくする者、左右いずれの手をもってもよく矢を射、石を投げる者で、ともにベニヤミンびとで、サウルの同族である。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "そのかしらはアヒエゼル、次はヨアシで、ともにギベア出身のシマアの子たちである。またエジエルとペレテで、ともにアズマウテの子たちである。またベラカおよびアナトテ出身のエヒウ。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "またギベオン出身のイシマヤ、彼は三十人のうちの勇士で、その三十人の長である。またエレミヤ、ヤハジエル、ヨハナン、ゲデラ出身のヨザバデ、",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "エルザイ、エリモテ、ベアリヤ、シマリヤ、ハリフびとシパテヤ、",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "エルカナ、イシア、アザリエル、ヨエゼル、ヤショベアムで、これらはコラびとである。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "またゲドルのエロハムの子たちであるヨエラおよびゼバデヤである。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ガドびとのうちから荒野の要害に来て、ダビデについた者は皆勇士で、よく戦う軍人、よく盾とやりをつかう者、その顔はししの顔のようで、その速いことは山にいるしかのようであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "彼らのかしらはエゼル、次はオバデヤ、第三はエリアブ、",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "第四はミシマンナ、第五はエレミヤ、",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "第六はアッタイ、第七はエリエル、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "第八はヨナハン、第九はエルザバデ、",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "第十はエレミヤ、第十一はマクバナイである。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "これらはガドの子孫で軍勢の長たる者、その最も小さい者でも百人に当り、その最も大いなる者は千人に当った。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "正月、ヨルダンがその全岸にあふれたとき、彼らはこれを渡って、谷々にいる者をことごとく東に西に逃げ走らせた。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ベニヤミンとユダの子孫のうちの人々が要害に来て、ダビデについた。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "ダビデは出て彼らを迎えて言った、「あなたがたが好意をもって、わたしを助けるために来たのならば、わたしの心もあなたがたと、ひとつになりましょう。しかし、わたしの手になんの悪事もないのに、もしあなたがたが、わたしを欺いて、敵に渡すためであるならば、われわれの先祖の神がどうぞみそなわして、あなたがたを責められますように」。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "時に霊が三十人の長アマサイに臨み、アマサイは言った、「ダビデよ、われわれはあなたのもの。エッサイの子よ、われわれはあなたと共にある。平安あれ、あなたに平安あれ。あなたを助ける者に平安あれ。あなたの神があなたを助けられる」。そこでダビデは彼らを受けいれて部隊の長とした。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "さきにダビデがペリシテびとと共にサウルと戦おうと攻めて来たとき、マナセびと数人がダビデについた。（ただしダビデはついにペリシテびとを助けなかった。それはペリシテびとの君たちが相はかって、「彼はわれわれの首をとって、その主君サウルのもとに帰るであろう」と言って、彼を去らせたからである。）",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ダビデがチクラグへ行ったとき、マナセびとアデナ、ヨザバデ、エデアエル、ミカエル、ヨザバデ、エリウ、ヂルタイが彼についた。皆マナセびとの千人の長であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "彼らはダビデを助けて敵軍に当った。彼らは皆大勇士で軍勢の長であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "ダビデを助ける者が日に日に加わって、ついに大軍となり、神の軍勢のようになった。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "主の言葉に従い、サウルの国をダビデに与えようとして、ヘブロンにいるダビデのもとに来た武装した軍隊の数は、次のとおりである。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ユダの子孫で盾とやりをとり、武装した者六千八百人、",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "シメオンの子孫で、よく戦う勇士七千百人、",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "レビの子孫からは四千六百人。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "エホヤダはアロンの家のつかさで、彼に属する者は三千七百人。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "ザドクは年若い勇士で、彼の氏族から出た将軍は二十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "サウルの同族、ベニヤミンの子孫からは三千人、ベニヤミンびとの多くはなおサウルの家に忠義をつくしていた。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "エフライムの子孫からは二万八百人、皆勇士で、その氏族の名ある人々であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "マナセの半部族からは一万八千人、皆ダビデを王に立てようとして上って来て、名をつらねた者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "イッサカルの子孫からはよく時勢に通じ、イスラエルのなすべきことをわきまえた人々が来た。その長たる者が二百人あって、その兄弟たちは皆その指揮に従った。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "ゼブルンからは五万人、皆訓練を経た軍隊で、もろもろの武具で身をよろい、一心にダビデを助けた者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "ナフタリからは将たる者一千人および盾とやりをとってこれに従う者三万七千人。",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "ダンびとからは武装した者二万八千六百人。",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "アセルからは戦いの備えをした熟練の者四万人。",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "またヨルダンのかなたルベンびと、ガドびと、マナセの半部族からはもろもろの武具で身をよろった者十二万人であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "すべてこれらの戦いの備えをしたいくさびとらは真心をもってヘブロンに来て、ダビデを全イスラエルの王にしようとした。このほかのイスラエルびともまた、心をひとつにしてダビデを王にしようとした。",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "彼らはヘブロンにダビデとともに三日いて、食い飲みした。その兄弟たちは彼らのために備えをしたからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "また彼らに近い人々はイッサカル、ゼブルン、ナフタリなどの遠い所の者まで、ろば、らくだ、騾馬、牛などに食物を負わせて来た。すなわち麦粉の食物、干いちじく、干ぶどう、ぶどう酒、油、牛、羊などを多く携えて来た。これはイスラエルに喜びがあったからである。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ここにダビデは千人の長、百人の長などの諸将と相はかり、",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "そしてダビデはイスラエルの全会衆に言った、「もし、このことをあなたがたがよしとし、われわれの神、主がこれを許されるならば、われわれは、イスラエルの各地に残っているわれわれの兄弟ならびに、放牧地の付いている町々にいる祭司とレビびとに、使をつかわし、われわれの所に呼び集めましょう。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "また神の箱をわれわれの所に移しましょう。われわれはサウルの世にはこれをおろそかにしたからです」。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "会衆は一同「そうしましょう」と言った。このことがすべての民の目に正しかったからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "そこでダビデはキリアテ・ヤリムから神の箱を運んでくるため、エジプトのシホルからハマテの入口までのイスラエルをことごとく呼び集めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "そしてダビデとすべてのイスラエルはバアラすなわちユダのキリアテ・ヤリムに上り、ケルビムの上に座しておられる主の名をもって呼ばれている神の箱をそこからかき上ろうと、",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "神の箱を新しい車にのせて、アビナダブの家からひきだし、ウザとアヒヨがその車を御した。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ダビデおよびすべてのイスラエルは歌と琴と立琴と、手鼓と、シンバルと、ラッパをもって、力をきわめて神の前に踊った。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "彼らがキドンの打ち場に来た時、ウザは手を伸べて箱を押えた。牛がつまずいたからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ウザが手を箱につけたことによって、主は彼に向かって怒りを発し、彼を撃たれたので、彼はその所で神の前に死んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "主がウザを撃たれたので、ダビデは怒った。その所は今日までペレヅ・ウザと呼ばれている。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "その日ダビデは神を恐れて言った、「どうして神の箱を、わたしの所へかいて行けようか」。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "それでダビデはその箱を自分の所ダビデの町へは移さず、これを転じてガテびとオベデ・エドムの家に運ばせた。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "神の箱は三か月の間、オベデ・エドムの家に、その家族とともにとどまった。主はオベデ・エドムの家族とそのすべての持ち物を祝福された。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ツロの王ヒラムはダビデに使者をつかわし、彼のために家を建てさせようと香柏および石工と木工を送った。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ダビデは主が自分を堅く立ててイスラエルの王とされたことと、その民イスラエルのために彼の国を大いに興されたことを悟った。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ダビデはエルサレムでまた妻たちをめとった。そしてダビデにまたむすこ、娘が生れた。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "彼がエルサレムで得た子たちの名は次のとおりである。すなわちシャンマ、ショバブ、、ナタン、ソロモン、",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "イブハル、エリシュア、エルペレテ、",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ノガ、ネペグ、ヤピア、",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "エリシャマ、ベエリアダ、エリペレテである。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "さてペリシテびとはダビデが油を注がれて全イスラエルの王になったことを聞いたので、ペリシテびとはみな上ってきてダビデを捜した。ダビデはこれを聞いてこれに当ろうと出ていったが、",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ペリシテびとはすでに来て、レパイムの谷を侵した。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ダビデは神に問うて言った、「ペリシテびとに向かって上るべきでしょうか。あなたは彼らをわたしの手にわたされるでしょうか」。主はダビデに言われた、「上りなさい。わたしは彼らをあなたの手にわたそう」。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "そこで彼はバアル・ペラジムへ上っていった。その所でダビデは彼らを打ち敗り、そして言った、「神は破り出る水のように、わたしの手で敵を破られた」。それゆえ、その所の名はバアル・ペラジムと呼ばれている。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "彼らが自分たちの神をそこに残して退いたので、ダビデは命じてこれを火で焼かせた。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ペリシテびとは再び谷を侵した。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "ダビデが再び神に問うたので神は言われた、「あなたは彼らを追って上ってはならない。遠回りしてバルサムの木の前から彼らを襲いなさい。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "バルサムの木の上に行進の音が聞えたならば、あなたは行って戦いなさい。神があなたの前に出てペリシテびとの軍勢を撃たれるからです」。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ダビデは神が命じられたようにして、ペリシテびとの軍勢を撃ち破り、ギベオンからゲゼルに及んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "そこでダビデの名はすべての国々に聞えわたり、主はすべての国びとに彼を恐れさせられた。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ダビデはダビデの町のうちに自分のために家を建て、また神の箱のために所を備え、これがために幕屋を張った。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ダビデは言った、「神の箱をかくべき者はただレビびとのみである。主が主の箱をかかせ、また主に長く仕えさせるために彼らを選ばれたからである」。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ダビデは主の箱をこれがために備えた所にかき上るため、イスラエルをことごとくエルサレムに集めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ダビデはまたアロンの子孫とレビびとを集めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "すなわち、コハテの子孫のうちからはウリエルを長としてその兄弟百二十人、",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "メラリの子孫のうちからはアサヤを長としてその兄弟二百二十人、",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ゲルショムの子孫のうちからはヨエルを長としてその兄弟百三十人、",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "エリザパンの子孫のうちからはシマヤを長としてその兄弟二百人、",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ヘブロンの子孫のうちからはエリエルを長としてその兄弟八十人、",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ウジエルの子孫のうちからはアミナダブを長としてその兄弟百十二人である。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ダビデは祭司ザドクとアビヤタル、およびレビびとウリエル、アサヤ、ヨエル、シマヤ、エリエル、アミナダブを召し、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "彼らに言った、「あなたがたはレビびとの氏族の長である。あなたがたとあなたがたの兄弟はともに身を清め、イスラエルの神、主の箱をわたしがそのために備えた所にかき上りなさい。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "さきにこれをかいた者があなたがたでなかったので、われわれの神、主はわれわれを撃たれました。これはわれわれがその定めにしたがってそれを扱わなかったからです」。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "そこで祭司たちとレビびとたちはイスラエルの神、主の箱をかき上るために身を清め、",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "レビびとたちはモーセが主の言葉にしたがって命じたように、神の箱をさおをもって肩にになった。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ダビデはまたレビびとの長たちに、その兄弟たちを選んで歌うたう者となし、立琴と琴とシンバルなどの楽器を打ちはやし、喜びの声をあげることを命じた。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "そこでレビびとはヨエルの子ヘマンと、その兄弟ベレキヤの子アサフおよびメラリの子孫である彼らの兄弟クシャヤの子エタンを選んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "またこれに次ぐその兄弟たちがこれと共にいた。すなわちゼカリヤ、ヤジエル、セミラモテ、エイエル、ウンニ、エリアブ、ベナヤ、マアセヤ、マッタテヤ、エリペレホ、ミクネヤおよび門を守る者オベデ・エドムとエイエル。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "歌うたう者ヘマン、アサフおよびエタンは青銅のシンバルを打ちはやす者であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ゼカリヤ、アジエル、セミラモテ、エイエル、ウンニ、エリアブ、マアセヤ、ベナヤはアラモテにしたがって立琴を奏する者であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "しかしマッタテヤ、エリペレホ、ミクネヤ、オベデ・エドム、エイエル、アザジヤはセミニテにしたがって琴をもって指揮する者であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "ケナニヤはレビびとの楽長で、音楽に通じていたので、これを指揮した。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "ベレキヤとエルカナは箱のために門を守る者であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "祭司シバニヤ、ヨシャパテ、ネタネル、アマサイ、ゼカリヤ、ベナヤ、エリエゼルらは神の箱の前でラッパを吹き、オベデ・エドムとエヒアは箱のために門を守る者であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "ダビデとイスラエルの長老たちおよび千人の長たちは行って、オベデ・エドムの家から主の契約の箱を喜び勇んでかき上った。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "神が主の契約の箱をかくレビびとを助けられたので、彼らは雄牛七頭、雄羊七頭をささげた。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "ダビデは亜麻布の衣服を着ていた。箱をかくすべてのレビびとは、歌うたう者、音楽をつかさどるケナニヤも同様である。ダビデはまた亜麻布のエポデを着ていた。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "こうしてイスラエルは皆、声をあげ、角笛を吹きならし、ラッパと、シンバルと、立琴と琴をもって打ちはやして主の契約の箱をかき上った。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "主の契約の箱がダビデの町にはいったとき、サウルの娘ミカルが窓からながめ、ダビデ王の舞い踊るのを見て、心のうちに彼をいやしめた。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "人々は神の箱をかき入れて、ダビデがそのために張った幕屋のうちに置き、そして燔祭と酬恩祭を神の前にささげた。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ダビデは燔祭と酬恩祭をささげ終えたとき、主の名をもって民を祝福し、",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "イスラエルの人々に男にも女にもおのおのパン一つ、肉一切れ、干ぶどう一かたまりを分け与えた。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ダビデはまたレビびとのうちから主の箱の前に仕える者を立てて、イスラエルの神、主をあがめ、感謝し、ほめたたえさせた。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "楽長はアサフ、その次はゼカリヤ、エイエル、セミラモテ、エヒエル、マッタテヤ、エリアブ、ベナヤ、オベデ・エドム、エイエルで、彼らは立琴と琴を弾じ、アサフはシンバルを打ち鳴らし、",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "祭司ベナヤとヤハジエルは神の契約の箱の前でつねにラッパを吹いた。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "その日ダビデは初めてアサフと彼の兄弟たちを立てて、主に感謝をささげさせた。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "主に感謝し、そのみ名を呼び、そのみわざをもろもろの民の中に知らせよ。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "主にむかって歌え、主をほめ歌え。そのもろもろのくすしきみわざを語れ。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "その聖なるみ名を誇れ。どうか主を求める者の心が喜ぶように。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "主とそのみ力とを求めよ。つねにそのみ顔をたずねよ。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "彼はわれわれの神、主にいます。そのさばきは全地にある。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "主はとこしえにその契約をみこころにとめられる。これはよろずよに命じられたみ言葉であって、",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "アブラハムと結ばれた契約、イサクに誓われた約束である。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "主はこれを堅く立ててヤコブのために定めとし、イスラエルのためにとこしえの契約として、",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "言われた、「あなたにカナンの地を与えて、あなたがたの受ける嗣業の分け前とする」と。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "その時、彼らの数は少なくて、数えるに足らず、かの国で旅びととなり、",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "国から国へ行き、この国からほかの民へ行った。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "主は人の彼らをしえたげるのをゆるされず、彼らのために王たちを懲しめて、",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "言われた、「わが油そそがれた者たちにさわってはならない。わが預言者たちに害を加えてはならない」と。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "全地よ、主に向かって歌え。日ごとにその救を宣べ伝えよ。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "もろもろの国の中にその栄光をあらわし、もろもろの民の中にくすしきみわざをあらわせ。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "主は大いなるかたにいまして、いとほめたたうべき者、もろもろの神にまさって、恐るべき者だからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "もろもろの民のすべての神はむなしい。しかし主は天を造られた。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "誉と威厳とはそのみ前にあり、力と喜びとはその聖所にある。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "もろもろの民のやからよ、主に帰せよ、栄光と力とを主に帰せよ。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "そのみ名にふさわしい栄光を主に帰せよ。供え物を携えて主のみ前にきたれ。聖なる装いをして主を拝め。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "全地よ、そのみ前におののけ。世界は堅く立って、動かされることはない。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "天は喜び、地はたのしみ、もろもろの国民の中に言え、「主は王であられる」と。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "海とその中に満つるものとは鳴りどよめき、田畑とその中のすべての物は喜べ。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "そのとき林のもろもろの木も主のみ前に喜び歌う。主は地をさばくためにこられるからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "主に感謝せよ、主は恵みふかく、そのいつくしみはとこしえに絶えることがない。",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "また言え、「われわれの救の神よ、われわれを救い、もろもろの国民の中からわれわれを集めてお救いください。そうすればあなたの聖なるみ名に感謝し、あなたの誉を誇るでしょう。",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "イスラエルの神、主は、とこしえからとこしえまでほむべきかな」と。その時すべての民は「アァメン」と言って主をほめたたえた。",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "ダビデはアサフとその兄弟たちを主の契約の箱の前にとめおいて、常に箱の前に仕え、日々のわざを行わせた。",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "オベデ・エドムとその兄弟たちは合わせて六十八人である。またエドトンの子オベデ・エドムおよびホサは門守であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "祭司ザドクとその兄弟である祭司たちはギベオンにある高き所で主の幕屋の前に仕え、",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "主がイスラエルに命じられた律法にしるされたすべてのことにしたがって燔祭の壇の上に朝夕たえず燔祭を主にささげた。",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "また彼らとともにヘマン、エドトンおよびほかの選ばれて名をしるされた者どもがいて、主のいつくしみの世々限りなきことについて主に感謝した。",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "すなわちヘマンおよびエドトンは彼らとともにいて、ラッパ、シンバルおよびその他の聖歌のための楽器をとって音楽を奏し、エドトンの子らは門を守った。",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "こうして民は皆おのおの家に帰り、ダビデはその家族を祝福するために帰って行った。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "さてダビデは自分の家に住むようになったとき、預言者ナタンに言った、「見よ、わたしは香柏の家に住んでいるが、主の契約の箱は天幕のうちにある」。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ナタンはダビデに言った、「神があなたとともにおられるから、すべてあなたの心にあるところを行いなさい」。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "その夜、神の言葉がナタンに臨んで言った、",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "「行ってわたしのしもべダビデに告げよ、『主はこう言われる、わたしの住む家を建ててはならない。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "わたしはイスラエルを導き上った日から今日まで、家に住まわず、天幕から天幕に、幕屋から幕屋に移ったのである。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "わたしがすべてのイスラエルと共に歩んだすべての所で、わたしの民を牧することを命じたイスラエルのさばきづかさのひとりに、ひと言でも、「どうしてあなたがたは、わたしのために香柏の家を建てないのか」と言ったことがあるだろうか』と。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "それゆえ今あなたは、わたしのしもべダビデにこう言いなさい、『万軍の主はこう仰せられる、「わたしはあなたを牧場から、羊に従っている所から取って、わたしの民イスラエルの君とし、",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "あなたがどこへ行くにもあなたと共におり、あなたのすべての敵をあなたの前から断ち去った。わたしはまた地の上の大いなる者の名のような名をあなたに得させよう。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "そしてわたしはわが民イスラエルのために一つの所を定めて、彼らを植えつけ、彼らを自分の所に住ませ、重ねて動くことのないようにしよう。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "また前のように、すなわちわたしがわが民イスラエルの上にさばきづかさを立てた時からこのかたのように、悪い人が重ねてこれを荒すことはないであろう。わたしはまたあなたのもろもろの敵を征服する。かつわたしは主があなたのために家を建てられることを告げる。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "あなたの日が満ち、あなたの先祖たちの所へ行かねばならぬとき、わたしはあなたの子、すなわちあなたの子らのひとりを、あなたのあとに立てて、その王国を堅くする。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "彼はわたしのために家を建てるであろう。わたしは長く彼の位を堅くする。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "わたしは彼の父となり、彼はわたしの子となる。わたしは、わたしのいつくしみを、あなたのさきにあった者から取り去ったように、彼からは取り去らない。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "かえって、わたしは彼を長くわたしの家に、わたしの王国にすえおく。彼の位はとこしえに堅く立つであろう』」。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ナタンはすべてこれらの言葉のように、またすべてこの幻のようにダビデに語った。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "そこで、ダビデ王は、はいって主の前に座して言った、「主なる神よ、わたしがだれ、わたしの家がなんであるので、あなたはこれまでわたしを導かれたのですか。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "神よ、これはあなたの目には小さな事です。主なる神よ、あなたはしもべの家について、はるか後の事を語って、きたるべき代々のことを示されました。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "しもべの名誉については、ダビデはこの上あなたに何を申しあげることができましょう。あなたはしもべを知っておられるからです。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "主よ、あなたはしもべのために、またあなたの心にしたがって、このもろもろの大いなる事をなし、すべての大いなる事を知らされました。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "主よ、われわれがすべて耳に聞いた所によれば、あなたのようなものはなく、またあなたのほかに神はありません。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "また地上のどの国民が、あなたの民イスラエルのようでありましょうか。これは神が行って、自分のためにあがなって民とし、エジプトからあなたがあがない出されたあなたの民の前から国々の民を追い払い、大いなる恐るべき事を行って、名を得られたものではありませんか。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "あなたはあなたの民イスラエルを長くあなたの民とされました。主よ、あなたは彼らの神となられたのです。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "それゆえ主よ、あなたがしもべと、しもべの家について語られた言葉を長く堅くして、あなたの言われたとおりにしてください。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "そうすればあなたの名はとこしえに堅くされ、あがめられて、『イスラエルの神、万軍の主はイスラエルの神である』と言われ、またあなたのしもべダビデの家はあなたの前に堅く立つことができるでしょう。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "わが神よ、あなたは彼のために家を建てると、しもべに示されました。それゆえ、しもべはあなたの前に祈る勇気を得ました。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "主よ、あなたは神にいまし、この良き事をしもべに約束されました。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "それゆえどうぞいま、しもべの家を祝福し、あなたの前に長く続かせてくださるように。主よ、あなたの祝福されるものは長く祝福を受けるからです」。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "この後ダビデはペリシテびとを撃ってこれを征服し、ペリシテびとの手からガテとその村々を取った。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "彼はまたモアブを撃った。モアブびとはダビデのしもべとなって、みつぎを納めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ダビデはまた、ハマテのゾバの王ハダデゼルがユフラテ川のほとりに、その記念碑を建てようとして行ったとき彼を撃った。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "そしてダビデは彼から戦車一千、騎兵七千人、歩兵二万人を取った。ダビデは一百の戦車の馬を残して、そのほかの戦車の馬はみなその足の筋を切った。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "その時ダマスコのスリヤびとがゾバの王ハダデゼルを助けるために来たので、ダビデはそのスリヤびと二万二千人を殺した。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "そしてダビデはダマスコのスリヤに守備隊を置いた。スリヤびとはみつぎを納めてダビデのしもべとなった。主はダビデにすべてその行く所で勝利を与えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ダビデはハダデゼルのしもべらが持っていた金の盾を奪って、エルサレムに持ってきた。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "またハダデゼルの町テブハテとクンからダビデは非常に多くの青銅を取った。ソロモンはそれを用いて青銅の海、柱および青銅の器を造った。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "時にハマテの王トイはダビデがゾバの王ハダデゼルのすべての軍勢を撃ち破ったことを聞き、",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "その子ハドラムをダビデ王につかわして、彼にあいさつさせ、かつ祝を述べさせた。ハダデゼルはかつてしばしばトイと戦いを交えたが、ダビデはハダデゼルと戦って、これを撃ち破ったからである。ハドラムは金、銀および青銅のさまざまの器を贈ったので、",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ダビデ王はこれをエドム、モアブ、アンモンの人々、ペリシテびと、アマクレなどの諸国民のうちから取ってきた金銀とともに、主にささげた。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "ゼルヤの子アビシャイは塩の谷で、エドムびと一万八千を撃ち殺した。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ダビデはエドムに守備隊を置き、エドムびとは皆ダビデのしもべとなった。主はダビデにすべてその行く所で勝利を与えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "こうしてダビデはイスラエルの全地を治め、そのすべての民に公道と正義を行った。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "ゼルヤの子ヨアブは軍の長、アヒルデの子ヨシャパテは史官、",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "アヒトブの子ザドクとアビヤタルの子アビメレクは祭司、シャウシャは書記官、",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "エホヤダの子ベナヤはケレテびととペレテびとの長、ダビデの子たちは王のかたわらにはべる大臣であった。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "この後アンモンの人々の王ナハシが死んで、その子がこれに代って王となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "そのときダビデは言った、「わたしはナハシの子ハヌンに、彼の父がわたしに恵みを施したように、恵みを施そう」。そしてダビデは彼をその父のゆえに慰めようとして使者をつかわした。ダビデのしもべたちはハヌンを慰めるためアンモンの人々の地に来たが、",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "アンモンの人々のつかさたちはハヌンに言った、「ダビデが慰める者をあなたのもとにつかわしたことによって、あなたは彼があなたの父を尊ぶのだと思われますか。彼のしもべたちが来たのは、この国をうかがい、探って滅ぼすためではありませんか」。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "そこでハヌンはダビデのしもべたちを捕えて、そのひげをそり落し、その着物を中ほどから断ち切って腰の所までにして彼らを帰してやった。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "ある人々が来て、この人たちのされたことをダビデに告げたので、彼は人をつかわして、彼らを迎えさせた。その人々が非常に恥じたからである。そこで王は言った、「ひげがのびるまでエリコにとどまって、その後帰りなさい」。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "アンモンの人々は自分たちがダビデに憎まれることをしたとわかったので、ハヌンおよびアンモンの人々は銀千タラントを送ってメソポタミヤとアラム・マアカ、およびゾバから戦車と騎兵を雇い入れた。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "すなわち戦車三万二千およびマアカの王とその軍隊を雇い入れたので、彼らは来てメデバの前に陣を張った。そこでアンモンの人々は町々から寄り集まって、戦いに出動した。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ダビデはこれを聞いてヨアブと勇士の全軍をつかわしたので、",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "アンモンの人々は出て来て町の入口に戦いの備えをした。また助けに来た王たちは別に野にいた。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "時にヨアブは戦いが前後から自分に向かっているのを見て、イスラエルのえり抜きの兵士のうちから選んで、これをスリヤびとに対して備え、",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "そのほかの民を自分の兄弟アビシャイの手にわたして、アンモンの人々に対して備えさせ、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "そして言った、「もしスリヤびとがわたしに手ごわいときは、わたしを助けてください。もしアンモンの人々があなたに手ごわいときは、あなたを助けましょう。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "勇ましくしてください。われわれの民のためと、われわれの神の町々のために、勇ましくしましょう。どうか、主が良いと思われることをされるように」。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "こうしてヨアブが自分と一緒にいる民と共にスリヤびとに向かって戦おうとして近づいたとき、スリヤびとは彼の前から逃げた。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "アンモンの人々はスリヤびとの逃げるのを見て、彼らもまたヨアブの兄弟アビシャイの前から逃げて町にはいった。そこでヨアブはエルサレムに帰った。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "しかしスリヤびとは自分たちがイスラエルの前に打ち敗られたのを見て、使者をつかわし、ハダデゼルの軍の長ショパクの率いるユフラテ川の向こう側にいるスリヤびとを引き出した。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "この事がダビデに聞えたので、彼はイスラエルをことごとく集め、ヨルダンを渡り、彼らの所に来て、これに向かって戦いの備えをした。ダビデがこのようにスリヤびとに対して戦いの備えをしたとき、彼はダビデと戦った。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "しかしスリヤびとがイスラエルの前から逃げたので、ダビデはスリヤびとの戦車の兵七千、歩兵四万を殺し、また軍の長ショパクをも殺した。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ハダデゼルのしもべたちは味方の者がイスラエルに打ち敗られたのを見て、ダビデと和を講じ、彼に仕えた。スリヤびとは再びアンモンびとを助けることをしなかった。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "春になって、王たちが戦いに出るに及んで、ヨアブは軍勢を率いてアンモンびとの地を荒し、行ってラバを包囲した。しかしダビデはエルサレムにとどまった。ヨアブはラバを撃って、これを滅ぼした。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "そしてダビデは彼らの王の冠をその頭から取りはなした。その金の重さを量ってみると一タラント、またその中に宝石があった。これをダビデの頭に置いた。ダビデはまたその町のぶんどり物を非常に多く持ち出した。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "また彼はそのうちの民を引き出して、これをのこぎりと、鉄のつるはしと、おのを使う仕事につかせた。ダビデはアンモンびとのすべての町々にこのように行った。そしてダビデと民とは皆エルサレムに帰った。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "この後ゲゼルでペリシテびとと戦いが起った。その時ホシャびとシベカイが巨人の子孫のひとりシパイを殺した。かれらはついに征服された。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "ここにまたペリシテびとと戦いがあったが、ヤイルの子エルハナンはガテびとゴリアテの兄弟ラミを殺した。そのやりの柄は機の巻棒のようであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "またガテに戦いがあったが、そこにひとりの背の高い人がいた。その手の指と足の指は六本ずつで、合わせて二十四本あった。彼もまた巨人から生れた者であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "彼はイスラエルをののしったので、ダビデの兄弟シメアの子ヨナタンがこれを殺した。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "これらはガテで巨人から生れた者であったが、ダビデの手とその家来たちの手に倒れた。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "時にサタンが起ってイスラエルに敵し、ダビデを動かしてイスラエルを数えさせようとした。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ダビデはヨアブと軍の将校たちに言った、「あなたがたは行って、ベエルシバからダンまでのイスラエルを数え、その数を調べてわたしに知らせなさい」。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ヨアブは言った、「それがどのくらいあっても、どうか主がその民を百倍に増されるように。しかし王わが主よ、彼らは皆あなたのしもべではありませんか。どうしてわが主はこの事を求められるのですか。どうしてイスラエルに罪を得させられるのですか」。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "しかし王の言葉がヨアブに勝ったので、ヨアブは出て行って、イスラエルをあまねく行き巡り、エルサレムに帰って来た。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "そしてヨアブは民の総数をダビデに告げた。すなわちイスラエルにはつるぎを抜く者が百十万人、ユダにはつるぎを抜く者が四十七万人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "しかしヨアブは王の命令を快しとしなかったので、レビとベニヤミンとはその中に数えなかった。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "この事が神の目に悪かったので、神はイスラエルを撃たれた。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "そこでダビデは神に言った、「わたしはこの事を行って大いに罪を犯しました。しかし今どうか、しもべの罪を除いてください。わたしは非常に愚かなことをいたしました」。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "主はダビデの先見者ガデに告げて言われた、",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "「行ってダビデに言いなさい、『主はこう仰せられる、わたしは三つの事を示す。あなたはその一つを選びなさい。わたしはそれをあなたに行おう』と」。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ガデはダビデのもとに来て言った、「主はこう仰せられます、『あなたは選びなさい。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "すなわち三年のききんか、あるいは三月の間、あなたのあだの前に敗れて、敵のつるぎに追いつかれるか、あるいは三日の間、主のつるぎすなわち疫病がこの国にあって、主の使がイスラエルの全領域にわたって滅ぼすことをするか』。いま、わたしがどういう答をわたしをつかわしたものになすべきか決めなさい」。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ダビデはガデに言った、「わたしは非常に悩んでいるが、主のあわれみは大きいゆえ、わたしを主の手に陥らせてください。しかしわたしを人の手に陥らせないでください」。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "そこで主はイスラエルに疫病を下されたので、イスラエルびとのうち七万人が倒れた。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "神はまたみ使をエルサレムにつかわして、これを滅ぼそうとされたが、み使がまさに滅ぼそうとしたとき、主は見られて、この災を悔い、その滅ぼすみ使に言われた、「もうじゅうぶんだ。今あなたの手をとどめよ」。そのとき主の使はエブスびとオルナンの打ち場のかたわらに立っていた。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ダビデが目をあげて見ると、主の使が地と天の間に立って、手に抜いたつるぎをもち、エルサレムの上にさし伸べていたので、ダビデと長老たちは荒布を着て、ひれ伏した。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "そしてダビデは神に言った、「民を数えよと命じたのはわたしではありませんか。罪を犯し、悪い事をしたのはわたしです。しかしこれらの羊は何をしましたか。わが神、主よ、どうぞあなたの手をわたしと、わたしの父の家にむけてください。しかし災をあなたの民に下さないでください」。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "時に主の使はガデに命じ、ダビデが上って行って、エブスびとオルナンの打ち場で主のために一つの祭壇を築くように告げさせた。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "そこでダビデはガデが主の名をもって告げた言葉に従って上って行った。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "そのときオルナンは麦を打っていたが、ふりかえってみ使を見たので、ともにいた彼の四人の子は身をかくした。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ダビデがオルナンに近づくと、オルナンは目を上げてダビデを見、打ち場から出て来て地にひれ伏してダビデを拝した。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "ダビデはオルナンに言った、「この打ち場の所をわたしに与えなさい。わたしは災が民に下るのをとどめるため、そこに主のために一つの祭壇を築きます。あなたは、そのじゅうぶんな価をとってこれをわたしに与えなさい」。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "オルナンはダビデに言った、「どうぞこれをお取りなさい。そして王わが主の良しと見られるところを行いなさい。わたしは牛を燔祭のために、打穀機をたきぎのために、麦を素祭のためにささげます。わたしは皆これをささげます」。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ダビデ王はオルナンに言った、「いいえ、わたしはじゅうぶんな代価を払ってこれを買います。わたしは主のためにあなたのものを取ることをしません。また、費えなしに燔祭をささげることをいたしません」。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "それでダビデはその所のために金六百シケルをはかって、オルナンに払った。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "こうしてダビデは主のために、その所に一つの祭壇を築き、燔祭と酬恩祭をささげて、主を呼んだ。主は燔祭の祭壇の上に天から火を下して答えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "また主がみ使に命じられたので、彼はつるぎをさやにおさめた。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "その時ダビデは主がエブスびとオルナンの打ち場で自分に答えられたのを見たので、その所で犠牲をささげた。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "モーセが荒野で造った主の幕屋と燔祭の祭壇とは、その時ギベオンの高き所にあったからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "しかしダビデはその前へ行って神に求めることができなかった。彼が主の使のつるぎを恐れたからである。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "それでダビデは言った、「主なる神の家はこれである、イスラエルのための燔祭の祭壇はこれである」と。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ダビデは命じてイスラエルの地にいる他国人を集めさせ、また神の家を建てるのに用いる石を切るために石工を定めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ダビデはまた門のとびらのくぎ、およびかすがいに用いる鉄をおびただしく備えた。また青銅を量ることもできないほどおびただしく備えた。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "また香柏を数えきれぬほど備えた。これはシドンびととツロの人々がおびただしく香柏をダビデの所に持って来たからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "ダビデは言った、「わが子ソロモンは若く、かつ経験がない。また主のために建てる家はきわめて壮大で、万国に名を得、栄えを得るものでなければならない。それゆえ、わたしはその準備をしておこう」と。こうしてダビデは死ぬ前に多くの物資を準備した。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "そして彼はその子ソロモンを召して、イスラエルの神、主のために家を建てることを命じた。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "すなわちダビデはソロモンに言った、「わが子よ、わたしはわが神、主の名のために家を建てようと志していた。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ところが主の言葉がわたしに臨んで言われた、『おまえは多くの血を流し、大いなる戦争をした。おまえはわたしの前で多くの血を地に流したから、わが名のために家を建ててはならない。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "見よ、男の子がおまえに生れる。彼は平和の人である。わたしは彼に平安を与えて、周囲のもろもろの敵に煩わされないようにしよう。彼の名はソロモンと呼ばれ、彼の世にわたしはイスラエルに平安と静穏とを与える。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "彼はわが名のために家を建てるであろう。彼はわが子となり、わたしは彼の父となる。わたしは彼の王位をながくイスラエルの上に堅くするであろう』。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "それでわが子よ、どうか主があなたと共にいまし、あなたを栄えさせて、主があなたについて言われたように、あなたの神、主の家を建てさせてくださるように。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "ただ、どうか主があなたに分別と知恵を賜い、あなたをイスラエルの上に立たせられるとき、あなたの神、主の律法を、あなたに守らせてくださるように。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "あなたがもし、主がイスラエルについてモーセに命じられた定めとおきてとを慎んで守るならば、あなたは栄えるであろう。心を強くし、勇め。恐れてはならない、おののいてはならない。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "見よ、わたしは苦難のうちにあって主の家のために金十万タラント、銀百万タラントを備え、また青銅と鉄を量ることもできないほどおびただしく備えた。また材木と石をも備えた。あなたはまたこれに加えなければならない。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "あなたにはまた多数の職人、すなわち石や木を切り刻む者、工作に巧みな各種の者がある。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "金、銀、青銅、鉄もおびただしくある。たって行いなさい。どうか主があなたと共におられるように」。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "ダビデはまたイスラエルのすべてのつかさたちにその子ソロモンを助けるように命じて言った、",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "「あなたがたの神、主はあなたがたとともにおられるではないか。四方に泰平を賜わったではないか。主はこの地の民をわたしの手にわたされたので、この地は主の前とその民の前に服している。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "それであなたがたは心をつくし、精神をつくしてあなたがたの神、主を求めなさい。たって主なる神の聖所を建て、主の名のために建てるその家に、主の契約の箱と神の聖なるもろもろの器を携え入れなさい」。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ダビデは老い、その日が満ちたので、その子ソロモンをイスラエルの王とした。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ダビデはイスラエルのすべてのつかさおよび祭司とレビびとを集めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "レビびとの三十歳以上のものを数えると、その男の数が三万八千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ダビデは言った、「そのうち二万四千人は主の家の仕事をつかさどり、六千人はつかさびと、およびさばきびととなり、",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "四千人は門を守る者となり、また四千人はさんびのためにわたしの造った楽器で主をたたえよ」。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "そしてダビデは彼らをレビの子らにしたがってゲルション、コハテ、メラリの組に分けた。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ゲルションの子らはラダンとシメイ。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ラダンの子らは、かしらのエヒエルとゼタムとヨエルの三人。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "シメイの子らはシロミテ、ハジエル、ハランの三人。これらはラダンの氏族の長であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "シメイの子らはヤハテ、ジナ、エウシ、ベリアの四人。皆シメイの子で、",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "ヤハテはかしら、ジザはその次、エウシとベリアは子が多くなかったので、ともに数えられて一つの氏族となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "コハテの子らはアムラム、イヅハル、ヘブロン、ウジエルの四人。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "アムラムの子らはアロンとモーセである。アロンはその子らとともに、ながくいと聖なるものを聖別するために分かたれて、主の前に香をたき、主に仕え、常に主の名をもって祝福することをなした。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "神の人モーセの子らはレビの部族のうちに数えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "モーセの子らはゲルションとエリエゼル。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ゲルションの子らは、かしらはシブエル。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "エリエゼルの子らは、かしらはレハビヤ。エリエゼルにはこのほかに子がなかった。しかしレハビヤの子らは非常に多かった。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "イヅハルの子らは、かしらはシロミテ。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ヘブロンの子らは長子はエリヤ、次はアマリヤ、第三はヤハジエル、第四はエカメアム。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ウジエルの子らは、かしらはミカ、次はイシアである。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "メラリの子らはマヘリとムシ。マヘリの子らはエレアザルとキシ。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "エレアザルは男の子がなくて死に、ただ娘たちだけであったが、キシの子であるその身内の男たちが彼女たちをめとった。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "ムシの子らはマヘリ、エデル、エレモテの三人である。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "これらはその氏族によるレビの子孫であって、その人数が数えられ、その名がしるされて、主の家の務をなした二十歳以上の者で、氏族の長であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "ダビデは言った、「イスラエルの神、主はその民に平安を与え、ながくエルサレムに住まわれる。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "レビびとは重ねて幕屋およびその勤めの器物をかつぐことはない。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "――ダビデの最後の言葉によって、レビびとは二十歳以上の者が数えられた――",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "彼らの務はアロンの子孫を助けて主の家の働きをし、庭とへやの仕事およびすべての聖なるものを清めること、そのほか、すべて神の家の働きをすることである。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "また供えのパン、素祭の麦粉、種入れぬ菓子、焼いた供え物、油をまぜた供え物をつかさどり、またすべて分量および大きさを量ることをつかさどり、",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "また朝ごとに立って主に感謝し、さんびし、夕にもまたそのようにし、",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "また安息日と新月と祭日に、主にもろもろの燔祭をささげるときは、絶えず主の前にその命じられた数にしたがってささげなければならない。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "このようにして彼らは会見の幕屋と聖所の務を守り、主の家の働きのためにその兄弟であるアロンの子らに仕えなければならない」。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "アロンの子孫の組は次のとおりである。すなわちアロンの子らはナダブ、アビウ、エレアザル、イタマル。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ナダブとアビウはその父に先だって死に、子がなかったので、エレアザルとイタマルが祭司となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ダビデはエレアザルの子孫ザドクとイタマルの子孫アヒメレクの助けによって彼らを分けて、それぞれの勤めにつけた。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "エレアザルの子孫のうちにはイタマルの子孫のうちよりも長たる人々が多かった。それでエレアザルの子孫で氏族の長である十六人と、イタマルの子孫で氏族の長である者八人にこれを分けた。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "このように彼らは皆ひとしく、くじによって分けられた。聖所のつかさ、および神のつかさは、ともにエレアザルの子孫とイタマルの子孫から出たからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "レビびとネタネルの子である書記シマヤは、王とつかさたちと祭司ザドクとアビヤタルの子アヒメレクと祭司およびレビびとの氏族の長たちの前で、これを書きしるした。すなわちエレアザルのために氏族一つを取れば、イタマルのためにも一つを取った。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "第一のくじはヨアリブに当り、第二はエダヤに当り、",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "第三はハリムに、第四はセオリムに、",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "第五はマルキヤに、第六はミヤミンに、",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "第七はハッコヅに、第八はアビヤに、",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "第九はエシュアに、第十はシカニヤに、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "第十一はエリアシブに、第十二はヤキムに、",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "第十三はホッパに、第十四はエシバブに、",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "第十五はビルガに、第十六はインメルに、",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "第十七はヘジルに、第十八はハピセツに、",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "第十九はペタヒヤに、第二十はエゼキエルに、",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "第二十一はヤキンに、第二十二はガムルに、",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "第二十三はデラヤに、第二十四はマアジヤに当った。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "これは、彼らの先祖アロンによって設けられた定めにしたがい、主の家にはいって務をなす順序であって、イスラエルの神、主の彼に命じられたとおりである。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "このほかのレビの子孫は次のとおりである。すなわちアムラムの子らのうちではシュバエル。シュバエルの子らのうちではエデヤ。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "レハビヤについては、レハビヤの子らのうちでは長子イシア。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "イヅハリびとのうちではシロミテ。シロミテの子らのうちではヤハテ。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "ヘブロンの子らは長子はエリヤ、次はアマリヤ、第三はヤハジエル、第四はエカメアム。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ウジエルの子らのうちではミカ。ミカの子らのうちではシャミル。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "ミカの兄弟はイシア。イシアの子らのうちではゼカリヤ。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "メラリの子らはマヘリとムシ。ヤジアの子らはベノ。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "メラリの子孫のヤジアから出た者はベノ、ショハム、ザックル、イブリ。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "マヘリからエレアザルが出た。彼には子がなかった。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "キシについては、キシの子はエラメル。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "ムシの子らはマヘリ、エデル、エリモテ。これらはレビびとの子孫で、その氏族によっていった者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "これらの者もまた氏族の兄もその弟も同様に、ダビデ王と、ザドクと、アヒメレクと、祭司およびレビびとの氏族の長たちの前で、アロンの子孫であるその兄弟たちのようにくじを引いた。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ダビデと軍の長たちはまたアサフ、ヘマンおよびエドトンの子らを勤めのために分かち、琴と、立琴と、シンバルをもって預言する者にした。その勤めをなした人々の数は次のとおりである。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "アサフの子たちはザックル、ヨセフ、ネタニヤ、アサレラであって、アサフの指揮のもとに王の命によって預言した者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "エドトンについては、エドトンの子たちはゲダリヤ、ゼリ、エサヤ、ハシャビヤ、マッタテヤの六人で、琴をもって主に感謝し、かつほめたたえて預言したその父エドトンの指揮の下にあった。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "ヘマンについては、ヘマンの子たちはブッキヤ、マッタニヤ、ウジエル、シブエル、エレモテ、ハナニヤ、ハナニ、エリアタ、ギダルテ、ロマムテ・エゼル、ヨシベカシャ、マロテ、ホテル、マハジオテである。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "これらは皆、神がご自身の約束にしたがって高くされた王の先見者ヘマンの子たちであった。神はヘマンに男の子十四人、女の子三人を与えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "これらの者は皆その父の指揮の下にあって、主の宮で歌をうたい、シンバルと立琴と琴をもって神の宮の務をした。アサフ、エドトンおよびヘマンは王の命の下にあった。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "彼らおよび主に歌をうたうことのために訓練され、すべて熟練した兄弟たちの数は二百八十八人であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "彼らは小なる者も、大なる者も、教師も生徒も皆ひとしくその務のためにくじを引いた。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "第一のくじはアサフのためにヨセフに当り、第二はゲダリヤに当った。彼とその兄弟たちおよびその子たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "第三はザックルに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "第四はイヅリに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "第五はネタニヤに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "第六はブッキヤに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "第七はアサレラに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "第八はエサヤに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "第九はマッタニヤに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "第十はシメイに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "第十一はアザリエルに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "第十二はハシャビヤに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "第十三はシュバエルに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "第十四はマッタテヤに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "第十五はエレモテに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "第十六はハナニヤに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "第十七はヨシベカシャに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "第十八はハナニに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "第十九はマロテに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "第二十はエリアタに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "第二十一はホテルに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "第二十二はギダルテに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "第二十三はマハジオテに当った。その子たちおよびその兄弟たち、合わせて十二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "第二十四はロマムテ・エゼルに当った。その子たちおよびその兄弟たち、合わせて十二人であった。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "門を守る者の組は次のとおりである。すなわちコラびとのうちでは、アサフの子孫のうちのコレの子メシレミヤ。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "メシレミヤの子たちは、長子はゼカリヤ、次はエデアエル、第三はゼバデヤ、第四はヤテニエル、",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "第五はエラム、第六はヨハナン、第七はエリヨエナイである。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "オベデ・エドムの子たちは、長子はシマヤ、次はヨザバデ、第三はヨア、第四はサカル、第五はネタネル、",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "第六はアンミエル、第七はイッサカル、第八はピウレタイである。神が彼を祝福されたからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "彼の子シマヤにも数人の子が生れ、有能な人々であったので、その父の家を治める者となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "すなわちシマヤの子たちはオテニ、レパエル、オベデ、エルザバデで、エルザバデの兄弟エリウとセマキヤは力ある人々であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "これらは皆オベデ・エドムの子孫である。彼らはその子たちおよびその兄弟たちと共にその勤めに適した力ある人々で、合わせて六十二人、みなオベデ・エドムに属する者である。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "メシレミヤにも子たちと兄弟たち合わせて十八人あって、皆力ある人々であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "メラリの子孫ホサにも子たちがあった。そのかしらはシムリ、これは長子ではなかったが、父はこれをかしらにしたのであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "次はヒルキヤ、第三はテバリヤ、第四はゼカリヤである。ホサの子たちと兄弟たちは合わせて十三人である。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "これらは門を守る者の組の長たる人々であって、その兄弟たちと同様に務をなして、主の宮に仕えた。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "彼らはそれぞれ門のために小なる者も、大なる者も等しく、その氏族にしたがってくじを引いた。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "東の門のくじはシレミヤに当った。また彼の子で思慮深い議士ゼカリヤのためにくじを引いたが、北の門のくじがこれに当った。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "オベデ・エドムには南の門のくじ、その子たちには倉のくじ、",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "シュパムとホサには西の門のくじが当った。これは坂の大路にあるシャレケテの門のかたわらにあった。守る者と守る者とが相対していた。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "東の方には毎日六人、北の方には毎日四人、南の方には毎日四人、倉には二人と二人、",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "西の方パルバルには大路に四人、パルバルに二人。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "門を守る者の組は以上のとおりで、コラの子孫とメラリの子孫であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "レビびとのうちアヒヤは神の宮の倉および聖なる物の倉をつかさどった。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ラダンの子孫すなわちラダンから出たゲルションびとの子孫で、ゲルションびとの氏族の長はエヒエリである。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "エヒエリ、ゼタムおよびその兄弟ヨエルの子たちは主の宮の倉をつかさどった。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "アムラムびと、イヅハルびと、ヘブロンびと、ウジエルびとのうちでは次のとおりであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "すなわちモーセの子ゲルショムの子シブエルは倉のつかさであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "その兄弟でエリエゼルから出た者は、その子はレハビヤ、その子はエサヤ、その子はヨラム、その子はジクリ、その子はシロミテである。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "このシロミテとその兄弟たちはすべての聖なる物の倉をつかさどった。これはダビデ王と、氏族の長と、千人の長と、百人の長と、軍の長たちのささげたものである。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "すなわち彼らが戦いで獲たぶんどり物のうちから主の宮の修繕のためにささげたものである。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "またすべて先見者サムエル、キシの子サウル、ネルの子アブネル、ゼルヤの子ヨアブなどがささげた物。すべてこれらのささげ物はシロミテとその兄弟たちが管理した。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "イヅハルびとのうちでは、ケナニヤとその子たちが、つかさおよびさばきびととしてイスラエルの外事のために選ばれた。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "ヘブロンびとのうちでは、ハシャビヤおよびその兄弟など勇士千七百人があって、ヨルダンのこなた、すなわち西の方でイスラエルの監督となり、主のすべての事を行い、王に奉仕した。",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ヘブロンびとのうちでは、系図と氏族によってエリヤがヘブロンびとの長であったが、ダビデの治世の第四十年に彼らを尋ね求め、ギレアデのヤゼルで彼らのうちから大勇士を得た。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "ダビデ王は彼とその兄弟など氏族の長たち二千七百人の勇士をルベンびと、ガドびと、マナセびとの半部族の監督となし、すべて神につける事と王の事とをつかさどらせた。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "イスラエルの子孫のうちで氏族の長、千人の長、百人の長、およびつかさたちは年のすべての月の間、月ごとに交替して組のすべての事をなして王に仕えたが、その数にしたがえば各組二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "まず第一の組すなわち正月の分はザブデエルの子ヤショベアムがこれを率いた。その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "彼はペレヅの子孫で、正月の軍団のすべての将たちのかしらであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "二月の組はアホアびとドダイがこれを率いた。その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "三月の第三の将は祭司エホヤダの子ベナヤが長であって、その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "このベナヤはかの三十人のうちの勇士であって三十人を率い、その子アミザバデがその組にあった。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "四月の第四の将はヨアブの兄弟アサヘルであって、その子ゼバデヤがこれに次いだ。その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "五月の第五の将はイズラヒびとシャンモテであって、その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "六月の第六の将はテコアびとイッケシの子イラであって、その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "七月の第七の将はエフライムの子孫であるペロンびとヘレヅであって、その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "八月の第八の将はゼラびとの子孫であるホシャびとシベカイであって、その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "九月の第九の将はベニヤミンの子孫であるアナトテびとアビエゼルであって、その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "十月の第十の将はゼラびとの子孫であるネトパびとマハライであって、その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "十一月の第十一の将はエフライムの子孫であるピラトンびとベナヤであって、その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "十二月の第十二の将はオテニエルの子孫であるネトパびとヘルダイであって、その組には二万四千人あった。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "なおイスラエルの部族を治める者たちは次のとおりである。ルベンびとのつかさはヂクリの子エリエゼル。シメオンびとのつかさはマアカの子シパテヤ。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "レビびとのつかさはケムエルの子ハシャビヤ。アロンびとのつかさはザドク。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ユダのつかさはダビデの兄弟のひとりエリウ。イッサカルのつかさはミカエルの子オムリ。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ゼブルンのつかさはオバデヤの子イシマヤ。ナフタリのつかさはアズリエルの子エレモテ。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "エフライムの子孫のつかさはアザジヤの子ホセア。マナセの半部族のつかさはペダヤの子ヨエル。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ギレアデにあるマナセの半部族のつかさはゼカリヤの子イド。ベニヤミンのつかさはアブネルの子ヤシエル。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "ダンのつかさはエロハムの子アザリエル。これらはイスラエルの部族のつかさたちであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "しかしダビデは二十歳以下の者は数えなかった。主がかつてイスラエルを天の星のように多くすると言われたからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "ゼルヤの子ヨアブは数え始めたが、これをなし終えなかった。その数えることによって怒りがイスラエルの上に臨んだ。またその数はダビデ王の歴代志に載せなかった。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "アデエルの子アズマウテは王の倉をつかさどり、ウジヤの子ヨナタンは田野、町々、村々、もろもろの塔にある倉をつかさどり、",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "ケルブの子エズリは地を耕す農夫をつかさどり、",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "ラマテびとシメイはぶどう畑をつかさどり、シプミびとザブデはぶどう畑から取ったぶどう酒の倉をつかさどり、",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "ゲデルびとバアル・ハナンは平野のオリブの木といちじく桑の木をつかさどり、ヨアシは油の倉をつかさどり、",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "シャロンびとシテライはシャロンで飼う牛の群れをつかさどり、アデライの子シャパテはもろもろの谷におる牛の群れをつかさどり、",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "イシマエルびとオビルはらくだをつかさどり、メロノテびとエデヤはろばをつかさどり、",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "ハガルびとヤジズは羊の群れをつかさどった。彼らは皆ダビデ王の財産のつかさであった。",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "またダビデのおじヨナタンは議官で、知恵ある人であり、学者であった。また彼とハクモニの子エヒエルは王の子たちの補佐であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "アヒトペルは王の議官。アルキびとホシャイは王の友であった。",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "アヒトペルに次ぐ者はベナヤの子エホヤダおよびアビヤタル。王の軍の長はヨアブであった。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ダビデはイスラエルのすべての長官、すなわち部族の長、王に仕えた組の長、千人の長、百人の長、王とその子たちのすべての財産および家畜のつかさ、宦官、有力者、勇士などをことごとくエルサレムに召し集めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "そしてダビデ王はその足で立ち上がって言った、「わが兄弟たち、わが民よ、わたしに聞きなさい。わたしは主の契約の箱のため、われわれの神の足台のために安住の家を建てようとの志をもち、すでにこれを建てる準備をした。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "しかし神はわたしに言われた、『おまえはわが名のために家を建ててはならない。おまえは軍人であって、多くの血を流したからである』と。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "それにもかかわらず、イスラエルの神、主はわたしの父の全家のうちからわたしを選んで長くイスラエルの王とせられた。すなわちユダを選んでかしらとし、ユダの家のうちで、わたしの父の家を選び、わたしの父の子らのうちで、わたしを喜び、全イスラエルの王とせられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "そして主はわたしに多くの子を賜わり、そのすべての子らのうちからわが子ソロモンを選び、これを主の国の位にすわらせて、イスラエルを治めさせようとせられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "主はまたわたしに言われた、『おまえの子ソロモンがわが家およびわが庭を造るであろう。わたしは彼を選んでわが子となしたからである。わたしは彼の父となる。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "彼がもし今日のように、わが戒めとわがおきてを固く守って行うならば、わたしはその国をいつまでも堅くするであろう』と。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "それゆえいま、主の会衆なる全イスラエルの目の前およびわれわれの神の聞かれる所であなたがたに勧める。あなたがたはその神、主のすべての戒めを守り、これを求めなさい。そうすればあなたがたはこの良き地を所有し、これをあなたがたの後の子孫に長く嗣業として伝えることができる。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "わが子ソロモンよ、あなたの父の神を知り、全き心をもって喜び勇んで彼に仕えなさい。主はすべての心を探り、すべての思いを悟られるからである。あなたがもし彼を求めるならば会うことができる。しかしあなたがもしかれを捨てるならば彼は長くあなたを捨てられるであろう。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "それであなたは慎みなさい。主はあなたを選んで聖所とすべき家を建てさせようとされるのだから心を強くしてこれを行いなさい」。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "こうしてダビデは神殿の廊およびその家、その倉、その上の室、その内の室、贖罪所の室などの計画をその子ソロモンに授け、",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "またその心にあったすべてのもの、すなわち主の宮の庭、周囲のすべての室、神の家の倉、ささげ物の倉などの計画を授け、",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "また祭司およびレビびとの組と、主の宮のもろもろの務の仕事と、主の宮のもろもろの勤めの器物について授け、",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "またもろもろの勤めに用いるすべての金の器を造る金の目方、およびもろもろの勤めに用いる銀の器の目方を定めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "すなわち金の燭台と、そのともしび皿の目方、おのおのの燭台と、そのともしび皿の金の目方を定め、また銀の燭台についてもおのおのの燭台の用法にしたがって燭台と、そのともしび皿の銀の目方を定めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "また供えのパンの机については、そのおのおのの机のために金の目方を定め、また銀の机のためにも銀を定め、",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "また肉さし、鉢、かめに用いる純金の目方を定め、金の大杯についてもおのおのの目方を定め、銀の大杯についてもおのおのの目方を定め、",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "また香の祭壇のために精金の目方を定め、また翼を伸べて主の契約の箱をおおっているケルビムの金の車のひな型の金を定めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "ダビデはすべての工作が計画にしたがってなされるため、これについて主の手によって書かれたものにより、これをことごとく明らかにした。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ダビデはその子ソロモンに言った、「あなたは心を強くし、勇んでこれを行いなさい。恐れてはならない。おののいてはならない。主なる神、わたしの神があなたとともにおられるからである。主はあなたを離れず、あなたを捨てず、ついに主の宮の務のすべての工事をなし終えさせられるでしょう。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "見よ、神の宮のすべての務のためには祭司とレビびとの組がある。またもろもろの勤めのためにすべての仕事を喜んでする巧みな者が皆あなたと共にある。またつかさたちおよびすべての民もあなたの命じるところをことごとく行うでしょう」。",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "ダビデ王はまた全会衆に言った、「わが子ソロモンは神がただひとりを選ばれた者であるが、まだ若くて経験がなく、この事業は大きい。この宮は人のためではなく、主なる神のためだからである。",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "そこでわたしは力をつくして神の宮のために備えた。すなわち金の物を造るために金、銀の物のために銀、青銅の物のために青銅、鉄の物のために鉄、木の物のために木を備えた。その他縞めのう、はめ石、アンチモニイ、色のついた石、さまざまの宝石、大理石などおびただしい。",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "なおわたしはわが神の宮に熱心なるがゆえに、聖なる家のために備えたすべての物に加えて、わたしの持っている金銀の財宝をわが神の宮にささげる。",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "すなわちオフルの金三千タラント、精銀七千タラントをそのもろもろの建物の壁をおおうためにささげる。",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "金は金の物のために、銀は銀の物のために、すべて工人によって造られるもののために用いる。だれかきょう、主にその身をささげる者のように喜んでささげ物をするだろうか」。",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "そこで氏族の長たち、イスラエルの部族のつかさたち、千人の長、百人の長および王の工事をつかさどる者たちは喜んでささげ物をした。",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "こうして彼らは神の宮の務のために金五千タラント一万ダリク、銀一万タラント、青銅一万八千タラント、鉄十万タラントをささげた。",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "宝石を持っている者はそれをゲルションびとエヒエルの手によって神の宮の倉に納めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "彼らがこのように真心からみずから進んで主にささげたので、民はそのみずから進んでささげたのを喜んだ。ダビデ王もまた大いに喜んだ。",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "そこでダビデは全会衆の前で主をほめたたえた。ダビデは言った、「われわれの先祖イスラエルの神、主よ、あなたはとこしえにほむべきかたです。",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "主よ、大いなることと、力と、栄光と、勝利と、威光とはあなたのものです。天にあるもの、地にあるものも皆あなたのものです。主よ、国もまたあなたのものです。あなたは万有のかしらとして、あがめられます。",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "富と誉とはあなたから出ます。あなたは万有をつかさどられます。あなたの手には勢いと力があります。あなたの手はすべてのものを大いならしめ、強くされます。",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "われわれの神よ、われわれは、いま、あなたに感謝し、あなたの光栄ある名をたたえます。",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "しかしわれわれがこのように喜んでささげることができても、わたしは何者でしょう。わたしの民は何でしょう。すべての物はあなたから出ます。われわれはあなたから受けて、あなたにささげたのです。",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "われわれはあなたの前ではすべての先祖たちのように、旅びとです、寄留者です。われわれの世にある日は影のようで、長くとどまることはできません。",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "われわれの神、主よ、あなたの聖なる名のために、あなたに家を建てようとしてわれわれが備えたこの多くの物は皆あなたの手から出たもの、また皆あなたのものです。",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "わが神よ、あなたは心をためし、また正直を喜ばれることを、わたしは知っています。わたしは正しい心で、このすべての物を喜んでささげました。今わたしはまた、ここにおるあなたの民が喜んで、みずから進んであなたにささげ物をするのを見ました。",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "われわれの先祖アブラハム、イサク、イスラエルの神、主よ、あなたの民の心にこの意志と精神とをいつまでも保たせ、その心をあなたに向けさせてください。",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "またわが子ソロモンに心をつくしてあなたの命令と、あなたのあかしと、あなたのさだめとを守らせて、これをことごとく行わせ、わたしが備えをした宮を建てさせてください」。",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "そしてダビデが全会衆にむかって、「あなたがたの神、主をほめたたえよ」と言ったので、全会衆は先祖たちの神、主をほめたたえ、伏して主を拝し、王に敬礼した。",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "そしてその翌日彼らは全イスラエルのために主に犠牲をささげた。すなわち燔祭として雄牛一千、雄羊一千、小羊一千をその灌祭と共に主にささげ、おびただしい犠牲をささげた。",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "そしてその日、彼らは大いなる喜びをもって主の前に食い飲みした。彼らはさらに改めてダビデの子ソロモンを王となし、これに油を注いで主の君となし、またザドクを祭司とした。",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "こうしてソロモンはその父ダビデに代り、王として主の位に座した。彼は栄え、イスラエルは皆彼に従った。",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "またすべてのつかさたち、勇士たち、およびダビデ王の王子たちも皆ソロモン王に忠誠を誓った。",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "主は全イスラエルの目の前でソロモンを非常に大いならしめ、彼より前のイスラエルのどの王も得たことのない王威を彼に与えられた。",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "このようにエッサイの子ダビデは全イスラエルを治めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "彼がイスラエルを治めた期間は四十年であった。すなわちヘブロンで七年世を治め、エルサレムで三十三年世を治めた。",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "彼は高齢に達し、年も富も誉も満ち足りて死んだ。その子ソロモンが彼に代って王となった。",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "ダビデ王の始終の行為は、先見者サムエルの書、預言者ナタンの書および先見者ガドの書にしるされている。",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "そのうちには彼のすべての政と、その力および彼とイスラエルと他のすべての国々に臨んだ事どもをしるしている。",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
