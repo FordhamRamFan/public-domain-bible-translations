@@ -1,0 +1,395 @@
+{
+  "book": "2 Peter",
+  "abbreviation": "2Pet",
+  "number": 61,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Simon Peter, bondman and apostle of Jesus Christ, to them that have received like precious faith with us through [the] righteousness of our God and Saviour Jesus Christ:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Grace and peace be multiplied to you in [the] knowledge of God and of Jesus our Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "As his divine power has given to us all things which relate to life and godliness, through the knowledge of him that has called us by glory and virtue,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "through which he has given to us the greatest and precious promises, that through these ye may become partakers of [the] divine nature, having escaped the corruption that is in the world through lust.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "But for this very reason also, using therewith all diligence, in your faith have also virtue, in virtue knowledge,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "in knowledge temperance, in temperance endurance, in endurance godliness,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "in godliness brotherly love, in brotherly love love:",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "for these things existing and abounding in you make [you] to be neither idle nor unfruitful as regards the knowledge of our Lord Jesus Christ;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "for he with whom these things are not present is blind, short-sighted, and has forgotten the purging of his former sins.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wherefore the rather, brethren, use diligence to make your calling and election sure, for doing these things ye will never fall;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "for thus shall the entrance into the everlasting kingdom of our Lord and Saviour Jesus Christ be richly furnished unto you.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wherefore I will be careful to put you always in mind of these things, although knowing [them] and established in the present truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "But I account it right, as long as I am in this tabernacle, to stir you up by putting [you] in remembrance,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "knowing that the putting off of my tabernacle is speedily [to take place], as also our Lord Jesus Christ has manifested to me;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "but I will use diligence, that after my departure ye should have also, at any time, [in your power] to call to mind these things.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "For we have not made known to you the power and coming of our Lord Jesus Christ, following cleverly imagined fables, but having been eyewitnesses of *his* majesty.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "For he received from God [the] Father honour and glory, such a voice being uttered to him by the excellent glory: This is my beloved Son, in whom *I* have found my delight;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "and this voice *we* heard uttered from heaven, being with him on the holy mountain.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "And we have the prophetic word [made] surer, to which ye do well taking heed (as to a lamp shining in an obscure place) until [the] day dawn and [the] morning star arise in your hearts;",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "knowing this first, that [the scope of] no prophecy of scripture is had from its own particular interpretation,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "for prophecy was not ever uttered by [the] will of man, but holy men of God spake under the power of [the] Holy Spirit.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "But there were false prophets also among the people, as there shall be also among you false teachers, who shall bring in by the bye destructive heresies, and deny the master that bought them, bringing upon themselves swift destruction;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "and many shall follow their dissolute ways, through whom the way of the truth shall be blasphemed.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "And through covetousness, with well-turned words, will they make merchandise of you: for whom judgment of old is not idle, and their destruction slumbers not.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "For if God spared not [the] angels who had sinned, but having cast them down to the deepest pit of gloom has delivered them to chains of darkness [to be] kept for judgment;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "and spared not [the] old world, but preserved Noe, [the] eighth, a preacher of righteousness, having brought in [the] flood upon [the] world of [the] ungodly;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "and having reduced [the] cities of Sodom and Gomorrha to ashes, condemned [them] with an overthrow, setting [them as] an example to those that should [afterwards] live an ungodly life;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "and saved righteous Lot, distressed with the abandoned conversation of the godless,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "(for the righteous man through seeing and hearing, dwelling among them, tormented [his] righteous soul day after day with [their] lawless works,)",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "[the] Lord knows [how] to deliver the godly out of trial, and to keep [the] unjust to [the] day of judgment [to be] punished;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "and specially those who walk after the flesh in [the] lust of uncleanness, and despise lordship. Bold [are they], self-willed; they do not fear speaking injuriously of dignities:",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "when angels, who are greater in might and power, do not bring against them, before the Lord, an injurious charge.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "But these, as natural animals without reason, made to be caught and destroyed, speaking injuriously in things they are ignorant of, shall also perish in their own corruption,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "receiving [the] reward of unrighteousness; accounting ephemeral indulgence pleasure; spots and blemishes, rioting in their own deceits, feasting with you;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "having eyes full of adultery, and that cease not from sin, alluring unestablished souls; having a heart practised in covetousness, children of curse;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "having left [the] straight way they have gone astray, having followed in the path of Balaam [the son] of Bosor, who loved [the] reward of unrighteousness;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "but had reproof of his own wickedness [the] dumb ass speaking with man's voice forbad the folly of the prophet.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "These are springs without water, and mists driven by storm, to whom the gloom of darkness is reserved [for ever].",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "For [while] speaking great highflown words of vanity, they allure with [the] lusts of [the] flesh, by dissoluteness, those who have just fled those who walk in error,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "promising them liberty, while they themselves are slaves of corruption; for by whom a man is subdued, by him is he also brought into slavery.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "For if after having escaped the pollutions of the world through [the] knowledge of the Lord and Saviour Jesus Christ, again entangled, they are subdued by these, their last state is worse than the first.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "For it were better for them not to have known the way of righteousness, than having known [it] to turn back from the holy commandment delivered to them.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "But that [word] of the true proverb has happened to them: [The] dog [has] turned back to his own vomit; and, [The] washed sow to [her] rolling in mud.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "This, a second letter, beloved, I already write to you, in [both] which I stir up, in the way of putting you in remembrance, your pure mind,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "to be mindful of the words spoken before by the holy prophets, and of the commandment of the Lord and Saviour by your apostles;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "knowing this first, that there shall come at [the] close of the days mockers with mocking, walking according to their own lusts,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "and saying, Where is the promise of his coming? for from the time the fathers fell asleep all things remain thus from [the] beginning of [the] creation.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "For this is hidden from them through their own wilfulness, that heavens were of old, and an earth, having its subsistence out of water and in water, by the word of God,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "through which [waters] the then world, deluged with water, perished.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "But the present heavens and the earth by his word are laid up in store, kept for fire unto a day of judgment and destruction of ungodly men.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "But let not this one thing be hidden from you, beloved, that one day with [the] Lord [is] as a thousand years, and a thousand years as one day.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "[The] Lord does not delay his promise, as some account of delay, but is longsuffering towards you, not willing that any should perish, but that all should come to repentance.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "But the day of [the] Lord will come as a thief, in which the heavens will pass away with a rushing noise, and [the] elements, burning with heat, shall be dissolved, and [the] earth and the works in it shall be burnt up.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "All these things then being to be dissolved, what ought ye to be in holy conversation and godliness,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "waiting for and hastening the coming of the day of God, by reason of which [the] heavens, being on fire, shall be dissolved, and [the] elements, burning with heat, shall melt?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "But, according to his promise, we wait for new heavens and a new earth, wherein dwells righteousness.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Wherefore, beloved, as ye wait for these things, be diligent to be found of him in peace, without spot and blameless;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "and account the longsuffering of our Lord [to be] salvation; according as our beloved brother Paul also has written to you according to the wisdom given to him,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "as also in all [his] epistles, speaking in them of these things; among which some things are hard to be understood, which the untaught and ill-established wrest, as also the other scriptures, to their own destruction.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "*Ye* therefore, beloved, knowing [these] things before, take care lest, being led away along with the error of the wicked, ye should fall from your own stedfastness:",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "but grow in grace, and in [the] knowledge of our Lord and Saviour Jesus Christ. To him [be] glory both now and to [the] day of eternity. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

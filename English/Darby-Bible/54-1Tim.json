@@ -1,0 +1,728 @@
+{
+  "book": "1 Timothy",
+  "abbreviation": "1Tim",
+  "number": 54,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paul, apostle of Jesus Christ, according to [the] command of God our Saviour, and of Christ Jesus our hope,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "to Timotheus, [my] true child in faith: grace, mercy, peace, from God our Father and Christ Jesus our Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Even as I begged thee to remain in Ephesus, [when I was] going to Macedonia, that thou mightest enjoin some not to teach other doctrines,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "nor to turn their minds to fables and interminable genealogies, which bring questionings rather than [further] God's dispensation, which [is] in faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "But the end of what is enjoined is love out of a pure heart and a good conscience and unfeigned faith;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "which [things] some having missed, have turned aside to vain discourse,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "desiring to be law-teachers, not understanding either what they say or concerning what they [so] strenuously affirm.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Now we know that the law [is] good if any one uses it lawfully,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "knowing this, that law has not its application to a righteous person, but to [the] lawless and insubordinate, to [the] impious and sinful, to [the] unholy and profane, to smiters of fathers and smiters of mothers; to murderers,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "fornicators, sodomites, kidnappers, liars, perjurers; and if any other thing is opposed to sound teaching,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "according to the glad tidings of the glory of the blessed God, with which *I* have been entrusted.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "[And] I thank Christ Jesus our Lord, who has given me power, that he has counted me faithful, appointing to ministry him",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "who before was a blasphemer and persecutor, and an insolent overbearing [man]: but mercy was shewn me because I did it ignorantly, in unbelief.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "But the grace of our Lord surpassingly over-abounded with faith and love, which [is] in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Faithful [is] the word, and worthy of all acceptation, that Christ Jesus came into the world to save sinners, of whom *I* am [the] first.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "But for this reason mercy was shewn me, that in me, [the] first, Jesus Christ might display the whole long-suffering, for a delineation of those about to believe on him to life eternal.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Now to the King of the ages, [the] incorruptible, invisible, only God, honour and glory to the ages of ages. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "This charge, [my] child Timotheus, I commit to thee, according to the prophecies as to thee preceding, in order that thou mightest war by them the good warfare,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "maintaining faith and a good conscience; which [last] some, having put away, have made shipwreck as to faith;",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "of whom is Hymenaeus and Alexander, whom I have delivered to Satan, that they may be taught by discipline not to blaspheme.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "I exhort therefore, first of all, that supplications, prayers, intercessions, thanksgivings be made for all men;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "for kings and all that are in dignity, that we may lead a quiet and tranquil life in all piety and gravity;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "for this is good and acceptable before our Saviour God,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "who desires that all men should be saved and come to [the] knowledge of [the] truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "For God is one, and [the] mediator of God and men one, [the] man Christ Jesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "who gave himself a ransom for all, the testimony [to be rendered] in its own times;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "to which *I* have been appointed a herald and apostle, (I speak [the] truth, I do not lie,) a teacher of [the] nations in faith and truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "I will therefore that the men pray in every place, lifting up pious hands, without wrath or reasoning.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "In like manner also that the women in decent deportment and dress adorn themselves with modesty and discretion, not with plaited [hair] and gold, or pearls, or costly clothing,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "but, what becomes women making profession of the fear of God, by good works.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Let a woman learn in quietness in all subjection;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "but I do not suffer a woman to teach nor to exercise authority over man, but to be in quietness;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "for Adam was formed first, then Eve:",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "and Adam was not deceived; but the woman, having been deceived, was in transgression.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "But she shall be preserved in childbearing, if they continue in faith and love and holiness with discretion.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "The word [is] faithful: if any one aspires to exercise oversight, he desires a good work.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "The overseer then must be irreproachable, husband of one wife, sober, discreet, decorous, hospitable, apt to teach;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "not given to excesses from wine, not a striker, but mild, not addicted to contention, not fond of money,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "conducting his own house well, having [his] children in subjection with all gravity;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "(but if one does not know how to conduct his own house, how shall he take care of the assembly of God?)",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "not a novice, that he may not, being inflated, fall into [the] fault of the devil.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "But it is necessary that he should have also a good testimony from those without, that he may fall not into reproach and [the] snare of the devil.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ministers, in like manner, grave, not double-tongued, not given to much wine, not seeking gain by base means,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "holding the mystery of the faith in a pure conscience.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "And let these be first proved, then let them minister, being without charge [against them].",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "[The] women in like manner grave, not slanderers, sober, faithful in all things.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Let [the] ministers be husbands of one wife, conducting [their] children and their own houses well:",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "for those who shall have ministered well obtain for themselves a good degree, and much boldness in faith which [is] in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "These things I write to thee, hoping to come to thee more quickly;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "but if I delay, in order that thou mayest know how one ought to conduct oneself in God's house, which is [the] assembly of [the] living God, [the] pillar and base of the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "And confessedly the mystery of piety is great. God has been manifested in flesh, has been justified in [the] Spirit, has appeared to angels, has been preached among [the] nations, has been believed on in [the] world, has been received up in glory.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "But the Spirit speaks expressly, that in latter times some shall apostatise from the faith, giving their mind to deceiving spirits and teachings of demons",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "speaking lies in hypocrisy, cauterised as to their own conscience,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "forbidding to marry, [bidding] to abstain from meats, which God has created for receiving with thanksgiving for them who are faithful and know the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "For every creature of God [is] good, and nothing [is] to be rejected, being received with thanksgiving;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "for it is sanctified by God's word and freely addressing [him].",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Laying these things before the brethren, thou wilt be a good minister of Christ Jesus, nourished with the words of the faith and of the good teaching which thou hast fully followed up.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "But profane and old wives' fables avoid, but exercise thyself unto piety;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "for bodily exercise is profitable for a little, but piety is profitable for everything, having promise of life, of the present one, and of that to come.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "The word [is] faithful and worthy of all acceptation;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "for, for this we labour and suffer reproach, because we hope in a living God, who is preserver of all men, specially of those that believe.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Enjoin and teach these things.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Let no one despise thy youth, but be a model of the believers, in word, in conduct, in love, in faith, in purity.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Till I come, give thyself to reading, to exhortation, to teaching.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Be not negligent of the gift [that is] in thee, which has been given to thee through prophecy, with imposition of the hands of the elderhood.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Occupy thyself with these things; be wholly in them, that thy progress may be manifest to all.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Give heed to thyself and to the teaching; continue in them; for, doing this, thou shalt save both thyself and those that hear thee.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Rebuke not an elder sharply, but exhort [him] as a father, younger [men] as brethren,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "elder women as mothers, younger women as sisters, with all purity.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Honour widows who are really widows;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "but if any widow have children or descendants, let them learn first to be pious as regards their own house, and to render a return on their side to [their] parents; for this is acceptable in the sight of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Now she who [is] a widow indeed, and is left alone, has put [her] hope in God, and continues in supplications and prayers night and day.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "But she that lives in habits of self-indulgence is dead [while] living.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "And these things enjoin, that they may be irreproachable.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "But if any one does not provide for his own, and specially for those of [his] house, he has denied the faith, and is worse than the unbeliever.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Let a widow be put upon the list, being of not less than sixty years, [having been] wife of one man,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "borne witness to in good works, if she have brought up children, if she have exercised hospitality, if she have washed saints' feet, if she have imparted relief to the distressed, if she have diligently followed every good work.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "But younger widows decline; for when they grow wanton against Christ, they desire to marry,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "being guilty, because they have cast off their first faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "And, at the same time, they learn also [to be] idle, going about to people's houses; and not only idle, but also gossipers and meddlers, speaking things not becoming.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "I will therefore that the younger marry, bear children, rule the house, give no occasion to the adversary in respect of reproach.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "For already some have turned aside after Satan.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "If any believing man or woman have widows, let them impart relief to them, and let not the assembly be charged, that it may impart relief to those [that are] widows indeed.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Let the elders who take the lead [among the saints] well be esteemed worthy of double honour, specially those labouring in word and teaching;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "for the scripture says, Thou shalt not muzzle an ox that treadeth out corn, and, The workman [is] worthy of his hire.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Against an elder receive not an accusation unless where there are two or three witnesses.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Those that sin convict before all, that the rest also may have fear.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "I testify before God and Christ Jesus and the elect angels, that thou keep these things without prejudice, doing nothing by favour.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Lay hands quickly on no man, nor partake in others' sins. Keep thyself pure.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Drink no longer only water, but use a little wine on account of thy stomach and thy frequent illnesses.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Of some men the sins are manifest beforehand, going before to judgment, and some also they follow after.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "In like manner good works also are manifest beforehand, and those that are otherwise cannot be hid.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Let as many bondmen as are under yoke count their own masters worthy of all honour, that the name of God and the teaching be not blasphemed.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "And they that have believing masters, let them not despise [them] because they are brethren; but let them the rather serve them with subjection, because they are faithful and beloved, who profit by the good and ready service [rendered]. These things teach and exhort.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "If any one teach differently, and do not accede to sound words, those of our Lord Jesus Christ, and the teaching which [is] according to piety,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "he is puffed up, knowing nothing, but sick about questions and disputes of words, out of which arise envy, strife, injurious words, evil suspicions,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "constant quarrellings of men corrupted in mind and destitute of the truth, holding gain to be [the end of] piety.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "But piety with contentment *is* great gain.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "For we have brought nothing into the world: [it is] [manifest] that neither can we carry anything out.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "But having sustenance and covering, we will be content with these.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "But those who desire to be rich fall into temptation and a snare, and many unwise and hurtful lusts, which plunge men into destruction and ruin.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "For the love of money is [the] root of every evil; which some having aspired after, have wandered from the faith, and pierced themselves with many sorrows.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "But *thou*, O man of God, flee these things, and pursue righteousness, piety, faith, love, endurance, meekness of spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Strive earnestly [in] the good conflict of faith. Lay hold of eternal life, to which thou hast been called, and hast confessed the good confession before many witnesses.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "I enjoin thee before God who preserves all things in life, and Christ Jesus who witnessed before Pontius Pilate the good confession,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "that thou keep the commandment spotless, irreproachable, until the appearing of our Lord Jesus Christ;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "which in its own time the blessed and only Ruler shall shew, the King of those that reign, and Lord of those that exercise lordship;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "who only has immortality, dwelling in unapproachable light; whom no man has seen, nor is able to see; to whom [be] honour and eternal might. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Enjoin on those rich in the present age not to be high-minded, nor to trust on the uncertainty of riches; but in the God who affords us all things richly for [our] enjoyment;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "to do good, to be rich in good works, to be liberal in distributing, disposed to communicate [of their substance],",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "laying by for themselves a good foundation for the future, that they may lay hold of [what is] really life.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "O Timotheus, keep the entrusted deposit, avoiding profane, vain babblings, and oppositions of false-named knowledge,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "of which some having made profession, have missed the faith. Grace [be] with thee.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

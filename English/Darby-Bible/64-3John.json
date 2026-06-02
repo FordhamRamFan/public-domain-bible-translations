@@ -1,0 +1,99 @@
+{
+  "book": "3 John",
+  "abbreviation": "3John",
+  "number": 64,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "The elder to the beloved Gaius, whom I love in truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Beloved, I desire that in all things thou shouldest prosper and be in health, even as thy soul prospers.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "For I rejoiced exceedingly when [the] brethren came and bore testimony to thy [holding fast the] truth, even as *thou* walkest in truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "I have no greater joy than these things that I hear of my children walking in the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Beloved, thou doest faithfully [in] whatever thou mayest have wrought towards the brethren and that strangers,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "(who have witnessed of thy love before [the] assembly,) in setting forward whom on their journey worthily of God, thou wilt do well;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "for for the name have they gone forth, taking nothing of those of the nations.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "*We* therefore ought to receive such, that we may be fellow-workers with the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "I wrote something to the assembly; but Diotrephes, who loves to have the first place among them, receives us not.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "For this reason, if I come, I will bring to remembrance his works which he does, babbling against us with wicked words; and not content with these, neither does he himself receive the brethren; and those who would he prevents, and casts [them] out of the assembly.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Beloved, do not imitate what is evil, but what is good. He that does good is of God. He that does evil has not seen God.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Demetrius has witness borne to him by all, and by the truth itself; and *we* also bear witness, and thou knowest that our witness is true.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "I had many things to write to thee, but I will not with ink and pen write to thee;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "but I hope soon to see thee, and we will speak mouth to mouth. Peace [be] to thee. The friends greet thee. Greet the friends by name.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
