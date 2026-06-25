@@ -23,6 +23,7 @@ A collection of public domain Bible translations in a consistent, machine-readab
 | Japanese | Kougo-yaku | KJA | 1955 | Protestant (66 books) |
 | Korean | Korean Revised Version | KRV | 1961 | Protestant (66 books) |
 | Latin | Clementine Vulgate | VUL | 1592 | Catholic (73 books) |
+| Persian | Old Persian Translation | OPT | 1895 | Protestant (66 books) |
 | Portuguese | Almeida Bible | ALM | — | Protestant (66 books) |
 | Russian | Russian Synodal Bible | RSB | 1876 | Protestant (66 books) |
 | Spanish | Reina-Valera | RVR | 1909 | Protestant (66 books) |
