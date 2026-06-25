@@ -18,6 +18,8 @@ A collection of public domain Bible translations in a consistent, machine-readab
 | English | Young's Literal Translation | YLT | 1898 | Protestant (66 books) |
 | French | Louis Segond | LSG | 1910 | Protestant (66 books) |
 | German | Luther Bible | LUT | 1912 | Protestant (66 books) |
+| Greek | Robinson-Pierpont Greek New Testament | RP2018 | 2018 | NT only (27 books) |
+| Hebrew | Westminster Leningrad Codex | WLC | 1008 | Hebrew Bible (OT only, 39 books) |
 | Hindi | Hindi Holy Bible | HHB | — | Protestant (66 books) |
 | Italian | Diodati Bible | DIO | 1649 | Protestant (66 books) |
 | Italian | Riveduta Bible | RIV | 1927 | Protestant (66 books) |
@@ -40,6 +42,9 @@ A collection of public domain Bible translations in a consistent, machine-readab
     ...
     66-Rev.json
 ```
+
+OT-only translations (e.g. WLC, JPS) contain files `01-Gen.json` through `39-Mal.json`.
+NT-only translations (e.g. RP2018) contain files `40-Matt.json` through `66-Rev.json`.
 
 Catholic translations (DRC, VUL) include 7 additional deuterocanonical books numbered 67–73:
 
