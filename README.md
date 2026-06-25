@@ -7,6 +7,7 @@ A collection of public domain Bible translations in a consistent, machine-readab
 | Language | Translation | Abbreviation | Year | Canon |
 |---|---|---|---|---|
 | Arabic | Smith-Van-Dyck Bible | SVD | 1865 | Protestant (66 books) |
+| Bengali | Bengali Bible 1909 | BEN | 1909 | Protestant (64 of 66 books) |
 | Chinese | Chinese Union Version | CUV | 1919 | Protestant (66 books) |
 | English | American Standard Version | ASV | 1901 | Protestant (66 books) |
 | English | Darby Bible | DBY | 1890 | Protestant (66 books) |
