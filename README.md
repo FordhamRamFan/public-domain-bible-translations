@@ -31,6 +31,7 @@ A collection of Bible translations in a consistent, machine-readable JSON format
 | Russian | Russian Synodal Bible | RSB | 1876 | Protestant (66 books) | public domain |
 | Spanish | Reina-Valera | RVR | 1909 | Protestant (66 books) | public domain |
 | Swahili | Swahili Unlocked Literal Bible | SWHULB | 2019 | Protestant (66 books) | CC-BY-SA 4.0 |
+| Tamil | Tamil Unlocked Literal Bible | TamULB | 2019 | Protestant (66 books) | CC-BY-SA 4.0 |
 
 ## File Structure
 
