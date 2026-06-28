@@ -1,0 +1,311 @@
+{
+  "book": "Nahum",
+  "abbreviation": "Nah",
+  "number": 34,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Maono kuhusu Ninawi. Kitabu cha maono ya Nahumu, Mwelkoshi.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Yehova ni Mungu mwenye wivu na analipa kisasi; Yehova hulipa kisasi na amejaa ghadhabu; Yohova analipiza kisasi kwa adui zake, na huiendeleza hasira yake kwa adui zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Yehova ni mwenye nguvu nyingi na mpole wa hasira; hatakuwa na namna ya kuacha kuwahesabia hatia adui zake. Yehova hufanya njia yake kwenye upepo wa kisulisuli na dhoruba, na mawingu ni mavumbi ya miguu yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Huikemea bahari na kuifanya ikauke; hukausha mito yote. Bashani ni dhaifu, na Karmeli pia; maua ya Lebanoni ni dhaifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Milima hutetema kwenye uwepo wake, na vilima huyeyuka; dunia huanguka mbele zake, kabisa, dunia na watu wote wanaoishi ndani yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ni nani anaweza kusimama mbele ya ghadhabu yake? Nani anaweza kuzuia ukali wa hasira yake? Ghadhabu yake imemwagwa kama moto, na miamba ameibomoa mbalimbali.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Yehova ni mwema, boma katika siku ya taabu; na yeye ni mwaminifu kwa wale wanaomkimbilia.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Lakini atafanya mwisho wa adui zake kwa mafuriko ya kutisha; atawawinda kwenye giza.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Watu wanapanga nini dhidi ya Yehova? Yeye atakomesha; taabu haitainuka mara ya pili.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Maana watakuwa wamevurugika kama michongoma; wataloweshwa katika kinywaji chao mwenyewe; wataharibiwa kabisa kwa moto kama mashina ya mabua.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mtu mmoja aliinuka miongoni mwenu, Ninawi, aliyepanga ubaya dhidi ya Yehova, mtu ambaye aliimarisha uovu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hivi ndivyo anavyosema Yehova, “Hata kama wananguvu zao timilifu na idadi timilifu, hata hivyo watanyolewa, watu wao hawatakuwepo tena. Bali wewe, Yuda: Ingawa nimekutesa, sitakutesa tena.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Sasa nitaivunja ile nira ya watu kutoka kwako; nitaikata minyororo yako.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Yehova ametoa amri juu yako, Ninawi: “ Hakutakuwa na kizazi tena chenye kubeba jina lako. Nitazizuia sanamu zilizochongwa na kuziondoa sanamu za chuma kutoka kwenye nyumba za miungu yenu. Nitachimba makaburi yenu, kwa kudharauliwa kwenu.”",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Tazama, juu ya milima kuna miguu ya mtu aletaye habari njema, anayetangaza amani! Sherehekeeni sikukuu zenu, Yuda, na tunzeni nadhiri zenu, kwa maana mwovu hatawavamia tena; ameondolewa kabisa.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Yule ambaye atakuharibu vipande vipande anakuja dhidi yako. Linda kuta za mji, linda barabara, jitieni nguvu ninyi wenyewe, yakusanyeni majeshi yenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Maana Yehova anarejesha fahari ya Yakobo, kama fahari ya Israeli, ingawa wateka nyara waliwaharibu na kuharibu matawi ya zabibu zao.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ngao za mashujaa wake ni nyekundu, na watu hodari wamevaa nguo nyekundu; magari ya vita yameandaliwa yanang'ara kwenye vyuma vyake wakati wa mchana, na mikuki ya mivinje inarushwa hewani.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Magari ya vita yapo kasi kwenye mitaa; yanakimbia mbele na nyuma katika mitaa. Yapo kama kurunzi, na yanakimbia kama radi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Yule ambaye atakuvunja vipande vipande anawaita maafisa wake; wanajikwaa kila mmoja kwa mwingine katika kutembea kwao; wanaharakisha kuushambulia ukuta wa mji. Ngao kubwa imetayarishwa kujikinga na hawa washambuliaji.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Malango kwenye mito yamelazishwa kufunguka, na jumba la mfalme linaanguka kwenye uharibifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Husabu amevuliwa mavazi yake na amachukuliwa; watumishi wake wa kike wanaomboleza kama njiwa, wanavipiga vifua vyao.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ninawi ni kama bwawa la maji linalovuja, watu wake kwa pamoja wanakimbia kama maji yanayotiririka. Wengine wanasema, “ Simama, simama,” lakini hakuna anayegeuka nyuma.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Chukua nyara ya fedha, kuchua nyara ya dhahabu, maana hakuna mwisho wake, kwa fahari ya vitu vyote vizuri vya Ninawi.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ninawi ipo tupu na imeharibiwa. Moyo wa kila mtu unayeyuka, magoti ya kila mmoja yanagongana pamoja, na uchungu upo kwa kila mmoja; sura zao wote zimepauka.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Sasa liko wapi pango la simba, sehemu ambapo simba wadogo hula chakula, sehemu ambapo simba dume na simba jike walitembea, pamoja wana-simba, ambapo hawakuogopa kitu chochote?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Simba alirarua mawindo yake vipande vipande kwa ajili ya watoto wake; aliwanyonga mawindo wake kwa ajili ya wake zake, na kulijaza pango lake mawindo, makao yake kwa mizoga iliyoraruliwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "“Tazama, mimi nipo kinyume na wewe- hili ni neno la Yehova wa majeshi. Nitayachoma magari yenu ya vita katika moshi, na upanga utateketeza simba wenu vijana. Nitazuia nyara zenu kutoka kwenye nchi yangu, na sauti za wajumbe wenu hazitasikika tena.”",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ole kwa mji uliojaa damu! Wote umejaa uongo na mali za wizi; wahanga wapo kwake daima.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Lakini sasa kunasauti ya mijeledi na sauti za kugongesha matairi, farasi wakicheza, na magari ya vita yanaruka ruka.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kuna wapanda farasi wanashambulia, Upanga unang'ara, mikuki inametameta, marundo ya maiti, mafungu makubwa ya miili; hakuna ukomo wa miili, washambuliaji wanajikwaa juu yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hii inatokea kwa sababu ya matendo ya tamaa ya kahaba mzuri, mzoefu wa uchawi, mwenye kuuza taifa kwa umalaya wake, na watu kwa njia ya matendo yake ya kichawi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "“ Tazama, mimi nipo kinyume na wewe- hili ni neno la Yehova wa majeshi- sketi yako nitaiinua juu ya uso wako na kuzionyesha sehemu zako za siri kwa mataifa, aibu yako kwa falme.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nitarusha uchafu wa kuchukiza na kukufanya uwe mbaya sana; nitakufanya uwe mtu wa kutazamwa na kila mmoja.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Itakuwa kwamba kila mmoja anayekutazama atakukimbia na kusema, “ Ninawi ameharibika; ni nani ataomboleza kwa ajili yake?' Ni wapi nitampata mtu anayeweza kukufariji?”",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ninawi, je wewe ni bora kuliko Noamoni, uliojengwa juu ya Mto Naili, uliokuwa umezungukwa na maji, ambao ulinzi wake ilikuwa bahari, ambao ukuta wake ilikuwa bahari yenyewe?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ethiopia na Misri zilikuwa nguvu zake, na mwisho wake haukuwepo; Putu na Libya walikuwa rafiki zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Lakini Noamoni alichukuliwa; alikwenda kwenye mateka; watoto wake wadogo walivunjwa vipande vipande katika kila makao makuu ya mtaa; adui zake walipiga kura kwa watu wake wenye heshima na wakuu wake wote walifungwa minyororo.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wewe pia utalewa; utajaribu kujificha, na utatafuta makimbilio kutoka kwa adui yako.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ngome zako zote zitakuwa kama mitini yenye tini zilizoiva mapema: kama zikitikiswa, zitaangukia kwenye kimywa cha mlaji.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tazama, watu miongoni mwenu ni wanawake; malango ya nchi yako yamefunguliwa sana kwa ajili ya adui zako; moto umeharibu bawaba zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nenda ukachote maji kwenye boma iliyozingirwa; ziimarishe ngome zako; nenda kwenye udongo na kandamiza matope; finyanga kwa ajili ya matofali.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Moto utakuteketeza pale, na upanga utakuangamiza. Utateketezwa kama nzige wachanga wanavyoteketeza kila kitu. Ninyi wenyewe mjitengeneze kuwa wengi kama nzige wachanga, na wengi kama nzinge waliopevuka.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Umezidisha wafanyabiashara wako zaidi kuliko nyota mbinguni; lakini wapo kama tunutu: wanapora nchi na kisha kuruka kwenda mbali.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Wafalme wenu wapo wengi kama zinge, na wakuu wenu wa majeshi ni kama kundi la wadudu wenye kuweka kambi katika ukuta wakati wa baridi. Lakini jua linapowaka wanaruka kwenda mbali ambako hakuna anayepajua.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mfalme wa Ashuru, wachungaji wako wamelala; watawala wako wamejilaza chini kupumzika. Watu wako wametawanyika juu ya milima, na hakuna hata mmoja wa kuwakusanya.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Hakuna uponyaji unaowezekana kwa ajili ya vidonda vyako. Vidonda vyako ni vikubwa. Wanaosikia habari juu yako watapiga makofi kwa furaha juu yako. Ni nani aliyejiepusha kwa uovu wako wa daima?",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

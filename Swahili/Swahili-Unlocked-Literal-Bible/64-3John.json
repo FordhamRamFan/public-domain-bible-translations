@@ -1,0 +1,105 @@
+{
+  "book": "3 John",
+  "abbreviation": "3John",
+  "number": 64,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mzee, kwa Gayo mpenzi, ninayempenda katika kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mpendwa, nakuombea ufanikiwe katika mambo yote na kuwa na afya njema, kama vile roho yako inavyofanikiwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Maana nilifurahi sana wakati nilipoambiwa na ndugu waliokuja na kutoa ushuhuda juu ya kweli yako, kama vile unavyoenenda katika kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Sina furaha kubwa zaidi ya hii, kusikia kwamba watoto wangu wanatembea katika kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mpendwa, unaenenda kwa uaminifu unapowahudumia ndugu na wageni,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ambao wametoa ushuhuda wa upendo wako mbele ya kanisa. Unafanya vizuri kuwasafirisha katika safari zao kwa namna ambayo inampendeza Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa sababu kwa ajili ya Jina, walienda bila kuchukua kitu chochote kutoka kwa watu wa Mataifa.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Hivyo, tunatakiwa kuwakaribisha watu kama hawa, ili tuwe watenda kazi wenza kwa ajili ya kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nililiandikia kusanyiko jambo fulani, lakini Diotrofe, anayependa kuwa wa kwanza miongoni mwao, hakubaliani na sisi.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Hivyo, kama nikija nitayakumbuka matendo yake anayoyafanya, jinsi anavyosema maneno mabaya kinyume nasi. Hajaridhika na matendo haya, yeye mwenyewe hawapokei ndugu. Hata huwakataza wengine ambao wanatamani kuwakaribisha hao ndugu na kuwafukuza watoke kwenye kusanyiko.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mpenzi, usiige kilicho kibaya, bali iga kilicho chema. Yeye atendaye mema ni wa Mungu; na yeye atendaye mabaya hajamwona Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Demetrio ameshuhudiwa na wote na kweli yenyewe. sisi pia ni mashahidi, na unajua kuwa ushahuhuda wetu ni wa kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ninayo mambo mengi ya kukuandikia, lakini sipendi kukuandikia kwa kalamu na wino.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Bali ninatarajia kukuona hivi karibuni, na tutaongea nawe ana kwa ana.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Amani iwe pamoja nawe. Marafiki wanakusalimu. Wasalimu marafiki kila mmoja kwa jina lake.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

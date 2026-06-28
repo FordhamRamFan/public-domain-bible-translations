@@ -1,0 +1,947 @@
+{
+  "book": "Amos",
+  "abbreviation": "Amos",
+  "number": 30,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Haya ni mambo yanayoihusu Israeli ambayo Amosi, mmoja wa wachungaji katika Tekoa, aliyapokea katika ufunuo. Alipokea haya mambo katika siku za Uzia mfalme wa Yuda, na pia katika siku za Yeroboamu mwana wa Yoashi mfalme wa Israeli, miaka miwili kabla ya tetemeko la aridhi.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Alisema, “Yahwe atanguruma kutoka Sayuni; atainua sauti yake kutoka Yerusalemu. Malisho ya wachungaji yatanyamaza kimya; kilele cha Karmeli kitanyauka.”",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hivi ndivyo Yahwe asemavyo: “Kwa dhambi tatu za Damaskasi, hata kwa nne, sintobadilisha adhabu, kwa sababu wameipura Gileadi kwa vyombo vya chuma.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nitapeleka moto kwenye nyumba ya Hazaeli, na utaiteketeza ngome za Ben Hadadi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nitazivunja komeo za Damaskasi na kumkatilia mbali mtu ambaye aishiye katika Biqati Aveni, na pia yule mtu ashikaye fimbo ya kifalme katika Beth Edeni. Na watu wa shamu watakwenda utumwani hata Kiri,” asema Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hivi ndivyo Yahwe asemavyo: “Kwa dhambi tatu za Gaza, hata nne, sintobadilisha adhabu, kwa sababu waliwachukua mateka watu wote, kuwaweka juu ya mkono wa Edomu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Nitatuma moto kwenye kuta za Gaza, na kuziteketeza ngome zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Nitamkatilia mbali yule mtu aishiye katika Ashdodi na mtu ashikaye fimbo ya kifalme kutoka Ashkeloni. Nitaugeuza mkono wangu dhidi ya Ekroni, na mabaki ya Wafilisti wataangamia,” asema Bwana Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Hivi ndivyo Yhawe asemavyo: “Kwa dhambi tatu za Tiro, hata kwa nne, sintobadili adhabu, kwa sababu waliwapelekea watu wote wa Edomu, na wamevunja agano lao la undugu.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Nitapeleka moto kwenye kuta za Tiro, nao utaziteketeza ngome zake.”",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Hivi ndivyo Yahwe asemavyo, “Kwa dhambi tatu za Edomu, hata kwa nne, sintobadilisha adhabu, kwa sababu alimfuatilia ndugu yake kwa upanga na kutupilia mbali huruma zote. Hasira yake ikaendelea kuwa kali, na ghadhabu yake ikabaki milele.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Nitapeleka moto juu ya Temani, na utaziteketeza nyumb a za kifalme za Bozra.”",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Hivi ndivyo Yahwe asemavyo, “Kwa dhambi tatu za watu wa Amoni, hata kwa nne, sintobadilisha adhabu, kwa sababu wamewapasua wanawake wa Gileadi wenye mimba, ili waweze kupanua mipaka yao.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nitawasha moto katika kuta za Raba, nao utaziteketeza nyumba za kifalme, pamoja na kupiga kelele katika siku ya vita, pamoja na dhoruba katika siku ya kimbunga.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Mfalme wao ataenda utumwani, yeye na maafisa wake pamoja,” asema Yahwe.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hivi ndivyo Yahwe asemavyo: “Kwa dhambi tatu za Moabu, hata kwa nne, sintobadilisha adhabu, kwa sababu amechoma moto mifupa ya mfalme wa Edomu hadi kuwa chokaa.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Nitatuma moto juu ya Moabu, na utaangamiza ngome za Keriothi. Moabu atakufa katika gasia, pamoja na kelele na sauti ya tarumbeta.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Nitamuharibu mwamuzi kati yake, na nitawaua wana wa mfalme pamoja na yeye,” asema Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hivi ndivyo Yahwe asemavyo: “Kwa dhambi tatu za Yuda, hata kwa nne, sintobadilisha adhabu, kwa sababu wameikataa sheria ya Yahwe na hawakuzishika amri zake. Uongo wao umesababisha kupotea, ambao baba zao pia waliufuata.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nitatuma moto juu ya Yuda, na utaimeza ngome ya Yerusalemu.”",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hivi ndivyo Yahwe asemavyo: “Kwa dhambi tatu za Israeli, hata kwa nne, sintobadilisha adhabu, kwa sababu wamewauza wasio na hatia kwa fedha na maskini kwa jozi moja ya makubadhi.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Nao hukanyaga juu ya vichwa vya maskini kama kukanyaga kwenye mavumbi juu ya aridhi; wanasukuma kukandamiza. Mtu mmoja na baba yake walilala na msichana mmoja na hivyo kukufuru jina langu takatifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Nao hulala chini karibu na kila madhabahu kwenye nguo zilizowekwa dhamana, na katika nyumba ya Mungu wao hunywa divai ya wale ambao walitozwa faini.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Bado nimemwangamiza Mwamori mbele yao, ambaye urefu wake ulikuwa kama urefu wa mierezi; alikuwa na nguvu kama mialoni. Kisha nikaharibu matunda yake juu na mizizi yake chini.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Pia, niliwapandisha kutoka nchi ya Misri na kuwaongoza miaka arobaini nyikani ili mmiliki nchi ya Wamori.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Nimewainua manabii kutoka miongoni mwa watoto wanu wawe Wanadhiri kutoka vijana wenu. Je sio hivyo, watu wa Israeli? -hivi ndivyo Yahwe asemavyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Lakini mmewashawishi Wanadhiri kunywa mvinyo na kuwaamuru manabii wasifanye unabii.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tazama, nitawakanyaga kama mkokoteni uliojaa miganda inayoweza kumkanyaga mtu.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mtu akimbiaye hatapata kimbilio; mwenye nguvu hatoongeza nguvu zake mwenyewe; wala shujaa kujiokoa mwenyewe.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Apindaye upinde hatasimama; mkimbiaji sana hatakimbia; mwendesha farasi hatajiokoa mwenyewe.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Hata wapiganaji shujaa watakimbia uchi katika siku hiyo -hivi ndivyo Yahwe asemavy.”",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Sikieni neno la Yahwe aliloongea juu yenu, watu wa Israeli, juu ya familia nzima ambayo niliwatoa kutoka nchi ya Misri,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "“Nimewachagua ninyi tu kutoka familia zote za dunia. Kwa hiyo nitawaadhibu kwa dhambi zenu zote.”",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Je wawili wanaweza kutembea pamoja isipokuwa wamekubaliana?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Je simba huunguruma msituni wakati hakuna mawindo? Je mwana simba ataunguruma kutoka pangoni mwake kama hajakamata kitu?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Je ndege ataanguka kwenye mtego aridhini wakati hakuna chambo kimewekwa kwa ajili yake? Je mtego utafyatuka juu aridhini wakati hakuna kitu cha kukamata?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Je tarumbeta itapigwa mjini na watu wasitetemeke? Je janga laweza kuja mjini lisiyoletwa na Yahwe?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Hakika Bwna Yahwe hatafanya kitu vinginevyo amewafunulia mpango watumishi wake manabii.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Simba ameshaunguruma; nani hatoogopa? Bwana Yahwe amekwisha ongea; nani hatotabiri?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tangaza hii katika ngome huko Ashdodi, na katika ngome za nchi ya Misri; sema, “Kusanyikeni kwenye milima ya Samaria na oneni vile mchafuko ulivyomkubwa kwake, na ukandamizaji uliopo katika yeye.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Kwa kuwa hawajui jinsi ya kufanya haki -hivi ndivyo Yahwe asemavyo- hao watunzao nguvu na uharibifu katika ngome zao.”",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwa hiyo, hivi ndivyo Yahwe asemavyo, “Adui ataizunguka nchi. Atazivuta chini nguvu zako na ngome zenu zitatekwa nyara.”",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hivi ndivyo Yahwe asemavyo,” Kama mchungaji aokoavyo miguu miwili tu kwenye mdomo wa simba, au kipande cha sikio, ndivyo wana wa Israeli watakavyookolewa wale waishio katika Samaria, pamoja na pembe ya kulalia, au pembe ya kitanda.”",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Sikieni na kushudia juu ya nyumba ya Yakobo -hivi ndivyo Yahwe asemavyo, Mungu wa majeshi,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "“Kwa kuwa katika siku ambayo nimeadhibu dhambi za Israeli, pia nitaziadhibu madhabahu za Betheli. Pembe za madhabahu zitakatwa na kuanguka chini.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Nitaiharibu nyumba ya baridi pamoja na nyumba ya hari. Nyumba za pembe zitaangamia, na nyumba kubwa zitatoweka, -hivi ndivyo Yahwe asemavyo.”",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Lisikilizeni neno hili, ninyi ng'ombe wa Bashani, ninyi mliomo katika mlima wa Samaria, ninyi mnaowakandamiza maskini, ninyi mnaowaponda wahitaji, ninyi muwaambiao waume zenu, “Tuleteeni vinywaji.”",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Bwana Yahwe ameapa kwa utukufu wake, “Tazama, siku zitakuja kwenu wakati watakapowaondoa kwa ndoana, wa mwisho wenu na ndoana za kuvulia samaki.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mtatoka kupitia mahali palipo bomolewa kwenye kuta za mji, kila mmoja wenu kwenda moja kwa moja kupitia hapo, na mtajitupa mbele ya Harmoni -hivi ndivyo asemavyo Yahwe.”",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "“Nendeni Betheli na uovu, hata Gilgali mkaongeza dhambi, leteni dhabihu zenu kila asubuhi, zaka zenu kila baada ya siku tatu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Toeni dhabihu za shukurani pamoja na mkate; tangazeni sadaka za hiari; watangazieni, kwa kuwa hii ndiyo iwapendezayo, ninyi watu wa Israeli -hivi ndivyo asemavyo Bwana Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nawapatia usafi wa meno katika miji yenu na na kupungukiwa na mkate katika sehemu zenu zote. Bado hamkurudi kwangu -hivi ndivyo Yahwe asemavyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Pia nimeizuia mvua kutoka kwenu wakati bado kulikuwa na miezi mitatu kwa mavuno. Nikaifanya inyeshe juu ya mji, na kuifanya isinyeshe katika mji mwingine. Kipande kimoja cha nchi ilinyesha, lakini kipande kingine cha nchi ambapo haikunyesha palikuwa pakavu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Walizunguka miji miwili au mitatu kwenda mji mwingine kunywa maji, lakini hawakutosheka. Bado hawakunirudia mimi -asema Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nimewapiga kwa maradhi yanayosababisha kuvu. Wingi wa bustani, mashamba yenu ya zabibu, mitini yenu, na mizaituni-kuteketeza yote. Bado hamkunirudia hivi ndivyo Yahwe asemavyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Nimetuma tauni kwenu kama ya Misri. Nimewaua watoto wenu kwa upanga, kubeba farasi zenu, na kuufanya uvundo wa kambi zenu na kuingiza kwenye pua zenu. Bado hamkunirudia mimi -hivi ndivyo asemavyo Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Nimeiangamiza miji miongoni mwenu, kama wakati Mungu alipoiangamiza Sodoma na Gomora. Mlikuwa kama kijinga kilichonyakuliwa kutoka kwenye moto. Bado hamkunirudia - asema Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kwa hiyo nitafanya jambo baya kwako, Israeli; na kwa sababu nitafanya jambo baya kwako, jiandae kukutana na Mungu, Israeli!",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Kwa kuwa, tazama, yeye atangenezaye milima pia ndiye aumbaye upepo, humfunulia mawazo yake mwanadamu, hufanya asubuhi kuwa giza, na kupakanyaga mahala pa juu ya dunia. Yahwe, Mungu wa majeshi, ndilo jina lake.”",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Sikilizeni hili neno ambalo nisemalo kama maombelezo juu yenu, nyumba ya Israeli.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Bikira wa Israeli ameanguka; hatoinuka tena; ametoroka kwenye nchi yake, hakuna mtu wa kumwinua.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kwa kuwa hivi ndivyo Yahwe asemavyo: “Mji ambao umetoka nje kwa elfu watabaki mia, na walioenda nje mia watabaki kumi wa mali ya nyumba ya Israeli.”",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Kwa kuwa hivi ndivyo Yahwe asemavyo kwa nyumba ya Israeli: “Nitafuteni na mtaishi!",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Msimtafute Betheli; wala kuingia Gilgali; msisafiri kwenda Bersheba. Kwa kuwa Gilgali watakwenda utumwani hakika, na Betheli haitakuwa kitu.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mtafuteni Yahwe mtaishi, au atawaka kama moto kwenye nyumba ya Yusufu. Utateketeza, na hakutakuwa na mtu hata mmoja kuuzima katika Betheli.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wale watu wageuzao haki kuwa jambo chungu na kuiangusha haki chini!”",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mungu aliiumba Pleidezi na Orioni; amebadilisha giza kuwa asubuhu; hufanya siku kuwa giza na usiku na kuita maji ya bahari; yeye huyamwaga juu ya uso wa dunia. Yahwe ndilo jina lake!",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Yeye huleta uharibifu wa ghafla juu ya waliohodari ili kwamba uharibifu uje juu ya ngome.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wanamchukia kila awasahihishaye katika lango la mji, nao humchukia sana yeyote asemaye ukweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwa sababu mnamkanyaga chini maskini na kuchukua sehemu ya ngano kutoka kwake- ingawa mmejenga nyumba za mawe yaliyochongwa, hamtaishi kwenye nyumba hizo. Mmependezwa na mashamba ya mizabibu, lakini hamtakunywa mvinyo wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kwa kuwa najua ni jinsi gani mlivyo na makosa mengi na jinsi dhambi zenu zilivyo kubwa- ninyi mnaowaonea wenye haki, chukueni rushwa, na kuwageuza wahitaji kwenye lango la mji.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Kwa hiyo kila mtu mwenye busara atanyamaza kimya kwenye wakati kama huo, kwa kuwa ni wakati wa uovu.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Tafuteni mazuri na sio mabaya, ili kwamba mpate kuishi. Hivyo Yahwe, Mungu wa majeshi, atakuwa na ninyi tayari, kama msemavyo yeye ndiye.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Chukieni uovu, imarisheni haki katika lango la mji. Huenda Yahwe, Mungu wa majeshi, atawafadhili mabaki ya Yusufu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Kwa hiyo, hivi ndivyo Yahwe asemavyo, Mungu wa majeshi, Bwana, “Kutakuwa na maombolezo kwenye miraba yote, na watasema kwenye mitaa yote, 'Ole! Ole!' Watawaita wakulima kuomboleza na walio hodari wa kulia na kuomboleza.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Katika mashamba yote ya mizabibu kutakuwa na kilio, kwa kuwa nitapita katikati yako,” asema Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ole wenu ninyi mnaoitamani siku ya Yahwe! Kwa nini mnaitamani? Itakuwa giza na sio nuru,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "kama wakati mtu anamkimbia simba na kukutana na dubu, au aliingia katika nyumba na kuweka mkono wake kwenye ukuta na kung'atwa na nyoka.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Je siku ya Yahwe itakuwa giza na sio nuru? Huzuni na sio furaha?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "“Nachukia, nazidharau sikukuu zenu, naichukia mikutano yenu ya dini.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Hata kama mnanitolea sadaka ya kuteketeza na sadaka za unga, sintozipokea, wala kuzitazama kwenye sadaka za ushirika wa wanyama walionona.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Niondoleeni kelele za nyimbo zenu; sintosikiliza sauti za vinubi vyenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Badala yake, acheni haki itiririke kama maji, na haki kama mkondo utiririkao siku zote.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Je mmeniletea dhambihu na sadaka za kuteketeza jangwani kwa mda wa miaka arobaini?",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Mtamwinua Sikuthi kama mfalme wenu, na Kiuni, nyota yenu ya miungu-ambayo mmeifanya kwa ajili yenu wenyewe.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Kwa hiyo nitawahamisha upande wa pili wa Damaskasi,” asema Yahwe, ambaye jina lake ni Mungu wa majeshi.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ole wao wanaostarehe katika Sayuni, na kwa wale ambao wameokoka katika nchi ya mlima wa Samaria, watu mashuhuri bora wa mataifa, ambao nyumba ya Israeli huja kwa ajili ya msaada!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Viongozi wenu husema, “Pita kwenda Kalne na mkatazame; kutoka huko nendeni hadi Hamathi, mji mkubwa; kisha nendeni chini hata Gathi ya Wapelestina. Je ni wabora kuliko falme zenu mbili? Je kuna mpaka mkubwa kuliko mpaka wenu?”",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ole wao wale waiwekao siku ya majanga na kufanya ufalme kuwa kinyume kusogea karibu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Wamelala juu ya vitanda vya pembe na kupumzika juu ya viti vyao. Wakala wana kondoo kutoka kwenye kundi na ndama kutoka kwenye zizi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Wanaimba nyimbo za kijinga kwenye muziki wa kinubi; wanatunga kwenye vyombo kama vya Daudi.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Wanakunywa mvinyo kutoka kwenye bakuli na kujipaka mafuta wenyewe kwa mafuta ya marahamu, lakini hawahuzuniki juu ya mateso ya Yusufu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Hivyo sasa watakwenda utumwani pamoja na watumwa wakwanza, na kelele za hao waliojinyoosha zitapita.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "“Mimi Bwana Yahwe, nimeapa kwa nafsi yangu -hivi ndivyo Bwana Yahwe asemavyo, Mungu wa majeshi, naizira fahari ya Yakobo; nachukia boma zake. Kwa hiyo nitautoa huo mji pamoja vyote vilivyomo humo.”",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Itakuja kuhusu kwamba kama kuna wanaume kumi waliobakia kwenye nyumba moja, watakufa.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wakati ndugu wa mtu huyo atakapokuja kuchukua miili yao-yule ambaye awachomaye baada ya kuleta maiti katika nyumba-kama akisema kwa mtu katika nyumba, “Je kuna mtu yuko pamoja nawe?” Vipi kama yule akisema, “Hapana.” Kisha atasema, “Kaa kimya, kwa kuwa hatulitaja jina la Yahwe.”",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Tazama, Yahwe atatoa amri, na nyumba kubwa itapigwa kuwa vipande vipande, na nyumba ndogo kuwa na nyufa.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Je farasi watakimbia juu ya mteremko wa miamba? Je mtu atalima huko na ng'ome? Bado mmegeuza haki kuwa sumu na tunda la haki kuwa uchungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ninyi mnaofurahia juu ya Lo Debari, msemao, “Je hatukuchukua Karnaimu kwa nguvu zetu wenyewe?”",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Lakini tazama, nitainua juu yenu taifa, nyumba ya Israeli-hivi ndivyo asemavyo Bwana Yahwe, Mungu wa majeshi. Watawatesa ninyi kutoka Lebo Hamathi hata kijito cha Araba.”",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hivi ndivyo ambavyo Bwana Yahwe alivyonionyesha. Tazama, aliumba kundi kubwa la nzige wakati wa kuchipuka kwa mmea, na, tazama, ulikuwa ni mmea wa mwisho baada ya mavuno ya mfalme.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wakati walipomaliza kula mbogamboga za nchi, kisha nikasema, “Bwana Yahwe, tafadhali nisamehe; Je Yakobo ataishije? kwa kuwa yeye ni mdogo sana.”",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Yahwe akapunguza hasira kuhusu hili. “Haitatokea,” akasema.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hivi ndivyo ambavyo Bwana Yahwe alivyonionyesha: Tazama, Bwana Yahwe aliita juu ya moto kuhukumu. Nao ukakausha sana, kilindi chini ya dunia na kutaka kuitekeza nchi, pia.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Lakini nikasema, “Bwana Yahwe, acha tafadhali; Yakobo ataishije? Kwa kuwa yeye ni mdigo sana.”",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Yahwe akagairi kuhusiana na hili, “Hili halitajitokeza pia,” asema Bwana Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Hivi ndivyo ambavyo Yahwe alivyo nionyesha: Tazama, Bwana amesimama karibu na ukuta, pamoja na uzi wa timiza kwenye mkono wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Yahwe akanambia, “Amosi, unaona nini?” nikasema, “Uzi wa timazi.” Kisha Bwana akasema, “Tazama, nitaweka uzi wa timazi miongoni mwa watu wangu Israeli. Sintowaharibu tena.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mahala pa juu pa Isaka pataharibiwa, patakatifu pa Israeli pataangamia, na nitainuka juu ya nyumba ya Yeroboamu kwa upanga.”",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Kisha Amazia, yule kuhani wa Betheli, akatuma ujumbe kwa Yeroboamu, mfalme wa Israeli: “amosi amefanya njama dhidi yako katikati ya nyumba ya Israeli. Nchi haiwezi kubeba maneno yote haya.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwa kuwa hivi ndivyo asemavyo Amosi, 'Yeroboamu atakufa kwa upanga, na hakika Israeli itakwenda utumwani kutoka nchi yake.”'",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Amazia akamwambia Amosi, “Mwonaji, nenda, kimbia irudie nchi ya Yuda, na hapo ule mkate na kutabiri.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Lakini usitabiri tena hapa katika Betheli, kwa kuwa ni patakatifu pa mfalme na nyumba ya kifalme.”",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Kisha Amosi akamwambia Amazia, “Mimi sio nabii wala mwana wa nabii. Mimi ni mchungaji wa mifugo, na mtunza mikuyu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Lakini Yahwe akanichukua kutoka kuchunga mifugo na kunambia, 'Nenda, katabiri kwa watu wangu Israeli.'",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sasa sikia neno la Yahwe. Wewe usemaye, 'Usitabiri juu ya Israeli, na usiongee juu ya nyumba ya Isaka.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Kwa hiyo hivi ndivyo Yahwe asemavyo, 'Mke wako atakuwa kahaba katika mji; wana wako waume na binti zako wataanguka kwa upanga; nchi yako itapimwa na kugawanywa; utakufa katika nchi najisi, na Israeli hakika itakwenda utumwani kutoka nchi yake.”'",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hiki ndicho ambacho bwana Yahwe amenionyesha. Tazama, kikapu cha matunda ya hari!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Akasema, “Unaona nini, Amosi?” Nikasema, “Kikapu cha matunda ya hari.” Kisha Yahwe akanambia, “Mwisho umefika kwa watu wangu Israeli; sintowaumiza tena.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Nyimbo za kwenye hekalu zitakuwa vilio. Katika siku hiyo-hivi ndivyo asemavyo Bwana Yahwe. Mizoga itakuwa mingi, katika kila sehemu wataitupa katika ukimya!”",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Lisikilizeni hili, ninyi mkanyagao maskini na kumuondoa fukara wa nchi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "wakisema, “Wakati mwezi mpya utakapoisha, hivyo tunaweza kuuza mazao tena? Wakati siku ya Sabato itakapoisha, ili kwamba tuuze ngano? Tutafanya kipimo kidogo na kuongeza bei, tukidanganya kwa mizani za udanganyifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hivi ndivyo ambavyo tunaweza kuuza ngano mbaya, kununua fukara kwa fedha, na masikini kwa jozi moja ya kubadhi.”",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Yahwe ameapa kwa fahari ya Yakobo, “Hakika sintoweza kusahau kazi zao hata moja.”",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Je nchi haitatetemeka kwa hili, na kila mmoja aishiye kuombolezea? Yote hayo yatainuka kama Mto Naili, nayo itataabika juu na kupwa tena, kama mto wa Misri.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "“Itakuja siku ambayo -huu ndio usemi wa Bwana Yahwe- kwamba nitafanya jua litue wakati wa mchana, na nitaiweka giza dunia wakati wa mchana.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Nitazigeuza sikukuu zenu kuwa maombolezo na nyimbo zenu zote kuwa masikitiko. Nitawafanya wote kuvaa nguo za magunia na kipara juu ya kila kichwa. Nitayafanya haya kama maombolezo kwa mwana pekee, na siku ya uchungu mwisho wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Tazama, siku zinakuja -asema Bwana Yahwe- wakati nitakapoleta njaa katika nchi, sio njaa ya mkate, wala kiu ya maji, ila kusikia maneno ya Yahwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "watatangatanga kutoka bahari hata bahari; watakimbia kutoka kaskazini kwenda magharibi kutafuta neno la Yahwe, lakini hawatalipata.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Katika siku hiyo wanawali wazuri na wavulana watazimia kutokana na njaa.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Wale waapao kwa dhambi ya Samaria wataanguka na hawatainuka tena.”",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Nilimwona Bwana amesimama karibu na madhabahu, na akasema, “Vipige vichwa vya nguzo ili kwamba misingi itikisike. Vivunje vipande vipande juu ya vichwa vyao vyote, nami nitamwua kwa upanga wa mwisho wao. Hakuna hata mmoja wao atakaye kimbia, hakuna hata mmoja wao atakayekimbia. Hata kama watachimba kwenye Sheoli, kuna mkono wangu utawachukua.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hata kama watapanda juu kwenda mbingunu, huko nitawaleta chini.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hata kama watajificha juu ya Karmeli, nitawatafuta huko na kuwachukua. Hata kama watajificha kwenye vilindi vya bahari nisiwaone, nimwagiza joka, na atawang'ata.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hata kama wataenda kwenye utumwa, watabanwa na maadui zao mbele yao, nitauagiza upanga huko, na utawau. Nitaelekeza macho yangu juu yao kwa ubaya sio kwa uzuri.”",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Bwana Mungu wa majeshi ndiye agusaye nchi na ikayeyuka; wote waishio humo wataomboleza; yote yatainuka kama Mto, na itadidimia tena kama mto wa Misri.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ni yeye ndiye avijengaye vyumba vyake mbinguni, na kuanzisha kuba yake juu ya dunia. Yeye huita maji ya bahari, na kuyamwaga juu ya uso wa dunia, Yahwe ndiye jina lake.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "“Je ninyi sio kama watu wa Kushi kwangu, wana wa Israeli? -hivi ndivyo Yahwe asemavyo. Je sikuwapandisha Israeli kutoka nchi ya misri, Wafilisti kutoka Krete, na Washami kutoka Kiri?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Tazama, macho ya Bwana Yahwe yako juu ya ufalme wenye dhambi, na nitauharibu kutoka kwenye uso wa dunia, isipokuwa kwamba sintoiharibu kabisa nyumba ya Yakobo -hivi ndivyo Yahwe asemavyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tazama, nitaamuru, na nitaipepeta nyumba ya Israeli miongoni mwa mataifa yote, kama mtu apepetaye ngano kwenye ungo, hivyo basi hakuna hata chembe ya jiwe itakayoanguka kwenye aridhi.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Watenda dhambi wote katika watu wangu watakufa kwa upanga, wale wasemao, 'Majanga hayatatupita au kukutana nasi.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Katika siku hiyo nitainua hema ya Daudi iliyokuwa imeanguka, na kuyafunga matawi yake. Nitayainua magofu yake, na kuijenga tena kama katika siku za zamani,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kwamba wamiliki mabaki ya Edomu, na mataifa yote ambayo yameitwa kwa jina langu -hivi ndivyo Yahwe asemavyo-afanyayo haya.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tazama, siku zitakuja-hivi ndivyo Yahwe asemavyo-wakati mlimaji atampita mvunaji, na akanyagaye zabibu atampita yeye apandaye mbegu. Milima itadondosha divai tamu, na milima yote itabubujika kwa nayo.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nitawarudisha kutoka utumwani watu wangu Israeli. Watajenga magofu ya miji na kuishi humo, watapanda bustani za mizabibu na kunywa divai, na watafanya bustani na kula matunda yao.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Nitaipanda hadi kwenye nchi yao, na hawataing'oa tena kutoka kwenye nchi ambayo niliyowapatia,” asema Yahwe Mungu wako.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

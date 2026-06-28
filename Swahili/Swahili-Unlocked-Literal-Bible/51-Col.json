@@ -1,0 +1,606 @@
+{
+  "book": "Colossians",
+  "abbreviation": "Col",
+  "number": 51,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulo, mtume wa Kristo Yesu kwa mapenzi ya Mungu, na Timotheo ndugu yetu,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "kwa waumini na ndugu waaminifu katika Kristo walioko Kolosai. Neema iwe kwenu, na amani kutoka kwa Mungu Baba yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Tunatoa shukrani kwa Mungu, Baba wa Bwana wetu Yesu Kristo, na tunawaombea mara kwa mara.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Tumesikia imani yenu katika Yesu Kristo na upendo mlionao kwa wale wote waliotengwa kwa ajili ya Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mna upendo huu kwa sababu ya taraja la uhakika lililohifadhiwa mbinguni kwa ajili yenu. Mlisikia kuhusu taraja hiyo ya uhakika kabla katika neno la kweli, injili,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ambayo imekuja kwenu. Injili hii inazaa tunda na inaenea ulimwenguni kote. Imekuwa ikifanya hivi ndani yenu pia tangu siku mlipoisikia na kujifunza kuhusu neema ya Mungu katika kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Hii ndiyo injili mliyojifunza kutoka kwa Epafra, mpendwa wetu mtumishi mwenzetu, ambaye ni mtumishi mwaminifu wa Kristo kwa niaba yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Epafra ameufanya ujulikane kwetu upendo wenu katika Roho.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Kwa sababu ya upendo huu, tangu siku tuliposikia hivi, hatujaacha kuwaombea. Tumekuwa tukiomba kwamba mtajazwa na maarifa ya mapenzi yake katika hekima yote na ufahamu wa kiroho.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Tumekuwa tukiomba kwamba mtatembea kwa ustahimilivu wa Bwana katika njia zipendezazo. Tumekuwa tukiomba kwamba mtazaa tunda katika kila tendo jema na kwamba mtakua katika maarifa ya Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Tunaomba mweze kutiwa nguvu katika kila uwezo kulingana na nguvu za utukufu wake katika uvumilivu na ustahimilivu wote.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Tunaomba kwamba, kwa furaha, mtatoa shukrani kwa Baba, aliyewafanya ninyi mweze kuwa na sehemu katika urithi wa waumini katika nuru.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ametuokoa kutoka katika utawala wa giza na kutuhamishia katika ufalme wa Mwana wake mpendwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Katika Mwanae tuna ukombozi, msamaha wa dhambi.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Mwana ni mfano wa Mungu asiyeonekana. Ni mzaliwa wa kwanza wa uumbaji wote.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Kwakuwa kwa yeye vitu vyote viliumbwa, vile vilivyoko mbinguni na vilivyoko duniani, vitu vinavyoonekana na visivyoonekana. ikiwa ni vya enzi au mamlaka au utawala au wenye nguvu, vitu vyote viliumbwa na yeye na kwa ajili yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Yeye amekuwepo kabla ya vitu vyote, na katika yeye vitu vyote vinashikamana pamoja.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Na yeye ndiye kichwa cha mwili yaani kanisa, yeye ni mwanzo na mzaliwa wa kwanza kutoka miongoni mwa wafu, hivyo, ana nafasi ya kwanza miongoni mwa vitu vyote.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Kwa kuwa Mungu alipendezwa kwamba utimilifu wake wote uishi ndani yake,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "na kupatanisha vitu vyote kwake kwa njia ya Mwanawe. Mungu alifanya amani kupitia damu ya msalaba wake. Mungu alipatanisha vitu vyote kwake mwenyewe, ikiwa ni vitu vya duniani au vitu vya mbinguni.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Nanyi pia, kwa wakati mmoja mlikuwa wageni kwa Mungu na mlikuwa maadui wake katika akili na matendo maovu.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Lakini sasa amewapatanisha ninyi kwa mwili wake kupitia kifo. Alifanya hivi ili kuwaleta ninyi watakatifu, wasio na lawama na bila dosari mbele yake,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "kama mkiendelea katika imani, mliyoimarishwa na kuwa thabiti, pasipo kuondoshwa mbali kutoka kwenye taraja la ujasiri la injili mliyoisikia. Hi ndiyo injili iliyotangazwa kwa kila mtu aliyeumbwa chini ya mbingu. Hii ndiyo injili ambayo kwayo mimi, Paulo, nimekuwa mtumishi.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Sasa nafurahia mateso yangu kwa ajili yenu. Nami natimiliza katika mwili wangu kinachopungua kwa mateso ya Kristo kwa ajili ya mwili wake, ambao ni kanisa.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Mimi ni mtumishi wa kanisa hili, sawasawa na wajibu niliopewa kutoka kwa Mungu kwa ajili yenu, kulijaza neno la Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Huu ni ukweli wa siri iliyokuwa imefichwa kwa miaka mingi na kwa vizazi. Lakini sasa imefunuliwa kwa wote waaminio katika Yeye.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Ni kwa wale ambao Mungu alitaka kufunua kulivyo utajiri wa utukufu wa siri ya ukweli huu miongoni mwa Mataifa. Ni kwamba Kristo yumo ndani yenu, ujasiri wa utukufu ujao.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Huyu ndiye tunayemtangaza. Tunamwonya kila mtu, na kumfundisha kila mtu kwa hekima yote, ili kwamba tumlete kila mtu mkamilifu katika Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Kwa jili hii, mimi najibidisha na kujitahidi kulingana na nguvu yake ifanyayo kazi ndani yangu katika uweza.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Kwa kuwa nataka mfahamu jinsi ambavyo nimekuwa na taabu nyingi kwa ajili yenu, kwa wote walioko Laodikia na kwa wote ambao hawajaona uso wangu katika mwili.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Nafanya kazi ili kwamba mioyo yao iweze kufarijiwa kwa kuletwa pamoja katika upendo na katika utajiri wote wa wingi wa uhakika kamili wa maarifa, katika kuijua siri ya kweli ya Mungu, ambaye ni Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Katika Yeye hazina zote za hekima na maarifa zimefichwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nasema hivi ili kwamba mtu yeyote asije akawafanyia hila kwa hotuba yenye ushawishi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Na ingawa sipo pamoja nanyi katika mwili, lakini nipo nanyi katika roho. Ninafurahi kuona utaratibu wenu mzuri na nguvu ya imani yenu katika Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Kama mlivyompokea Kristo Bwana, tembeeni katika yeye.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mwimarishwe katika yeye, mjengwe katika yeye, mwimarishwe katika imani kama tu mlivyofundishwa, na kufungwa katika shukrani nyingi.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Angalieni ya kwamba mtu yeyote asiwanase kwa falsafa na maneno matupu ya udanganyifu kulingana na mapokeo ya wanadamu, kulingana na kanuni za kidunia, na sio kulingana na Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Kwa kuwa katika yeye ukamilifu wote wa Mungu unaishi katika mwili.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Nanyi mmejazwa katika yeye. Yeye ni kichwa cha kila uweza na mamlaka.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Katika yeye pia mlitahiriwa kwa tohara isiyofanywa na wanadamu katika kuondolewa mwili wa nyama, lakini ni katika tohara ya Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mlizikwa pamoja naye katika ubatizo. Na kwa njia ya imani katika yeye mlifufuliwa kwa uweza wa Mungu, aliyemfufua kutoka kwa wafu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Na mlipokuwa mmekufa katika makosa yenu na kutokutahiriwa kwa miili yenu, aliwafanya hai pamoja naye na kutusamehe makosa yetu yote.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Alifuta kumbukumbu ya madeni iliyoandikwa, na taratibu zilizokuwa kinyume nasi. Aliiondoa yote na kuigongomea msalabani.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Aliziondoa nguvu na mamlaka. Aliyaweka wazi na kuyafanya kuwa sherehe ya ushidi kwa njia ya msalaba wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Kwa hiyo, mtu yeyote asiwahukumu ninyi katika kula au katika kunywa, au kuhusu siku ya sikukuu au mwezi mpya, au siku za Sabato.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hivi ni vivuli vya mambo yajayo, lakini kiini ni Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mtu awaye yote asinyang'anywe tuzo yake kwa kutamani unyenyekevu na kwa kuabudu malaika. Mtu wa jinsi hiyo huingia katika mambo aliyoyaona na kushawishiwa na mawazo yake ya kimwili.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Yeye hakishikilii kichwa. Ni kutoka katika kichwa kwamba mwili wote kupitia viungo vyake na mifupa huungwa na kushikamanishwa kwa pamoja; na hukua kwa ukuaji utolewao na Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ikiwa mlikufa pamoja na Kristo kwa tabia za dunia, mbona mnaishi kama mnawajibika kwa dunia:",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "“Msishike, wala kuonja, wala kugusa”?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Haya yote yameamuriwa kwa ajili ya uharibifu ujao na matumizi, kutokana na maelekezo na mafundisho ya wanadamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Sheria hizi zina hekima ya dini zilizotengenezwa kwa ubinafsi na unyenyekevu na mateso ya mwili. Lakini hazina thamani dhidi ya tamaa za mwili.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ikiwa tena Mungu amewafufua pamoja na Kristo, yatafuteni mambo ya juu ambako Kristo anakaa mkono wa kuume wa Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Fikirini kuhusu mambo ya juu, sio kuhusu mambo ya duniani.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kwa kuwa mmekufa, na maisha yenu yamefichwa pamoja na Kristo katika Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Wakati Kristo atakapoonekana, ambaye ni maisha yenu, ndipo nanyi pia mtaonekana naye katika utukufu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Kwa hiyo yafisheni mambo yaliyo katika nchi yaani, zinaa, uchafu, shauku mbaya, nia mbaya, na tamaa, ambayo ni ibada ya sanamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ni kwa ajili ya mambo haya ghadhabu ya Mungu inakuja juu ya wana wasio tii.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ni kwa ajili ya mambo haya ninyi pia mlitembea kwayo mlipoishi kati yao.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Lakini sasa ni lazima myaondoe mambo haya yote. Yaani, ghadhabu, hasira, nia mbaya, matusi, na maneno machafu yatokayo vinywani mwenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Msidanganyane ninyi kwa ninyi, kwa kuwa mmeuvua utu wenu wa kale na matendo yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mmevaa utu mpya, ambao unafanywa upya katika maarifa kutokana mfano wa yule aliye muumba.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Katika maarifa haya, hakuna Myunani na Myahudi, kutahiriwa na kutokutahiriwa, msomi, asiye msomi, mtumwa, asiye mtumwa, lakini badala yake Kristo ni mambo yote katika yote.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kama wateule wa Mungu, watakatifu na wapendwao, jivikeni utu wema, ukarimu, unyenyekevu, upole na uvumilivu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Chukulianeni ninyi kwa ninyi. Hurumianeni kila mtu na mwenzake. Kama mtu analalamiko dhidi ya mwingine, amsamehe kwa jinsi ilele ambayo Bwana alivyo wasamehe ninyi.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Zaidi ya mambo haya yote, muwe na upendo, ambao ndio kigezo cha ukamilifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Amani ya Kristo na iwaongoze mioyoni mwenu. Ilikuwa ni kwa ajili ya amani hii kwamba mliitiwa katika mwili mmoja. Iweni na shukrani.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Na Neno la Kristo likae ndani yenu kwa utajiri. Kwa hekima yote, fundishaneni na kushauriana ninyi kwa ninyi kwa Zaburi, nyimbo, na nyimbo za rohoni. Imbeni kwa shukrani mioyo yenu kwa Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Na chochote mfanyacho, katika maneno au katika matendo, fanyeni yote katika jina la Bwana Yesu. Mpeni shukrani Mungu baba kupitia Yeye.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Wake, wanyenyekeeni waume zenu, kama ipendezavyo katika Bwana.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Nanyi waume, wapendeni wake zenu, na msiwe wakali dhidi yao.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Watoto, watiini wazazi wenu katika mambo yote, maana ndivyo impendezavyo Bwana.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Akina baba msiwachokoze watoto wenu, ili kwamba wasije wakakata tamaa.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Watumwa, watiini mabwana zenu katika mwili kwa mambo yote, sio kwa huduma ya macho kama watu wa kufurahisha tu, bali kwa moyo wa kweli. Mwogopeni Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Chochote mfanyacho, fanyeni kutoka nafsini mwenu kama kwa Bwana na si kama kwa wanadamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Mnajua ya kwamba mtapokea tuzo ya umilkaji kutoka kwa Bwana. Ni Kristo Bwana mnayemtumikia.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Kwa sababu yeyote atendaye yasiyo haki atapokea hukumu kwa matendo yasiyo haki aliyoyafanya, na hakuna upendeleo.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mabwana, toeni kwa watumwa mambo yaliyo haki na ya adili. Mnajua pia kwamba mnaye Bwana mbinguni.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Endeleeni kuwa thabiti katika maombi. Kaeni macho katika hilo kwa shukrani.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ombeni pamoja kwa ajili yetu pia, ili kwamba Mungu afungue mlango kwa ajili ya neno, kunena siri ya ukweli ya Kristo. Kwa sababu ya hili nimefungwa minyororo.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Na ombeni kwamba niweze kuliweka wazi, kama inavyonipasa kusema.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Enenda kwa hekima kwa wale walioko nje, na muukomboe wakati.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Maneno yenu na yawe na neema wakati wote, na yakolee chumvi majira yote, ili kwamba mweze kujua jinsi inavyowapasa kumjibu kila mtu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa mambo yanayonihusu mimi, Tikiko atayafanya yajulikane kwenu. Yeye ni ndugu mpendwa, mtumishi mwaminifu, na mtumwa mwenzetu katika Bwana.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Namtuma kwenu kwa ajili ya hili, kwamba mweze kujua mambo kuhusu sisi na pia kwamba aweze kuwatia moyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Namtuma pamoja na Onesimo, ndugu yetu mpendwa mwaminifu, na mmoja wenu. Watawaambia kila kitu kilichotokea hapa.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Aristarko, mfungwa mwenzangu, anawasalimu, pia na Marko binamu yake na Barnaba mliyepokea utaratibu kutoka kwake, “kama akija kwenu, mpokeeni,”",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Na pia Yesu aitwaye Yusto. Hawa peke yao wa tohara ni watendakazi wenzangu kwa jili ya ufalme wa Mungu. Wamekuwa ni faraja kwangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Epafra anawasalimu. Yeye ni mmoja wenu na mtumwa wa Kristo Yesu. Yeye hufanya bidii katika maombi kwa ajili, ili kwamba mweze kusimama kwa ukamilifu na kuhakishwa kikamilifu katika mapenzi yote ya Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Kwa kuwa ninamshuhudia, kwamba anafanya kazi kwa bidii kwa ajili yenu, kwa hao walioko Laodekia, na kwa hao walioko Hierapoli.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Luka yule tabibu mpendwa, na Dema wanawasalimu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Wasalimu ndugu zangu walioko Laodekia, na Nimfa, na kanisa lile lililoko nyumbani kwake.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Barua hii itakapokuwa imesomwa miongoni mwenu, isomwe pia kwa kanisa la walaodekia, nanyi pia hakikisheni mnaisoma ile barua kutoka Laodekia.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sema kwa Arkipo, ''Angalia ile huduma ambayo umeipokea katika Bwana, kwamba unapaswa kuitimiza.”",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Salamu hii ni kwa mkono wangu mwenyewe - Paulo. Ikuumbukeni minyororo yangu. Neema na iwe nanyi.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

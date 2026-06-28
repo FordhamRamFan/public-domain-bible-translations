@@ -1,0 +1,673 @@
+{
+  "book": "1 John",
+  "abbreviation": "1John",
+  "number": 62,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Kile kilichokuwapo tangu mwanzo-kile tulichokisikia, kile tulichokiona kwa macho yetu, kile tulichokitazama, na mikono yetu imekishika-kuhusu Neno la uzima.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Na ule uzima ulifanywa kujulikana wazi, na tumeuona, na kuushuhudia, na kuwatangazia uzima wa milele, ambao ulikuwa kwa Baba na ulifanywa kujulikana kwetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kile tulichokiona na kukisikia twakitangaza kwenu pia, ili kwamba muweze kujumuika pamoja nasi, na ushirika wetu pamoja na Baba na Mwanae Yesu Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Na tunawandikia mambo haya ninyi ili kwamba furaha yetu iwe timilifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Huu ndio ujumbe tuliousikia kutoka kwake na kuwatangazia: Mungu ni nuru na ndani yake hakuna giza hata kidogo.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Kama tukisema kwamba tunaushirika naye na twatembea gizani, twadanganya na hatutendi kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Lakini tukitembea katika nuru kama alivyo katika nuru, twashirikiana sisi kwa sisi, na damu ya Yesu Kristo, mwanae yatutakasa kutoka dhambi zote.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Kama tukisema hatuna dhambi, twajidanganya wenyewe, na kweli haimo ndani yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Lakini tukizitubu dhambi zetu, yeye ni mwaminifu na haki kutusamehe dhambi zetu na kututakasa na uovu wote.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Tukisema kwamba hatujatenda dhambi, twamfanya yeye kuwa muongo, na neno lake halimo ndani yetu.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Watoto wangu wapendwa, nawaandikia mambo haya kwenu ili msitende dhambi. Lakini kama mmoja wenu akitenda dhambi, tunaye wakili aliye pamoja na Baba, Yesu Kristo- ambaye ni mwenye haki.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Yeye ni mpatanishi kwa dhambi zetu, na si kwa dhambi zetu pekee, lakini pia kwa ulimwengu mzima.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kwa hili twajua kwamba twamjua yeye, kama tukizitunza amri zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Yeye asemaye, “Namjua Mungu,” lakini hazishiki amri zake, ni mwongo, na kweli haimo ndani yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Lakini yeyote ashikaye neno lake, kweli katika mtu yule upendo wa Mungu umekamilishwa. Katika hili twajua kwamba tuko ndani yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Yeye asemaye anaishi ndani ya Mungu anapaswa mwenyewe pia kuenenda kama vile Yesu Kristo alivyoenenda.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wapenzi, siwaandikii ninyi amri mpya, bali amri ya zamani ambayo mmekwisha kuwa nayo tangu mwanzo. Amri ya zamani ni neno ambalo mlilolisikia.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Hata hivyo ninawaandikia ninyi amri mpya, ambayo ni kweli katika Kristo na kwenu, kwa sababu giza linapita, na nuru ya kweli iko tayari inaangaza",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Yeye asemeye yuko kwenye nuru na amchukia ndugu yake yuko katika giza hata sasa.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Yeye ampendaye ndugu yake anaishi katika nuru na hakuna jambo lolote liwezalo kumkwaza.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Lakini yeye amchukiaye ndugu yake yuko gizani na anatembea gizani; Yeye hajui wapi aendako, kwa sababu giza limeyapofusha macho yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Nawaandikia ninyi, watoto wapendwa, kwa sababu mmesamehewa dhambi zenu kwa ajili ya jina lake.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nawaandikia ninyi, akina baba, kwa sababu mnamjua yeye aliye tangu mwanzo. Nawaandikia ninyi, vijana, kwa sababu mmemshinda yule mwovu. Nimewaandikia ninyi, watoto wadogo, kwa sababu mnamjua Baba.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nimewaandikia ninyi, akina baba, kwa sababu mnamjua yeye aliye tangu mwanzo. Nimewaandikia ninyi, vijana, kwa sababu mko imara, na neno la Mungu linakaa ndani yenu, na mmemshinda yule mwovu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Msiipende dunia wala mambo ambayo yaliyo katika dunia. Iwapo yule ataipenda dunia, upendo wa kumpenda Baba haumo ndani yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Kwani kila kitu kilichomo katika dunia- tamaa ya mwili, tamaa ya macho, na kiburi cha uzima- havitokani na Baba lakini vinatokana na dunia.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Dunia na tamaa zake zinapita. Bali yeye afanyaye mapenzi ya Mungu huyo adumu milele.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Watoto wadogo, ni wakati wa mwisho. Kama ambavyo mmesikia kwamba mpinga kristo anakuja, hata sasa wapinga kristo wamekuja, kwa hali hii tunajua kwamba ni wakati wa mwisho.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Walikwenda zao kutoka kwetu, kwani hawakuwa wa kwetu. Kama vile wangekuwa wa kwetu wangeendelea kuwa pamoja nasi. Lakini wakati walipo kwenda zao, hicho kilionyesha hawakuwa wa kwetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Lakini mumetiwa mafuta na yule Mtakatifu, nanyi nyote mnaijua kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Sikuwaandikia ninyi kwa sababu hamuijui kweli, bali kwa sababu mnaijua na kwa sababu hakuna uongo wa ile kweli",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Nani ni mwongo bali ni yeye anayepinga kwamba Yesu ni Kristo? Huyu mtu ni mpinga kristo, pale anapo mpinga Baba na Mwana.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Hakuna anaye mpinga Mwana akawa na Baba. Yeyote anaye mkiri Mwana anaye Baba pia.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Kama kwa ajili yenu, kile mlichosikia toka mwanzo acha kiendelee kuwa ndani yenu. Kama kile mlichosikia toka mwanzo kitakaa ndani yenu, pia, mtakaa ndani ya Mwana na Baba.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Na hii ni ahadi aliyotupatia sisi: uzima wa milele.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Nimewaandikia haya ninyi kuhusu wale ambao wangewaongoza ninyi katika upotevu.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Na kwa ajili yenu, yale mafuta mliyoyapokea kutoka kwake yanakaa ndani yenu, na hamtahitaji mtu yeyote kuwafundisha. bali kama mafuta yake yanawafundisha kuhusu mambo yote na ni kweli na siyo uongo, na hata kama yameshawafundisha, kaeni ndani yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Na sasa, watoto wapendwa, kaeni ndani yake, ili wakati atakapotokea, tuweze kuwa na ujasiri na siyo kujisikia aibu mbele yake katika kuja kwake.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Kama mnajua kuwa yeye ni mwenye haki, mnajua kwamba kila mmoja atendaye haki amezaliwa na yeye.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Oneni ni pendo la namna gani ametupatia Baba, kwamba tunaitwa watoto wa Mungu, na hivi ndivyo tulivyo. Kwa sababu hii ulimwengu haututambui kwa kuwa haukumtambua yeye.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wapendwa sisi sasa ni watoto wa Mungu, na haijadhihirika bado jinsi tutakavyokuwa. Twajua kwamba Kristo atakapoonekana, tutafanana naye, kwani tutamuona kama alivyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Na kila mmoja ambaye ana ujasiri huu kuhusu wakati ujao ulioelekezwa kwake, hujitakasa mwenyewe kama yeye alivyo mtakatifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Kila mtu anayeendelea kutenda dhambi huvunja sheria. Kwa sababu dhambi ni uvunjaji sheria.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mnajua Kristo alidhihilishwa ili kuziondoa dhambi kabisa. Na ndani yake hamna dhambi.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hakuna hata mmoja adumue ndani yake na kuendelea kutenda dhambi. Hakuna mtu hata mmoja adumuye katika dhambi ikiwa amemuona au kumfahamu yeye.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Watoto wapendwa, msikubali kupotoshwa na mtu yeyote. Atendaye haki ni mwenye haki, kama vile Kristo naye alivyo mwenye haki.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Atendaye dhambi ni wa ibilisi, kwa sababu ibilisi ni mtenda dhambi tangu mwanzo. Kwa sababu hii Mwana wa Mungu alidhihilishwa ili aweze kuziharibu kazi za ibilisi.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Yeyote aliyezaliwa na Mungu hatendi dhambi, kwa sababu mbegu ya Mungu hukaa ndani yake. Hawezi kuendelea kutenda dhambi kwa sababu amezaliwa na Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Katika hili watoto wa Mungu na watoto wa ibilisi wanafahamika. Yeyote asiyetenda kilicho cha haki, siyo wa Mungu, wala yule ambaye hawezi kumpenda ndugu yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwani huu ndio ujumbe mliousikia kutoka mwanzo, kwamba tunapaswa kupendana sisi kwa sisi,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "siyo kama Kaini ambaye alikuwa wa mwovu na alimuua ndugu yake. Na kwa nini alimuua? Kwa sababu matendo yake yalikuwa maovu, na yale ya ndugu yake yalikuwa ya haki.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ndugu zangu, msishangae, endapo ulimwengu utawachukia.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Twajua tumekwisha toka mautini na kuingia uzimani, kwa sababu tunawapenda ndugu. Yeyote ambaye hana upendo hudumu katika mauti.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Mtu yeyote anaye mchukia ndugu yake ni muuaji. Na mnajua kuwa uzima wa milele haukai ndani ya muuaji.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Katika hili tunalijua pendo, kwa sababu kristo aliutoa uhai wake kwa ajili yetu. Nasi yatupasa kuyatoa maisha yetu kwa ajili ya ndugu.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Lakini yeyote aliye na vitu, na anamuona ndugu yake mwenye uhitaji, lakini huuzuia moyo wake wa huruma kwa ajili yake; je, upendo wa Mungu unakaaje ndani yake?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Watoto wangu wapenzi, tusipende kwa midomo wala kwa maneno matupu bali katika vitendo na kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Katika hili tunajua kwamba sisi tuko katika kweli, na mioyo yetu inathibitika katika yeye.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ikiwa kama mioyo yetu yatuhukumu, Mungu ni mkuu kuliko mioyo yetu, na yeye hujua mambo yote.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Wapenzi, kama mioyo yetu haituhukumu, tunao ujasiri kwa Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Na chochote tuombacho tutakipokea kutoka kwake, kwa sababu tunazishika amri zake na tunafanya mambo yanayopendeza mbele zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Na hii ndiyo amri yake- ya kwamba yatupasa kuamini katika jina la Mwanaye Yesu Kristo na kupendana sisi kwa sisi-kama alivyotupatia amri yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Anayezitii amri zake hudumu ndani yake, na Mungu hukaa ndani yake. Na kwa sababu hii twajua kuwa hukaa ndani yetu, Kwa yule Roho aliyetupa.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Wapendwa, msiiamini kila roho, lakini zijaribuni roho muone kama zinatokana na Mungu, kwa sababu manabii wengi wa uongo wametokea duniani.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Kwa hili mtamjua Roho wa Mungu - kila roho itakayokiri kuwa Yesu Kristo amekuja katika mwili ni ya Mungu,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "na kila roho isiyomkiri Yesu si ya Mungu. Hii ni roho ya mpinga kristo, ambayo mliyoisikia kuwa inakuja, na sasa tayari iko duniani.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ninyi ni wa Mungu, watoto wapendwa, na mmekwisha washinda kwa sababu yeye aliye ndani yenu ni mkuu kuliko yeye aliye katika ulimwengu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Wao ni wa ulimwengu, kwa hiyo wanachokisema ni cha ulimwengu, na ulimwengu unawasikiliza.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Sisi ni wa Mungu. Yeye amjuaye Mungu hutusikiliza sisi. Yeye asiye wa Mungu hawezi kutusikiliza. Katika hili tunajua roho wa kweli na roho wa uongo.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wapendwa, tupendane sisi kwa sisi, kwa vile upendo ni wa Mungu, na kila mmoja apendaye amezaliwa na Mungu na kumjua Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Yeye asiyependa hamjui Mungu, kwa sababu Mungu ni upendo.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Katika hili pendo la Mungu lilifunuliwa miongoni mwetu, kwamba Mungu alimtuma Mwanae wa pekee ulimwenguni ili tuishi kupitia yeye.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Katika hili pendo, si kwamba tulimpenda Mungu, lakini yeye alitupenda, na akamtuma Mwanawe awe fidia ya dhambi zetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wapendwa, ikiwa Mungu alitupenda sisi, vile vile tunapaswa kupendana sisi kwa sisi.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hakuna hata mmoja aliyemuona Mungu. Kama tukipendana sisi kwa sisi, Mungu anakaa ndani yetu na pendo lake limekamilika ndani yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Katika hili tunajua kuwa tunakaa ndani yake na yeye ndani yetu, kwa sababu ametupa Roho wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Na tumeona na kushuhudia kuwa Baba amemtuma Mwana kuwa mwokozi wa ulimwengu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Kila anayekiri kwamba Yesu ni Mwana wa Mungu, Mungu anakaa ndani yake na yeye ndani ya Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Na tunajua na kuamini upendo alio nao Mungu ndani yetu. Mungu ni pendo, na yeye anayekaa ndani ya upendo anakaa ndani ya Mungu, na Mungu hukaa ndani yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Katika pendo hili limekwisha kamilishwa kati yetu, ili tuwe na ujasiri siku ya hukumu, kwa sababu kama yeye alivyo, na sisi ndivyo tulivyo katika ulimwenngu huu.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Hakuna hofu ndani ya pendo. Lakini pendo kamili huitupa hofu nje, kwa sababu hofu huhusiana na hukumu. Lakini yeye aogopaye hajakamilishwa katika pendo.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Tunapenda kwa sababu Mungu alitupenda kwanza.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ikiwa mmoja atasema, “Nampenda Mungu” lakini anamchukia ndugu yake, ni mwongo. Kwa sababu asiyempenda ndugu yake, anayemuona, hawezi kumpenda Mungu ambaye hajamuona.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Na hii ndiyo amri tuliyo nayo kutoka kwake: Yeyote ampendaye Mungu, anapaswa kumpenda ndugu yake pia.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Yeyote anayeamini kuwa Yesu ni Kristo amezaliwa na Mungu. Na yeyote ampendaye yeye ambaye ametoka kwa Baba pia huwapenda watoto wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Kwa hili twajua kwamba twawapenda watoto wa Mungu — tunapompenda Mungu na kutekeleza amri zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hivi ndivyo tunavyompenda Mungu kwamba twazishika amri zake. Na amri zake ni nyepesi.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Kwa kuwa kila aliyezaliwa na Mungu huushinda ulimwengu. Na huu ndio ushindi wa kuushinda ulimwengu, imani yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ni nani aliyeushinda ulimwengu? Ni yule aaminiye kwamba Yesu ni Mwana wa Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Huyu ndiye aliyekuja kwa maji na damu- Yesu Kristo. Hakuja tu kwa maji bali kwa maji na damu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa kuwa kuna watatu washuhudiao:",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Roho, maji na damu. Hawa watatu hukubaliana. (Zingatia: Maneno haya “Baba, Neno, na Roho Mtakatifu” hayaonekani katika nakala bora za kale).",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Kama tunaupokea ushuhuda wa wanadamu ushuhuda wa Mungu ni mkuu kuliko huo. Kwa kuwa ushuhuda wa Mungu ni huu- kwamba anao ushuhuda kuhusiana na Mwanawe.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Yeye amwaminiye Mwana wa Mungu ana ushuhuda ndani yake mwenyewe. Na yeyote asiye mwamini Mungu amemfanya kuwa mwongo, kwa kuwa hakuuamini ushuhuda ambao Mungu ameuleta kuhusu Mwanawe.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Na ushuhuda ndio huu — kwamba Mungu alitupa uzima wa milele, na uzima huu umo ndani ya Mwanawe.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Aliye naye Mwana ana uzima. Asiyekuwa naye Mwana wa Mungu hana uzima.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nimewaandikia haya mweze kujua kwamba mnao uzima wa milele — ninyi mnaoamini katika jina la Mwana wa Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Na huu ndio ujasiri tulionao mbele zake, kwamba kama tukiomba kitu chochote sawa sawa na mapenzi yake, hutusikia.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Na kama tunajua kwamba hutusikia — chochote tumwombacho tunajua kwamba tunacho hicho tulichomwomba.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Kama mtu amwonaye ndugu yake anatenda dhambi isiyopelekea kifo, yampasa kuomba na Mungu atampa uzima. Ninasema kwa wale ambao dhambi yao ni ile isiyopelekea kifo — Kuna dhambi ipelekeayo kifo — sisemi kwamba anapaswa kuomba kwa ajilli ya dhambi hiyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Uasi wote ni dhambi — lakini kuna dhambi isiyopelekea kifo.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Tunajua ya kuwa aliyezaliwa na Mungu hatendi dhambi. Bali aliyezaliwa na Mungu hutunzwa naye salama daima, na yule mwovu hawezi kumdhuru.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Tunajua kuwa sisi ni wa Mungu na tunajua kwamba ulimwengu wote uko chini ya utawala wa yule mwovu.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Lakini twajua kwamba Mwana wa Mungu amekuja na ametupatia ujuzi, kwamba tunamjua yeye aliye kweli na kwamba tumo ndani yake yeye aliye kweli, hata katika Mwanawe Yesu Kristo. Ni Mungu wa kweli na uzima wa milele.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Watoto wapenzi, jiepusheni na sanamu.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

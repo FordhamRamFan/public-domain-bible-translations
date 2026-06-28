@@ -1,0 +1,944 @@
+{
+  "book": "Galatians",
+  "abbreviation": "Gal",
+  "number": 48,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mimi ni Paulo mtume. Mimi sio mtume kutoka kwa wanadamu wala kupitia kwa mwanadamu, lakini kupitia kwa Yesu Kristo na Mungu Baba aliyemfufua kutoka kwa wafu.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Pamoja na ndugu wote na mimi, ninayaandikia makanisa ya Galatia.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Neema iwe kwenu na amani itokayo kwa Mungu Baba yetu na Bwana Yesu Kristo,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "aliyejitoa mwenyewe kwa ajili ya dhambi zetu ili kwamba atukomboe na nyakati hizi za uovu, kutokana na mapenzi ya Mungu wetu na Baba.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Kwake uwe utukufu milele na milele.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ninashangaa kwamba mnageukia haraka kwenye injili nyingine. Ninashangaa kwamba mnageukia mbali kutoka kwake yeye aliyewaita kwa neema ya Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Hakuna injili nyingine, lakini kuna baadhi ya watu wanao wasababishieni nyinyi matatizo na kutaka kubadilisha injili ya Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Lakini hata kama ni sisi au malaika kutoka mbinguni atatangaza kwenu injili tofauti na ile tuliyoitangaza kwenu, na alaaniwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Kama tulivyo sema mwanzoni, na sasa nasema tena, “Kama kuna mtu atawatangazia kwenu injili tofauti na mliyoipokea, na alaaniwe.”",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Kwani sasa hivi ninatafuta uthibitisho wa watu au Mungu? Ninatafuta kuwafurahisha wanadamu? Kama ninaendelea kujaribu kuwafurahisha wanadamu, mimi sio mtumishi wa Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ndugu, ninataka ninyi mjue kwamba injili niliyoitangaza haitokani na wanadamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sikuipokea kutoka kwa mtu, wala sikufundishwa. Badala yake, ilikuwa ni kwa ufunuo wa Yesu Kristo kwangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mmekwisha sikia juu ya maisha yangu ya nyuma katika dini ya Kiyahudi, jinsi nilivyokuwa nikilitesa kwa ukali kanisa la Mungu zaidi ya kipimo na kuliteketeza.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nilikuwa nimeendelea katika Dini ya Kiyahudi zaidi ya ndugu zangu wengi Wayahudi. Nilikuwa na bidii sana katika tamaduni za baba zangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Lakini Mungu alipendezwa kunichagua mimi kutoka tumboni mwa mama. Aliniita mimi kupitia neema yake",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "kumdhihirisha Mwanawe ndani yangu, ili kwamba nimtangaze yeye miongoni mwa watu wa mataifa. Wala sikutafuta ushauri wa mwili na damu",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "na sikupanda kwenda Yerusalem kwa wale waliokuwa mitume kabla yangu. Badala yake nilienda Uarabuni na baadae kurudi Damesiki.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Kisha baada ya miaka mitatu nilipanda kwenda Yerusalemu kumtembelea Kefa, nikakaa naye kwa siku kumi na tano.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Lakini sikuona mitume wengine isipokuwa Yakobo, ndungu yake na Bwana.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Tazama, mbele za Mungu, sidanganyi kwa kile niandikacho kwenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Kisha nilikwenda mikoa ya Shamu na Kilikia.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Sikuwa najulikana kwa macho kwa makanisa ya Uyahudi yale yaliyokuwa katika Kristo,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "lakini walikuwa wakisikia tu, “Yeye aliyekuwa akitutesa sasa anatangaza imani aliyokuwa akiiharibu.”",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Walikuwa wakimtukuza Mungu kwa ajili yangu.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Baada ya miaka kumi na nne nilienda tena Yerusalemu pamoja na Barnaba. Pia nilimchukua Tito pamoja nami.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Nilienda kwa sababu Mungu alijidhihirisha kwangu kwamba nilipaswa kwenda. Niliweka mbele yao Injili ambayo niliitangaza kwa watu wa mataifa. (Lakini niliongea kwa siri kwa waliosemekana kuwa viongozi muhimu). Nilifanya hivi ili kuhakikisha kwamba nilikuwa sikimbii, au nilikimbia bure.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Lakini hata Tito, aliyekuwa pamoja nami, aliyekuwa Myunani, alilazimishwa kutahiriwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Jambo hili lilitokea kwa sababu ya ndugu wa uongo waliokuja kwa siri kupeleleza uhuru tuliokuwa nao katika Kristo Yesu. Walitamani kutufanya sisi kuwa watumwa wa sheria.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Hatukujitoa kuwatii hata kwa saa moja, ili kwamba injili ya kweli ibaki bila kubadilika kwenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Lakini wale waliosemwa kuwa walikuwa viongozi hawakuchangia chochote kwangu. Chochote walichokuwa wakikifanya hakikuwa na maana kwangu. Mungu hakubali upendeleo wa wanadamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Badala yake, waliniona kwamba nimeaminiwa kuitangaza injili kwa wale ambao hawakutahiriwa. Ilikuwa kama Petro atangaze injili kwa waliotahiriwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Kwa maana Mungu, aliyefanya kazi ndani ya Petro kwa ajili ya utume kwa wale waliotahiriwa, pia alifanya kazi ndani yangu kwa watu wa mataifa.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Wakati Yakobo, Kefa, na Yohana, waliotambulika kuwa waliojenga Kanisa, walifahamu neema niliyopewa mimi, walitupokea katika ushirika mimi na Barnaba. Walifanya hivi ili kwamba twende kwa watu wa mataifa, na ili kwamba waweze kwenda kwa wale waliotahiriwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Pia walitutaka sisi kuwakumbuka masikini. Mimi pia nilikuwa natamani kufanya jambo hili.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wakati Kefa alipokuja Antiokia, nilimpinga waziwazi kwa sababu alikuwa amekosea.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kabla ya watu kadhaa kuja kutoka kwa Yakobo, Kefa alikuwa akila pamoja na watu wa mataifa. Lakini hawa watu walipokuja, aliacha na kuondoka kutoka kwa watu wa mataifa. Alikuwa anaogopa watu ambao walihitaji tohara.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Vilevile Wayahudi wengine waliungana na unafiki huu pamoja na Kefa. Matokeo yake yalikuwa kwamba hata Barnaba alichukuliwa na unafiki wao.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Lakini nilipoona kwamba walikuwa hawafuati injili ya kweli, nilimwambia Kefa mbele yao wote, “Kama ninyi ni Wayahudi lakini mnaishi tabia za watu wa mataifa badala ya tabia za Kiyahudi, kwa nini mnawalazimisha watu wa mataifa kuishi kama Wayahudi?”",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Sisi ambao ni Wayahudi kwa kuzaliwa na siyo “Watu wa mataifa wenye dhambi “",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "fahamu kwamba hakuna anayehesabiwa haki kwa matendo ya sheria. Badala yake, wanahesabiwa haki kwa imani ndani ya Yesu Kristo. Tulikuja kwa imani ndani ya Kristo Yesu ili kwamba tunahesabiwa haki kwa imani ndani ya Kristo na siyo kwa matendo ya sheria. Kwa matendo ya sheria hakuna mwili utakao hesabiwa haki.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Lakini kama tunapomtafuta Mungu kwa kutuhesabia haki ndani ya Kristo, tunajikuta wenyewe pia kuwa wenye dhambi, je Kristo alifanywa mtumwa wa dhambi? Siyo hivyo!",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Maana kama nikijenga tegemeo langu juu ya kutunza sheria, tegemeo ambalo nilikwisha liondoa, najionesha mwenyewe kuwa mvunja sheria.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Kupitia sheria nilikufa kwa sheria, kwa hiyo napaswa kuishi kwa ajili ya Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Nimesulubiwa pamoja na Kristo. Si mimi tena ninayeishi, bali Kristo anaishi ndani yangu. Maisha ninayoishi katika mwili ninaishi kwa imani ndani ya Mwana wa Mungu, ambaye alinipenda na akajitoa kwa ajili yangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Siikani neema ya Mungu, maana kama haki ilikuwepo kupitia sheria, basi Kristo angekuwa amekufa bure.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Wagalatia wajinga, ni jicho gani ovu lililowaharibu? Je Yesu Kristo hakuoneshwa kama msulubiwa mbele ya macho yenu?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mimi nataka tu kufahamu hili kutoka kwenu. Je mlimpokea Roho kwa matendo ya sheria au kwa kuamini kile mlichosikia?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Je, ninyi ni wajinga kiasi hiki? Je mlianza katika Roho ili mmalize katika mwili?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Je mliteseka kwa mambo mengi bure, kama kweli yalikuwa ya bure?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Je yeye atoaye Roho kwenu na kutenda matendo ya nguvu kati yenu hufanya kwa matendo ya sheria au kwa kusikia pamoja na imani?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Abraham “Alimwamini Mungu akahesabiwa kuwa mwenye haki”.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa namna ile ile eleweni kwamba, wale ambao wanaamini ni watoto wa Abrahamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Andiko lilitabiri kwamba Mungu angewahesabia haki watu wa mataifa kwa njia ya imani. Injili ilihubiriwa kwanza kwa Abrahamu: “katika wewe mataifa yote yatabarikiwa”.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ili baadaye wale ambao wana imani wabarikiwe pamoja na Abrahamu, ambaye alikuwa na imani.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wale ambao wanategemea matendo ya sheria wako chini ya laana. Kwa kuwa imeandikwa, “Amelaaniwa kila mtu ambaye hashikamani na mambo yote yaliyoandikwa katika kitabu cha sheria, kuyatenda yote.”",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Sasa ni wazi kwamba Mungu hamhesabii haki hata mmoja kwa sheria, kwa kuwa “Mwenye haki ataishi kwa imani”.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sheria haitokani na imani, lakini badala yake “Ambaye hufanya mambo haya katika sheria, ataishi kwa sheria.”",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Kristo alitukomboa sisi kutoka katika laana ya sheria wakati alipofanyika laana kwa ajili yetu. Kwa kuwa imeandikwa, “Amelaaniwa kila mtu aangikwaye juu ya mti.”",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Lengo lilikuwa kwamba, baraka ambazo zilikuwa kwa Ibrahimu zingekuja kwa watu wa mataifa katika Kristo Yesu, ili kwamba tuweze kupokea ahadi ya Roho kupitia imani.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ndugu, ninazungumza kwa namna ya kibinadamu. Hata wakati ambapo agano la kibinadamu limekwisha kuwekwa imara, hakuna awezaye kupuuza au kuongezea.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sasa ahadi zilisemwa kwa Ibrahim na kwa kizazi chake. Haisemi, “kwa vizazi,” kumaanisha wengi, bali badala yake kwa mmoja pekee, “kwa kizazi chako,” ambaye ni Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sasa nasema hivi, sheria ambayo ilikuja miaka 430 baadaye, haiondoi agano la nyuma lililowekwa na Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Kwa kuwa kama urithi ungelikuja kwa njia ya sheria, usingekuwa tena umekuja kwa njia ya ahadi. Lakini Mungu aliutoa bure kwa Ibrahimu kwa njia ya ahadi.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Kwa nini sasa sheria ilitolewa? Iliongezwa kwa sababu ya makosa, mpaka mzao wa Ibrahimu aje kwa wale ambao kwao alikuwa ameahidiwa. Sheria iliwekwa katika shinikizo kupitia malaika kwa mkono wa mpatanishi.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sasa mpatanishi humaanisha zaidi ya mtu mmoja, bali Mungu ni mmoja peke yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Kwa hiyo je sheria iko kinyume na ahadi za Mungu? La hasha! Kwa kuwa kama sheria iliyokuwa imetolewa ilikuwa na uwezo wa kuleta uzima, haki ingepatikana kwa sheria.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Lakini badala yake, andiko limefunga mambo yote chini ya dhambi. Mungu alifanya hivi ili kwamba ahadi yake ya kutuokoa sisi kwa imani katika Yesu Kristo iweze kupatikana kwa wale wanao amini.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Lakini kabla ya imani katika Kristo haijaja, tulikuwa tumefungwa na kuwa chini ya sheria hadi uje ufunuo wa imani.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Kwa hiyo sheria ilifanyika kiongozi wetu hadi Kristo alipokuja, ili kwamba tuhesabiwe haki kwa imani.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Sasa kwa kuwa imani imekuja, hatuko tena chini ya mwangalizi.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Kwa kuwa ninyi nyote ni watoto wa Mungu kupitia imani katika Kristo Yesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Wote ambao mlibatizwa katika Kristo mmejivika Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Hakuna Myahudi wala Myunani, mtumwa wala huru, mwanaume wala mwanamke, kwa kuwa ninyi nyote ni mmoja katika Kristo Yesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Kama ninyi ni wa Kristo, basi ni uzao wa Ibrahimu, warithi kwa mujibu wa ahadi.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ninasema kwamba maadamu mrithi ni mtoto, hana tofauti na mtumwa, hata ingawa ni mmiliki wa mali yote.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Badala yake, yuko chini ya waangalizi na wadhamini mpaka wakati uliowekwa na baba yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kadhalika pia na sisi, tulipokuwa watoto, tulishikiliwa katika utumwa wa kanuni za kwanza za ulimwengu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Lakini wakati sahihi ulipofika, Mungu alimtuma mwanawe, mzaliwa wa mwanamke, mzaliwa chini ya sheria.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Alifanya hivi ili kuwakomboa wale waliokuwa chini ya sheria, ili kwamba tupokee hali ya kuwa kama wana.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Kwa sababu ninyi ni wana, Mungu alimtuma Roho wa mwanawe ndani ya mioyo yetu, Roho aitaye, “Abba, Baba.”",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa sababu hii wewe si mtumwa tena bali mwana. Kama ni mwana, basi wewe pia ni mrithi kupitia Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Hata kabla, wakati hamkumjua Mungu, mlikuwa watumwa kwa wale ambao kwa asili si miungu kabisa.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Lakini sasa kwamba mnamjua Mungu, au kwamba mnajulikana na Mungu, kwa nini mnarudi tena kwenye kanuni dhaifu za kwanza na zisizo za thamani? Je mnataka kuwa watumwa tena?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mnashika kwa uangalifu siku maalumu, miandamo ya miezi, majira, na miaka. Ninaogopa kwa ajili yenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ninaogopa kwamba kwa namna fulani nimejitaabisha bure.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ninawasihi, ndugu, muwe kama nilivyo, kwa kuwa pia nimekuwa kama mlivyo. Hamkunikosea.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Bali mnajua kwamba ilikuwa ni kwa sababu ya ugonjwa wa mwili kwamba nilihubiri injili kwenu kwa mara ya kwanza.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ingawa hali yangu ya mwili iliwaweka katika jaribu, hamkunidharau au kunikataa. Badala yake mlinipokea kama malaika wa Mungu, kana kwamba nilikuwa Kristo Yesu mwenyewe.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Kwa hiyo, iko wapi sasa furaha yenu? kwa kuwa ninashuhudia kwenu kwamba, ikiwezekana, mungelin'goa macho yenu na kunipa mimi.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Hivyo sasa, je nimekuwa adui yenu kwa sababu ninawaambia ukweli?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Wanawatafuta kwa shauku, bali si kwa mema. Wanataka kuwatenganisha ninyi na mimi ili muwafuate.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ni vyema daima kuwa na shauku kwa sababu zilizo njema, na si tu wakati ninapokuwa pamoja nanyi.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Wanangu wadogo, ninaumwa uchungu kwa ajili yenu tena mpaka Kristo aumbike ndani yenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ningependa kuwepo pale pamoja nanyi sasa na kugeuza sauti yangu, kwa sababu ninamashaka juu yenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Niambieni, ninyi ambao mnatamani kuwa chini ya sheria, hamsikii sheria isemavyo?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Kwa kuwa imeandikwa kwamba Abrahamu alikuwa na wana wa kiume wawili, mmoja kwa yule mwanamke mtumwa na mwingine kwa mwanamke huru.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Hata hivyo, yule wa mtumwa alizaliwa kwa mwili tu, bali yule wa mwanamke huru alizaliwa kwa ahadi.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Mambo haya yanaweza kuelezwa kwa kutumia mfano, kwa kuwa wanawake hawa wanafanana na maagano mawili. Mojawapo kutoka katika mlima Sinai. Huzaa watoto ambao ni watumwa. huyu ni Hajiri.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Sasa Hajiri ni mlima Sinai ulioko Arabuni. Hufananishwa na Yerusalem ya sasa, kwa kuwa ni mtumwa pamoja na watoto wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Bali Yerusalemu ambayo iko juu ni huru, na hii ndiyo mama yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Kwa kuwa imeandikwa, “Furahi, wewe mwanamke uliye tasa, wewe usiye zaa. Paza sauti na upige kelele kwa furaha, wewe ambaye huna uzoefu wa kuzaa. kwa maana wengi ni watoto wa aliye tasa, zaidi ya wale wa yule ambaye ana mume.”",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Sasa ndugu, kama Isaka, ninyi ni watoto wa ahadi.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Kwa wakati ule ambao mtu ambaye alizaliwa kwa mujibu wa mwili alimtesa yule aliyezaliwa kwa mujibu wa Roho. Kwa sasa ni vilevile.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Maandiko husemaje? “Muondoe mwanamke mtumwa pamoja na mwanawe wa kiume. Kwa kuwa mtoto wa mwanamke mtumwa hatarithi pamoja na mtoto wa mwanamke huru.”",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Kwa hiyo, ndugu, sisi si watoto wa mwanamke mtumwa, bali ni wa mwanamke huru.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ni kwa sababu Kristo alitupa uhuru ili tuwe huru. Hivyo, simameni imara wala msinaswe tena katika kongwa la utumwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Tazama, Mimi Paulo, ninawaambia kwamba ikiwa mtatahiriwa, Kristo hatawafaidia kwa njia yoyote ile.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Tena, namshuhudia kila mwanaume aliyetahiriwa kwamba anapaswa kuwajibika kwa sheria yote.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mmetengwa mbali na Kristo, wale wote “mnaohesabiwa haki” kwa sheria. Mmeanguka mbali na neema.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Maana kwa njia ya Roho, kwa imani tunasubiri ujasiri wa haki.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Katika Kristo Yesu kutahiriwa au kutokutahiriwa hakuna maana yoyote. Ni imani pekee inayofanya kazi kupitia upendo ndiyo humaanisha kitu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mlikuwa mnapiga mbio vizuri. Nani aliwazuia kutokuitii kweli?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ushawishi wa kufanya hivyo hautoki kwake yeye anayewaita ninyi.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Chachu kidogo huathiri donge zima.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Nina matumaini na ninyi katika Bwana kwamba hamtafikiri kwa njia nyingine yoyote. Yeyote yule atakayewapotosha atabeba hukumu yake yeye mwenyewe, yeyote yule.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ndugu, kama naendelea kutangaza tohara, kwanini bado ninateswa? Kwa suala hilo kile ambacho ni kizuizi cha msalaba kitaweza kuharibiwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ni matakwa yangu kuwa wale wanaowaongoza vibaya watajihasi wenyewe.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mungu amewaiteni ninyi, ndugu, kwenye uhuru. Ila msiutumie uhuru wenu kama fursa kwa mwili. Badala yake kwa upendo mhudumiane ninyi kwa ninyi.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Kwa kuwa sheria yote imekamilika katika amri moja; nayo ni “Ni lazima umpende jirani yako kama wewe mwenyewe.”",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Lakini kama mkiumana na kulana, jiangalieni kwamba msijiharibu ninyi kwa ninyi.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Nasema, tembeeni kwa roho, na wala hamtazitimiza tamaa za mwili.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Kwa kuwa mwili una tamaa kubwa dhidi ya Roho, na Roho ina tamaa kubwa dhidi ya mwili. Hizi zinapingana kila moja na nyingine. Matokeo ni kwamba hamfanyi vitu mnavyotamani kuvifanya.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Lakini kama Roho anawaongoza ninyi, hamko chini ya sheria.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Sasa matendo ya mwili yanaonekana. Nayo ni uasherati, uchafu, ufisadi,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "ibada ya sanamu, uchawi, uadui, ugomvi, husuda, kuwaka hasira, ushindani, faraka, mgawanyiko wa madhehebu,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "wivu, ulevi, ulafi na mambo mengine kama haya. Nawaonya ninyi, kama nilivyowaonya mwanzoni, kwamba wale wanaofanya mambo kama hayo hawataurithi ufalme wa Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Lakini tunda la Roho ni upendo, furaha, amani, uvumilivu, ukarimu, utu wema, imani,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "upole, na kiasi. Hakuna sheria dhidi ya mambo kama hayo.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Wale walio wa Kristo Yesu wameusulubisha mwili pamoja na shauku na tamaa zao mbaya.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Kama tukiishi kwa Roho, pia tutembee kwa Roho.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Tusiwe wa kujivuna, tusichokozane kila mmoja na mwenzake, wala tusioneane wivu.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ndugu, ikiwa mtu amekamatwa katika uovu, ninyi mlio wa kiroho, mnawiwa kumrejesha huyo ndugu katika roho ya upole. Huku mkijiangalia wenyewe ili msijaribiwe.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mchukuliane mizigo, na kwa hiyo mtaikamilisha sheria ya Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ikiwa mtu yeyote anajiona ni bora wakati si kitu, anajidanganya mwenyewe.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Kila mmoja na aipime kazi yake. Kisha atakuwa na kitu mwenyewe peke yake cha kujisifu, bila kujilinganisha mwenyewe na mtu yeyote.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Maana kila mtu atachukua mzigo wake mwenyewe.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mtu aliyefundishwa neno lazima amshirikishe mazuri yote mwalimu wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Msidanganyike. Mungu hadhihakiwi. Kila apandacho mtu, ndicho atakachovuna pia.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Kila apandaye mbegu katika asili yake ya dhambi atavuna uharibifu, lakini yeye apandaye mbegu katika Roho, atavuna uzima wa milele kutoka kwa Roho.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tusichoke katika kutenda mema, maana kwa wakati wake tutavuna ikiwa hatutakata tamaa.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Hivyo basi, wakati tutakapokuwa na nafasi, tutende mema kwa kila mmoja. Tutende mema zaidi hasa kwa walio ndani ya imani.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Angalieni ukubwa wa barua nilizowaandikia kwa mkono wangu mwenyewe.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wale wanaotaka kufanya mema kwa mtazamo wa mwili ndiyo wenye kuwalazimisha mtahiriwe. Wanafanya hivyo kwa sababu wasiingie kwenye mateso ya msalaba wa Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Maana hata hao waliotahiriwa wenyewe hawaishiki sheria. Badala yake wanataka ninyi mtahiriwe ili waweze kujivunia miili yenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Isitokee nikajivuna isipokuwa kwa msalaba wa Bwana wetu Yesu Kristo. Ni katika yeye ulimwengu umesulubiwa kwangu na mimi katika ulimwengu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Kwa kuwa haijalishi kutahiriwa au kutokutahiriwa kuwa ni kitu. Badala yake uzao mpya ni muhimu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Kwa wote wenye kuishi kwa kanuni hii, wawe na amani na rehema iwe juu yao wote, na juu ya Israel ya Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Tangu sasa mtu yeyote asinitaabishe, maana nimebeba chapa za Yesu mwilini mwangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Neema ya Bwana wetu Yesu Kristo iwe na roho zenu, ndugu. Amina.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

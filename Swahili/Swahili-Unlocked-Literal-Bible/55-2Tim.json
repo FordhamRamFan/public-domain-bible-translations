@@ -1,0 +1,534 @@
+{
+  "book": "2 Timothy",
+  "abbreviation": "2Tim",
+  "number": 55,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulo mtume wa Yesu Kristo kwa mapenzi ya Mungu, sawasawa na ahadi ya uzima ulio ndani ya Kristo Yesu,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "kwa Timotheo mwana mpendwa: Neema, rehema na amani toka kwa Mungu Baba na Kristo Yesu Bwana wetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ninamshukuru Mungu, ambaye ninamtumikia kwa nia njema kama walivyofanya baba zangu, ninapokumbuka daima katika maombi yangu. Usiku na",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "mchana ninatamani kukuona, ili kwamba nijawe na furaha. Ninayakumbuka machozi yako.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nimekuwa nikikumbushwa kuhusu imani yako halisi, ambayo hapo kwanza ilikaa kwa bibi yako Loisi na mama yako Yunisi. Na nina hakika ya kwamba imani hiyo inakaa ndani yako pia.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hii ndiyo sababu nakukumbusha kuchochea karama ya Mungu iliyomo ndani yako kwa njia ya kuwekewa mikono yangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa kuwa Mungu hakutupa roho ya woga, bali ya nguvu na upendo na nidhamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Kwa hiyo usiuonee haya ushuhuda kuhusu Bwana wetu, wala wangu mimi Paulo mfungwa wake. Bali ushiriki mateso kwa ajili ya injili sawasawa na uweza wa Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ni Mungu aliyetuokoa na kutuita kwa wito mtakatifu. Hakufanya hivi kulingana na kazi zetu bali kulingana na neema na mpango wake mwenyewe. Alitupatia mambo haya katika Kristo Yesu kabla ya nyakati kuanza.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Lakini sasa wokovu wa Mungu umekwishafunuliwa kwa kuja kwa mwokozi wetu Kristo Yesu. Ni Kristo aliyeikomesha mauti na kuleta uzima usiokoma kwa nuru ya injili.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwa sababu hiyo nilichaguliwa kuwa mhubiri, mtume na mwalimu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kwa sababu hii nateseka pia, lakini sioni haya kwa kuwa namjua yeye niliyekwisha kumuamini. Nina hakika kuwa yeye anaweza kukitunza kile nilichokikabidhi kwake hata siku ile.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ukumbuke mfano wa ujumbe wa uaminifu uliousikia toka kwangu, pamoja na imani na upendo ulio ndani ya Kristo Yesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Yatunze Mambo mazuri aliyokukabidhi Mungu kupitia Roho Mtakatifu aishiye ndani yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Unajua ya kuwa, wote waishio katika Asia waliniacha. Kwenye kundi hili wamo Figelo na Hemogene.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Bwana airehemu nyumba ya Onesiforo kwa kuwa mara nyingi aliniburudisha na hakuionea aibu minyororo yangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Badala yake, alipokuwa Roma alinitafuta kwa bidii na akanipata.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mungu amjalie kupata rehema kutoka kwake siku ile. Kama alivyonisaidia nilipokuwa Efeso, wewe wajua vyema.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Kwa hiyo, wewe mwanangu, utiwe nguvu katika neema iliyondani ya Kristo Yesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Na mambo uliyoyasikia kwangu miongoni mwa mashahidi wengi, uyakabidhi kwa watu waaminifu ambao wataweza kuwafundisha wengine pia.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Shiriki mateso pamoja nami, kama askari mwema wa Kristo Yesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hakuna askari atumikae wakati huo huo akijihusisha na shughuli za kawaida za maisha haya, ili kwamba ampendeze ofisa wake mkuu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Pia kama mtu akishindana kama mwanariadha, hatapewa taji asiposhindana kwa kufuata kanuni.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ni Muhimu kwamba mkulima mwenye bidii awe wa kwanza kupokea mgao wa mazao yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Tafakari kuhusu nisemacho, kwa maana Bwana atakupa uelewa katika mambo yote.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mkumbuke Yesu Kristo, kutoka uzao wa Daudi, ambaye alifufuliwa kutoka kwa wafu. Hii ni kulingana na ujumbe wangu wa Injili,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ambao kwa sababu ya huo ninateswa hata kufungwa minyororo kama mhalifu. Lakini neno la Mungu halifungwi kwa minyororo.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Kwa hiyo, navumilia mambo yote kwa ajili ya wale ambao Mungu amekwishawachagua, ili kwamba nao pia waupate wokovu ulio katika Kristo Yesu pamoja na utukufu wa milele.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Usemi huu ni wakuaminika: “Ikiwa tumekufa pamoja naye, tutaishi pamoja naye pia,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "kama tukivumilia, tutatawala pamoja naye pia, kama tukimkana yeye, naye pia atatukana sisi.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "kama hatutakuwa waaminifu, yeye atabaki kuwa mwaminifu, maana hawezi kujikana mwenyewe.”",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Endelea kuwakumbusha juu ya mambo haya. Waonye mbele za Mungu waache kubishana kuhusu maneno. Kwa sababu hakuna manufaa katika jambo hili. Kutokana na hili kuna uharibifu kwa wale wanaosikiliza.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Fanya bidii kujionesha kuwa umekubalika kwa Mungu kama mtenda kazi asiye na sababu ya kulaumiwa. Litumie neno la kweli kwa usahihi.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Jiepushe na majadiliano ya kidunia, ambayo huongoza kwa zaidi na zaidi ya uasi.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Majadiliano yao yatasambaa kama donda ndugu. Miongoni mwao ni Himenayo na Fileto.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Hawa ni watu walioukosa ukweli. Wanasema ya kuwa ufufuo tayari umishatokea. Wanapindua imani ya baadhi ya watu.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Hata hivyo, msingi imara wa Mungu unasimama, wenye uandishi huu, “Bwana anawajua walio wake, na kila alitajaye jina la Bwana ni lazima ajitenge na udhalimu.”",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Kwenye nyumba ya kitajiri, siyo kwamba vimo vyombo vya dhahabu na shaba tu. Pia kuna vyombo vya miti na udongo. Baadhi ya hivi ni kwa ajili ya matumizi ya heshima na baadhi yake ni kwa matumizi yasiyo ya heshima.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ikiwa mtu atajitakasa mwenyewe kutoka kwenye matumizi yasiyo ya heshima, yeye ni chombo chenye kuheshimika. Ametengwa maalumu, mwenye manufaa kwa Bwana, na ameandaliwa kwa kila kazi njema.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Zikimbie tamaa za ujanani. Ukifuata haki, imani, upendo na amani pamoja na wale wamwitao Bwana kwa moyo safi.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Lakini ukatae upumbavu na maswali ya kipuuzi. Kwani unajua ya kuwa huzaa ugomvi.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Mtumishi wa Bwana hapaswi kugombana, badala yake inampasa kuwa mpole kwa watu wote, awezaye kufundisha, na mvumilivu.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ni lazima awaelimishe kwa upole wale wampingao. Yamkini Mungu aweze kuwapatia toba kwa kuifahamu kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Waweze kupata ufahamu tena na kuepuka mtego wa Shetani, baada ya kuwa wametekwa na yeye kwa ajili ya mapenzi yake.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Lakini fahamu hili: katika siku za mwisho kutakuwa na nyakati ngumu.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "kwa sababu watu watakuwa wenye kujipenda wenyewe, wenye kupenda fedha, wenye kujisifu, wenye majivuno, wenye dhihaka, wasiotii wazazi wao, wasiokuwa na shukurani na waovu.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Wasio na upendo wa asili, wasiotaka kuishi kwa amani na yeyote, wachonganishi, wasingiziaji, wasioweza kujizuia, wenye vurugu, wasiopenda mema.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Watakuwa wasaliti, wakaidi, wenye kujipenda wenyewe na wapenda anasa kuliko kumpenda Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Kwa nje watakuwa na sura ya ucha Mungu, lakini wataikana nguvu yake. Jiepushe na watu hao.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Kwa kuwa baadhi yao ni wanaume wanaoingia kwenye familia za watu na kushawishi wanawake wajinga. Hawa ni wanawake waliojawa dhambi na wenye kuongozwa na tamaa za kila aina.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Wanawake hawa hujifunza siku zote, lakini kamwe hawawezi kuufikia ufahamu wa ile kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Kama vile ambavyo Yane na Yambre walisimama kinyume na Musa. Kwa njia hii walimu hawa wa uongo husimama kinyume na kweli. Ni watu walioharibiwa katika fikira zao, wasiokubalika kuhusiana na imani.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Lakini hawataendelea mbali. Kwa kuwa upumbavu wao utawekwa wazi kwa watu wote, kama ulivyokuwa wa wale watu.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Lakini wewe umeyafuata mafundisho yangu, mwenendo wangu, makusudi yangu, imani yangu, uvumilivu wangu, upendo wangu na ustahimilivu wangu,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "mateso, maumivu na yaliyonipata kule Antiokia, Ikonio na Listra. Niliyavumilia mateso. Bwana aliniokoa katika yote hayo.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wote wanaotaka kuishi katika maisha ya kumcha Mungu katika Kristo Yesu watateswa.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Watu waovu na wadanganyifu watazidi kuwa waovu zaidi. Watawapotosha wengine. Wao wenyewe wamepotoshwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Lakini wewe, dumu katika mambo uliyojifunza na kuyaamini kwa uthabiti. Kwa kuwa unajua umejifunza kwa nani.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Unatambua ya kuwa tangu utotoni mwako uliyajua maandiko matakatifu. Haya yanaweza kukuhekimisha kwa ajili ya wokovu kwa njia ya imani katika kristo Yesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Kila andiko limetiwa pumzi na Mungu. Linafaa kwa mafundisho yenye faida, kwa kushawishi, kwa kurekebisha makosa, na kwa kufundishia katika haki.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hii ni kwamba mtu wa Mungu awe kamili, akiwa amepewa nyenzo zote kwa ajili ya kutenda kila kazi njema.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ninakupa agizo hili lenye uzito mbele za Mungu na Kristo Yesu, atakaye wahukumu walio hai na wafu, na kwa sababu ya kufunuliwa kwake na Ufalme wake:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hubiri Neno. Uwe tayari kwa wakati ufaao na usiofaa. Waambie watu dhambi zao, kemea, himiza, kwa uvumilivu wote na mafundisho.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kwa maana wakati utakuja ambao watu hawatachukuliana na mafundisho ya kweli. Badala yake, watajitafutia walimu wa kufundisha kulingana na tamaa zao. kwa njia hii masikio yao yatakuwa yametekenywa.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Wataacha kusikiliza mafundisho ya kweli, na kugeukia hadithi.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Lakini wewe uwe mwaminifu katika mambo yote, vumilia magumu, fanya kazi ya mwinjilisti; timiza huduma yako.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Kwa maana mimi tayari nimekwisha kumiminwa. Muda wa kuondoka kwangu umewadia.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Nimeshindana katika haki, Mwendo nimeumaliza, Imani nimeilinda.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Taji ya haki imewekwa kwa ajili yangu, ambayo Bwana, anayehukumu kwa haki, atanipa siku ile. Na siyo kwangu tu bali pia kwa wote wanaongojea kwa shauku kuonekana kwake.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Jitahidi kuja kwagu haraka.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Kwa kuwa Dema ameniacha. Anaupenda ulimwengu wa sasa na amekwenda Thesalonike, Kreseni alikwenda Galatia, na Tito alikwenda Dalmatia.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Luka tu ndiye yuko pamoja nami. Umchukue Marko uje naye kwani yeye ni muhimu kwangu katika huduma.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Nimemtuma Tikiko Efeso.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Lile joho ambalo nililiacha Troa kwa Karpo, utakapokuja lilete, pamoja na vile vitabu hasa vile vya ngozi.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Alekizanda mfua chuma alinitendea maovu mengi. Bwana atamlipa kulingana na matendo yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Nawe pia jihadhari naye, kwani aliyapinga sana maneno yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Katika utetezi wangu wa kwanza, hakuna mtu yeyote aliyesimama pamoja nami, badala yake, kila mmoja aliniacha. Mungu asiwahesabie hatia.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Lakini Bwana alisimama pamoja nami, akanitia nguvu ili kwamba kupitia kwangu, neno linenwe kwa ukamilifu na mataifa wapate kusikia. Niliokolewa katika kinywa cha Simba.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Bwana ataniepusha na matendo yote maovu na kuniokoa kwa ajili ya ufalme wake wa mbinguni. Utukufu uwe kwake milele na milele. Amen",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Msalimie Priska, Akila na nyumba ya Onesiforo.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Erasto alibaki huko Korintho, lakini Trifimo nilimuacha Mileto akiwa mgonjwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Fanya hima uje kabla ya kipindi cha baridi. Eubulo anakusalimu, pia Pude, Lino, Claudia na ndugu wote.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Mungu awe pamoja na roho yako, Neema iwe nawe.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
