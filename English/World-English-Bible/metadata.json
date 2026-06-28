@@ -3,5 +3,6 @@
   "abbreviation": "WEB",
   "language": "en",
   "year": 2000,
-  "copyright": "public domain"
+  "license": "public domain",
+  "attribution": null
 }
