@@ -1,0 +1,5715 @@
+{
+  "book": "Proverbs",
+  "abbreviation": "Prov",
+  "number": 20,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "1--9): Varning för de       Detta är Salomos ordspråk, Davids sons, Israels konungs.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Av dem kan man lära vishet och tukt,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "så ock att förstå förståndigt tal. Av dem kan man undfå tuktan till insikt och lära rättfärdighet, rätt och redlighet.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "De kunna giva åt de fåkunniga klokhet, åt den unge kunskap och eftertänksamhet.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Genom att höra på dem förökar den vise sin lärdom och förvärvar den förståndige rådklokhet.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Av dem lär man förstå ordspråk och djupsinnigt tal, de vises ord och deras gåtor.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "HERRENS fruktan är begynnelsen till kunskap; vishet och tuktan föraktas av oförnuftiga.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Hör, min son, din faders tuktan, och förkasta icke din moders undervisning.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ty sådant är en skön krans för ditt huvud och en kedja till prydnad för din hals.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Min son, om syndare locka dig, så följ icke.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Om de säga: »Kom med oss; vi vilja lägga oss på lur efter blod, sätta försåt för de oskyldiga, utan sak;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "såsom dödsriket vilja vi uppsluka dem levande, friska och sunda, såsom fore de ned i graven;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "allt vad dyrbart är skola vi vinna, vi skola fylla våra hus med byte;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "dela du med oss vår lott, alla skola vi hava samma pung» --",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "då, min son, må du ej vandra samma väg som de. Nej, håll din fot ifrån deras stig,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ty deras fötter hasta till vad ont är, och äro snara, när det gäller att utgjuta blod.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ty väl är det fåfängt, då man vill fånga fåglar, att breda ut nätet i hela flockens åsyn.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Men dessa ligga på lur efter sitt eget blod, de sätta försåt för sina egna liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Så går det envar som söker orätt vinning: sin egen herre berövar den livet.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Visheten höjer sitt rop på gatan, på torgen låter hon höra sin röst.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "I bullrande gathörn predikar hon; där portarna i staden öppna sig, där talar hon sina ord:",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Huru länge, I fåkunnige, skolen I älska fåkunnighet? Huru länge skola bespottarna hava sin lust i bespottelse och dårarna hata kunskap?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Vänden om och akten på min tillrättavisning; se, då skall jag låta min ande flöda för eder jag skall låta eder förnimma mina ord.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Eftersom I icke villen höra, när jag ropade, eftersom ingen aktade på, när jag räckte ut min hand,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "eftersom I läten allt mitt råd fara och icke villen veta av min tillrättavisning",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "därför skall ock jag le vid eder ofärd och bespotta, när det kommer, som I frukten,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "ja, när det I frukten kommer såsom ett oväder, när ofärden nalkas eder såsom en storm och över eder kommer nöd och ångest.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Då skall man ropa till mig, men jag skall icke svara, man skall söka mig, men icke finna mig.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Därför att de hatade kunskap och icke funno behag i HERRENS fruktan,",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "ej heller ville följa mitt råd, utan föraktade all min tillrättavisning,",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "därför skola de få äta sina gärningars frukt och varda mättade av sina egna anslag.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Ty av sin avfällighet skola de fåkunniga dräpas. och genom sin säkerhet skola dårarna förgås.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Men den som hör mig, han skall bo i trygghet och vara säker mot olyckans skräck.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Min son, om du tager emot mina ord och gömmer mina bud inom dig,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "så att du låter ditt öra akta på visheten och böjer ditt hjärta till klokheten,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "ja, om du ropar efter förståndet och höjer din röst till att kalla på klokheten,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Om du söker efter henne såsom efter silver och letar efter henne såsom efter en skatt,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "då skall du förstå HERRENS fruktan, och Guds kunskap skall du då finna.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ty HERREN är den som giver vishet; från hans mun kommer kunskap och förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Åt de redliga förvarar han sällhet, han är en sköld för dem som vandra i ostrafflighet,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "ty han beskyddar det rättas stigar, och sina frommas väg bevarar han.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Då skall du förstå rättfärdighet och rätt och redlighet, ja, det godas alla vägar.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ty visheten skall draga in i ditt hjärta och kunskapen kännas ljuvlig för din själ,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "eftertänksamheten skall vaka över dig, klokheten skall beskydda dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Så skall hon rädda dig från de ondas väg, från män som tala vad vrångt är,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "från dem som hava övergivit det rättas stigar. för att färdas på mörkrets vägar,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "från dem som glädjas att göra om och fröjda sig åt ondskans vrånga väsen,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "från dem som gå på krokiga stiga och vandra på förvända vägar.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Så skall hon rädda dig ifrån främmande kvinnor, från din nästas hustru, som talar hala ord,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "från henne som har övergivit sin ungdoms vän och förgätit sin Guds förbund.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ty en sådan sjunker med sitt hus ned i döden, och till skuggornas boning leda hennes stigar.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ingen som har gått in till henne vänder åter Och hittar tillbaka till livets vägar.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ja, så skall du vandra på de godas väg och hålla dig på de rättfärdigas stigar.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ty de redliga skola förbliva boende i landet och de ostraffliga få stanna kvar däri.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Men de ogudaktiga skola utrotas ur landet och de trolösa ryckas bort därur.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Min son, förgät icke min undervisning, och låt ditt hjärta bevara mina bud.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ty långt liv och många levnadsår och frid, mer och mer, skola de bereda dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Låt godhet och sanning ej vika ifrån dig; bind dem omkring din hals, skriv dem på ditt hjärtas tavla;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "så skall du finna nåd och få gott förstånd, i Guds och i människors ögon.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Förtrösta på HERREN av allt ditt hjärta, och förlita dig icke på ditt förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "På alla dina vägar må du akta på honom, så skall han göra dina stigar jämna.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Håll dig icke själv för vis; frukta HERREN, och fly det onda.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Det skall vara ett hälsomedel för din kropp och en vederkvickelse för benen däri.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ära HERREN med dina ägodelar! och med förstlingen av all din gröda,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "så skola dina lador fyllas med ymnighet, och av vinmust skola dina pressar flöda över.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Min son, förkasta icke HERRENS tuktan, och förargas icke, när du agas av honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ty den HERREN älskar, den agar han, likasom en fader sin son, som han har kär.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Säll är den människa som har funnit visheten, den människa som undfår förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ty bättre är att förvärva henne än att förvärva silver, och den vinning hon giver är bättre än guld.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Dyrbarare är hon än pärlor; allt vad härligt du äger går ej upp emot henne.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Långt liv bär hon i sin högra hand, i sin vänstra rikedom och ära.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hennes vägar äro ljuvliga vägar, och alla hennes stigar äro trygga.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ett livets träd är hon för dem som få henne fatt, och sälla må de prisa, som hålla henne kvar.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Genom vishet har HERREN lagt jordens grund, himmelen har han berett med förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Genom hans insikt bröto djupens vatten fram, och genom den låta skyarna dagg drypa ned.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Min son, låt detta icke vika ifrån dina ögon, tag klokhet och eftertänksamhet i akt;",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "så skola de lända din själ till liv bliva ett smycke för din hals.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Då skall du vandra din väg fram i trygghet, och din fot skall du då icke stöta.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "När du lägger dig, skall intet förskräcka dig, och sedan du har lagt dig, skall du sova sött.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Du behöver då ej frukta för plötslig skräck, ej för ovädret, när det kommer över de ogudaktiga.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ty HERREN skall då vara ditt hopp, och han skall bevara din fot för snaran.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Neka icke den behövande din hjälp, är det står i din makt att giva den.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Säg icke till din nästa: »Gå din väg och kom igen; i morgon vill jag giva dig», fastän du kunde strax.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Stämpla intet ont mot din nästa, när han menar sig bo trygg i din närhet.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Tvista icke med någon utan sak, då han icke har gjort dig något ont.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Avundas icke den orättrådige, och finn ej behag i någon av hans vägar.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Ty en styggelse för HERREN är den vrånge, men med de redliga har han sin umgängelse.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "HERRENS förbannelse vilar över den ogudaktiges hus, men de rättfärdigas boning välsignar han.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Har han att skaffa med bespottare, så bespottar också han; men de ödmjuka giver han nåd.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "De visa få ära till arvedel, men dårarna få uppbära skam.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hören, I barn, en faders tuktan, och akten därpå, så att I lären förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ty god lärdom giver jag eder; min undervisning mån I icke låta fara.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ty själv har jag varit barn och haft en fader, varit späd och för min moder ende sonen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Då undervisade han mig och sade till mig:  Låt ditt hjärta hålla fast vid mina ord; bevara mina bud, så får du leva.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Sök förvärva vishet, sök förvärva förstånd, förgät icke min muns tal och vik icke därifrån.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Övergiv henne icke, så skall hon bevara dig; älska henne, så skall hon beskydda dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Vishetens begynnelse är: »Sök förvärva vishet»; ja, för allt ditt förvärv sök förvärva förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Akta henne högt, så skall hon upphöja dig; hon skall göra dig ärad, om du sluter henne i din famn.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Hon skall sätta på ditt huvud en skön krans; en ärekrona skall hon räcka åt dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Hör, min son, och tag emot mina ord, så skola dina levnadsår bliva många.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Om vishetens väg undervisar jag dig, jag leder dig på det rättas stigar.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "När du går, skall sedan intet vara till hinder för dina steg, och när du löper, skall du icke falla;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "håll blott oavlåtligt fast vid min tuktan; bevara henne, ty hon är ditt liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Träd icke in på de ogudaktigas stig, och skrid icke fram på de ondas väg.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Undfly den, gå ej in på den, vik av ifrån den och gå undan.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ty de kunna icke sova, om de ej få göra vad ont är, sömnen förtages dem, om de ej få vålla någons fall.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ja, ogudaktighet är det bröd som de äta, och våld är det vin som de dricka.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "De rättfärdigas stig är lik gryningens ljus, som växer i klarhet, till dess dagen når sin höjd;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "men de ogudaktigas väg är såsom tjocka mörkret: de märka icke det som skall vålla deras fall.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Min son, akta på mitt tal, böj ditt öra till mina ord.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Låt dem icke vika ifrån dina ögon, bevara dem i ditt hjärtas djup.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ty de äro liv för envar som finner dem, och en läkedom för hela hans kropp.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Framför allt som skall bevaras må du bevara ditt hjärta, ty därifrån utgår livet.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Skaffa bort ifrån dig munnens vrånghet, och låt läpparnas falskhet vara fjärran ifrån dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Låt dina ögon skåda rätt framåt och dina blickar vara riktade rakt ut.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Akta på den stig där din fot går fram, och låt alla dina vägar vara rätta.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Vik ej av, vare sig till höger eller till vänster, vänd din fot bort ifrån vad ont är.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Min son, akta på min vishet, böj ditt öra till mitt förstånd,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "så att du bevarar eftertänksamhet och låter dina läppar taga kunskap i akt.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Se, av honung drypa en trolös kvinnas läppar, och halare än olja är hennes mun.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Men på sistone bliver hon bitter såsom malört och skarp såsom ett tveeggat svärd.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Hennes fötter styra nedåt mot döden till dödsriket draga hennes steg.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Livets väg vill hon ej akta på; hennes stigar äro villostigar, fastän hon ej vet det.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Så hören mig nu, I barn, och viken icke ifrån min muns tal.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Låt din väg vara fjärran ifrån henne, och nalkas icke dörren till hennes hus.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Må du ej åt andra få offra din ära, ej dina år åt en som hämnas grymt;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "må icke främmande få mätta sig av ditt gods och dina mödors frukt komma i en annans hus,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "så att du själv på sistone måste sucka, när ditt hull och ditt kött är förtärt.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "och säga: »Huru kunde jag så hata tuktan, huru kunde mitt hjärta så förakta tillrättavisning!",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Varför lyssnade jag icke till mina lärares röst, och böjde icke mitt öra till dem som ville undervisa mig?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Föga fattas nu att jag har drabbats av allt vad ont är, mitt i församling och menighet.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Drick vatten ur din egen brunn det vatten som rinner ur din egen källa.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Icke vill du att dina flöden skola strömma ut på gatan, dina vattenbäckar på torgen?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Nej, dig allena må de tillhöra, och ingen främmande jämte dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Din brunn må vara välsignad, och av din ungdoms hustru må du hämta din glädje;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "hon, den älskliga hinden, den täcka gasellen, hennes barm förnöje dig alltid, i hennes kärlek finne du ständig din lust.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Min son, icke skall du hava din lust i en främmande kvinna? Icke skall du sluta din nästas hustru i din famn?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Se, för HERRENS ögon ligga var människas vägar blottade, och på alla hennes stigar giver han akt.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Den ogudaktige fångas av sina egna missgärningar och fastnar i sin egen synds snaror.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Han måste dö, därför att han icke lät tukta sig; ja, genom sin stora dårskap kommer han på fall.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Min son, om du har gått i borgen för din nästa och givit ditt handslag för en främmande,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "om du har blivit bunden genom din muns tal, ja, fångad genom din muns tal,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "då, min son, må du göra detta för att rädda dig, eftersom du har kommit i din nästas våld: gå och kasta dig ned för honom och ansätt honom,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "unna dina ögon ingen sömn och dina ögonlock ingen slummer.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Sök räddning såsom en gasell ur jägarens våld, och såsom en fågel ur fågelfängarens våld.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Gå bort till myran, du late; se huru hon gör, och bliv vis.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Hon har ingen furste över sig, ingen tillsyningsman eller herre;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "dock bereder hon om sommaren sin föda och samlar under skördetiden in sin mat.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Huru länge vill du ligga, du late? När vill du stå upp ifrån din sömn?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ja, sov ännu litet, slumra ännu litet, lägg ännu litet händerna i kors för att vila,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "så skall fattigdomen komma över dig såsom en rövare och armodet såsom en väpnad man.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "En fördärvlig människa, ja, en ogärningsman är den som går omkring med vrånghet i munnen,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "som blinkar med ögonen, skrapar med fötterna, giver tecken med fingrarna.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Svek bär en sådan i sitt hjärta, ont bringar han alltid å bane, trätor kommer han åstad.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Därför skall ofärd plötsligt komma över honom; oförtänkt varder han krossad utan räddning.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sex ting är det som HERREN hatar, ja, sju äro styggelser för hans själ",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "stolta ögon, en lögnaktig tunga, händer som utgjuta oskyldigt blod,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "ett hjärta som hopsmider fördärvliga anslag, fötter som äro snara till att löpa efter vad ont är,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "den som främjar lögn genom falskt vittnesbörd, och den som vållar trätor mellan bröder.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Min son, bevara din faders bud, och förkasta icke din moders undervisning.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Hav dem alltid bundna vid ditt hjärta, fäst dem omkring din hals.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "När du går, må de leda dig, när du ligger, må de vaka över dig, och när du vaknar upp, må de tala till dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ty budet är en lykta och undervisningen ett ljus, och tillrättavisningar till tukt äro en livets väg.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "De kunna bevara dig för onda kvinnor, för din nästas hustrus hala tunga.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Hav icke begärelse i ditt hjärta till hennes skönhet, och låt henne icke fånga dig med sina blickar.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ty för skökan måste du lämna din sista brödkaka, och den gifta kvinnan går på jakt efter ditt dyra liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Kan väl någon hämta eld i sitt mantelveck utan att hans kläder bliva förbrända?",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Eller kan någon gå på glödande kol, utan att hans fötter varda svedda?",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Så sker ock med den som går in till sin nästas hustru; ostraffad bliver ingen som kommer vid henne.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Föraktar man icke tjuven som stjäl för att mätta sitt begär, när han hungrar?",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Och han måste ju, om han ertappas, betala sjufalt igen och giva allt vad han äger i sitt hus.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Så är ock den utan förstånd, som förför en annans hustru; ja, en självspilling är den som sådant gör.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Plåga och skam är vad han vinner, och hans smälek utplånas icke.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Ty svartsjuk är mannens vrede, och han skonar icke på hämndens dag;",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "lösepenning aktar han alls icke på, och bryr sig ej om att du bjuder stora skänker.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Min son, tag vara på mina ord, och göm mina bud inom dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Håll mina bud, så får du leva, och bevara min undervisning såsom din ögonsten.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Bind dem vid dina fingrar, skriv dem på ditt hjärtas tavla.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Säg till visheten: »Du är min syster», och kalla förståndet din förtrogna,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "så att de bevara dig för främmande kvinnor, för din nästas hustru, som talar hala ord.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ty ut genom fönstret i mitt hus, fram genom gallret där blickade jag;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "då såg jag bland de fåkunniga, jag blev varse bland de unga en yngling utan förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Han gick fram på gatan invid hörnet där hon bodde, på vägen till hennes hus skred han fram,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "skymningen, på aftonen av dagen, nattens dunkel, när mörker rådde",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Se, då kom där en kvinna honom till mötes; hennes dräkt var en skökas, och hennes hjärta illfundigt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Yster och lättsinnig var hon, hennes fötter hade ingen ro i hennes hus.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Än var hon på gatan, än var hon på torgen vid vart gathörn stod hon på lur.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Hon tog nu honom fatt och kysste honom och sade till honom med fräckhet i sin uppsyn:",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "»Tackoffer har jag haft att frambära; i dag har jag fått infria mina löften.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Därför gick jag ut till att möta dig jag ville söka upp dig, och nu ha jag funnit dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Jag har bäddat min säng med sköna täcken, med brokigt linne från Egypten.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Jag har bestänkt min bädd med myrra, med aloe och med kanel.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Kom, låt oss förnöja oss med kärlek intill morgonen, och förlusta oss med varandra i älskog.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ty min man är nu icke hemma han har rest en lång väg bort.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sin penningpung tog han med sig; först vid fullmånstiden kommer han hem.»",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Så förleder hon honom med allahanda fagert tal; genom sina läppars halhet förför hon honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Han följer efter henne med hast, lik oxen som går för att slaktas, och lik fången som föres bort till straffet för sin dårskap;",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "ja, han följer, till dess pilen genomborrar hans lever, lik fågeln som skyndar till snaran, utan att förstå att det gäller dess liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Så hören mig nu, I barn, och given akt på min muns tal.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Låt icke ditt hjärta vika av till hennes vägar, och förvilla dig ej in på hennes stigar.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ty många som ligga slagna äro fällda av henne, och stor är hopen av dem hon har dräpt.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Genom hennes hus gå dödsrikets vägar, de som föra nedåt till dödens kamrar.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Hör, visheten ropar, och förståndet höjer sin röst.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Uppe på höjderna står hon, vid vägen, där stigarna mötas.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Invid portarna, vid ingången till staden där man träder in genom dörrarna, höjer hon sitt rop:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Till eder, I man, vill jag ropa, och min röst skall utgå till människors barn.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Lären klokhet, I fåkunnige, och I dårar, lären förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hören, ty om höga ting vill jag tala, och mina läppar skola upplåta sig till att säga vad rätt är.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ja, sanning skall min mun tala, en styggelse för mina läppar är ogudaktighet.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Rättfärdiga äro alla min muns ord; i dem finnes intet falskt eller vrångt.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "De äro alla sanna för den förståndige och rätta för dem som hava funnit kunskap.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Så tagen emot min tuktan hellre än silver, och kunskap hellre än utvalt guld.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ty visheten är bättre än pärlor; allt vad härligt som finnes går ej upp emot henne.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Jag, visheten, är förtrogen med klokheten, och jag råder över eftertänksam insikt.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Att frukta HERREN är att hata det onda; ja, högfärd, högmod, en ond vandel och en ränkfull mun, det hatar jag.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Hos mig finnes råd och utväg; jag är förstånd, hos mig är makt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Genom mig regera konungarna och stadga furstarna vad rätt är.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Genom mig härska härskarna och hövdingarna, ja, alla domare på jorden.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Jag älskar dem som älska mig, och de som söka mig, de finna mig.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Rikedom och ära vinnas hos mig, ädla skatter och rättfärdighet.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Min frukt är bättre än guld, ja, finaste guld och den vinning jag skänker bättre än utvalt silver.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "På rättfärdighetens väg går jag fram, mitt på det rättas stigar,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "till att giva dem som älska mig en rik arvedel och till att fylla deras förrådshus.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "HERREN skapade mig såsom sitt förstlingsverk, i urminnes tid, innan han gjorde något annat.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Från evighet är jag insatt, från begynnelsen, ända ifrån jordens urtidsdagar.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Innan djupen voro till, blev jag född, innan källor ännu funnos, fyllda med vatten",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Förrän bergens grund var lagd, förrän höjderna funnos, blev jag född,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "när han ännu icke hade skapat land och mark, ej ens det första av jordkretsens stoft.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "När han beredde himmelen, var jag tillstädes, när han spände ett valv över djupet,",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "när han fäste skyarna i höjden, när djupets källor bröto fram med makt,",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "när han satte för havet dess gräns, så att vattnet icke skulle överträda hans befallning, när han fastställde jordens grundvalar --",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "då fostrades jag såsom ett barn hos honom, då hade jag dag efter dag min lust och min lek inför hans ansikte beständigt;",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "jag hade min lek på hans jordkrets och min lust bland människors barn.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Så hören mig nu, I barn, ty saliga äro de som hålla mina vägar.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Hören tuktan, så att I bliven visa, ja, låten henne icke fara.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Säll är den människa som hör mig, så att hon vakar vid mina dörrar dag efter dag och håller vakt vid dörrposterna i mina portar.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Ty den som finner mig, han finner livet och undfår nåd från HERREN.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Men den som går miste om mig han skadar sig själv; alla de som hata mig, de älska döden.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Visheten har byggt sig ett hus, hon har huggit ut sitt sjutal av pelare.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hon har slaktat sin boskap, blandat sitt vin, hon har jämväl dukat sitt bord",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Sina tjänarinnor har hon utsänt och låter ropa ut sin bjudning uppe på stadens översta höjder:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "»Den som är fåkunnig, han komme hit.» Ja, till den oförståndige säger hon så:",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "»Kommen och äten av mitt bröd, och dricken av vinet som jag har blandat.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Övergiven eder fåkunnighet, så att I fån leva, och gån fram på förståndets väg.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "(Den som varnar en bespottare, han får skam igen, och den som tillrättavisar en ogudaktig får smälek därav.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Tillrättavisa icke bespottaren, på det att han icke må hata dig; tillrättavisa den som är vis, så skall han älska dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Giv åt den vise, så bliver han ännu visare; undervisa den rättfärdige, så lär han än mer.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "HERRENS fruktan är vishetens begynnelse, och att känna den Helige är förstånd.)",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ty genom mig skola dina dagar bliva många och levnadsår givas dig i förökat mått.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Är du vis, så är din vishet dig själv till gagn, och är du en bespottare, så umgäller du det själv allena.»",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "En dåraktig, yster kvinna är fåkunnigheten, och intet förstå hon.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Hon har satt sig vid ingången till sitt hus, på sin stol, högt uppe i staden,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "för att ropa ut sin bjudning till dem som färdas på vägen, dem som där vandra sin stig rätt fram:",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "»Den som är fåkunnig, han komme hit.» Ja, till den oförståndige säger hon så:",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "»Stulet vatten är sött, bröd i lönndom smakar ljuvligt.»",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "han vet icke att det bär till skuggornas boning, hennes gäster hamna i dödsrikets djup.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Detta är Salomos ordspråk.  En vis son gör sin fader glädje, men en dåraktig son är sin moders bedrövelse.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ogudaktighetens skatter gagna till intet men rättfärdigheten räddar från döden.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "HERREN lämnar ej den rättfärdiges hunger omättad, men de ogudaktigas lystnad avvisar han.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Fattig bliver den som arbetar med lat hand, men de idogas hand skaffar rikedom.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "En förståndig son samlar om sommaren, men en vanartig son sover i skördetiden.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Välsignelser komma över den rättfärdiges huvud, men de ogudaktigas mun gömmer på orätt.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Den rättfärdiges åminnelse lever i välsignelse, men de ogudaktigas namn multnar bort.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Den som har ett vist hjärta tager emot tillsägelser, men den som har oförnuftiga läppar går till sin undergång.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Den som vandrar i ostrafflighet, han vandrar trygg, men den som går vrånga vägar, han bliver röjd.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Den som blinkar med ögonen, han kommer ont åstad, och den som har oförnuftiga läppar går till sin undergång.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Den rättfärdiges mun är en livets källa, men de ogudaktigas mun gömmer på orätt.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hat uppväcker trätor, men kärlek skyler allt som är brutet.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "På den förståndiges läppar finner man vishet, men till den oförståndiges rygg hör ris.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "De visa gömma på sin kunskap, men den oförnuftiges mun är en överhängande olycka.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Den rikes skatter äro honom en fast stad, men de armas fattigdom är deras olycka.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Den rättfärdiges förvärv bliver honom till liv; den ogudaktiges vinning bliver honom till synd.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Att taga vara på tuktan är vägen till livet, men den som ej aktar på tillrättavisning, han far vilse.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Den som gömmer på hat är en lögnare med sina läppar, och den som utsprider förtal, han är en dåre.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Där många ord äro bliver överträdelse icke borta; men den som styr sina läppar, han är förståndig.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Den rättfärdiges tunga är utvalt silver, men de ogudaktigas förstånd är föga värt.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Den rättfärdiges läppar vederkvicka många, men de oförnuftiga dö genom brist på förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Det är HERRENS välsignelse som giver rikedom, och egen möda lägger intet därtill",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Dårens fröjd är att öva skändlighet, men den förståndiges är att vara vis.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Vad den ogudaktige fruktar, det vederfares honom, och vad de rättfärdiga önska, del varder dem givet.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "När stormen kommer, är det ute med den ogudaktige; men den rättfärdige är en grundval som evinnerligen består.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Såsom syra för tänderna och såsom rök för ögonen, så är den late för den som har sänt honom åstad.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "HERRENS fruktan förlänger livet men de ogudaktigas år varda förkortade.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "De rättfärdigas väntan får en glad fullbordan, men de ogudaktigas hopp varder om intet.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "HERRENS vägar äro den ostraffliges värn, men till olycka för ogärningsmännen.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Den rättfärdige skall aldrig vackla men de ogudaktiga skola icke förbliva boende i landet.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Den rättfärdiges mun bär vishet såsom frukt, men en vrång tunga bliver utrotad.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Den rättfärdiges läppar förstå vad välbehagligt är, men de ogudaktigas mun är idel vrånghet.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Falsk våg är en styggelse för HERREN, men full vikt behagar honom väl.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "När högfärd kommer, kommer ock smälek, men hos de ödmjuka är vishet.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "De redligas ostrafflighet vägleder dem, men de trolösas vrånghet är dem till fördärv.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Gods hjälper intet på vredens dag men rättfärdighet räddar från döden.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Den ostraffliges rättfärdighet gör hans väg jämn, men genom sin ogudaktighet faller den ogudaktige.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De redligas rättfärdighet räddar dem, men de trolösa fångas genom sin egen lystnad.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "När en ogudaktig dör, varder hans hopp om intet; ja, ondskans väntan bliver om intet.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Den rättfärdige räddas ur nöden, och den ogudaktige får träda i hans ställe.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Genom sin mun fördärvar den gudlöse sin nästa, men genom sitt förstånd bliva de rättfärdiga räddade.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "När det går de rättfärdiga väl, fröjdar sig staden, och när de ogudaktiga förgås, råder jubel.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Genom de redligas välsignelse varder en stad upphöjd, men genom de ogudaktigas mun brytes den ned.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Den är utan vett, som visar förakt för sin nästa; en man med förstånd tiger stilla.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Den som går med förtal, han förråder din hemlighet, den som har ett trofast hjärta döljer vad han får veta.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Där ingen rådklokhet finnes kommer folket på fall, där de rådvisa äro många, där går det väl.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "En som går i borgen för en annan, honom går det illa, den som skyr att giva handslag, han är trygg.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "En skön kvinna vinner ära, och våldsverkare vinna rikedom.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "En barmhärtig man gör väl mot sig själv men den grymme misshandlar sitt eget kött.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Den ogudaktige gör en bedräglig vinst, men den som utsår rättfärdighet får en säker lön.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Den som står fast i rättfärdighet, han vinner liv, men den som far efter ont drager över sig död.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "En styggelse för HERREN äro de vrånghjärtade, men de vilkas väg är ostrafflig behaga honom väl.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "De onda bliva förvisso icke ostraffade, men de rättfärdigas avkomma får gå fri.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Såsom en gyllene ring i svinets tryne, så är skönhet hos en kvinna som saknar vett.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Vad de rättfärdiga önska får i allo en god fullbordan, men vad de ogudaktiga kunna hoppas är vrede.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den ene utströr och får dock mer, den andre spar över hövan, men bliver allenast fattigare.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Den frikostige varder rikligen mättad, och den som vederkvicker andra, han bliver själv vederkvickt.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Den som håller inne sin säd, honom förbannar folket, den som lämnar ut sin säd, över hans huvud kommer välsignelse.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Den som vinnlägger sig om vad gott är, han strävar efter nåd, men den son söker vad ont är, över honom kommer ock ont.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Den som förtröstar på sin rikedom, han kommer på fall, men de rättfärdiga skola grönska likasom löv.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Den som drager olycka över sitt hus, han får vind till arvedel, och den oförnuftige bliver träl åt den som har ett vist hjärta.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Den rättfärdiges frukt är ett livets träd, och den som är vis, han vinner hjärtan.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Se, den rättfärdige får sin lön på jorden; huru mycket mer då den ogudaktige och syndaren!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Den som älskar tuktan, han älskar kunskap, men oförnuftig är den som hatar tillrättavisning.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Den gode undfår nåd av HERREN, men den ränkfulle varder av honom fördömd.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ingen människa bliver beståndande genom ogudaktighet, men de rättfärdigas rot kan icke rubbas.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "En idog hustru är sin mans krona, men en vanartig är såsom röta i hans ben.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "De rättfärdigas tankar gå ut på vad rätt är, men de ogudaktigas rådklokhet går ut på svek.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De ogudaktigas ord ligga på lur efter blod, men de redliga räddas genom sin mun.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "De ogudaktiga varda omstörtade och äro så icke mer, men de rättfärdigas hus består.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "I mån av sitt vett varder en man prisad, men den som har ett förvänt förstånd, han bliver föraktad.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Bättre är en ringa man, som likväl har en tjänare, än den som vill vara förnäm och saknar bröd.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Den rättfärdige vet huru hans boskap känner det, men de ogudaktigas hjärtelag är grymt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Den som brukar sin åker får bröd till fyllest, men oförståndig är den som far efter fåfängliga ting.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Den ogudaktige vill in i det nät som fångar de onda, men de rättfärdigas rot skjuter skott.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Den som är ond bliver snärjd i sina läppars synd, men den rättfärdige undkommer ur nöden",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sin muns frukt får envar njuta sig fullt till godo, och vad en människas händer hava förövat, det varder henne vedergällt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Den oförnuftige tycker sin egen väg vara den rätta, med den som är vis lyssnar till råd.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Den oförnuftiges förtörnelse bliver kunnig samma dag, men den som är klok, han döljer sin skam",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Den som talar vad rätt är, han främjar sanning, men ett falskt vittne talar svek.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mången talar i obetänksamhet ord som stinga likasom svärd, men de visas tunga är en läkedom.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Sannfärdiga läppar bestå evinnerligen, men en lögnaktig tunga allenast ett ögonblick.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "De som bringa ont å bane hava falskhet i hjärtat, men de som stifta frid, de undfå glädje.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Intet ont vederfares den rättfärdige, men över de ogudaktiga kommer olycka i fullt mått.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "En styggelse för HERREN äro lögnaktiga låppar, men de som handla redligt behaga honom väl.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "En klok man döljer sin kunskap, men dårars hjärtan ropa ut sitt oförnuft.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "De idogas hand kommer till välde, men en lat hand måste göra trältjänst.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Sorg i en mans hjärta trycker det ned, men ett vänligt ord skaffar det glädje.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Den rättfärdige visar sin vän till rätta, men de ogudaktigas väg för dem själva vilse.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Den late får icke upp något villebråd, men idoghet är för människan en dyrbar skatt.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "På rättfärdighetens väg är liv, och där dess stig går fram är frihet ifrån död.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "En vis son hör på sin faders tuktan, men en bespottare hör icke på någon näpst.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Sin muns frukt får envar njuta sig till godo, de trolösa hungra efter våld.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Den som bevakar sin mun, han bevarar sitt liv, men den som är lösmunt kommer i olycka",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Den late är full av lystnad, och han får dock intet, men de idogas hunger varder rikligen mättad.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Den rättfärdige skyr lögnaktigt tal, men den ogudaktige är förhatlig och skändlig.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Rättfärdighet bevarar den vilkens väg är ostrafflig, men ogudaktighet kommer syndarna på fall.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Den ene vill hållas för rik och har dock alls intet, den andre vill hållas för fattig och har dock stora ägodelar.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Den rike måste giva sin rikedom såsom lösepenning för sitt liv, den fattige hör icke av något",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "De rättfärdigas ljus brinner glatt, men de ogudaktigas lampa slocknar ut.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Genom övermod kommer man allenast split åstad, men hos dem som taga emot råd är vishet.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Lättfånget gods försvinner, men den som samlar efter hand får mycket.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Förlängd väntan tär på hjärtat, men en uppfylld önskan är ett livets träd.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Den som föraktar ordet hemfaller åt dess dom, men den som fruktar budet, han får vedergällning.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Den vises undervisning är en livets källa; genom den undviker man dödens snaror.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ett gott förstånd bereder ynnest, men de trolösas väg är alltid sig lik.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Var och en som är klok går till väga med förstånd, men dåren breder ut sitt oförnuft.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "En ogudaktig budbärare störtar i olycka, men ett tillförlitligt sändebud är en läkedom.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Fattigdom och skam får den som ej vill veta av tuktan, men den som tager vara på tillrättavisning, han kommer till ära.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Uppfylld önskan är ljuvlig för själen, men att fly det onda är en styggelse för dårar.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Hav din umgängelse med de visa, så varder du vis; den som giver sig i sällskap med dårar, honom går det illa.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Syndare förföljas av olycka, men de rättfärdiga få till lön vad gott är.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Den gode lämnar arv åt barnbarn, men syndarens gods förvaras åt den rättfärdige.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "De fattigas nyodling giver riklig föda, men mången förgås genom sin orättrådighet.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den som spar sitt ris, han hatar sin son, men den som älskar honom agar honom i tid.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Den rättfärdige får äta, så att hans hunger bliver mättad, men de ogudaktigas buk måste lida brist.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Genom visa kvinnor varder huset uppbyggt, men oförnuft river ned det med egna händer.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Den som fruktar HERREN, han vandrar i redlighet, men den som föraktar honom, han går krokiga vägar.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "I den oförnuftiges mun är ett gissel för hans högmod, men de visa bevaras genom sina läppar.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Där inga dragare finnas, där förbliver krubban tom, men riklig vinning får man genom oxars kraft.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ett sannfärdigt vittne ljuger icke, men ett falskt vittne främjar lögn.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Bespottaren söker vishet och finner ingen, men för den förståndige är kunskap lätt.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Gå bort ifrån den man som är dåraktig; aldrig fann du på hans läppar något förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Det är den klokes vishet, att han aktar på sin väg, men det är dårars oförnuft, att de öva svek.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "De oförnuftiga bespottas av sitt eget skuldoffer, men bland de redliga råder gott behag.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Hjärtat känner självt bäst sin egen sorg, ej heller kan en främmande intränga i dess glädje.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "De ogudaktigas hus förödes, men de rättsinnigas hydda blomstrar.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mången håller sin väg för den i rätta, men på sistone leder den dock till döden.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mitt under löjet kan hjärtat sörja, och slutet på glädjen bliver bedrövelse.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Av sina gärningars frukt varder den avfällige mättad, och den gode bliver upphöjd över honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Den fåkunnige tror vart ord, men den kloke aktar på sina steg.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Den vise tager sig till vara och flyr det onda, men dåren är övermodig och sorglös.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Den som är snar till vrede gör vad oförnuftigt är, och en ränkfull man bliver hatad.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "De fåkunniga hava fått oförnuft till sin arvedel, men de kloka bliva krönta med kunskap.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "De onda måste falla ned inför de goda, och de ogudaktiga vid den rättfärdiges portar.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Jämväl av sina närmaste är den fattige hatad, men den rike har många vänner.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Den som visar förakt för sin nästa, han begår synd, men säll är den som förbarmar sig över de betryckta.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "De som bringa ont å bane skola förvisso fara vilse, men barmhärtighet och trofasthet röna de som bringa gott å bane.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Av all möda kommer någon vinning, men tomt tal är ren förlust.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "De visas rikedom är för dem en krona men dårarnas oförnuft förbliver oförnuft.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ett sannfärdigt vittne räddar liv, men den som främjar lögn, han är full av svek.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Den som fruktar HERREN har ett tryggt fäste, och hans barn få där en tillflykt.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "I HERRENS fruktan är en livets källa genom dem undviker man dödens snaror",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Att hava många undersåtar är en konungs härlighet, men brist på folk är en furstes olycka.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Den som är tålmodig visar gott förstånd, men den som är snar till vrede går långt i oförnuft.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Ett saktmodigt hjärta är kroppens liv, men bittert sinne är röta i benen.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Den som förtrycker den arme smädar hans skapare, men den som förbarmar sig över de fattiga, han ärar honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Genom sin ondska kommer de ogudaktige på fall, men den rättfärdige är frimodig in i döden.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "I den förståndiges hjärta bor visheten, och i dårarnas krets gör hon sig kunnig.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Rättfärdighet upphöjer ett folk men synd är folkens vanära.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "En förståndig tjänare behaga konungen väl, men över en vanartig skall han vrede komma.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ett mjukt svar stillar vrede, men ett hårt ord kommer harm åstad.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "De visas tunga meddelar god kunskap, men dårars mun flödar över av oförnuft.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "HERRENS ögon äro överallt; de giva akt på både onda och goda.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "En saktmodig tunga är ett livets träd, men en vrång tunga giver hjärtesår.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Den oförnuftige föraktar sin faders tuktan, men den som tager vara på tillrättavisning, han varder klok.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Den rättfärdiges hus gömmer stor rikedom, men i de ogudaktigas vinning är olycka.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "De visas läppar strö ut kunskap, men dårars hjärtan äro icke såsom sig bör.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "De ogudaktigas offer är en styggelse för HERREN, men de redligas bön behagar honom väl.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "En styggelse för HERREN är den ogudaktiges väg, men den som far efter rättfärdighet, honom älskar han.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Svår tuktan drabbar den som övergiver vägen; den som hatar tillrättavisning, han måste dö.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Dödsriket och avgrunden ligga uppenbara inför HERREN; huru mycket mer då människornas hjärtan!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Bespottaren finner ej behag i tillrättavisning; till dem som äro visa går han icke.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ett glatt hjärta gör ansiktet ljust, men vid hjärtesorg är modet brutet.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Den förståndiges hjärta söker kunskap, men dårars mun far med oförnuft.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Den betryckte har aldrig en glad dag, men ett gott mod är ett ständigt gästabud.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Bättre är något litet med HERRENS fruktan än en stor skatt med oro.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Bättre är ett fat kål med kärlek än en gödd oxe med hat.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "En snarsticken man uppväcker träta, men en tålmodig man stillar kiv.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Den lates stig är såsom spärrad av törne, men de redliga hava en banad stig.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "En vis son gör sin fader glädje, och en dåraktig människa är den som föraktar sin moder.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "I oförnuft har den vettlöse sin glädje, men en förståndig man går sin väg rätt fram.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Där rådplägning fattas varda planerna om intet, men beståndande bliva de, där de rådvisa äro många.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "En man gläder sig, när hans mun kan giva svar; ja, ett ord i sinom tid, det är gott.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den förståndige vandrar livets väg uppåt, Då att han undviker dödsriket därnere.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Den högmodiges hus rycker HERREN bort, men änkans råmärke låter han stå fast.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "För HERREN äro ondskans anslag en styggelse, men milda ord rena.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Den som söker orätt vinning drager olycka över sitt hus, men den som hatar mutor, han får leva.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Den rättfärdiges hjärta betänker vad svaras bör, men de ogudaktigas mun flödar över av onda ord.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "HERREN är fjärran ifrån de ogudaktiga, men de rättfärdigas bön hör han.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "En mild blick gör hjärtat glatt, ett gott budskap giver märg åt benen.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Den vilkens öra hör på hälsosam tillrättavisning, han skall få dväljas i de vises krets.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Den som ej vill veta av tuktan frågar icke efter sitt liv, men den som hör på tillrättavisning, han förvärvar förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "HERRENS fruktan är en tuktan till vishet, och ödmjukhet går före ära.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "En människa gör upp planer i sitt hjärta, men från HERREN kommer vad tungan svarar.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Var man tycker sina vägar vara goda, men HERREN är den som prövar andarna.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Befall dina verk åt HERREN, så hava dina planer framgång.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "HERREN har gjort var sak för dess särskilda mål, så ock den ogudaktige för olyckans dag.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "En styggelse för HERREN är var högmodig man; en sådan bliver förvisso icke ostraffad.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Genom barmhärtighet och trofasthet försonas missgärning, och genom HERRENS fruktan undflyr man det onda.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Om en mans vägar behaga HERREN väl så gör han ock hans fiender till hans vänner.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Bättre är något litet med rättfärdighet än stor vinning med orätt.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Människans hjärta tänker ut en väg, men HERREN är den som styr hennes steg.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Gudasvar är på konungens läppar, i domen felar icke hans mun.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Våg och rätt vägning äro från HERREN, alla vikter i pungen äro hans verk.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "En styggelse för konungar äro ogudaktiga gärningar, ty genom rättfärdighet bliver tronen befäst.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Rättfärdiga läppar behaga konungar väl, Och den som talar vad rätt är, han bliver älskad.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Konungens vrede är dödens förebud, men en vis man blidkar den.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "När konungen låter sitt ansikte lysa, är där liv, och hans välbehag är såsom ett moln med vårregn.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Långt bättre är att förvärva vishet än guld förstånd är mer värt att förvärvas än silver.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "De redligas väg är att fly det onda; den som aktar på sin väg, han bevarar sitt liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Stolthet går före undergång, och högmod går före fall.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Bättre är att vara ödmjuk bland de betryckta än att utskifta byte med de högmodiga.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Den som aktar på ordet, han finner lycka, och säll är den som förtröstar på HERREN.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Den som har ett vist hjärta, honom kallar man förståndig, och där sötma är på läpparna hämtas mer lärdom.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "En livets källa är förståndet för den som äger det, men oförnuftet är de oförnuftigas tuktan.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Den vises hjärta gör hans mun förståndig och lägger lärdom på hans läppar, allt mer och mer.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Milda ord äro honungskakor; de äro ljuvliga för själen och en läkedom för kroppen.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Mången håller sin väg för den rätta, men på sistone leder den dock till döden.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Arbetarens hunger hjälper honom att arbeta ty hans egen mun driver på honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Fördärvlig är den människa som gräver gropar för att skada; det är såsom brunne en eld på hennes läppar.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "En vrång människa kommer träta åstad, och en örontasslare gör vänner oense.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Den orättrådige förför sin nästa och leder honom in på en väg som icke är god.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Den som ser under lugg, han umgås med vrånga tankar; den som biter ihop läpparna, han är färdig med något ont.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "En ärekrona äro grå hår; den vinnes på rättfärdighetens väg.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Bättre är en tålmodig man än en stark, och bättre den som styr sitt sinne än den som intager en stad.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Lotten varder kastad i skötet, men den faller alltid vart HERREN vill.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Bättre är ett torrt brödstycke med ro än ett hus fullt av högtidsmat med kiv.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "En förståndig tjänare får råda över en vanartig son, och bland bröderna får han skifta arv.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Degeln prövar silver och smältugnen guld, så prövar HERREN hjärtan.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "En ond människa aktar på ondskefulla läppar, falskheten lyssnar till fördärvliga tungor.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Den som bespottar den fattige smädar hans skapare; den som gläder sig åt andras ofärd bliver icke ostraffad.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De gamlas krona äro barnbarn, och barnens ära äro deras fäder.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Stortaliga läppar hövas icke dåren, mycket mindre lögnaktiga läppar en furste.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "En gåva är en lyckosten i dens ögon, som ger den; vart den än kommer bereder den framgång.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Den som skyler vad som är brutet, han vill främja kärlek, men den som river upp gammalt, han gör vänner oense.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "En förebråelse verkar mer på den förståndige än hundra slag på dåren.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Upprorsmakaren vill allenast vad ont är, men en budbärare utan förbarmande skall sändas mot honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Bättre är att möta en björninna från vilken man har tagit ungarna, än att möta en dåre i hans oförnuft.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Den som vedergäller gott med ont, från hans hus skall olyckan icke vika.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Att begynna träta är att släppa ett vattenflöde löst; håll därför inne, förrän kivet har brutit ut.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Den som friar den skyldige och den som fäller den oskyldige, de äro båda en styggelse för HERREN.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Vartill gagna väl penningar i dårens hand? Han kunde köpa sig vishet, men han saknar förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "En väns kärlek består alltid. och en broder födes till hjälp i nöden.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "En människa utan förstånd är den som giver handslag, den som går i borgen för sin nästa.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Den som älskar split, han älskar överträdelse; Men som bygger sin dörr hög, han far efter fall.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Den som har ett vrångt hjärta vinner ingen framgång, och den som har en förvänd tunga, han faller i olycka.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Den som har fött en dåraktig son får bedrövelse av honom, en dåres fader har ingen glädje.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ett glatt hjärta är en god läkedom, men ett brutet mod tager märgen ur benen.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Den ogudaktige tager gärna skänker i lönndom, för att han skall vränga rättens vägar.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den förståndige har sin blick på visheten, men dårens ögon äro vid jordens ända.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "En dåraktig son är sin faders grämelse och en bitter sorg för henne som har fött honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Att pliktfälla jämväl den rättfärdige är icke tillbörligt; att slå ädla män strider mot rättvisan.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Den som har vett, han spar sina ord; och lugn till sinnes är en man med förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Om den oförnuftige tege, så aktades också han för vis; den som tillsluter sina läppar är förståndig.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Den egensinnige följer sin egen lystnad, med all makt söker han strid.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Dåren frågar ej efter förstånd, allenast efter att få lägga fram vad han har i hjärtat.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Där den ogudaktige kommer, där kommer förakt, och med skamlig vandel följer smälek.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Orden i en mans mun äro såsom ett djupt vatten, såsom en flödande bäck, en vishetens källa.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Att vara partisk för den skyldige är icke tillbörligt ej heller att vränga rätten för den oskyldige.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Dårens läppar komma med kiv, och hans mun ropar efter slag.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Dårens mun är honom själv till olycka, och hans läppar äro en snara hans liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Örontasslarens ord äro såsom läckerbitar och tränga ned till hjärtats innandömen.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Den som är försumlig i sitt arbete, han är allaredan en broder till rövaren.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "HERRENS namn är ett starkt torn; den rättfärdige hastar dit och varder beskyddad.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Den rikes skatter äro honom en fast stad, höga murar likna de, i hans inbillning.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Före fall går högmod i mannens hjärta, och ödmjukhet går före ära.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Om någon giver svar, förrän han har hört, så tillräknas det honom såsom oförnuft och skam.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mod uppehåller mannen i hans svaghet; men ett brutet mod, vem kan bära det?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Den förståndiges hjärta förvärvar kunskap, och de visas öron söka kunskap.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Gåvor öppna väg för en människa och föra henne fram inför de store.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Den som först lägger fram sin sak har rätt; sedan kommer vederparten och uppdagar huru det är.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Lottkastning gör en ände på trätor, den skiljer mellan mäktiga män.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "En förorättad broder är svårare att vinna än en fast stad, och trätor äro såsom bommar för ett slott.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Av sin muns frukt får envar sin buk mättad, han varder mättad av sina läppars gröda.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Död och liv har tungan i sitt våld, de som gärna bruka henne få äta hennes frukt.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Den som har funnit en rätt hustru, han har funnit lycka och har undfått nåd av HERREN.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Bönfallande är den fattiges tal, men den rike svarar med hårda ord.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den som ävlas att få vänner, han kommer i olycka; men vänner finnas, mer trogna än en broder.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Bättre är en fattig man som vandrar i ostrafflighet än en man som har vrånga läppar och därtill är en dåre.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ett obetänksamt sinne, redan det är illa; och den som är snar på foten, han stiger miste.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "En människas eget oförnuft kommer henne på fall, och dock är det på HERREN som hennes hjärta vredgas",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Gods skaffar många vänner, men den arme bliver övergiven av sin vän.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ett falskt vittne bliver icke ostraffat, och den som främjar lögn, han kommer icke undan.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Många söka en furstes ynnest, och alla äro vänner till den givmilde.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Den fattige är hatad av alla sina fränder, ännu längre draga sig hans vänner bort ifrån honom; han far efter löften som äro ett intet.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Den som förvärvar förstånd har sitt liv kärt; den som tager vara på insikt, han finner lycka",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ett falskt vittne bliver icke ostraffat, och den som främjar lögn, han skall förgås.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Det höves icke dåren att hava goda dagar, mycket mindre en träl att råda över furstar.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Förstånd gör en människa tålmodig, och det är hennes ära att tillgiva vad någon har brutit.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "En konungs vrede är såsom ett ungt lejons rytande, hans nåd är såsom dagg på gräset.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "En dåraktig son är sin faders fördärv, och en kvinnas trätor äro ett oavlåtligt takdropp.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Gård och gods får man i arv från sina fäder, men en förståndig hustru är en gåva från HERREN.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Lättja försänker i dåsighet, och den håglöse får lida hunger.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Den som håller budet får behålla sitt liv; den som ej aktar på sin vandel han varder dödad.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Den som förbarmar sig över den arme, han lånar åt HERREN och får vedergällning av honom för vad gott han har gjort.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Tukta din son, medan något hopp är, och åtrå icke att vålla hans död.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Den som förgår sig i vrede, han må plikta därför, ty om du vill ställa till rätta, så gör du det allenast värre.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Hör råd och tag emot tuktan, på det att du för framtiden må bliva vis.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Många planer har en man i sitt hjärta, men HERRENS råd, det bliver beståndande.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Efter en människas goda vilja räknas hennes barmhärtighet, och en fattig man är bättre än en som ljuger.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "HERRENS fruktan för till liv; så får man vila mätt och hemsökes icke av något ont.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den late sticker sin hand i fatet, men gitter icke föra den åter till munnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Slår man bespottaren, så bliver den fåkunnige klok; och tillrättavisar man den förståndige, så vinner han kunskap.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Den som övar våld mot sin fader eller driver bort sin moder, han är en vanartig och skändlig son.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Min son, om du icke vill höra tuktan, så far du vilse från de ord som giva kunskap.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ett ont vittne bespottar vad rätt är, och de ogudaktigas mun är glupsk efter orätt.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Straffdomar ligga redo för bespottarna och slag för dårarnas rygg.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "En bespottare är vinet, en larmare är rusdrycken, och ovis är envar som raglar därav.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Såsom ett ungt lejons rytande är den skräck en konung ingiver; den som ådrager sig hans vrede har förverkat sitt liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Det är en ära för en man att hålla sig ifrån kiv, den oförnuftige söker alltid strid.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "När hösten kommer, vill den late icke plöja; därför söker han vid skördetiden förgäves efter frukt.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Planerna i en mans hjärta äro såsom ett djupt vatten, men en man med förstånd hämtar ändå upp dem.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Många finnas, som ropa ut var och en sin barmhärtighet; men vem kan finna en man som är att lita på?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Den som vandrar i ostrafflighet såsom en rättfärdig man, hans barn går det val efter honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "En konung, som sitter på domarstolen, rensar med sina ögons kastskovel bort allt vad ont är.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Vem kan säga: »Jag har bevarat mitt hjärta rent, jag är fri ifrån synd»?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Två slags vikt och två slags mått, det ena som det andra är en styggelse för HERREN.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Redan barnet röjer sig i sina gärningar, om dess vandel är rättskaffens och redlig.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Örat, som hör, och ögat, som ser, det ena som det andra har HERREN gjort.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Älska icke sömn, på det att du icke må bliva fattig; håll dina ögon öppna, så får du bröd till fyllest.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "»Uselt, uselt», säger köparen; men när han går sin väg, rosar han sitt köp.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Man må hava guld, så ock pärlor i myckenhet, den dyrbaraste klenoden äro dock läppar som tala förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Tag kläderna av honom, ty han har gått i borgen för en annan, och panta ut vad han har, för de främmandes skull.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Orättfånget bröd smakar mannen ljuvligt, men efteråt bliver hans mun full av stenar.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Planer hava framgång, när de äro väl överlagda, och med rådklokhet må man föra krig.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Den som går med förtal, han förråder hemligheter; med den som är lösmunt må du ej giva dig i lag.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Den som uttalar förbannelser över fader eller moder, hans lampa skall slockna ut mitt i mörkret.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Det förvärv man i förstone ävlas efter, det varder på sistone icke välsignat.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Säg icke: »Jag vill vedergälla ont med ont»; förbida HERREN, han skall hjälpa dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Tvåfaldig vikt är en styggelse för HERREN, och falsk våg är icke något gott.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Av HERREN bero en mans steg; ja, en människa förstår icke själv sin väg.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Det är farligt för en människa att obetänksamt helga något och att överväga sina löften, först när de äro gjorda.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "En vis konung rensar bort de ogudaktiga såsom med en kastskovel och låter tröskhjulet gå över dem.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Anden i människan är en HERRENS lykta; den utrannsakar alla hjärtats innandömen.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Mildhet och trofasthet äro en konungs vakt; genom mildhet stöder han sin tron.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "De ungas ära är deras kraft, och de gamlas prydnad äro deras grå hår.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Sår som svida rena från ondska, ja, tuktan renar hjärtats innandömen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Konungars hjärtan äro i HERRENS hand såsom vattenbäckar: han leder dem varthelst han vill.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Var man tycker sin väg vara den rätta, men HERREN är den som prövar hjärtan.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Att öva rättfärdighet och rätt, det är mer värt för HERREN än offer.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Stolta ögon och högmodigt hjärta -- de ogudaktigas lykta är dem till synd.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Den idoges omtanke leder allenast till vinning, men all fikenhet allenast till förlust.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De skatter som förvärvas genom falsk tunga, de äro en försvinnande dunst och hasta till döden.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "De ogudaktigas övervåld bortrycker dem själva, eftersom de icke vilja göra vad rätt är.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "En oärlig mans väg är idel vrånghet, men en rättskaffens man handla redligt",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Bättre är att bo i en vrå på taket än att hava hela huset gemensamt med en trätgirig kvinna.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Den ogudaktiges själ har lust till det onda; hans nästa finner ingen barmhärtighet hos honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Straffar man bespottaren, så bliver den fåkunnige vis: och undervisar man den vise, så inhämtar han kunskap.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Den Rättfärdige giver akt på den ogudaktiges hus, han störtar de ogudaktiga i olycka.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Den som tillsluter sitt öra för den armes rop, han skall själv ropa utan att få svar.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "En hemlig gåva stillar vrede och en skänk i lönndom våldsammaste förbittring.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Det är den rättfärdiges glädje att rätt skipa, men det är ogärningsmännens skräck.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Den människa som far vilse ifrån förståndets väg, hon hamnar i skuggornas krets.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Den som älskar glada dagar varder fattig; den som älskar vin och olja bliver icke rik.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Den ogudaktige varder given såsom lösepenning för den rättfärdige, och den trolöse sättes i de redligas ställe.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Bättre är att bo i ett öde land än med en trätgirig och besvärlig kvinna.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Dyrbara skatter och salvor har den vise i sin boning, men en dåraktig människa förslösar sitt gods.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Den som far efter rättfärdighet och godhet, han finner liv, rättfärdighet och ära.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "En vis man kan storma en stad full av hjältar och bryta ned det fäste som var dess förtröstan.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Den som bevarar sin mun och sin tunga han bevarar sitt liv för nöd.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Bespottare må den kallas, som är fräck och övermodig, den som far fram med fräck förmätenhet.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Den lates begärelse för honom till döden, i det att hans händer icke vilja arbeta.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Den snikne är alltid full av snikenhet; men den rättfärdige giver och spar icke.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "De ogudaktigas offer är en styggelse; mycket mer, när det frambäres i skändligt uppsåt.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ett lögnaktigt vittne skall förgås; men en man som hör på får allt framgent tala.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "En ogudaktig man uppträder fräckt; men den redlige vandrar sina vägar ståndaktigt.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Ingen vishet, intet förstånd, intet råd förmår något mot HERREN.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Hästar rustas ut för stridens dag, men från HERREN är det som segern kommer.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ett gott namn är mer värt än stor rikedom, ett gott anseende är bättre än silver och guld.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Rik och fattig få leva jämte varandra; HERREN har gjort dem båda.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Den kloke ser faran och söker skydd; men de fåkunniga löpa åstad och få plikta därför.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ödmjukhet har sin lön i HERRENS fruktan, i rikedom, ära och liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Törnen och snaror ligga på den vrånges väg; den som vill bevara sitt liv håller sig fjärran ifrån dem.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Vänj den unge vid den väg han bör vandra, så viker han ej därifrån, när han bliver gammal.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Den rike råder över de fattiga, och låntagaren bliver långivarens träl.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Den som sår vad orätt är, han får skörda fördärv, och hans övermods ris får en ände.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Den som unnar andra gott, han varder välsignad, ty han giver av sitt bröd åt den arme.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Driv ut bespottaren, så upphör trätan, och tvist och smädelse få en ände.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Den som älskar hjärtats renhet, den vilkens läppar tala ljuvligt, hans vän är konungen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "HERRENS ögon bevara den förståndige; därför omstörtar han den trolöses planer.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Den late säger: »Ett lejon är på gatan; därute på torget kunde jag bliva dräpt.»",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "En trolös kvinnas mun är en djup grop; den som har träffats av HERRENS vrede, han faller däri.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Oförnuft låder vid barnets hjärta, men tuktans ris driver det bort.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Den som förtrycker den arme bereder honom vinning men den som giver åt den rike vållar honom allenast förlust.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Böj ditt öra härtill, och hör de vises ord, och lägg mina lärdomar på hjärtat.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ty det bliver dig ljuvligt, om du bevarar dem i ditt innersta; må de alla ligga redo på dina läppar.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "För att du skall sätta din förtröstan till HERREN, undervisar jag i dag just dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ja, redan förut har jag ju skrivit regler för dig och meddelat dig råd och insikt,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "för att lära dig tillförlitliga sanningsord, så att du rätt kan svara den som har sänt dig åstad.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Plundra icke den arme, därför att han är arm, och förtrampa icke den fattige porten[1].",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ty HERREN skall utföra deras sak, och dem som röva från dem skall han beröva livet.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Giv dig icke i sällskap med den som lätt vredgas eller i lag med en snarsticken man,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "på det att du icke må lära dig hans vägar och bereda en snara för ditt liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Var icke en av dem som giva handslag, en av dem som gå i borgen för lån.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Icke vill du att man skall taga ifrån dig sängen där du ligger, om du icke har något att betala med?",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Flytta icke ett gammalt råmärke, ett sådant som dina fäder hava satt upp.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Ser du en man som är väl förfaren i sin syssla, hans plats är att tjäna konungar; icke må han tjäna ringa män.  [1] Se Port i Ordförkl.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "När du sitter till bords med en furste, så besinna väl vad du har framför dig,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "och sätt en kniv på din strupe, om du är alltför hungrig.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Var ej lysten efter hans smakliga rätter, ty de äro en bedräglig kost.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Möda dig icke för att bliva rik; avstå från att bruka klokskap.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Låt icke dina blickar flyga efter det som ej har bestånd; ty förvisso gör det sig vingar och flyger sin väg, såsom örnen mot himmelen.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ät icke den missunnsammes bröd, och var ej lysten efter hans smakliga rätter;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ty han förfar efter sina själviska beräkningar. »Ät och drick» kan han val säga till dig, men hans hjärta är icke med dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Den bit du har ätit måste du utspy, och dina vänliga ord har du förspillt.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tala icke för en dåres öron, ty han föraktar vad klokt du säger.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Flytta icke ett gammalt råmärke, och gör icke intrång på de faderlösas åkrar.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ty deras bördeman är stark; han skall utföra deras sak mot dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Vänd ditt hjärta till tuktan och dina öron till de ord som giva kunskap.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Låt icke gossen vara utan aga; ty om du slår honom med riset, så bevaras han från döden;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "ja, om du slår honom med riset, så räddar du hans själ undan dödsriket.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Min son, om ditt hjärta bliver vist, så gläder sig ock mitt hjärta;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "ja, mitt innersta fröjdar sig, när dina läppar tala vad rätt är.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Låt icke ditt hjärta avundas syndare, men nitälska för HERRENS fruktan beständigt.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Förvisso har du då en framtid, och ditt hopp varder icke om intet.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Hör, du min son, och bliv vis, och låt ditt hjärta gå rätta vägar.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Var icke bland vindrinkare, icke bland dem som äro överdådiga i mat.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ty drinkare och frossare bliva fattiga, och sömnaktighet giver trasiga kläder.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Hör din fader, som har fött dig, och förakta icke din moder, när hon varder gammal.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Sök förvärva sanning, och avhänd dig henne icke, sök vishet och tukt och förstånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Stor fröjd har den rättfärdiges fader; den som har fått en vis son har glädje av honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Må då din fader och din moder få glädje, och må hon som har fött dig kunna fröjda sig.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Giv mig, min son, ditt hjärta, och låt mina vägar behaga dina ögon.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Ty skökan är en djup grop, och nästans hustru är en trång brunn.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ja, såsom en rövare ligger hon på lur och de trolösas antal förökar hon bland människorna.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Var är ve, var är jämmer? Var äro trätor, var är klagan? Var äro sår utan sak? Var äro ögon höljda i dunkel?",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Jo, där man länge sitter kvar vid vinet, där man samlas för att pröva kryddade drycker.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Så se då icke på vinet, att det är så rött, att det giver sådan glans i bägaren, och att det så lätt rinner ned.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "På sistone stinger det ju såsom ormen, och likt basilisken sprutar det gift.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Dina ögon få då skåda sällsamma syner, och ditt hjärta talar förvända ting.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Det är dig såsom låge du i havets djup, eller såsom svävade du uppe i en mast:",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "»De slå mig, men åt vållar mig ingen smärta, de stöta mig, men jag känner det icke. När skall jag då vakna upp, så att jag återigen får skaffa mig sådant?»",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Avundas icke onda människor, och hav ingen lust till att vara med dem.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ty på övervåld tänka deras hjärtan, och deras läppar tala olycka.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Genom vishet varder ett hus uppbyggt, och genom förstånd hålles det vid makt.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Genom klokhet bliva kamrarna fyllda med allt vad dyrbart och ljuvligt är.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "En vis man är stark, och en man med förstånd är väldig i kraft.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ja, med rådklokhet skall man föra krig, och där de rådvisa äro många, där går det väl.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Sällsynt korall är visheten för den oförnuftige, i porten kan han icke upplåta sin mun.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Den som tänker ut onda anslag, honom må man kalla en ränksmidare.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ett oförnuftigt påfund är synden, och bespottaren är en styggelse för människor.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Låter du modet falla, när nöd kommer på, så saknar du nödig kraft.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Rädda dem som släpas till döden, och bistå dem som stappla till avrättsplatsen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Om du säger: »Se, vi visste det icke», så betänk om ej han som prövar hjärtan märker det, och om ej han som har akt på din själ vet det. Och han skall vedergälla var och en efter hans gärningar.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ät honung, min son, ty det är gott, och självrunnen honung är söt för din mun.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Lik sådan må du räkna visheten för din själ. Om du finner henne, så har du en framtid, och ditt hopp varder då icke om intet.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Lura icke, du ogudaktige, på den rättfärdiges boning, öva intet våld mot hans vilostad.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ty den rättfärdige faller sju gånger och står åter upp; men de ogudaktiga störta över ända olyckan.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Gläd dig icke, när din fiende faller, och låt ej ditt hjärta fröjda sig, när han störtar över ända,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "på det att HERREN ej må se det med misshag och flytta sin vrede ifrån honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Harmas icke över de onda, avundas icke de ogudaktiga.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ty den som är ond har ingen framtid; de ogudaktigas lampa skall slockna ut.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Min son, frukta HERREN och konungen; giv dig icke i lag med upprorsmän.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ty plötsligt skall ofärd komma över dem, och vem vet när deras år få en olycklig ände?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Dessa ord äro ock av visa män.  Att hava anseende till personen, när man dömer, är icke tillbörligt.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den som säger till den skyldige: »Du är oskyldig», honom skola folk förbanna, honom skola folkslag önska ofärd.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Men dem som skipa rättvisa skall det gå väl, och över dem skall komma välsignelse av vad gott är.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "En kyss på läpparna är det, när någon giver ett rätt svar.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Fullborda ditt arbete på marken, gör allting redo åt dig på åkern; sedan må du bygga dig bo.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Bär icke vittnesbörd mot din nästa utan sak; icke vill du bedraga med dina läppar?",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Säg icke: »Såsom han gjorde mot mig vill jag göra mot honom, jag vill vedergälla mannen efter hans gärningar.»",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Jag gick förbi en lat mans åker, en oförståndig människas vingård.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Och se, den var alldeles full av ogräs, dess mark var övertäckt av nässlor, och dess stenmur låg nedriven.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Och jag betraktade det och aktade därpå, jag såg det och tog varning därav.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Ja, sov ännu litet, slumra ännu litet, lägg ännu litet händerna i kors för att vila,",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "så skall fattigdomen komma farande över dig, och armodet såsom en väpnad man.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Dessa ordspråk äro ock av Salomo; och Hiskias, Juda konungs, män hava gjort detta utdrag.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Det är Guds ära att fördölja en sak, men konungars ära att utforska en sak.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Himmelens höjd och jordens djup och konungars hjärtan kan ingen utrannsaka.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Skaffa slagget bort ifrån silvret, så får guldsmeden fram en klenod därav.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Skaffa de ogudaktiga bort ur konungens tjänst, så varder hans tron befäst genom rättfärdighet.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Förhäv dig icke inför konungen, och träd icke fram på de stores plats.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ty det är bättre att man säger till dig: »Stig hitupp», än att man flyttar ned dig för någon förnämligare man, någon som dina ögon redan hava sett.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Var icke för hastig att begynna en tvist; vad vill du eljest göra längre fram, om din vederpart kommer dig på skam?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Utför din egen sak mot din vederpart, men uppenbara icke en annans hemlighet,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "på det att icke envar som hör det må lasta dig och ditt rykte bliva ont för beständigt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Gyllene äpplen i silverskålar äro ord som talas i rättan tid.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Såsom en gyllene örring passar till ett bröstspänne av fint guld, så passar en vis bestraffare till ett hörsamt öra.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Såsom snöns svalka på en skördedag, så är en pålitlig budbärare för avsändaren; sin herres själ vederkvicker han.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Såsom regnskyar och blåst, och likväl intet regn, så är en man som skryter med givmildhet, men icke håller ord.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Genom tålamod varder en furste bevekt, och en mjuk tunga krossar ben.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Om du finner honung, så ät icke mer än du tål, så att du ej bliver övermätt därav och får utspy den.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Låt din fot icke för ofta komma i din väns hus, Så att han ej bliver mätt på dig och får motvilja mot dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "En stridshammare och ett svärd och en skarp pil är den som bär falskt vittnesbörd mot sin nästa.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Såsom en gnagande tand och såsom ett skadedjurs fot är den trolöses tillförsikt på nödens dag.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Såsom att taga av dig manteln på en vinterdag, och såsom syra på lutsalt, så är det att sjunga visor för ett sorgset hjärta.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Om din ovän är hungrig, så giv honom att äta, och om han är törstig, så giv honom att dricka;",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "så samlar du glödande kol på hans huvud, och HERREN skall vedergälla dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Nordanvind föder regn och en tasslande tunga mulna ansikten.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Bättre är att bo i en vrå på taket än att hava hela huset gemensamt med en trätgirig kvinna.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Såsom friskt vatten för den försmäktande, så är ett gott budskap ifrån fjärran land.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Såsom en grumlad källa och en fördärvad brunn, så är en rättfärdig som vacklar inför den ogudaktige.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Att äta för mycket honung är icke gott, och den som vinner ära får sin ära nagelfaren.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Såsom en stad vars murar äro nedbrutna och borta, så är en man som icke kan styra sitt sinne.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Såsom snö icke hör till sommaren och regn icke till skördetiden, så höves det ej heller att dåren får ära.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Såsom sparven far sin kos, och såsom svalan flyger bort, så far en oförtjänt förbannelse förbi.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Piskan för hästen, betslet för åsnan och riset för dårarnas rygg!",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Svara icke dåren efter hans oförnuft, så att du icke själv bliver honom lik.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Svara dåren efter hans oförnuft, för att han icke må tycka sig vara vis.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Den som sänder bud med en dåre, han hugger själv av sig fötterna, och får olycka till dryck.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Lika den lames ben, som hänga kraftlösa ned, äro ordspråk i dårars mun.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Såsom att binda slungstenen fast vid slungan, så är det att giva ära åt en dåre.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Såsom när en törntagg kommer i en drucken mans hand, så är det med ordspråk i dårars mun.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "En mästare gör själv allt, men dåren lejer, och lejer vem som kommer.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Lik en hund som vänder åter till i sina spyor dåre som på nytt begynner sitt oförnuft.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ser du en man som tycker sig själv vara vis, det är mer hopp om en dåre än om honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Den late säger: »Ett vilddjur är på vägen, ja, ett lejon är på gatorna.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Dörren vänder sig på sitt gångjärn, och den late vänder sig i sin säng.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Den late sticker sin hand i fatet, men finner det mödosamt att föra den åter till munnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Den late tycker sig vara vis, mer än sju som giva förståndiga svar.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Lik en som griper en hund i öronen är den som förivrar sig vid andras kiv, där han går fram.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Lik en rasande, som slungar ut brandpilar och skjuter och dödar,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "är en man som bedrager sin nästa och sedan säger: »Jag gjorde det ju på skämt.»",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "När veden tager slut, slocknar elden. och när örontasslaren är borta, stillas trätan.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Såsom glöd kommer av kol, och eld av ved, så upptändes kiv av en trätgirig man.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Örontasslarens ord äro såsom läckerbitar och tränga ned till hjärtats innandömen.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Såsom silverglasering på ett söndrigt lerkärl äro kärleksglödande läppar, där hjärtat är ondskefullt.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "En fiende förställer sig i sitt tal, men i sitt hjärta bär han på svek.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Om han gör sin röst ljuvlig, så tro honom dock icke, ty sjufaldig styggelse är i hans hjärta.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Hatet brukar list att fördölja sig med, men den hatfulles ondska varder dock uppenbar i församlingen.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Den som gräver en grop, han faller själv däri, och den som vältrar upp en sten, på honom rullar den tillbaka.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "En lögnaktig tunga hatar dem hon har krossat, och en hal mun kommer fall åstad.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Beröm dig icke av morgondagen, ty du vet icke vad en dag kan bära i sitt sköte.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Må en annan berömma dig, och icke din egen mun, främmande, och icke dina egna läppar.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Sten är tung, och sand är svår att bära, men tyngre än båda är förargelse genom en oförnuftig man.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Vrede är en grym sak och harm en störtflod, men vem kan bestå mot svartsjuka?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Bättre är öppen tillrättavisning än kärlek som hålles fördold.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Vännens slag givas i trofasthet, men ovännens kyssar till överflöd.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Den mätte trampar honung under fötterna, men den hungrige finner allt vad bittert är sött.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Lik en fågel som har måst fly ifrån sitt bo är en man som har måst fly ifrån sitt hem.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Salvor och rökelse göra hjärtat glatt, ömhet hos en vän som giver välbetänkta råd.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Din vän och din faders vän må du icke låta fara, gå icke till din broders hus, när ofärd drabbar dig; bättre är en granne som står dig nära än broder som står dig fjärran.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Bliv vis, min son, så gläder du mitt hjärta; jag kan då giva den svar, som smädar mig.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Den kloke ser faran och söker skydd; de fåkunniga löpa åstad och få plikta därför.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Tag kläderna av honom, ty han har gått i borgen för en annan, och panta ut vad han har, för den främmande kvinnans skull.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Den som välsignar sin nästa med hög röst bittida om morgonen, honom kan det tillräknas såsom en förbannelse.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ett oavlåtligt takdropp på en regnig dag och en trätgirig kvinna, det kan aktas lika.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Den som vill lägga band på en sådan vill lägga band på vinden, och hala oljan möter hans högra hand.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Järn giver skärpa åt järn; så skärper den ena människan den andra.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Den som vårdar sitt fikonträd, han får äta dess frukt; och den som vårdar sig om sin herre, han kommer till ära.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Såsom spegelbilden i vattnet liknar ansiktet, så avspeglar den ena människans hjärta den andras.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Dödsriket och avgrunden kunna icke mättas; så bliva ej heller människans ögon mätta.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Silvret prövas genom degeln och guldet genom smältugnen, så ock en man genom sitt rykte.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Om du stötte den oförnuftige mortel med en stöt, bland grynen, så skulle hans oförnuft ändå gå ur honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Se väl till dina får, och hav akt på dina hjordar.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Ty rikedom varar icke evinnerligen; består ens en krona från släkte till släkte?",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "När ny brodd skjuter upp efter gräset som försvann, och när foder samlas in på bergen,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "då äger du lamm till att bereda dig kläder och bockar till att köpa dig åker;",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "då giva dig getterna mjölk nog, till föda åt dig själv och ditt hus och till underhåll åt dina tjänarinnor.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "De ogudaktiga fly, om ock ingen förföljer dem; men de rättfärdiga äro oförskräckta såsom unga lejon.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "För sin överträdelses skull får ett land många herrar; men där folket har förstånd och inser vad rätt är, där bliver det beståndande.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "En usel herre, som förtrycker de arma, är ett regn som förhärjar i stället för att giva bröd.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "De som övergiva lagen prisa de ogudaktiga, men de som hålla lagen gå till strids mot dem.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Onda människor förstå icke vad rätt är, men de som söka HERREN, de förstå allt.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Bättre är en fattig man som vandrar i ostrafflighet rik som i vrånghet går dubbla vägar.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Den yngling är förståndig, som tager lagen i akt; men den som giver sig i sällskap med slösare gör sin fader skam.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "De som förökar sitt gods genom ocker och räntor, han samlar åt den som förbarmar sig över de arma.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Om någon vänder bort sitt öra och icke vill höra lagen, så är till och med hans bön en styggelse.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Den som leder de redliga vilse in på en ond väg, han faller själv i sin grop; men de ostraffliga få till sin arvedel vad gott är.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "En rik man tycker sig vara vis, men en fattig man med förstånd uppdagar hurudan han är.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "När de rättfärdiga triumfera, står allt härligt till; men när de ogudaktiga komma till makt, får man leta efter människor.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Den som fördöljer sina överträdelser, honom går det icke väl; men den som bekänner och övergiver dem, han får barmhärtighet.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Säll är den människa som ständigt tager sig till vara; men den som förhärdar sitt hjärta, han faller i olycka.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Lik ett rytande lejon och en glupande björn är en ogudaktig furste över ett fattigt folk.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Du furste utan förstånd, du som övar mycket våld, att den som hatar orätt vinning, han skall länge leva.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "En människa som tryckes av blodskuld bliver en flykting ända till sin grav, och ingen må hjälpa en sådan.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Den som vandrar ostraffligt, han bliver frälst; men den som i vrånghet går dubbla vägar, han faller på en av dem.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Den som brukar sin åker får bröd till fyllest; men den som far efter fåfängliga ting får fattigdom till fyllest.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "En redlig man får mycken välsignelse; men den som fikar efter att varda rik, kan bliver icke ostraffad.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Att hava anseende till personen är icke tillbörligt; men för ett stycke bröd gör sig mången till överträdare.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Den missunnsamme ävlas efter ägodelar och förstår icke att brist skall komma över honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Den som tillrättavisar en avfälling skall vinna ynnest, mer än den som gör sin tunga hal.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den som plundrar sin fader eller sin moder och säger: »Det är ingen synd», han är stallbroder till rövaren.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Den som är lysten efter vinning uppväcker träta; men den som förtröstar på HERREN varder rikligen mättad.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Den som förlitar sig på sitt förstånd, han är en dåre; men den som vandrar i vishet, han bliver hulpen.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Den som giver åt den fattige, honom skall intet fattas; men den som tillsluter sina ögon drabbas av mycken förbannelse.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "När de ogudaktiga komma till makt, gömma sig människorna; men när de förgås, växa de rättfärdiga till.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Den som får mycken tillrättavisning, men förbliver hårdnackad, han varder oförtänkt krossad utan räddning.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "När de rättfärdiga växa till, gläder sig folket, men när den ogudaktige kommer till välde, suckar folket.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Den som älskar vishet gör sin fader glädje; men den som giver sig i sällskap med skökor förstör vad han äger.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Genom rättvisa håller en konung sitt land vid makt; men den som utpressar gärder, har fördärvar det.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Den man som smickrar sin nästa han breder ut ett nät för han fötter.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "En ond människas överträdelse bliver henne en snara, men den rättfärdige får jubla och glädjas.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Den rättfärdige vårdar sig om de armas sak, men den ogudaktige förstår intet.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Bespottare uppvigla staden, men visa män stilla vreden.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "När en vis man vill gå till rätta med en oförnuftig man, då vredgas denne eller ler, och har ingen ro.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "De blodgiriga hata den som är ostrafflig, men de redliga söka skydda hans liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Dåren släpper all sin vrede lös, men den vise stillar den till slut.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Den furste som aktar på lögnaktigt tal, hans tjänare äro alla ogudaktiga.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Den fattige och förtryckaren få leva jämte varandra; av HERREN få bådas ögon sitt ljus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Den konung som dömer de armas rätt. hans tron skall bestå evinnerligen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ris och tillrättavisning giver vishet, men ett oupptuktat barn drager skam över sin moder.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Där de ogudaktiga växa till, där växer överträdelsen till, men de rättfärdiga skola se deras fall med lust.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Tukta din son, så skall han bliva dig till hugnad och giva ljuvlig spis åt din själ.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Där profetia icke finnes, där bliver folket tygellöst; men säll är den som håller lagen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Med ord kan man icke tukta en tjänare ty om han än förstår, så rättar han sig icke därefter.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ser du en man som är snar till att tala, det är mer hopp om en dåre än om honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Om någon är för efterlåten mot sin tjänare i hans ungdom, så visar denne honom på sistone förakt.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "En snarsticken man uppväcker träta, och den som lätt förtörnas begår ofta överträdelse.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "En människas högmod bliver henne till förödmjukelse, men den ödmjuke vinner ära.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Den som skiftar rov med en tjuv hatar sitt eget liv; när han hör edsförpliktelsen, yppar han intet.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Människofruktan har med sig snaror, men den som förtröstar på HERREN, han varder beskyddad.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Många söka en furstes ynnest, men av HERREN får var och en sin rätt.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "En orättfärdig man är en styggelse för de rättfärdiga, och den som vandrar i redlighet är en styggelse för den ogudaktige.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Detta är Agurs, Jakes sons, ord och utsaga. Så talade den mannen till Itiel -- till Itiel och Ukal.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ja, jag är för oförnuftig för att kunna räknas såsom människa, jag har icke mänskligt förstånd;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "vishet har jag icke fått lära, så att jag äger kunskap om den Helige.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Vem har stigit upp till himmelen och åter farit ned? Vem har samlat vinden i sina händer? Vem har knutit in vattnet i ett kläde? Vem har fastställt jordens alla gränser? Vad heter han, och vad heter hans son -- du vet ju det?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Allt Guds tal är luttrat; han är en sköld för dem som taga sin tillflykt till honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Lägg icke något till hans ord, på det att han icke må beslå dig med lögn.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Om två ting beder jag dig, vägra mig dem icke, intill min död:",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Låt fåfänglighet och lögn vara fjärran ifrån mig; och giv mig icke fattigdom, ej heller rikedom, men låt mig få det bröd mig tillkommer.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Jag kunde eljest, om jag bleve alltför matt, förneka dig, att jag sporde: »Vem är HERREN?» eller om jag bleve alltför fattig, kunde jag bliva en tjuv, ja, förgripa mig på min Guds namn.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Förtala icke en tjänare inför hans herre; han kunde eljest förbanna dig, så att du stode där med skam.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ett släkte där man förbannar sin fader, och där man icke välsignar sin moder;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "ett släkte som tycker sig vara rent, fastän det icke har avtvått sin orenlighet;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "ett släkte -- huru stolta äro icke dess ögon, och huru fulla av högmod äro icke dess blickar!",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "ett släkte vars tänder äro svärd, och vars kindtänder äro knivar, så att de äta ut de betryckta ur landet och de fattiga ur människornas krets!",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Blodigeln har två döttrar: »Giv hit, giv hit.» Tre finnas, som icke kunna mättas, ja, fyra, som aldrig säga: »Det är nog»:",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "dödsriket och den ofruktsammas kved, jorden, som icke kan mättas med vatten, och elden, som aldrig säger: »Det är nog.»",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Den som bespottar sin fader och försmår att lyda sin moder hans öga skola korparna vid bäcken hacka ut, och örnens ungar skola äta upp det.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Tre ting äro mig för underbara, ja, fyra finnas, som jag icke kan spåra:",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "örnens väg under himmelen, ormens väg över klippan, skeppets väg mitt i havet och en mans väg hos en ung kvinna.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sådant är äktenskapsbryterskans sätt: hon njuter sig mätt och stryker sig så om munnen och säger: »Jag har intet orätt gjort.»",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Tre finnas, under vilka jorden darrar, ja, fyra, under vilka den ej kan uthärda:",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "under en träl, när han bliver konung, och en dåre, när han får äta sig mätt,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "under en försmådd kvinna, när hon får man och en tjänstekvinna, när hon tränger undan sin fru.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Fyra finnas, som äro små på jorden, och likväl är stor vishet dem beskärd:",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "myrorna äro ett svagt folk, men de bereda om sommaren sin föda;",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "klippdassarna äro ett folk med ringa kraft, men i klippan bygga de sig hus;",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "gräshopporna hava ingen konung, men i härordning draga de alla ut;",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "gecko-ödlan kan gripas med händerna, dock bor hon i konungapalatser.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Tre finnas, som skrida ståtligt fram, ja, fyra, som hava en ståtlig gång:",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "lejonet, hjälten bland djuren, som ej viker tillbaka för någon,",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "en stridsrustad häst och en bock och en konung i spetsen för sin här.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Om du har förhävt dig, evad det var dårskap eller det var medveten synd, så lägg handen på munnen.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Ty såsom ost pressas ut ur mjölk, och såsom blod pressas ut ur näsan, så utpressas kiv ur vrede.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Detta är konung Lemuels ord, vad hans moder sade, när hon förmanade honom:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hör, min son, ja, hör, du mitt livs son, hör, du mina löftens son.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Giv icke din kraft åt kvinnor, vänd icke dina vägar till dem som äro konungars fördärv.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ej konungar tillkommer det, Lemoel, ej konungar tillkommer det att dricka vin ej furstar att fråga efter starka drycker.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "De kunde eljest under sitt drickande förgäta lagen och förvända rätten för alla eländets barn.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Nej, åt den olycklige give man starka drycker och vin åt dem som hava en bedrövad själ.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Må dessa dricka och förgäta sitt armod och höra upp att tänka på sin vedermöda.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Upplåt din mun till förmån för den stumme och till att skaffa alla hjälplösa rätt.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ja, upplåt din mun och döm med rättvisa, och skaffa den betryckte och fattige rätt.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "En idog hustru, var finner man en sådan? Långt högre än pärlor står hon i pris.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "På henne förlitar sig hennes mans hjärta, och bärgning kommer icke att fattas honom.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hon gör honom vad ljuvt är och icke vad lett är, i alla sina levnadsdagar.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Omsorg har hon om ull och lin och låter sina händer arbeta med lust.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Hon är såsom en köpmans skepp, sitt förråd hämtar hon fjärran ifrån.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Medan det ännu är natt, står hon upp och sätter fram mat åt sitt husfolk, åt tjänarinnorna deras bestämda del.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Hon har planer på en åker, och hon skaffar sig den; av sina händers förvärv planterar hon en vingård.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hon omgjordar sina länder med kraft och lägger driftighet i sina armar.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Så förmärker hon att hennes hushållning går väl; hennes lampa släckes icke ut om natten.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Till spinnrocken griper hon med sina händer, och hennes fingrar fatta om sländan.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "För den betryckte öppnar hon sin hand och räcker ut sina armar mot den fattige.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Av snötiden fruktar hon intet för sitt hus, ty hela hennes hus har kläder av scharlakan.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Sköna täcken gör hon åt sig, hon har kläder av finaste linne och purpur.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Hennes man är känd i stadens portar, där han sitter bland landets äldste.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Fina linneskjortor gör hon och säljer dem, och bälten avyttrar hon till krämaren.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Kraft och heder är hennes klädnad, och hon ler mot den dag som kommer.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Sin mun upplåter hon med vishet, och har vänlig förmaning på sin tunga.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Hon vakar över ordningen i sitt hus och äter ej i lättja sitt bröd.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Hennes söner stå upp och prisa henne säll, hennes man likaså och förkunnar hennes lov:",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "»Många idoga kvinnor hava funnits, men du, du övergår dem allasammans.»",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Skönhet är förgänglig och fägring en vindfläkt; men prisas må en hustru som fruktar HERREN.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Må hon få njuta sina gärningars frukt; hennes verk skola prisa henne i portarna.  [1] Kap. 31 v. 10--31 alfabetisk sång; se Poesi i Ordförkl.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
