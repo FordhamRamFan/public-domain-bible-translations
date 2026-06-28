@@ -1,0 +1,165 @@
+{
+  "book": "Philemon",
+  "abbreviation": "Phlm",
+  "number": 57,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulo, mfungwa wa Kristo Yesu, na ndugu Timotheo kwa Filemoni, mpendwa rafiki yetu na mtenda kazi pamoja nasi,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "na kwa Afia dada yetu, na kwa Arkipas askari mwenzetu, na kwa kanisa lile linalokutana nyumbani kwako.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Neema iwe kwenu na amani itokayo kwa Mungu Baba yetu na kwa Bwana Yesu Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Wakati wote namshukuru Mungu. Ninakutaja katika maombi yangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nimesikia upendo na imani uliyonayo katika Bwana Yesu na kwa ajili ya waumini wote.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ninaomba kwamba ushirika wa imani yenu iwe na ufanisi katika ujuzi wa kila jambo jema lililoko kati yetu katika Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa kuwa nimekuwa na furaha na faraja kwa sababu ya upendo wako, kwa sababu mioyo ya waumini imekuwa ikitulizwa nawe, ndugu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Kwa hiyo, ingawa nina ujasiri wote katika Kristo kukuamuru wewe kufanya kile unachoweza kufanya,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "lakini kwa sababu ya upendo, badala yake nakusihi - mimi, Paulo niliye mzee, na sasa ni mfungwa kwa ajili ya Kristo Yesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ninakusihi kuhusu mwanangu Onesmo, niliyemzaa katika vifungo vyangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwa kuwa mwanzoni hakukufaa, lakini sasa anakufaa wewe na mimi.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Nimemtuma- yeye ambaye ni wa moyo wangu hasa - kurudi kwako.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nataraji angeendelea kubaki pamoja nami, ili anitumikie badala yako, wakati niwako kifungoni kwa ajili ya injili.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Lakini sikutaka kufanya jambo lolote bila ruhusa yako. Nilifanya hivi ili kwamba jambo lolote zuri lisifanyike kwa sababu nilikulazimisha, bali kwa sababu ulipenda mwenyewe kulitenda.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Labda ni sababu alitengwa nawe kwa muda, ilikuwa hivyo ili uwe pamoja naye milele.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ili kwamba asiwe tena mtumwa, bali bora zaidi ya mtumwa, kama ndugu mpendwa, hasa kwangu, na zaidi sana kwako, katika mwili na katika Bwana.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Na hivyo kama wanichukulia mimi mshirika, mpokee kama ambavyo ungenipokea mimi.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Lakini kama amekukosea jambo lolote, au unamdai kitu chochote, kidai hicho kutoka kwangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mimi Paulo, ninaandika kwa mkono wangu mwenyewe: mimi nitakulipa. Sisemi kwako kwamba nakudai maisha yako hasa.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Naam ndugu, acha nipate furaha ya Bwana toka kwako: uburudishe moyo wangu katika Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Nikiwa na imani kuhusu utii wako, nakuandikia nikijua kwamba utafanya hata zaidi ya vile ninavyokuomba.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Wakati huo huo andaa chumba cha wageni kwa ajili yangu, kwa kuwa ninatumaini kupitia maombi yako nitakutembelea hivi karibuni.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Epafra, mfungwa mwenzangu katika Kristo Yesu anakusalimu,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "na kama afanyavyo Marko, Aristarko, Dema, Luka, watendakazi pamoja nami.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Neema ya Bwana Yesu Kristo iwe pamoja na roho yako. Amina.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "book": "2 John",
+  "abbreviation": "2John",
+  "number": 63,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Kutoka kwa mzee kwenda kwa mwanamke mteule na watoto wake, ambao niwapendao katika kweli na si mimi tu, bali na wote wale wanao ifahamu kweli,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "kwa sababu ya kweli iliyomo ndani yetu na itakayodumu pamoja nasi milele.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Neema, rehema, amani zitakuwa nasi kutoka kwa Mungu Baba na kutoka kwa Yesu Kristo, Mwana wa Baba, katika kweli na pendo.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ninafurahi sana kwamba nimegundua baadhi ya watoto wanaenenda katika kweli, kama vile tu tulivyoipokea amri hii kutoka kwa Baba.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Na sasa nakusihi wewe, mwanamke, siyo kwamba nakuandikia amri mpya, bali ile tuliyokuwa nayo tokea mwanzo, kwamba tunapaswa kupendana sisi kwa sisi. Na huu ndiyo upendo, tunaopaswa kuenenda, kulingana na amri yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hii ndiyo ile amri, kama mlivyoisikia tokea mwanzo, kwamba mnapaswa kuenenda katika hiyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa kuwa wadanganyifu wengi wamesambaa katika ulimwengu, na hawakiri kwamba Yesu Kristo alikuja katika mwili. Huyu ndiye mdanganyifu na mpinga Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Jiangalieni wenyewe kwamba hampotezi mambo yale tuliyokwisha fanyia kazi, lakini ili kwamba mweze kuipokea tuzo kamili.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Yeyote aendeleae mbele na hadumu katika fundisho la Kristo, hana Mungu. Yeye adumuye katika fundisho anaye Baba na Mwana pia.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Kama mtu anakuja kwenu na haleti fundisho hili, msimkaribishe katika nyumba zenu na msimsalimie.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwa kuwa amsalimuye hushiriki katika matendo yake maovu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ninayo mambo mengi ya kukuandikia, na sikutaka kuyaandika kwa karatasi na wino. Lakini natumaini kuja kwenu na kuongea uso kwa uso, kwamba furaha yetu ipate kufanywa kamili.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Watoto wa dada yenu mteule wanawasalimia.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "book": "2 Thessalonians",
+  "abbreviation": "2Thess",
+  "number": 53,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulo, Silwano, na Timotheo, kwa kanisa la Wathesalonike katika Mungu Baba yetu na Bwana Yesu Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Neema na iwe kwenu na amani itokayo kwa Mungu Baba yetu na kwa Bwana Yesu Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Imetupasa sisi kumshukuru Mungu siku zote kwa ajili yenu, ndugu. Maana hivi ndivyo itupasavyo, kwa kuwa imani yenu inakua sana, na upendo wenu kwa kila mtu uongezeke mwingi.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hivyo sisi wenyewe tunaongea kwa fahari juu yenu katika makanisa ya Mungu. Tunazungumza habari ya saburi yenu na imani mliyo nayo katika mateso yote. Tunaongea kwa habari ya mateso mnayostahimili.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Hii ndiyo ishara ya hukumu ya haki ya Mungu. Matokeo ya haya ni kuwa ninyi mhesabiwe kuwa mwastahili kuuingia ufalme wa Mungu ambao kwa ajili yake mnateswa.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Kwa kuwa ni haki kwa Mungu kuwalipa mateso wale wawatesao ninyi,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "na kuwapa raha ninyi mteswao pamoja nasi. Atafanya hivi wakati wa kufunuliwa kwake Bwana Yesu kutoka mbinguni pamoja na malaika wa uweza wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Katika mwali wa moto atawalipiza kisasi wao wasiomjua Mungu na wao wasioitii injili ya Bwana wetu Yesu.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Watateseka kwa maangamizi ya milele wakiwa wametengwa na uwepo wa Bwana na utukufu wa nguvu zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Atafanya wakati atakapokuja ili kutukuzwa na watu wake na kustaajabishwa na wote walioamini. Kwa sababu ushuhuda wetu kwenu ulisadikiwa kwenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwa sababu hii twawaombea ninyi siku zote. Twaomba kwamba Mungu wetu awahesabu kuwa mlistahili kuitwa. Twaomba kwamba apate kutimiza kila haja ya wema na kila kazi ya imani kwa nguvu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Tunaomba mambo haya ili mpate kulitukuza jina la Bwana Yesu. Tunaomba kwamba mpate kutukuzwa naye, kwa sababu ya neema ya Mungu na ya Bwana Yesu Kristo.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Sasa kuhusu kuja kwa Bwana wetu Yesu Kristo na kukusanywa pamoja ili tuwe naye: tunawaomba ninyi ndugu zetu,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "kwamba msisumbuliwe wala kutabishwa kwa urahisi, kwa roho, au kwa ujumbe au kwa barua inayoonkana kuwa imetoka kwetu, ikisema ya kuwa siku ya Bwana tayari imekuja.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mtu na asiwadanganye kwa namna yoyote. Kwa kuwa haitakuja mpaka lile anguko litokee kwanza na mtu wa uasi afunuliwe, yule mwana wa uharibifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Huyu ndiye apingaye naye hujiinua mwenyewe akimpinga Mungu na chochote kinachoabudiwa. Na matokeo yake, hukaa kwenye hekalu la Mungu na kujionyesha yeye kuwa kama Mungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Je, hamkumbuki kuwa nilipokuwa nanyi niliwaambia juu ya mambo haya?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Sasa mnajua kile kinachomzuia, ili kwamba aweze kufunuliwa kwa wakati sahihi utakapowadia.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa kuwa siri ya yule mtu mwenye kuasi inafanya kazi mpaka sasa, ila tu kuna anaye mzuia sasa mpaka atakapotolewa njiani.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ndipo yule mwenye kuasi atakapofunuliwa, amabaye Bwana Yesu atamwua kwa pumzi ya kinywa chake. Bwana atamfanya kuwa si chochote kwa ufunuo wa ujio wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ujio wa yule mwenye kuasi utakuwa kwa sababu ya kazi ya shetani kwa nguvu zote, ishara na maajabu ya uongo,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "na uongo wote wenye udhalimu. Mambo haya yatakuwepo kwa wale wanaopotea, kwa sababu hawakuupokea upendo wa kweli kwa ajili ya kuokolewa kwao.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwa sababu hiyo Mungu anawatumia kazi yenye uovu ili waamini uongo.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Matokeo yake ni kwamba wote watahukumiwa, wale ambao hawakuamini ukweli bali wao hujifurahisha katika udhalimu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Lakini inatupasa tumshukuru Mungu kila mara kwa ajili yenu ndugu mpendwao na Bwana. Kwa sababu Bwana aliwachagua ninyi kama malimbuko ya wokovu kwa utakaso wa Roho na imani katika ile kweli.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Hiki ndicho alichowaitieni ninyi, kwamba kupitia injili muweza kuupata utukufu wa Bwana wetu Yesu Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Kwa hiyo, ndugu, simameni imara. Ueleweni ule utamaduni mliofundishwa, kwa neno au kwa barua yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sasa, Bwana wetu Yesu Kristo mwenyewe, na Mungu Baba yetu aliyetupenda na kutupa faraja ya milele na ujasiri mwema kwa ajili ya maisha yajayo kupitia neema,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "awafariji na kuifanya imara mioyo yenu katika kila neno na kazi njema.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Na sasa, ndugu, tuombeeni, kwamba neno la Bwana liweze kuenea na kutukuzwa, kama ilivyo pia kwenu.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Ombeni kwamba tuweze kuokolewa kutoka katika uovu na watu waasi, kwa kuwa si wote wana imani.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Lakini Bwana ni mwaminifu, ambaye atawaimarisha ninyi na kuwalinda kutoka kwa yule mwovu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Tunaujasiri katika Bwana kwa ajili yenu, kwamba mnatenda na mtaendelea kutenda mambo ambayo tunawaagiza.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Bwana aweze kuongoza mioyo yenu katika upendo na katika uvumilivu wa Kristo.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Sasa tunawaagiza, ndugu, katika jina la Bwana Yesu Kristo, kwamba mwepuke kila ndugu ambaye anaishi maisha ya uvivu na siyo kwa kutokana na desturi ambazo mlipokea kutoka kwetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kwa kuwa ninyi wenyewe mnajua ni sawa kwenu kutuiga sisi. Hatukuishi miongoni mwenu kama wale ambao hawakuwa na nidhamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Na hatukula chakula cha mtu yeyote bila kukilipia. Badala yake, tulifanya kazi usiku na mchana kwa kazi ngumu na kwa shida, ili tusiweze kuwa mzigo kwa yeyote katika ninyi.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tulifanya hivi si kwa sababu hatuna mamlaka. Badala yake, tulifanya hivi ili tuwe mfano kwenu, ili kwamba mweze kutuiga sisi.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wakati tulipokuwa pamoja nanyi tuliwaagiza, “Ikiwa mmoja wenu hataki kufanya kazi, na asile.”",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kwa kuwa tunasikia kwamba baadhi wanaenenda kwa uvivu miongoni mwenu. Hawafanyi kazi lakini badala yake ni watu wasio na utaratibu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sasa hao nao tunaagiza na kuwaasa katika Bwana Yesu Kristo, kwamba lazima wafanye kazi kwa utulivu na kula chakula chao wenyewe.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Lakini ninyi, ndugu, msizimie roho katika kufanya yaliyo sahihi.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ikiwa mtu yeyote hataki kutii neno letu katika waraka huu, mwe makini naye na msiwe na ushirika pamoja naye, ili kwamba aweze kuaibika.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Msimchukulie kama adui, lakini mwonyeni kama ndugu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Bwana wa amani mwenyewe awape amani wakati wowote katika njia zote. Bwana awe nanyi nyote.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hii ni salam yangu, Paulo, kwa mkono wangu mwenyewe, ambayo ni alama katika kila waraka. Hivi ndivyo niandikavyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Neema ya Bwana wetu Yesu Kristo iweze kuwa nanyi nyote.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

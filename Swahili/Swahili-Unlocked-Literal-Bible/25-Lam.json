@@ -1,0 +1,967 @@
+{
+  "book": "Lamentations",
+  "abbreviation": "Lam",
+  "number": 25,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mji ambao mwanzo ulikuwa na watu wengi sasa umekaa peke yake. Amekuwa kama mjane, japo alikuwa taifa kubwa. Alikuwa mtoto wa mfalme miongoni mwa mataifa, lakini sasa amelazimishwa utumwani.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Analia na kuomboleza usiku, na machozi yake yanafunika mashavu yake. Hamna ata mpenzi wake anaye mliwaza. Marafiki wake wote wamemsaliti. wamekuwa maadui wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Baada ya umaskini na mateso, Yuda ameenda matekani. Anaishi miongoni mwa mataifa na hapati pumziko lolote. Wanao wakimbiza wamewapata katika upweke wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Barabara za Sayuni zinaomboleza kwasababu hakuna anaye kuja kwenye sherehe iliyo andaliwa. Malango yake yote ni ukiwa. Makuhani wake wote wana sononeka. Mabikra wake wana uzuni na yeye mwenyewe yupo katika ugumu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Maadui wake wamekuwa bwana zake; maadui wake wana fanikiwa. Yahweh amemuadhibu kwa dhambi zake nyingi. Watoto wake wadogo wanaenda matekani kwa maadui zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Uzuri umemwacha binti wa Sayuni. Watoto wa mfalme wamekuwa kama ayala ambaye haoni malisho, na wanaenda bila uwezo kwa wanao wakimbiza.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Katika siku za mateso yake na kutokuwa na nyumba, Yerusalemu itakumbuka hazina zake za dhamani alizo kuwa nazo awali. Wakati watu wake walipo angukia mikononi mwa adui, hakuna aliye msaidia. Maadui waliwaona na kucheka maangamizo yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Yerusalemu ili tenda dhambi sana, hivyo basi, amedhalillika kama kitu kichafu. Wote walio mheshimu sasa wana mdharau kwa kuwa wameona uchi wake. Anasononeka na kujaribu kugeuka pembeni.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Amekuwa mchafu chini ya sketi yake. Hakuwaza hatima yake. Anguko lake lilikuwa baya. Hakukuwa na wakumliwaza. Alilia, “Angalia mateso yangu, Yahweh, kwa kuwa adui amekuwa mkuu sana.”",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Adui ameeka mkono wake kwenye hazina zetu za dhamani. Ameona mataifa yakiingia sehemu yake takatifu, japo uliamuru wasiingie katika sehemu yako ya kukusanyikia.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Watu wote wana sononeka wanapo tafuta mkate. Wametoa hazina zao za dhamani kwa ajili ya chakula cha kurejesha uhai wao. Tazama, Yahweh, ni kumbuke mimi, kwa kuwa nimekuwa sina faida.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sio kitu kwako, wote mnao pita? Angalia na uone kama kuna mtu mwenye uzuni kama uzuni ninao teswa nao, tangu Yahweh amenitesa mimi katika siku ya hasira yake kali.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ni kutoka juu ndipo alipo tuma moto kwenye mifupa yangu na umenishinda. Ametanda nyavu kwa miguu yangu na kunigeuza. Amenifanya ukiwa na dhahifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nira ya makosa yangu imefungwa na mikono yake. Zimesokotwa na kuekwa shingoni mwangu. Amefanya uweza wangu kushindwa. Bwana amenikabidhi mikononi mwa, na siwezi kusimama.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Bwana ametupa pembeni wanaume wangu hodari walio niokoa. Ameitisha kusanyiko dhidi yangu kuponda wanaume wangu imara. Bwana amewakanyaga binti bikra wa Yuda kwenye chombo cha kusagia mvinyo.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Kwa vitu hivi ninalia. Macho yangu, maji yanashuka chini ya macho yangu tangu mfariji aliye paswa kurejesha maisha yangu yuko mbali na mimi. Watoto wangu wamekuwa ukiwa kwasababu adui yangu ameshinda.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sayuni ametandaza mikono yake; hakuna wakuwa mliwaza. Yahweh ameamuru hao karibu na Yakobo wawemaadui wake. Yerusalemu ni kitu kichafu kwao.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Yahweh ni mwenye haki, kwa kuwa nimeasi dhidi ya amri zake. Sikia, ninyi watu, na muone uzuni wangu. Mabikra wangu na wanaume imara wameenda matekani.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Niliita marafiki zangu, lakini walikuwa na hila kwangu. Makuhani wangu na wazee waliangamia kwenye mji, walipo kuwa wanatafuta chakula cha kurejesha uhai wao.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Tazama, Yahweh, kwa kuwa nipo kwenye ugumu; tumbo langu lina nguruma, moyo wangu umetibuka ndani yangu, kwa kuwa nimekuwa muasi sana. Nje, upanga umemliza mama, ndani ya nyumba kuna mauti tu.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Wamesikia sononeko langu, lakini hakuna wakuni liwaza. Maadui zangu wote wamesikia shida zangu na wamefurahi umenifanyia hivi. Umeleta siku uliyo ahidi; sasa acha wawe kama mimi.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Acha uovu wote uje mbele zako. Shughulika nao kama ulivyo shughulika na mimi kwasababu ya makosa yangu yote. Masononeko yangu ni mengi na moyo umezimia.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Bwana amemfunika binti wa Sayuni chini ya wingu la hasira yake. Ametupa utukufu wa Israeli chini kutoka mbinguni hadi duniani. Hajakumba stuli yake ya miguu siku ya hasira yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Bwana amemeza na hajawa na huruma kwa miji yote ya Yakobo. Siku za hasira zake ameangusha miji imara ya binti wa Yuda; kwa aibu ameshusha chini ufalme na watala wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kwa hasira kali amekata kila pembe ya Israeli. Ameurudisha mkono wake kutoka kwa adui. Amechoma Yakobo kama moto mkali unao teketeza kila kitu karibu yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Kama adui amepindisha upinde wake kuelekea kwetu, na wakulia wake yupo tayari kushambulia. Amewachinja wote walio kuwa wanampendeza katika hema la binti wa Sayuni; Amemwaga gadhabu yake kama moto",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Bwana amekuwa kama adui. Amemeza Israeli. Amemeza majumba yake yote. Ameharibu ngome zake. Ameongeza kilio na maombolezo kati ya mabinti wa Yuda.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ameshambulia hema lake la kukutania kama kajumba cha bustani. Ameharibu sehemu ya kukusanyikia. Yahweh amesababisha kukusanyika na Sabato kusahaulika Sayuni, kwa kuwa amemdharau mfalme na kuhani katika ukali wa hasira yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Bwana amekataa madhabahu yake na kukana sehemu yake takatifu. Ametoa kuta za majumba mikononi mwa adui. Wamepaza sauti nyumbani mwa Yahweh, kama siku ya sherehe.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Yahweh aliamua kuharibu ukuta wa mji wa binti wa Sayuni. Amenyoosha kamba ya kipimo na hajauzuia mkono wake kutoharibu ukuta. Amefanya minara na ukuta kuomboleza; pamoja vilipotea.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Malango yake yameanguka chini, ameharibu na kuvunja chuma za ukuta. Mfalme wake na watoto wa mfalme wapo miongoni mwa mataifa, sheria haipo tena na manabii wake hawapati maono kutoka kwa Yahweh.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Wazee wa binti wa Sayuni wameketi chini na ukimya. Wamerusha vumbi kichwani mwao na kuvaa magunia. Mabikra wa Yerusalemu wameinamisha vichwa vyao chini.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Macho yangu yamekaukiwa machozi yake; tumbo langu la nguruma; sehemu zangu za ndani zimemwagika chini kwasababu ya uharibifu wa binti wa watu wangu, watoto na wachanga wamezimia mitaani mwa mji.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wanasema kwa mama zao, “Mbegu ziko wapi na mvinyo?” kama wanavyo zimia kama mtu aliye jeruhiwa mitaani mwa mji, maisha yao yamemwaga kwenye kifua cha mama zao.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nini naeza kusema kwako, binti wa Yerusalemu? Naweza kufananisha na nini, ili ni kufariji, binti bikra wa Sayuni? Jera lako ni kubwa kama bahari. Nani anaweza kukuponya?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Manabii wako wameona uongo na maono batili kwa ajili yako. Hawaja weka wazi dhambi zako kurejesha mali zako, lakini kwako wametoa matamko ya uongo na ya kupotosha.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Wote wanao pita pembeni mwa barabara wana piga makofi kwako. Wanaguna na kutikisa vichwa vyao dhidi ya binti wa Yerusalemu na kusema, “Huu ndio mji walio uita 'Ukamilifu wa uzuri,' 'Furaha ya Dunia Yote'?”",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Maadui zako wote walifungua vinywa vyao na kukudhihaki. Walizomea na kusaga meno na kusema, “Tumemmeza yeye! Hii ni siku tulio subiri! Tumeishi kuweza kuiona!”",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Yahweh amefanya alivyo panga kufanya. Ametimiza neno lake. Amekupindua bila huruma, kwa kuwa amemruhusu adui kukusherehekea; amenyanyua pembe za maadui zako.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mioyo yao ikamlilia Bwana, kuta za binti wa Sayuni! Fanya machozi yako kutiririka chini kama mto usiku na mchana. Usijipatie hauweni, macho yako bila hauweni.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Nyanyuka, lia usiku, mwanzo usiku wa manane! Mwaga moyo wako kama maji mbele za uso wa Bwana. Nyoosha juu mikono yako kwa ajili ya uzima wa watoto wako wanao zimia kwa njaa kwenye njia ya kila mtaa.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ona, Yahweh, na ukumbuke hao ulio watende haya. Wanawake wale tunda la uzazi wao, watoto walio wajali? Makuhani na manabii wa chinjwe sehemu takatifu ya Bwana?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Wote wadogo kwa wakubwa wana keti kwenye udongo wa mitaa. Wanawake wangu wadogo na wanaume wangu wadogo wameanguaka kwa upanga; umewachinja pasipo kuwa hurumia.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Umeitisha, kama ungewaita watu katika siku ya maakuli, hofu yangu kila sehemu, katika siku ya hasira ya Yahweh hakuna aliye toroka; hao niliyo wajali na kuwakuza, adui wangu amewaharibu.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mimi ni mwanaume nilyeona maangaiko chini ya gongo la hasira ya Yahweh.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Amenifukuza na kunisababisha kutembea kwenye giza kuliko kwenye nuru.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hakika amenigeuzia mkono wake dhidi yangu tena na tena, siku yote.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Amefanya mwili wangu na ngozi yangu kufifia; amevunja mifupa yangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Amejenga vifusi vya udogo dhidi yangu, na kunizingira na uchungu na ugumu.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Amefanya ni ishi sehemu za giza, kama hao walio kufa zamani.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Amejenga ukuta kunizunguka na siwezi kutoroka. Amefanya minyororo yangu mizito",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "na japo nina ita na kulilia msaada, anazima maombi yangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ameziba njia yangu kwa ukuta wa mawe ya kuchonga; amefanya njia yangu mbaya.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Yeye ni kama dubu anasubiri kunishambulia, simba katika maficho;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "amegeuza pembeni njia zangu, amenifanya ukiwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Amepindisha upinde wake na kunifanya mimi kama lengo la mshale wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ametoboa maini yangu kwa mishale ya mfuko wake.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Nilikuwa kichekesho kwa watu wangu wote, kielelezo cha dhihaka yao siku nzima.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Amenijaza kwa uchungu na kunilazimisha kunywa maji machungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Alivunja meno yangu na kokoto; amenisukuma chini kwenye fumbi.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Nafsi yangu imenyimwa amani; nimesahau furaha ni nini.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Hivyo na sema, “Ustahimilivu wangu umeangamia na pia tumaini langu kwa Yahweh.”",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Kumbuka mateso yangu na kuangaika kwangu, maji machungu na uchungu.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ninaendelea kukumbuka na nimeinama ndani yangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Lakini ni vuta hili akilini mwangu na hivyo nina matumaini:",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Upendo dhabiti wa Yahweh haukomi na huruma zake haziishi,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "ni mpya kila asubui; uaminifu wako ni mkubwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "“Yahweh ni urithi wangu,” Nilisema, hivyo nitamtumainia.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Yahweh ni mwema kwao wanao msubiri, kwa anaye mtafuta.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ni vizuri kusubiri taratibu kwa uwokovu wa Yahweh.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Ni vizuri kwa mtu kubeba nira katika ujana.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Acha aketi peke yake katika utulivu, inapo kuwa imewekwa juu yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Acha aeke mdomo wake kwenye vumbi - kunaweza bado kuwa na matumaini.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Acha atoa shavu lake kwa yeye anaye mpiga, na ajazwe tele kwa aibu.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Kwa kuwa Bwana hatatukataa milele,",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "lakini japo anatia uzuni, ata kuwa na huruma kwa kadiri ya mwingi wa upendo wake dhabiti.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Kwa kuwa haadhibu kutoka moyoni mwake au kutesa watoto wa mwanadamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Kukanyaga chini ya mguu wafungwa wote wa dunia,",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "kumnyima haki mtu mbele ya uwepo wa Aliye Juu,",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "mkunyima haki mtu - Bwana hataidhinisha vitu kama hivyo!",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Ni nani aliye zungumza na ikatimia, kama sio Bwana kutamka?",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Sio kutoka mdomoni mwa Aliye Juu majanga na mazuri yanakuja?",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Mtu aliye hai anawezaje kulalamika? Mtu anawezaje kulalamika kwa adhabu ya dhambi zake?",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Natujichunguze njia zetu na kuzijaribu, na tumrudie Yahweh.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "Na tunyanyue mioyo yetu na mikono yetu kwa Yahweh mbinguni:",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "“Tumekosea na kuasi, na haujasamehe.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "Umejifunika na hasira na kutukimbiza, umeua na haujanusuru.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "Umejifunika na wingu ili kwamba kusiwe na ombi linaloweza kupita.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "Umetufanya kama uchafu na taka miongoni mwa mataifa.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "Maadui wetu wote wametulaani,",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "wasiwasi na shimo limetujia, maafa na uharibifu.",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "Macho yangu yanatiririka na miferiji ya machozi kwasababu ya watu wangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "Macho yangu yatatoa machozi pasipo kikomo; pasipo hauweni,",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "mpaka atakapo tazama chini na Yahweh ataona kutoka mbinguni.",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "Macho yangu yana ni sababishia uzuni kwasababu ya mabinti wa mji wangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "Nimewindwa kama ndege hao walio kuwa maadui zangu; wameniwinda pasipo sababu.",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "Wamenitupa kwenye shimo na wakanitupia jiwe,",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "na maji yaka mwagika juu ya kichwa changu. Nilisema, “Nimekatwa mbali!”",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "heading": null,
+          "text": "Nililiita jna lako, Yahweh, kutoka kina cha shimo.",
+          "footnotes": []
+        },
+        {
+          "verse": 56,
+          "heading": null,
+          "text": "Ulisikia sauti yangu. Ulisikia sauti yangu nilipo sema, “Usifunge sikio lako kwa kilio changu cha msaada.”",
+          "footnotes": []
+        },
+        {
+          "verse": 57,
+          "heading": null,
+          "text": "Ulikuja karibu siku niliyo kuiita; ulisema, “Usiogope”",
+          "footnotes": []
+        },
+        {
+          "verse": 58,
+          "heading": null,
+          "text": "Bwana, ulitetea kesi yangu, uliokoa maisha yangu!",
+          "footnotes": []
+        },
+        {
+          "verse": 59,
+          "heading": null,
+          "text": "Yahweh, umeona mabaya waliyo ni fanyia, hukumu kesi yangu.",
+          "footnotes": []
+        },
+        {
+          "verse": 60,
+          "heading": null,
+          "text": "Umeona matusi yao, mipango yao yote dhidi yangu -",
+          "footnotes": []
+        },
+        {
+          "verse": 61,
+          "heading": null,
+          "text": "Umesikia dhihaka yao, Yahweh, na mipango yao kunihusu.",
+          "footnotes": []
+        },
+        {
+          "verse": 62,
+          "heading": null,
+          "text": "Midomo ya hao wanao inuka kinyume changu, na mashtaka yao, inakuja dhidi yangu siku nzima.",
+          "footnotes": []
+        },
+        {
+          "verse": 63,
+          "heading": null,
+          "text": "Ngalia jinsi wanavyo keti na kuinuka; wana nidhihaki na nyimbo zao.",
+          "footnotes": []
+        },
+        {
+          "verse": 64,
+          "heading": null,
+          "text": "Walipize, Yahweh, kwa kadiri ya waliyo fanya.",
+          "footnotes": []
+        },
+        {
+          "verse": 65,
+          "heading": null,
+          "text": "Utaacha mioyo yao bila lawama! Hukumu yako iwe juu yao!",
+          "footnotes": []
+        },
+        {
+          "verse": 66,
+          "heading": null,
+          "text": "Una wakimbiza kwa hasira na kuwaharibu nchini ya mbingu, Yahweh!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Dhahabu imechakaa; jinsi gani dhahabu safi imebadilika! Mawe matakatifu yamezagaa katika kila njia ya mtaa.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Wana wa dhamani wa Sayuni walikuwa na dhamani ya uzito wa dhahabu safi, lakini sasa hawana dhamani zaidi ya majagi ya udogo, kazi ya mikono ya mfinyazi!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ata mbwa wa mitaani wanatoa maziwa yao kuwanyonyesha watoto wao, lakini binti wa watu wangu amekuwa katili, kama mbuni katika jangwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ulimi wa mtoto mchanga anaye nyonya unagota juu mdomo wake kwa kiu; watoto wanaomba chakula, lakini hakuna kwa ajili yao.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Wao walizoea kula chakula cha gharama sasa wana shinda njaa mitaani; wao walio lelewa kwa kuvaa nguo za zambarau, sasa wamelala katika majalala.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hukumu ya binti wa watu wangu ni kubwa kuliko hiyo ya Sodoma, na ilipinduliwa kwa dakika na hakuna aliye yanyua mkono kumsaidia.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Viongozi wake walikuwa wasafi kuliko theluji, weupe kuliko maziwa; miili yao ilikuwa imara kuliko jiwe, mwili wao ulikuwa kama yakuti samawi.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Muonekano wao umekuwa mweusi kama giza; hawatambuliki mitaani. Ngozi zao zimesinya kwenye mifupa yao; imekuwa kavu kama kuni.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Hao walio uawa kwa upanga walikuwa na furaha zaidi kuliko hao walio kufa kwa njaa, walio potea, wakatobolewa kwa ukosefu wa mavuno shambani.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mikono ya wanawake wenye huruma imewachemsha watoto wao; wamekuwa chakula chao wakati ambapo binti wa watu wangu alipo kuwa akiharibiwa.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Yahweh alionyesha gadhabu yake yote; alimwaga hasira yake kali. Aliwasha moto Sayuni uliteketeza misingi yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Wafalme wa dunia hawaku amini, wala wakazi wa dunia, kwamba maadui au wapinzani waliweza kuingia malangoni ya Yerusalemu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Haya yalitokea kwasababu ya dhambi za manabii na na maasi ya makuhani walio mwaga damu ya wenye haki mbele zake.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Walitanga, kwa upofu, mitaani. Walikuwa wamejitia unajisi kwa damu hiyo ambapo hakuna aliye ruhusiwa kushika nguo zao.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "“Kaa mbali! Wewe mnajisi!” Watu waliwapazia sauti. “Kaa mbali! Kaa mbali! Usiguse!” Hivyo wakatanga; watu walisema miongoni mwa mataifa, “Hawawezi kukaa hapa tena.”",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Yahweh mwenyewe akawatawanyisha; hawatazami tena. Hawa waheshimu makuhani, na hawaonyeshi upendeleo kwa wazee.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Macho yetu yalikwama, yakitazama bure kwa msaada; kutoka minara yetu ya ulinzi tulitazama taifa lisilo weza tuokoa.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Walifuata hatua zetu, hatukuweza kutembea mitaani mwetu. Mwisho wetu ulikuwa karibu na siku zetu zilihesabiwa, mwisho wetu ulifika.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Walio tukimbiza walikuwa wepesi kuliko tai wa aangani. Walitukimbiza kwenye milima na kutuwinda nyikani.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Pumzi katika pua zetu - mpakwa mafuta wa Yahweh - ndiye aliye kamatwa katika shimo; ambaye ndiye aliye semewa, “Chini ya kivuli chake tutaishi miongoni mwa mataifa.”",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Shangilia na ufurahi, binti wa Edomu, wewe unaye ishi nchi ya Uzi. Lakini kwako pia kikombe kitapitishwa; utalewa na kuvua nguo.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Binti wa Sayuni, hukumu yako itafika mwisho, hataongeza mateka yako lakini binti wa Edomu, ata muhadhibu; ata funua dhambi zako.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Kumbuka, Yahweh, yaliyo tutokea na uone aibu yetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Urithi wetu umegeuziwa kwa wageni; nyumba zetu kwa wageni.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Tumekuwa yatima, bila baba, na mama zetu ni kama wajane.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Lazima tulipe fedha kwa maji tunayo kunywa, na tulipe fedha kupata mbao zetu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Hao wanakuja kwetu wamekaribia nyuma yetu; tumechoka na hatuwezi pata mapumziko.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Tumejitoa kwa Misri na kwa Assiria tupate chakula cha kutosha.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Baba zetu walifanya dhambi, na hawapo tena, na tumebeba dhambi zao.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Watumwa walitutawala, na hakuna wa kutuokoa na mikono yao.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tunapata mkate wetu pale tunapo hatarisha maisha, kwasababu ya upanga wa nyikani.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ngozi zetu zimekuwa na moto kama jiko kwasababu ya joto la njaa.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Wanawake wanabakwa Sayuni, na mabikra katika mji wa Yuda.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Watoto wa mfalme wamenyongwa na mikono yao, na hakuna heshima inayoonyeshwa kwa wazee.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Wanaume vijana wanalizimishwa kusaga mbegu kwa jiwe la kusagia, na wavulana wanajikwa chini ya vifurushi vya kuni.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Wazee wameacha lango la mji, na vijana wameacha miziki.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Furaha ya moyo imekoma na kucheza kwetu kumegeuka kilio.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Taji limeanguka kichwani mwetu; ole wetu, kwa kuwa tumetenda dhambi!",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Kwa kuwa moyo wetu umekuwa unaumwa, na machozi yetu ya fifia, kwa vitu hivi macho yetu yanafifia",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "maana Mlima Sayuni umelala ukiwa, mbwa wa mitaani wacheza juu yake.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Lakini wewe, Yahweh, unatawala milele, na utaketi katika kiti chako cha enzi vizazi na vizazi. Kwanini unatusahau milele?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Kwanini unatutelekeza kwa siku nyingi?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Turejeshe kwako, Yahweh, na sisi tutarejea. Fanya upya siku zetu kama zilivyo kuwa hapo zamani -",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "vinginevyo labda uwe umetukataa na una hasira kwetu kupita kiasi.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
