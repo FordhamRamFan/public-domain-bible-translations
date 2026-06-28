@@ -1,0 +1,691 @@
+{
+  "book": "James",
+  "abbreviation": "Jas",
+  "number": 59,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Jakab, Istennek és az Úr Jézus Krisztusnak szolgája, az elszórtan levő tizenkét nemzetségnek; üdvözletemet.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Teljes örömnek tartsátok, atyámfiai, mikor különféle kísértésekbe estek,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Tudván, hogy a ti hiteteknek megpróbáltatása kitartást szerez.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "A kitartásban pedig tökéletes cselekedet legyen, hogy tökéletesek és épek legyetek minden fogyatkozás nélkül.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ha pedig valakinek közületek nincsen bölcsessége, kérje Istentől, a ki mindenkinek készségesen és szemrehányás nélkül adja; és megadatik néki.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De kérje hittel, semmit sem kételkedvén: mert a ki kételkedik, hasonlatos a tenger habjához, a melyet a szél hajt és ide s tova hány.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mert ne vélje az ilyen ember, hogy kaphat valamit az Úrtól;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "A kétszívű, a minden útjában állhatatlan ember.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Dicsekedjék pedig az alacsony sorsú atyafi az ő nagyságával;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "A gazdag pedig az ő alacsonyságával: mert elmúlik, mint a fűnek virága.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mert felkél a nap az ő hévségével, és megszárítja a füvet; és annak virága elhull, és ábrázatának kedvessége elvész: így hervad el a gazdag is az ő útaiban.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Boldog ember az, a ki a kísértésben kitart; mert minekutána megpróbáltatott, elveszi az életnek koronáját, a mit az Úr ígért az őt szeretőknek.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Senki se mondja, mikor kísértetik: Az Istentől kísértetem: mert az Isten gonoszsággal nem kísérthető, ő maga pedig senkit sem kísért.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Hanem mindenki kísértetik, a mikor vonja és édesgeti a tulajdon kívánsága.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Azután a kívánság megfoganván, bűnt szűl; a bűn pedig teljességre jutván halált nemz.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ne tévelyegjetek szeretett atyámfiai!",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Minden jó adomány és minden tökéletes ajándék felülről való, és a világosságok Atyjától száll alá, a kinél nincs változás, vagy változásnak árnyéka.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Az ő akarata szült minket az igazságnak ígéje által, hogy az ő teremtményeinek valami zsengéje legyünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Azért, szeretett atyámfiai, legyen minden ember gyors a hallásra, késedelmes a szólásra, késedelmes a haragra.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mert ember haragja Isten igazságát nem munkálja.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Elvetvén azért minden undokságot és a gonoszságnak sokaságát, szelídséggel fogadjátok a beoltott ígét, a mely megtarthatja a ti lelkeiteket.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Az ígének pedig megtartói legyetek és ne csak hallgatói, megcsalván magatokat.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Mert ha valaki hallgatója az ígének és nem megtartója, az ilyen hasonlatos ahhoz az emberhez, a ki tükörben nézi az ő természet szerinti ábrázatát:",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Mert megnézte magát és elment, és azonnal elfelejtette, milyen volt.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "De a ki belenéz a szabadság tökéletes törvényébe és megmarad a mellett, az nem feledékeny hallgató, sőt cselekedet követője lévén, az boldog lesz az ő cselekedetében.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ha valaki istentisztelőnek látszik köztetek, de nem zabolázza meg nyelvét, sőt megcsalja a maga szívét, annak az istentisztelete hiábavaló.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Tiszta és szeplő nélkül való istentisztelet az Isten és az Atya előtt ez: meglátogatni az árvákat és özvegyeket az ő nyomorúságukban, és szeplő nélkül megtartani magát e világtól.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Atyámfiai ne legyen személyválogatás a ti hitetekben, a mely van a dicsőség Urában, a mi Jézus Krisztusunkban.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mert ha a ti gyülekezetetekbe bemegy egy aranygyűrűs férfiú fényes ruhában, bemegy pedig egy szegény is szennyes ruhában;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "És rátekinttek arra, a kin a fényes ruha van, és azt mondjátok néki: Te ülj ide szépen; és a szegénynek ezt mondjátok: Te állj ott, vagy ülj ide az én zsámolyom mellé:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nem mondtatok-é ellent magatoknak, és nem lettetek-é gonosz gondolkozású birákká?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Halljátok meg szeretett atyámfiai, avagy nem az Isten választotta-é ki e világ szegényeit, hogy gazdagok legyenek hitben, és örökösei az országnak, a melyet azoknak ígért, a kik őt szeretik?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ti pedig meggyaláztátok a szegényt. Avagy nem a gazdagok hatalmaskodnak-é rajtatok, és nem ők hurczolnak-é titeket a törvény elé?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Nem ők káromolják-é azt a szép nevet, a melyről neveztettek?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ha ellenben megtartjátok a királyi törvényt az Írás szerint: Szeressed felebarátodat, mint tenmagadat, jól cselekesztek.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "De ha személyválogatók vagytok, vétkeztek, elmarasztaltatva a törvény által, mint annak megrontói.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert ha valaki az egész törvényt megtartja is, de vét egy ellen, az egésznek megrontásában bűnös.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mert a ki ezt mondotta: Ne paráználkodjál, ezt is mondotta: Ne ölj. És ha nem paráználkodol, de ölsz, törvényszegővé lettél.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Úgy szóljatok és úgy cselekedjetek, mint a kiket a szabadság törvénye fog megítélni.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mert az ítélet irgalmatlan az iránt, a ki nem cselekszik irgalmasságot; és dicsekedik az irgalmasság az ítélet ellen.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mi a haszna, atyámfiai, ha valaki azt mondja, hogy hite van, cselekedetei pedig nincsenek? Avagy megtarthatja-é őt a hit?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ha pedig az atyafiak, férfiak vagy nők, mezítelenek, és szűkölködnek mindennapi eledel nélkül,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "És azt mondja nékik valaki ti közületek: Menjetek el békességgel, melegedjetek meg és lakjatok jól; de nem adjátok meg nékik, a mikre szüksége van a testnek; mi annak a haszna?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Azonképen a hit is, ha cselekedetei nincsenek, megholt ő magában.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "De mondhatja valaki: Néked hited van, nékem pedig cselekedeteim vannak. Mutasd meg nékem a te hitedet a te cselekedeteidből, és én meg fogom néked mutatni az én cselekedeteimből az én hitemet.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Te hiszed, hogy az Isten egy. Jól teszed. Az ördögök is hiszik, és rettegnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Akarod-é pedig tudni, te hiábavaló ember, hogy a hit cselekedetek nélkül megholt?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Avagy Ábrahám, a mi atyánk, nem cselekedetekből igazíttatott-é meg, felvivén Izsákot, az ő fiát az oltárra?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Látod, hogy a hit együtt munkálkodott az ő cselekedeteivel, és a cselekedetekből lett teljessé a hit;",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "És beteljesedett az Írás, a mely ezt mondja: Hitt pedig Ábrahám az Istennek, és tulajdoníttatott néki igazságul, és Isten barátjának neveztetett.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Látjátok tehát, hogy cselekedetekből igazul meg az ember, és nem csupán hitből.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Hasonlatosképen pedig a tisztátalan Ráháb is, avagy nem cselekedetekből igazíttatott é meg, a mikor a követeket házába fogadta, és más úton bocsátotta ki?",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Mert a miképen holt a test lélek nélkül, akképen holt a hit is cselekedetek nélkül.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Atyámfiai, ne legyetek sokan tanítók, tudván azt, hogy súlyosabb ítéletünk lészen.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mert mindnyájan sokképen vétkezünk. Ha valaki beszédben nem vétkezik, az tökéletes ember, képes az egész testét is megzabolázni.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ímé a lovaknak szájába zabolát vetünk, hogy engedelmeskedjenek nékünk, és az ő egész testöket igazgatjuk.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ímé a hajók is, noha mily nagyok, és erős szelektől hajtatnak, mindazáltal igen kis kormánytól oda fordíttatnak, a hová a kormányos szándéka akarja.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ezenképen a nyelv is kicsiny tag és nagy dolgokkal hányja magát. Ímé csekély tűz mily nagy erdőt felgyújt!",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "A nyelv is tűz, a gonoszságnak összessége. Úgy van a nyelv a mi tagjaink között, hogy megszeplősíti az egész testet, és lángba borítja életünk folyását, maga is lángba boríttatván a gyehennától.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mert minden természet, vadállatoké, madaraké, csúszómászóké és vízieké megszelídíthető és meg is szelidíttetett az emberi természet által:",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "De a nyelvet az emberek közül senki sem szelidítheti meg; fékezhetetlen gonosz az, halálos méreggel teljes.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ezzel áldjuk az Istent és Atyát, és ezzel átkozzuk az embereket, a kik az Isten hasonlatosságára teremttettek:",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ugyanabból a szájból jő ki áldás és átok. Atyámfiai, nem kellene ezeknek így lenni!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Vajjon a forrás ugyan abból a nyílásból csörgedeztet-é édest és keserűt?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Avagy atyámfiai, teremhet-é a fügefa olajmagvakat, vagy a szőlőtő fügét? Azonképen egy forrás sem adhat sós és édes vizet.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Kicsoda köztetek bölcs és okos? Mutassa meg az ő jó életéből az ő cselekedeteit bölcsességnek szelídségével.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ha pedig keserű irígység és czivódás van a ti szívetekben, ne dicsekedjetek és ne hazudjatok az igazság ellen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ez nem az a bölcsesség, a mely felülről jő, hanem földi, testi és ördögi.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mert a hol irígység és czivakodás van, ott háborúság és minden gonosz cselekedet is van.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "A felülről való bölcsesség pedig először is tiszta, azután békeszerető, méltányos, engedelmes, irgalmassággal és jó gyümölcsökkel teljes, nem kételkedő és nem képmutató.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Az igazság gyümölcse pedig békességben vettetik azoknak, a kik békességesen munkálkodnak.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Honnét vannak háborúk és harczok közöttetek? Nem onnan-é a ti gerjedelmeitekből, a melyek a ti tagjaitokban vitézkednek?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Kívántok valamit, és nincs néktek: gyilkoltok és irígykedtek, és nem nyerhetitek meg; harczoltok és háborúskodtok; és nincsen semmitek, mert nem kéritek.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kéritek, de nem kapjátok, mert nem jól kéritek, hogy gerjedelmeitekre költsétek azt.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Parázna férfiak és asszonyok, nem tudjátok-é, hogy a világ barátsága ellenségeskedés az Istennel? A ki azért e világ barátja akar lenni, az Isten ellenségévé lesz.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Vagy azt gondoljátok, hogy az Írás hiába mondja: Irígységre kívánkozik a lélek, a mely bennünk lakozik?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De majd nagyobb kegyelmet ád; ezért mondja: Az Isten a kevélyeknek ellenök áll, az alázatosoknak pedig kegyelmet ád.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Engedelmeskedjetek azért az Istennek; álljatok ellene az ördögnek, és elfut tőletek.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Közeledjetek az Istenhez, és közeledni fog hozzátok. Tisztítsátok meg kezeiteket, ti bűnösök, és szenteljétek meg szíveiteket ti kétszívűek.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nyomorkodjatok és gyászoljatok és sírjatok; a ti nevetéstek gyászra forduljon, és örömötök szomorúságra.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Alázzátok meg magatokat az Úr előtt, és felmagasztal titeket.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ne szóljátok meg egymást atyámfiai. A ki megszólja atyjafiát, és a ki kárhoztatja atyjafiát, az a törvény ellen szól, és a törvényt kárhoztatja. Ha pedig a törvényt kárhoztatod, nem megtartója, hanem bírája vagy a törvénynek.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Egy a törvényhozó, a ki hatalmas megtartani és elveszíteni: kicsoda vagy te, hogy kárhoztatod a másikat?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nosza immár ti, a kik azt mondjátok: Ma vagy holnap elmegyünk ama városba, és ott töltünk egy esztendőt, és kalmárkodunk, és nyerünk;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "A kik nem tudjátok mit hoz a holnap: mert micsoda a ti életetek? Bizony pára az, a mely rövid ideig látszik, azután pedig eltűnik.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Holott ezt kellene mondanotok: Ha az Úr akarja és élünk, ím ezt, vagy amazt fogjuk cselekedni.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ti ellenben elbizakodottságtokban dicsekedtek: Minden ilyen dicsekedés gonosz.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "A ki azért tudna jót cselekedni, és nem cselekeszik, bűne az annak.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Nosza immár ti gazdagok, sírjatok, jajgatván a ti nyomorúságaitok miatt, a melyek elkövetkeznek reátok.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Gazdagságotok megrothadt, és a ruháitokat moly ette meg;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Aranyotokat és ezüstötöket rozsda fogta meg, és azok rozsdája bizonyság ellenetek, és megemészti a ti testeteket, mint a tűz. Kincset gyűjtöttetek az utolsó napokban!",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ímé a ti mezőiteket learató munkások bére, a mit ti elfogtatok, kiált. És az aratók kiáltásai eljutottak a Seregek Urának füleihez.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Dőzsöltetek e földön és dobzódtatok; szívetek legeltettétek mint áldozás napján.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Elkárhoztattátok, megöltétek az igazat; nem áll ellent néktek.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Legyetek azért, atyámfiai, béketűrők az Úrnak eljöveteléig. Ímé a szántóvető várja a földnek drága gyümölcsét, béketűréssel várja, míg reggeli és estveli esőt kap.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Legyetek ti is béketűrők, és erősítsétek meg szíveteket, mert az Úrnak eljövetele közel van.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ne sóhajtozzatok egymás ellen, atyámfiai, hogy el ne ítéltessetek: ímé a Bíró az ajtó előtt áll.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Például vegyétek, atyámfiai, a szenvedésben és béketűrésben a prófétákat, a kik az Úr nevében szólottak.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ímé, boldogoknak mondjuk a tűrni tudókat. Jóbnak tűrését hallottátok, és az Úrtól való végét láttátok, hogy igen irgalmas az Úr és könyörületes.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mindeneknek előtte pedig ne esküdjetek, atyámfiai, se az égre, se a földre, se semmi más esküvéssel. Hanem legyen a ti igenetek igen, és a nem nem; hogy kárhoztatás alá ne essetek.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Szenved-é valaki köztetek? Imádkozzék. Öröme van-é valakinek? Dícséretet énekeljen.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Beteg-é valaki köztetek? Hívja magához a gyülekezet véneit, és imádkozzanak felette, megkenvén őt olajjal az Úrnak nevében.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És a hitből való imádság megtartja a beteget, és az Úr felsegíti őt. És ha bűnt követett is el, megbocsáttatik néki.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Valljátok meg bűneiteket egymásnak és imádkozzatok egymásért, hogy meggyógyuljatok: mert igen hasznos az igaznak buzgóságos könyörgése.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Illés ember volt, hozzánk hasonló természetű; és imádsággal kéré, hogy ne legyen eső, és nem volt eső a földön három esztendeig és hat hónapig:",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És ismét imádkozott, és az ég esőt adott, és a föld megtermé az ő gyümölcsét.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Atyámfiai, hogyha valaki ti köztetek eltévelyedik az igazságtól, és megtéríti őt valaki,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Tudja meg, hogy a ki bűnöst térít meg az ő tévelygő útjáról, lelket ment meg a haláltól és sok bűnt elfedez.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

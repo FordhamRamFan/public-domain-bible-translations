@@ -1,0 +1,1917 @@
+{
+  "book": "Hebrews",
+  "abbreviation": "Heb",
+  "number": 58,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Minekutána az Isten sok rendben és sokféleképen szólott hajdan az atyáknak a próféták által, ez utolsó időkben szólott nékünk Fia által,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "A kit tett mindennek örökösévé, a ki által a világot is teremtette,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "A ki az ő dicsőségének visszatükröződése, és az ő valóságának képmása, a ki hatalma szavával fentartja a mindenséget, a ki minket bűneinktől megtisztítván, üle a Felségnek jobbjára a magasságban,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Annyival kiválóbb lévén az angyaloknál, a mennyivel különb nevet örökölt azoknál.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mert kinek mondotta valaha az angyalok közül: Én Fiam vagy te, én ma szűltelek téged? és ismét: Én leszek néki Atyja és ő lesz nékem Fiam?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Viszont mikor behozza az ő elsőszülöttét a világba, így szól: És imádják őt az Istennek minden angyalai.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "És bár az angyalokról így szól: Ki az ő angyalait szelekké teszi és az ő szolgáit tűz lángjává,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ámde a Fiúról így: A te királyi széked óh Isten örökkön örökké. Igazságnak pálczája a te országodnak pálczája.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Szeretted az igazságot és gyűlölted a hamisságot: annakokáért felkent téged az Isten, a te Istened, örömnek olajával a te társaid felett.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És: Te Uram kezdetben alapítottad a földet és a te kezeidnek művei az egek;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Azok elvesznek, de te megmaradsz, és mindazok, mint a ruha megavulnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "És palástként összehajtod azokat és elváltoznak, te pedig ugyanaz vagy és a te esztendeid el nem fogynak.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Melyik angyalnak mondotta pedig valaha: Ülj az én jobbkezem felől, míglen ellenségeidet lábaidnak zsámolyává teszem?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Avagy nem szolgáló lelkek-é mindazok, elküldve szolgálatra azokért, a kik örökölni fogják az idvességet?",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Annakokáért annál is inkább szükséges nékünk a hallottakra figyelmeznünk, hogy valaha el ne sodortassunk.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mert ha az angyaloktól hirdetett beszéd erős volt és minden bűn és engedetlenség elvette igazságos büntetését:",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mimódon menekedünk meg mi, hogyha nem törődünk ily nagy idvességgel? a melyet, miután kezdetben hirdetett az Úr, azok, a kik hallották, biztosítottak számunkra,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Velök együtt bizonyságot tevén arról az Isten, jelekkel meg csodákkal és sokféle erőkkel s a Szent Léleknek közléseivel az ő akarata szerint.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mert nem angyaloknak vetette alá a jövendő világot, a melyről szólunk.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Sőt bizonyságot tett valahol valaki, mondván: Micsoda az ember, hogy megemlékezel ő róla, avagy az embernek fia, hogy gondod van reá?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Kisebbé tetted őt rövid időre az angyaloknál, dicsőséggel és tisztességgel megkoronáztad őt és úrrá tetted kezeid munkáin,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mindent lábai alá vetettél. Mert azzal, hogy néki mindent alávetett, semmit sem hagyott alávetetlenül: de most még nem látjuk, hogy néki minden alávettetett.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Azt azonban látjuk, hogy Jézus, a ki egy kevés időre kisebbé tétetett az angyaloknál, a halál elszenvedéséért dicsőséggel és tisztességgel koronáztatott meg, hogy az Isten kegyelméből mindenkiért megízlelje a halált.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert illendő vala, hogy a kiért minden és a ki által minden, sok fiakat vezérelvén dicsőségre, az ő idvességök fejedelmét szenvedések által tegye tökéletessé.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mert a megszentelő és a megszenteltek egytől valók mindnyájan, a mely oknál fogva nem szégyenli őket atyjafiainak hívni,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mondván: Hirdetem a te nevedet az én atyámfiainak, az anyaszentegyháznak közepette dícséretet mondok néked.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És ismét: Én ő benne bízom; és ismét: Ímhol vagyok én és a gyermekek, a kiket az Isten nékem adott.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mivel tehát a gyermekek testből és vérből valók, ő is hasonlatosképen részese lett azoknak, hogy a halál által megsemmisítse azt, a kinek hatalma van a halálon, tudniillik az ördögöt,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És megszabadítsa azokat, a kik a haláltól való félelem miatt teljes életökben rabok valának.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mert nyilván nem angyalokat karolt fel, hanem az Ábrahám magvát karolta fel.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Annakokáért mindenestől fogva hasonlatosnak kellett lennie az atyafiakhoz, hogy könyörülő legyen és hív főpap az Isten előtt való dolgokban, hogy engesztelést szerezzen a nép bűneiért.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mert a mennyiben szenvedett, ő maga is megkísértetvén, segíthet azokon, a kik megkísértetnek.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Annakokáért szent atyafiak, mennyei elhívásnak részesei, figyelmezzetek, a mi vallásunknak apostolára és főpapjára, Krisztus Jézusra,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "A ki hű ahhoz, a ki őt rendelte, valamint Mózes is az ő egész házában.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mert ez nagyobb dicsőségre méltattatott, mint Mózes, a mennyiben a ház építőjének nagyobb a tisztessége, mint a háznak.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mert minden háznak van építője, a ki pedig mindent elkészített, az Isten az.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mózes is hű volt ugyan az ő egész házában, mint szolga, a hirdetendőknek bizonyságára,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Krisztus ellenben mint Fiú a maga háza felett, a kinek háza mi vagyunk, ha a bizodalmat és a reménységnek dicsekedését mind végig erősen megtartjuk.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Annakokáért a mint a Szent Lélek mondja: Ma, ha az ő szavát halljátok,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Meg ne keményítsétek a ti szíveteket, mint az elkeseredéskor, a kísértés ama napján a pusztában,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "A hol a ti atyáitok próbára tevéssel megkísértének engem és látták az én cselekedeteimet negyven esztendeig.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Azért megharagudtam arra a nemzetségre és mondám: mindig tévelyegnek szivökben; ők pedig nem ismerték meg az én útaimat.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Úgy hogy megesküdtem haragomban, hogy nem fognak bemenni az én nyugodalmamba.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Vigyázzatok atyámfiai, hogy valaha ne legyen bármelyikőtöknek hitetlen gonosz szíve, hogy az élő Istentől elszakadjon;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Hanem intsétek egymást minden napon, míg tart a ma, hogy egyikőtök se keményíttessék meg a bűnnek csalárdsága által:",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mert részeseivé lettünk Krisztusnak, ha ugyan az elkezdett bizodalmat mindvégig erősen megtartjuk.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "E mondás szerint: Ma, ha az ő szavát halljátok, meg ne keményítsétek a ti szíveiteket, mint az elkeseredéskor.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mert kik keseredtek el, mikor ezt hallák? Nemde mindazok, a kik kijövének Égyiptomból Mózes által?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Kikre haragudott vala pedig meg negyven esztendeig? avagy nem azokra-é, a kik vétkeztek, a kiknek testei elhullottak a pusztában?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Kiknek esküdött pedig meg, hogy nem mennek be az ő nyugodalmába, hanemha az engedetleneknek?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Látjuk is, hogy nem mehettek be hitetlenség miatt.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Óvakodjunk tehát, hogy mivel megvan az ő nyugodalmába való bemenetel ígérete, valaki közületek fogyatkozásban levőnek ne láttassék.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mert nékünk is hirdettetett az evangyéliom, miképen azoknak: de nem használt nékik a hallott beszéd, mivel nem párosították hittel azok, a kik hallották.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mert mi, hívők, bemegyünk a nyugodalomba, miképen megmondotta: A mint megesküdtem az én haragomban, nem fognak bemenni az én nyugodalmamba; jóllehet munkáit a világ megalapításától kezdve bevégezte.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mert valahol a hetedik napról ekképen szólott: És megnyugovék Isten a hetedik napon minden ő cselekedeteitől.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És ugyanabban ismét: Nem mennek be az én nyugodalmamba.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mivelhogy annakokáért áll az, hogy némelyek bemennek abba, és a kiknek először hirdettetett az evangyéliom, nem mentek be engedetlenség miatt:",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ismét határoz egy napot: Ma, szólván Dávid által annnyi idő multán, a mint előbb mondva volt. Ma, ha az ő szavát halljátok, meg ne keményítsétek a ti szíveiteket.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mert ha őket Józsué nyugodalomba helyezte volna, nem szólana azok után más napról.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Annakokáért megvan a szombatja az Isten népének.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert a ki bement az ő nyugodalmába, az maga is megnyugodott cselekedeteitől, a miképen Isten is a magáéitól,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Igyekezzünk tehát bemenni abba a nyugodalomba, hogy valaki a hitetlenségnek ugyanazon példájába ne essék.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mert az Istennek beszéde élő és ható, és élesebb minden kétélű fegyvernél, és elhat a szívnek és léleknek, az ízeknek és a velőknek megoszlásáig, és megítéli a gondolatokat és a szívnek indulatait.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És nincsen oly teremtmény, a mely nyilvánvaló nem volna előtte, sőt mindenek meztelenek és leplezetlenek annak szemei előtt, a kiről mi beszélünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Lévén annakokáért nagy főpapunk, a ki áthatolt az egeken, Jézus, az Istennek Fia, ragaszkodjunk vallásunkhoz.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Mert nem oly főpapunk van, a ki nem tudna megindulni gyarlóságainkon, hanem a ki megkísértetett mindenekben, hozzánk hasonlóan, kivéve a bűnt.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Járuljunk azért bizodalommal a kegyelem királyi székéhez, hogy irgalmasságot nyerjünk és kegyelmet találjunk, alkalmas időben való segítségül.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mert minden főpap emberek közül választatván, emberekért rendeltetik az Isten előtt való dolgokban, hogy ajándékokat és áldozatokat vigyen a bűnökért,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "A ki képes együttérezni a tudatlanokkal és tévelygőkkel, mivelhogy maga is körül van véve gyarlósággal.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "És ezért köteles, miképen a népért, azonképen önmagáért is áldozni a bűnökért.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "És senki sem veszi magának e tisztességet, hanem a kit Isten hív el, miként Áront is.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Hasonnlóképen Krisztus sem maga dicsőítette meg magát azzal, hogy főpap lett, hanem az, a ki így szólott hozzá: Én Fiam vagy te, ma szűltelek téged.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Miképen másutt is mondja: Te örökké való pap vagy, Melkisédek rendje szerint.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ki az ő testének napjaiban könyörgésekkel és esedezésekkel, erős kiáltás és könyhullatás közben járult ahhoz, a ki képes megszabadítani őt a halálból, és meghallgattatott az ő istenfélelméért,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ámbár Fiú, megtanulta azokból, a miket szenvedett, az engedelmességet;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "És tökéletességre jutván, örök idvesség szerzője lett mindazokra nézve, a kik neki engedelmeskednek,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Neveztetvén az Istentől Melkisédek rendje szerint való főpapnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "A kiről nekünk sok és nehezen megmagyarázható mondani valónk van, mivel restek lettetek a hallásra.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mert noha ez idő szerint tanítóknak kellene lennetek, ismét arra van szükségetek, hogy az Isten beszédeinek kezdő elemeire tanítson valaki titeket; és olyanok lettetek, a kiknek tejre van szükségetek és nem kemény eledelre.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mert mindaz, a ki tejjel él, járatlan az igazságnak beszédiben, mivelhogy kiskorú:",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Az érettkorúaknak pedig kemény eledel való, mint a kiknek mivoltuknál fogva gyakorlottak az érzékeik a jó és rossz között való különbségtételre.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Annakokáért elhagyván a Krisztusról való kezdetleges beszédet, törekedjünk tökéletességre, nem rakosgatván le újra alapját a holt cselekedetekből való megtérésnek és az Istenben való hitnek,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "A mosakodásoknak, tanításnak, kezek rátevésének, holtak feltámadásának és az örök ítéletnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "És ezt megcselekeszszük, ha az Isten megengedi.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mert lehetetlen dolog, hogy a kik egyszer megvilágosíttattak, megízlelvén a mennyei ajándékot, és részeseivé lettek a Szent Léleknek,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És megízlelték az Istennek jó beszédét és a jövendő világnak erőit,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "És elestek, ismét megújuljanak a megtérésre, mint a kik önmagoknak feszítik meg az Istennek ama Fiát, és meggyalázzák őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mert a föld, a mely beiszsza a gyakorta reá hulló esőt és hasznos füvet terem azoknak, a kikért műveltetik, áldást nyer Istentől;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "A mely pedig töviseket és bojtorjánokat terem, megvetett és közel van az átokhoz, annak vége megégetés.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "De ti felőletek szerelmeseim, ezeknél jobb és idvességesebb dolgokról vagyunk meggyőződve, ha így szólunk is.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert nem igazságtalan az Isten, hogy elfelejtkezzék a ti cselekedeteitekről és a szeretetről, melyet tanúsítottatok az ő neve iránt, mint a kik szolgáltatok és szolgáltok a szenteknek.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kívánjuk pedig, hogy közületek kiki ugyanazon buzgóságot tanusítsa a reménységnek bizonyossága iránt mindvégiglen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hogy ne legyetek restek, hanem követői azoknak, a kik hit és békességes tűrés által öröklik az ígéreteket.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mert az Isten, mikor ígéretet tett Ábrahámnak, mivelhogy nem esküdhetett nagyobbra, önmagára esküdött.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mondván: Bizony megáldván megáldalak téged, és megsokasítván megsokasítalak téged.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És ekképen, békességestűrő lévén, megnyerte az ígéretet.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mert az emberek nagyobbra esküsznek, és nálok minden versengésnek vége megerősítésül az eskü;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Miért is az Isten, kiválóbban megakarván mutatni az ígéret örököseinek az ő végzése változhatatlan voltát, esküvéssel lépett közbe,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Hogy két változhatatlan tény által, melyekre nézve lehetetlen, hogy az Isten hazudjon, erős vígasztalásunk legyen minékünk, mint a kik oda menekültünk, hogy megragadjuk az előttünk levő reménységet,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mely lelkünknek mintegy bátorságos és erős horgonya és beljebb hatol a kárpítnál,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "A hová útnyitóul bement érettünk Jézus, a ki örökké való főpap lett Melkisédek rendje szerint.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mert ez a Melkisédek Sálem királya, a felséges Isten papja, a ki a királyok leveréséből visszatérő Ábrahámmal találkozván, őt megáldotta,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "A kinek tizedet is adott Ábrahám mindenből: a ki elsőben is magyarázat szerint igazság királya, azután pedig Sálem királya is, azaz békesség királya,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Apa nélkül, anya nélkül, nemzetség nélkül való; sem napjainak kezdete, sem életének vége nincs, de hasonlóvá tétetvén az Isten Fiához, pap marad örökké.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Nézzétek meg pedig, mily nagy ez, a kinek a zsákmányból tizedet is adott Ábrahám, a pátriárka;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És bár azoknak, kik a Lévi fiai közül nyerik el a papságot, parancsolatjok van, hogy törvény szerint tizedet szedjenek a néptől, azaz az ő atyafiaiktól, jóllehet ők is az Ábrahám ágyékából származtak;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De az, a kinek nemzetsége nem azok közül való, tizedet vett Ábrahámtól, és az ígéretek birtokosát megáldotta,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Pedig minden ellenmondás nélkül való, hogy a nagyobb áldja meg a kisebbet.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És itt halandó emberek szednek tizedet, ott ellenben az, a ki bizonyság szerint él:",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "És hogy úgy szóljak, Ábrahámnál fogva tized vétetett Lévitől is, a tizedszedőtől,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert ő még az atyja ágyékában vala, a mikor annak elébe ment Melkisédek.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ha tehát a lévitai papság által volna a tökéletesség (mert a nép ez alatt nyerte a törvényt): mi szükség tovább is mondogatni, hogy más pap támadjon a Melkisédek rendje szerint és ne az Áron rendje szerint?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mert a papság megváltozásával szükségképen megváltozik a törvény is.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mert a kiről ezek mondatnak, az más nemzetségből származott, a melyből senki sem szolgált az oltár körül;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mert nyilvánvaló, hogy a mi Urunk Júdából támadott, a mely nemzetségre nézve semmit sem szólott Mózes a papságról.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És még inkább nyilvánvaló az, ha a Melkisédek hasonlatossága szerint áll elő más pap,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "A ki nem testi parancsolatnak törvénye szerint, hanem enyészhetetlen életnek ereje szerint lett.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Mert ez a bizonyságtétel: Te pap vagy örökké, Melkisédek rendje szerint.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mert az előbbi parancsolat eltöröltetik, mivelhogy erőtelen és haszontalan,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Minthogy a törvény semmiben sem szerzett tökéletességet; de beáll a jobb reménység, a mely által közeledünk az Istenhez.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "És a mennyiben nem esküvés nélkül való, mert amazok esküvés nélkül lettek papokká,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "De ez esküvéssel, az által, a ki azt mondá néki: Megesküdött az Úr, és nem bánja meg, te pap vagy örökké, Melkisédek rendje szerint:",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Annyiban jobb szövetségnek lett kezesévé Jézus.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "És amazok jóllehet többen lettek papokká, mert a halál miatt meg nem maradhattak:",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "De ennek, minthogy örökké megmarad, változhatatlan a papsága.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ennekokáért ő mindenképen idvezítheti is azokat, a kik ő általa járulnak Istenhez, mert mindenha él, hogy esedezzék érettök.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Mert ilyen főpap illet vala minket, szent, ártatlan, szeplőtelen, a bűnösöktől elválasztott, és a ki az egeknél magasságosabb lőn,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "A kinek nincs szüksége, mint a főpapoknak, hogy napról-napra előbb a saját bűneiért vigyen áldozatot, azután a népéiért, mert ezt egyszer megcselekedte, maga-magát megáldozván.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Mert a törvény gyarló embereket rendel főpapokká, de a törvény után való esküvés beszéde örök tökéletes Fiút.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fődolog pedig azokra nézve, a miket mondunk, az, hogy olyan főpapunk van, a ki a mennyei Felség királyi székének jobbjára üle,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mint a szent helynek és amaz igazi sátornak szolgája, a melyet az Úr és nem ember épített.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mert minden főpap ajándékok meg áldozatok vitelére rendeltetik, a miért szükséges, hogy legyen valamije ennek is, a mit áldozatul vigyen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ha tehát a földön volna, még csak pap sem volna, lévén olyan papok, a kik a törvény szerint áldoznak ajándékokkal,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "A kik a mennyei dolgok ábrázolatának és árnyékának szolgálnak, a mint Isten mondotta Mózesnek, mikor be akarta végezni a sátort: Meglásd, úgymond, hogy mindeneket azon minta szerint készíts, a mely a hegyen mutattatott néked.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Most azonban annyival kiválóbb szolgálatot nyert, a mennyivel jobb szövetségnek közbenjárója, a mely jobb ígéretek alapján köttetett.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mert ha az az első kifogástalan volt volna, nem kerestetett volna hely a másodiknak.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mert dorgálván őket, így szól: Ímé napok jőnek, ezt mondja az Úr, és az Izráel házával és Júdának házával új szövetséget kötök.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nem azon szövetség szerint, a melyet kötöttem az ő atyáikkal ama napon, mikor kézen fogtam őket, hogy kivezessem Égyiptomból, mert ők nem maradtak meg abban az én szövetségemben, azért én sem gondoltam velök, mondja az Úr.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert ez az a szövetség, melyet kötök az Izráel házával, ama napok multán, mond az Úr: Adom az én törvényemet az ő elméjökbe, és az ő szívökbe írom azokat, és leszek nekik Istenök és ők lesznek nekem népem.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "És nem tanítja kiki az ő felebarátját és kiki az ő atyafiát, mondván: Ismerd meg az Urat; mert mindnyájan megismernek engem a kicsinytől nagyig.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mert megkegyelmezek álnokságaiknak, és az ő bűneikről és gonoszságaikról meg nem emlékezem.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mikor újról beszél, óvá tette az elsőt; a mi pedig megavul és megvénhedik, közel van az enyészethez.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Annakokáért voltak ugyan az első szövetségnek is istentiszteletei rendtartásai, mint szintén világi szenthelye.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mert sátor építtetett, az első, a melyben vala a gyertyatartó, meg az asztal és a kenyerek felrakása; ezt nevezték szenthelynek.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "A második kárpiton túl pedig az a sátor, melyet neveztek szentek szentének,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Melyben vala az arany füstölő oltár és a szövetség ládája beborítva minden felől aranynyal, ebben a mannás aranykorsó és Áron kihajtott vesszeje meg a szövetség táblái,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Fölötte pedig a dicsőség kérubjai, beárnyékolva a fedelet, a mikről most nem szükséges külön szólani.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ezek pedig ekképen levén elrendezve; az első sátorba ugyan mindenkor bejárnak a papok az istentisztelet elvégzésére,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "A másodikba azonban egy-egy évben egyszer csak maga a főpap, vérrel, melyet magáért és a nép bűneiért áldoz.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Azt jelentvén ki ezzel a Szent Lélek, hogy még nem nyilt meg a szentély útja, fennállván még az első sátor.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "A mi példázat a jelenkori időre, mikor áldoznak oly ajándékokkal és áldozatokkal, melyek nem képesek lelkiismeret szerint tökéletessé tenni a szolgálattevőt,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Csakis ételekkel meg italokkal és különböző mosakodásokkal – melyek testi rendszabályok – a megjobbulás idejéig kötelezők.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Krisztus pedig megjelenvén, mint a jövendő javaknak főpapja, a nagyobb és tökéletesebb, nem kézzel csinált, azaz nem e világból való sátoron keresztül,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "És nem bakok és tulkok vére által, hanem az ő tulajdon vére által ment be egyszer s mindenkorra a szentélybe, örök váltságot szerezve.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mert ha a bakoknak és bikáknak a vére, meg a tehén hamva, a tisztátalanokra hintetvén, megszentel a testnek tisztaságára:",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mennyivel inkább Krisztusnak a vére, a ki örökké való Lélek által önmagát áldozta fel ártatlanul Istennek: megtisztítja a ti lelkiismereteteket a holt cselekedetektől, hogy szolgáljatok az élő Istennek.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És ezért új szövetségnek a közbenjárója ő, hogy meghalván az első szövetségbeli bűnök váltságáért, a hivatottak elnyerjék az örökkévaló örökségnek ígéretét.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mert a hol végrendelet van, szükséges, hogy a végrendelkező halála bekövetkezzék.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Mivel a végrendelet holtak után jogerős, különben pedig, ha él a végrendelkező, épen nem érvényes.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Innét van, hogy az első sem szenteltetett meg vér nélkül.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mert mikor Mózes a törvény szerint minden parancsolatot elmondott az egész népnek, vevén a borjúknak és a bakoknak vérét, vízzel és vörös gyapjúval meg izsóppal együtt, magát a könyvet is és az egész népet meghintette,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mondván: Ez azon szövetség vére, a melyet Isten számotokra rendelt.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Majd a sátort is és az istentiszteletre való összes edényeket hasonlóképen meghintette vérrel.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És csaknem minden vérrel tisztíttatik meg a törvény szerint, és vérontás nélkül nincsen bűnbocsánat.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Annakokáért szükséges, hogy a mennyei dolgoknak ábrázolatai effélékkel tisztíttassanak meg, magok a mennyei dolgok azonban ezeknél különb áldozatokkal.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Mert nem kézzel csinált szentélybe, az igazinak csak másolatába ment be Krisztus, hanem magába a mennybe, hogy most Isten színe előtt megjelenjék érettünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Nem is, hogy sokszor adja magát áldozatul, mint a hogy a főpap évenként bemegy a szentélybe idegen vérrel;",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Mert különben sokszor kellett volna szenvednie a világ teremtetése óta; így pedig csak egyszer jelent meg az időknek végén, hogy áldozatával eltörölje a bűnt.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És miképen elvégezett dolog, hogy az emberek egyszer meghaljanak, azután az ítélet:",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Azonképen Krisztus is egyszer megáldoztatván sokak bűneinek eltörlése végett, másodszor bűn nélkül jelen meg azoknak, a kik őt várják idvességökre.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Minthogy a törvényben a jövendő jóknak árnyéka, nem maga a dolgok képe van meg, ennélfogva azokkal az áldozatokkal, a melyeket esztendőnként szünetlenül visznek, sohasem képes tökéletességre juttatni az odajárulókat;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Különben megszűnt volna az áldozás, mivelhogy az egyszer megtisztult áldozók többé semminemű bűntudattal nem bírtak volna.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "De azok esztendőnként bűnre emlékeztetnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mert lehetetlen, hogy a bikák és bakok vére eltörölje a bűnöket.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Azért a világba bejövetelekor így szól: Áldozatot és ajándékot nem akartál, de testet alkottál nékem,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Égő és bűnért való áldozatokat nem kedveltél.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Akkor mondám: Ímé itt vagyok, (a könyv fejezetében írva vagyon rólam), hogy cselekedjem óh Isten a te akaratodat.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Fentebb mondván, hogy áldozatot és ajándékot és égő, meg bűnért való áldozatokat nem akartál, sem nem kedveltél a melyeket a törvény szerint visznek,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ekkor ezt mondotta: Ímé itt vagyok, hogy cselekedjem a te akaratodat. Eltörli az elsőt, hogy meghagyja a másodikat,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "A mely akarattal szenteltettünk meg egyszer s mindenkorra, a Jézus Krisztus testének megáldozása által.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "És minden pap naponként szolgálatban áll és gyakorta viszi ugyanazokat az áldozatokat, a melyek sohasem képesek eltörölni a bűnöket.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ő azonban, egy áldozattal áldozván a bűnökért, mindörökre űle az Istennek jobbjára,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Várván ímmár, míg lábainak zsámolyául vettetnek az ő ellenségei.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mert egyetlenegy áldozatával örökre tökéletesekké tette a megszentelteket.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Bizonyságot tesz pedig erről mi nékünk a Szent Lélek is, mert minekutána előre mondotta:",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ez az a szövetség, melyet kötök velök ama napok után, mondja az Úr: Adom az én törvényemet az ő szíveikbe, és az ő elméjökbe írom be azokat,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Azután így szól: És az ő bűneikről és álnokságaikról többé meg nem emlékezem.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "A hol pedig bűnök bocsánata vagyon, ott nincs többé bűnért való áldozat.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mivelhogy azért atyámfiai bizodalmunk van a szentélybe való bemenetelre a Jézus vére által,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Azon az úton, a melyet ő szentelt nékünk új és élő út gyanánt, a kárpit, azaz az ő teste által,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És lévén nagy papunk az Isten háza felett:",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Járuljunk hozzá igaz szívvel, hitnek teljességével, mint a kiknek szívök tiszta a gonosz lelkiismerettől,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "És testök meg van mosva tiszta vízzel; tartsuk meg a reménységnek vallását tántoríthatatlanul, mert hű az, a ki ígéretet tett,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "És ügyeljünk egymásra, a szeretetre és jó cselekedetekre való felbuzdulás végett,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "El nem hagyván a magunk gyülekezetét, a miképen szokásuk némelyeknek, hanem intvén egymást annyival inkább, mivel látjátok, hogy ama nap közelget.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Mert ha szándékosan vétkezünk, az igazság megismerésére való eljutás után, akkor többé nincs bűnökért való áldozat,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Hanem az ítéletnek valami rettenetes várása és a tűznek lángja, a mely megemészti az ellenszegülőket.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "A ki megveti a Mózes törvényét, két vagy három tanubizonyságra irgalom nélkül meghal;",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Gondoljátok meg, mennyivel súlyosabb büntetésre méltónak ítéltetik az, a ki az Isten Fiát megtapodja, és a szövetségnek vérét, melylyel megszenteltetett, tisztátalannak tartja, és a kegyelemnek Lelkét bántalmazza?",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Mert ismerjük azt, a ki így szólt: Enyém a bosszúállás, én megfizetek, ezt mondja az Úr. És ismét: Az Úr megítéli az ő népét.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Rettenetes dolog az élő Istennek kezébe esni.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Emlékezzetek pedig vissza a régebbi napokra, a melyekben, minekutána megvilágosíttattatok, sok szenvedésteljes küzdelmet állottatok ki,",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Midőn egyfelől gyalázásokkal és nyomorgattatásokkal nyilvánosság elé hurczoltak titeket, másfelől társai lettetek azoknak, a kik így jártak.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Mert a foglyokkal is együtt szenvedtetek, és vagyonotok elrablását örömmel fogadtátok, tudván, hogy néktek jobb és maradandó vagyonotok van a mennyekben.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Ne dobjátok el hát bizodalmatokat, melynek nagy jutalma van.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Mert békességes tűrésre van szükségetek, hogy az Isten akaratát cselekedvén, elnyerjétek az ígéretet.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Mert még vajmi kevés idő, és a ki eljövendő, eljő és nem késik.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Az igaz pedig hitből él. És a ki meghátrál, abban nem gyönyörködik a lelkem.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "De mi nem vagyunk meghátrálás emberei, hogy elvesszünk, hanem hitéi, hogy életet nyerjünk.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "A hit pedig a reménylett dolgoknak valósága, és a nem látott dolgokról való meggyőződés.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mert ezzel szereztek jó bizonyságot a régebbiek.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hit által értjük meg, hogy a világ Isten beszéde által teremtetett, hogy a mi látható, a láthatatlanból állott elő.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hit által vitt Ábel becsesebb áldozatot Istennek, mint Kain, a mi által bizonyságot nyert a felől, hogy igaz, bizonyságot tevén az ő ajándékairól Isten, és az által még holta után is beszél.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Hit által vitetett fel Énokh, hogy ne lásson halált, és nem találták meg, mert az Isten felvitte őt. Mert felvitetése előtt bizonyságot nyert a felől, hogy kedves volt Istennek.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hit nélkül pedig lehetetlen Istennek tetszeni; mert a ki Isten elé járul, hinnie kell, hogy ő létezik és megjutalmazza azokat, a kik őt keresik.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Hit által tisztelte Istent Noé, mikor megintetvén a még nem látott dolgok felől, házanépe megtartására bárkát készített, a mely által kárhoztatá e világot és a hitből való igazságnak örökösévé lett.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Hit által engedelmeskedett Ábrahám, mikor elhívatott, hogy menjen ki arra a helyre, a melyet örökölendő vala, és kiméne, nem tudván, hová megy.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Hit által lakott az ígéret földén, mint idegenben, sátorokban lakván Izsákkal és Jákóbbal, ugyanazon ígéretnek örökös társaival.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert várja vala az alapokkal bíró várost, melynek építője és alkotója az Isten.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Hit által nyert erőt Sára is az ő méhében való foganásra, és életkora ellenére szűlt, minthogy hűnek tartotta azt, a ki az ígéretet tette.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Azért is egytől, még pedig mintegy kihalttól annyian származtak, mint az égnek csillagai sokaságra nézve, és mint a tenger partja mellett a fövény, mely megszámlálhatatlan.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Hitben haltak meg mindezek, nem nyerve meg az ígéreteket, hanem csak távolról látva és üdvözölve azokat, és vallást tevén arról, hogy idegenek és vándorok a földön.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mert a kik így szólnak, nyilván jelentik, hogy hazát keresnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És hogyha eszökbe jutott volna az, a melyből kijöttek, volt volna idejök a visszatérésre.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Így azonban jobb után vágyódnak, tudniillik mennyei után; azért nem szégyenli őket az Isten, hogy Istenöknek neveztessék, mert készített nékik várost.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hit által áldozta meg Ábrahám Izsákot, próbára tétetvén, és az egyszülöttet vitte áldozatul, ő, ki az ígéreteket nyerte,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "A kinek meg volt mondva: Izsákban neveztetik néked mag;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Úgy gondolkozván, hogy az Isten a halálból is képes feltámasztani, miért is őt példaképen visszanyerte.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Hit által áldá meg a jövendőkre nézve Izsák Jákóbot és Ézsaut.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Hit által áldá meg a haldokló Jákób a József fiainak mindenikét, és botja végére hajolva imádkozott.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Hit által emlékezett meg élete végén József az Izráel fiainak kimeneteléről, és az ő tetemeiről rendelkezett.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Hit által rejtegették Mózest az ő szülei születése után három hónapig, mivel látták, hogy kellemes a gyermek, és nem féltek a király parancsától.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Hit által tiltakozott Mózes, midőn felnövekedett, hogy a Faraó leánya fiának mondják,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Inkább választván az Isten népével való együttnyomorgást, mint a bűnnek ideig-óráig való gyönyörűségét;",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Égyiptom kincseinél nagyobb gazdagságnak tartván Krisztus gyalázatát, mert a megjutalmazásra tekintett.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Hit által hagyta oda Égyiptomot, nem félvén a király haragjától; mert erős szívű volt, mintha látta volna a láthatatlant.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Hit által rendelte a páskát és a vérnek kiontását, hogy az öldöklő ne illesse az ő elsőszülötteiket.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Hit által keltek át a veres tengeren, mint valami szárazföldön, a mit megpróbálván az égyiptomiak, elnyelettek.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Hit által omlottak le Jérikónak kőfalai, midőn hét napig köröskörül járták.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Hit által nem veszett el Ráháb, a parázna nő az engedetlenekkel együtt, befogadván a kémeket békességgel.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "És mit mondjak még? Hiszen kifogynék az időből, ha szólnék Gedeonról, Bárákról, Sámsonról, Jeftéről, Dávidról, Sámuelről és a prófétákról;",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "A kik hit által országokat győztek le, igazságot cselekedtek, az ígéreteket elnyerték, az oroszlánok száját betömték.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Megoltották a tűznek erejét, megmenekedtek a kard élitől, felerősödtek a betegségből, erősek lettek a háborúban, megszalasztották az idegenek táborait.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Asszonyok feltámadás útján visszanyerték halottjaikat; mások kínpadra vonattak, visszautasítván a szabadulást, hogy becsesebb feltámadásban részesüljenek.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Mások pedig megcsúfoltatások és megostoroztatások próbáját állották ki, sőt még bilincseket és börtönt is;",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Megköveztettek, kínpróbát szenvedtek, szétfűrészeltettek, kardra hányattak, juhoknak és kecskéknek bőrében bujdostak, nélkülözve, nyomorgattatva, gyötörtetve,",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "A kikre nem volt méltó e világ, bujdosva pusztákon és hegyeken, meg barlangokban és a földnek hasadékaiban.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "És mindezek, noha hit által jó bizonyságot nyertek, nem kapták meg az ígéretet.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Mivel Isten mi felőlünk valami jobbról gondoskodott, hogy nálunk nélkül tökéletességre ne jussanak.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Annakokáért mi is, kiket a bizonyságoknak ily nagy fellege vesz körül, félretéve minden akadályt és a megkörnyékező bűnt, kitartással fussuk meg az előttünk levő küzdő tért.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Nézvén a hitnek fejedelmére és bevégezőjére Jézusra, a ki az előtte levő öröm helyett, megvetve a gyalázatot, keresztet szenvedett, s az Isten királyi székének jobbjára ült.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Gondoljátok meg azért, hogy ő ily ellene való támadást szenvedett el a bűnösöktől, hogy el ne csüggedjetek lelkeitekben elalélván.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mert még végig nem állottatok ellent, tusakodván a bűn ellen.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És elfeledkeztetek-é az intésről, a mely néktek mint fiaknak szól: Fiam, ne vesd meg az Úrnak fenyítését, se meg ne lankadj, ha ő dorgál téged;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mert a kit szeret az Úr, megdorgálja, megostoroz pedig mindent, a kit fiává fogad.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ha a fenyítést elszenveditek, akkor veletek úgy bánik az Isten, mint fiaival; mert melyik fiú az, a kit meg nem fenyít az apa?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ha pedig fenyítés nélkül valók vagytok, melyben mindenek részesültek, korcsok vagytok és nem fiak.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Aztán, a mi testi apáink fenyítettek minket és becsültük őket; avagy nem sokkal inkább engedelmeskedünk-é a lelkek Atyjának, és élünk!",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert ám azok kevés ideig, tetszésök szerint fenyítettek; ő pedig javunkra, hogy szentségében részesüljünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Bármely fenyítés ugyan jelenleg nem látszik örvendetesnek, hanem keservesnek, ámde utóbb az igazságnak békességes gyümölcsével fizet azoknak, a kik általa gyakoroltatnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Annakokáért a lecsüggesztett kezeket és az ellankadt térdeket egyenesítsétek föl,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És lábaitokkal egyenesen járjatok, hogy a sánta el ne hajoljon, sőt inkább meggyógyuljon.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Kövessétek mindenki irányában a békességet és a szentséget, a mely nélkül senki sem látja meg az Urat:",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Vigyázván arra, hogy az Isten kegyelmétől senki el ne szakadjon; nehogy a keserűségnek bármely gyökere, fölnevekedvén, megzavarjon, és ez által sokan megfertőztettessenek.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ne legyen senki parázna vagy istentelen, mint Ézsau, a ki egy ételért eladta első szülöttségi jogát.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Mert tudjátok, hogy azután is, mikor akarta örökölni az áldást, megvettetett; mert nem találta meg a megbánás helyét, noha könyhullatással kereste azt az áldást.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mert nem járultatok megtapintható hegyhez, és lángoló tűzhöz, és sűrű homályhoz, és sötétséghez, és szélvészhez,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "És trombita harsogásához, és a mondásoknak szavához, melyet a kik hallottak, kérték, hogy ne intéztessék hozzájok szó;",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mert nem bírták ki, a mi parancsolva volt: Még ha oktalan állat ér is a hegyhez, megköveztessék, vagy nyillal lövettessék le;",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És oly rettenetes volt a látomány, hogy Mózes is mondá: Megijedtem és remegek:",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Hanem járultatok Sion hegyéhez, és az élő Istennek városához, a mennyei Jeruzsálemhez, és az angyalok ezreihez,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Az elsőszülöttek seregéhez és egyházához, a kik be vannak írva a mennyekben, és mindenek bírájához Istenhez, és a tökéletes igazak lelkeihez,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "És az újszövetség közbenjárójához Jézushoz, és a meghintésnek véréhez, mely jobbat beszél, mint az Ábel vére.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Vigyázzatok, meg ne vessétek azt, a ki szól; mert ha azok meg nem menekültek, a kik a földön szólót megvetették, sokkal kevésbbé mi, ha elfordulunk attól, a ki a mennyekből vagyon,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Kinek szava akkor megrendítette a földet, most pedig ígéretet tesz, mondván: Még egyszer megrázom nemcsak a földet, hanem az eget is.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Az a „még egyszer” pedig jelenti az állhatatlan dolgoknak mint teremtményeknek megváltozását, hogy a rendíthetetlen dolgok maradjanak meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Annakokáért mozdíthatatlan országot nyervén, legyünk háládatosak, melynél fogva szolgáljunk az Istennek tetsző módon kegyességgel és félelemmel.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Mert a mi Istenünk megemésztő tűz.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Az atyafiúi szeretet maradjon meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "A vendégszeretetről el ne felejtkezzetek, mert ez által némelyek, tudtokon kívül, angyalokat vendégeltek meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Emlékezzetek meg a foglyokról, mint fogolytársak, a gyötrődőkről, mint a kik magatok is testben vagytok.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Tisztességes minden tekintetben a házasság és a szeplőtelen házaságy; a paráznákat pedig és a házasságrontókat megítéli az Isten.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Fösvénység nélkül való legyen a magatok viselete; elégedjetek meg azzal, a mitek van; mert Ő mondotta: Nem hagylak el, sem el nem távozom tőled;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Úgy hogy bízvást mondjuk: Az Úr az én segítségem, nem félek; ember mit árthat én nékem?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Emlékezzetek meg a ti előljáróitokról, a kik szólották néktek az Isten beszédét, és figyelmezvén az ő életök végére, kövessétek hitöket.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Jézus Krisztus tegnap és ma és örökké ugyanaz.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Különböző és idegen tudományok által ne hagyjátok magatokat félrevezettetni; mert jó dolog, hogy kegyelemmel erősíttessék meg a szív, nem ennivalókkal, a melyeknek semmi hasznát sem veszik azok, a kik azok körül járnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Van oltárunk, a melyről nincs joguk enni azoknak, a kik a sátornak szolgálnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mert a mely állatok vérét a főpap beviszi a szentélybe a bűnért, azoknak testét megégetik a táboron kívül.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Annakokáért Jézus is, hogy megszentelje az ő tulajdon vére által a népet, a kapun kívül szenvedett.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Menjünk ki tehát ő hozzá a táboron kívül, az ő gyalázatát hordozván.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mert nincsen itt maradandó városunk, hanem a jövendőt keressük.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Annakokáért ő általa vigyünk dícséretnek áldozatát mindenkor Isten elé, azaz az ő nevéről vallást tevő ajkaknak gyümölcsét.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "A jótékonyságról pedig és az adakozásról el ne felejtkezzetek, mert ilyen áldozatokban gyönyörködik az Isten.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Engedelmeskedjetek előljáróitoknak és fogadjatok szót, mert ők vigyáznak lelkeitekre, mint számadók; hogy ezt örömmel míveljék és nem bánkódva, mert ez néktek nem használ.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Imádkozzatok érettünk. Mert úgy vagyunk meggyőződve, hogy jó lelkiismeretünk van, igyekezvén mindenekben tisztességesen forgolódni.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Kiváltképen pedig arra kérlek, hogy ezt cselekedjétek, hogy mihamarább visszaadhassam néktek.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "A békesség Istene pedig, a ki kihozta a halálból a juhoknak nagy pásztorát, örök szövetség vére által, a mi Urunkat Jézust,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Tegyen készségesekké titeket minden jóra, hogy cselekedjétek az ő akaratát, azt munkálván ti bennetek, a mi kedves ő előtte a Jézus Krisztus által, a kinek dicsőség örökkön örökké. Ámen.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Kérlek pedig titeket atyámfiai, szívleljétek meg ez intő beszédet, hiszen röviden is írtam néktek.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Legyen tudtotokra, hogy a mi atyánkfia Timótheus kiszabadult, a kivel ha csakhamar eljő, meglátogatlak titeket.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Köszöntsétek minden előljárótokat és a szenteket mind. Köszöntenek titeket az Olaszországból valók.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Kegyelem mindnyájatokkal! Ámen!",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
