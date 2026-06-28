@@ -1,0 +1,467 @@
+{
+  "book": "Joel",
+  "abbreviation": "Joel",
+  "number": 29,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Az Úrnak igéje, a mely lőn Jóelhez, a Petuel fiához.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Vének! halljátok meg ezt, és hallgassátok meg, e földnek minden lakói! Történt-é ilyen a ti időtökben, vagy a ti atyáitoknak idejében?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Beszéljétek el azt a ti fiaitoknak, és a ti fiaitok az ő fiaiknak, és azoknak fiai a következő nemzetségnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "A mit a sáska meghagyott, megette a szöcskő; és a mit a szöcskő meghagyott, megette a cserebogár; és a mit a cserebogár meghagyott, megette a hernyó.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Serkenjetek fel részegek és sírjatok, és jajgassatok mind, ti borivók a mustért, mert elvétetett az a ti szátoktól!",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mert egy nép jött fel az én földemre, erős és megszámlálhatatlan; fogai, mint az oroszlán fogai, és agyarai, mint a nőstény oroszláné.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Pusztává tette szőlőmet; összetörte fügefáimat, mezítelenre hántotta és széjjelhányta; fehérlenek annak ágai.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Keseregj, mint a szűz, a ki gyászba öltözik az ő ifjúsága férjéért.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Kifogyott az étel- és italáldozat az Úrnak házából; gyászolnak a papok, az Úrnak szolgái.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Elpusztíttatott a mező, gyászol a föld; mert elpusztíttatott a gabona; kiszáradt a must; kiapadt az olaj.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Szégyenüljetek meg, ti szántóvetők; jajgassatok szőlőművesek: a búzáért és az árpáért; mert elveszett a mező aratása!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Elszáradt a szőlőtő; a fügefa elhervadt; a gránátfa, a datolyafa és az almafa, a mezőnek minden gyümölcsfája kiaszott. Bizony kiszáradott az öröm az emberek közül.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Öltsetek gyászt és sírjatok, ti papok! Jajgassatok, ti oltár szolgái; jőjjetek és háljatok gyászruhákban, Istenem szolgái; mert megvonatott az étel- és italáldozat Isteneteknek házától.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Szenteljetek bőjtöt, hirdessetek gyűlést; gyűjtsétek egybe a véneket, a földnek minden lakosát az Úrnak, a ti Isteneteknek házába, és kiáltsatok az Úrhoz.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Jaj ez a nap! Bizony közel van az Úrnak napja, és mint a pusztítás, úgy jön el a Mindenhatótól.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Hát nem szemünk láttára irtatott-é ki az élelem, az öröm és vígasság Istenünk házából?!",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Elsenyvedtek a magvak barázdáik alatt, elpusztultak a gabonás házak, összedőltek a csűrök; mert kiaszott a gabona.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mint nyög a barom! Megháborodtak a marha-csordák, mert nincs legelőjük; bűnhődnek még a juhnyájak is!",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Hozzád kiáltok Uram, mert tűz emésztette meg a puszta virányait, és láng perzselte le a mező minden fáját.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "A mező vadai is hozzád esengenek, mert kiszáradtak a vizeknek ágyai, és tűz emésztette meg a puszta virányait.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Fújjátok a kürtöt a Sionon, és rivalgjatok az én szent hegyemen! Rémüljenek meg e föld minden lakói; mert eljő az Úrnak napja; mert közel van az.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Sötétségnek és homálynak napja; felhőnek és borulatnak napja; mint a hegyekre ráterülő alkonyat! Nagy és hatalmas nép, a milyen nem volt öröktől fogva és nem is lesz utána többé, nemzetségről nemzetségre.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Előtte tűz emészt, utána láng lobog; előtte a föld olyan, mint az Éden kertje, utána pedig kietlen pusztaság; meg sem menekülhet tőle semmi.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "A milyen a lovak alakja, olyan annak alakja, és száguldoznak, mint a lovasok.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Rohannak a hegyek tetején, mintha hadi szekerek robognának; mintha tarlót emésztő láng ropogna; a milyen az ütközetre kész hatalmas nép.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Elrémülnek tőle a népek; minden arcz elsáppad.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Száguldoznak, mint a hősök, felhágnak a kőfalakra, mint a bajnokok; mindenik a maga útján halad, nem bontják meg soraikat.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Egymást nem szorongatják; mindenik a maga útján halad; néki rohannak a fegyvernek, és nem esik seb rajtok.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Betörnek a városba, futkároznak a kőfalon, felhágnak a házakra, betörnek az ablakokon, mint a tolvaj.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Reszket előttök a föld, és megrendülnek az egek; a nap és hold elsötétednek, a csillagok is bevonják fényöket.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "És megzendül az Úrnak szava az ő serege előtt, mert felette nagy az ő tábora; mert hatalmas az ő rendeletének végrehajtója. Bizony nagy az Úrnak napja és igen rettenetes! Ki állhatja ki azt?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "De még most is így szól az Úr: Térjetek meg hozzám teljes szívetek szerint; bőjtöléssel is, sírással is, kesergéssel is.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És szíveteket szaggassátok meg, ne ruháitokat, úgy térjetek meg az Úrhoz, a ti Istenetekhez; mert könyörülő és irgalmas ő; késedelmes a haragra és nagy kegyelmű, és bánkódik a gonosz miatt.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Ki tudja, hátha visszatér és megbánja, és áldást hagy maga után; étel- és italáldozatot az Úrnak, a ti Isteneteknek?!",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Fújjatok kürtöt a Sionon; szenteljetek bőjtöt, hirdessetek gyűlést!",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Gyűjtsétek össze a népet, szenteljétek meg a gyülekezetet; hívjátok egybe a véneket, gyűjtsétek össze a kisdedeket és a csecsszopókat; menjen ki a vőlegény az ő ágyasházából és a menyasszony is az ő szobájából.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "A tornácz és az oltár között sírjanak a papok, az Úr szolgái, és mondják: Légy kegyelmes, oh Uram, a te népedhez, és ne bocsásd szidalomra a te örökségedet, hogy uralkodjanak rajtok a pogányok. Miért mondanák a népek között: Hol az ő Istenök?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Erre buzgó lőn az Úrnak szeretete az ő földe iránt, és kegyelmezett az ő népének.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "És választ tőn az Úr, és mondá az ő népének: Ímé, adok néktek gabonát, bort és olajat, hogy megelégedtek vele, és nem adlak többé titeket szidalomra a pogányok között.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Az északi népet is elűzöm tőletek, és puszta és sivatag vidékre vetem azt; elejét a keleti tengerbe, hátulját a nyugoti tengerbe, és bűze magasra száll; felszáll büdössége, mert nagy dolgokat cselekedett.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ne félj, te föld! Örülj és vígadozz, mert nagy dolgokat cselekeszik az Úr!",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ne féljetek, ti mezei vadak! mert zöldülnek a pusztának virányai; mert a fa megtermi gyümölcsét; a füge és szőlő is kitárják gazdagságukat.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ti is, Sionnak fiai! örvendezzetek és vígadjatok az Úrban, a ti Istenetekben; mert megadja néktek az esőt igazság szerint, és korai és kései esőt hullat néktek az első hónapban.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "És megtelnek a csűrök gabonával, és bőven öntik a sajtók a mustot és az olajat.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "És kipótolom néktek az esztendőket, a melyeket tönkre tett a szöcskő, a cserebogár és a hernyó és a sáska; az én nagy seregem, a melyet reátok küldöttem.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "És esztek bőven és megelégesztek, és magasztaljátok az Úrnak, a ti Isteneteknek nevét, a ki csodálatosan cselekedett veletek, és soha többé nem pironkodik az én népem.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És megtudjátok, hogy az Izráel között vagyok én, és hogy én vagyok az Úr, a ti Istenetek és nincs más! És soha többé nem pironkodik az én népem.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "És lészen azután, hogy kiöntöm lelkemet minden testre, és prófétálnak a ti fiaitok és leányaitok; véneitek álmokat álmodnak; ifjaitok pedig látomásokat látnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Sőt még a szolgákra és szolgálóleányokra is kiöntöm azokban a napokban az én lelkemet.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "És csodajeleket mutatok az égen és a földön; vért, tüzet és füstoszlopokat.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "A nap sötétséggé válik, a hold pedig vérré, minekelőtte eljő az Úrnak nagy és rettenetes napja.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "De mindaz, a ki az Úrnak nevét hívja segítségül, megmenekül; mert a Sion hegyén és Jeruzsálemben lészen a szabadulás, a mint megigérte az Úr, és a megszabadultak közt lesznek azok, a kiket elhí az Úr!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mert ímé, azokon a napokon és abban az időben, a mikor meghozom Júda és Jeruzsálem fogságát:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Egybegyűjtöm akkor mind a pogányokat, és levezetem őket a Josafát völgyébe, és perbe szállok ott velök, az én népemért és örökségemért, az Izráelért, a melyet szétszórtak a pogányok közé, és megosztoztak az én földemen;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Népemre pedig sorsot vetettek; a fiút szajháért adták oda, a leányt pedig borért cserélték el, hogy ihassanak.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Sőt néktek is mi közötök velem, Tírus, Sidon és Filiszteának egész környéke?! Vajjon bosszút állani jöttök-é reám? Ha bosszút akarnátok rajtam állani, nagy hirtelen fejetekre fordítom vissza bosszútokat!",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mivelhogy elraboltátok ezüstömet és aranyomat, és legszebb kincsemet templomaitokba vittétek;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "És a Júda fiait és Jeruzsálem fiait eladtátok a Jávánok fiainak, hogy messze vessétek őket határaiktól:",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ímé, kiindítom őket a helyből, a hova eladtátok őket, és fejetekre fordítom vissza bosszútokat.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És adom a ti fiaitokat és leányaitokat a Júda fiainak kezébe; azok pedig eladják őket a Sabeusoknak, a messze lakó népnek; mert ezt végezte az Úr.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Hirdessétek ezt a pogányok között; készüljetek harczra; indítsátok fel a hősöket. Járuljanak elé, jőjjenek fel mindnyájan a hadakozó férfiak!",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Kovácsoljátok szántóvasaitokat kardokká, kaszáitokat dárdákká; mondja a beteg is: Hős vagyok!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Siessetek és jőjjetek el ti népek mindenfelől, és seregeljetek egybe! Ide vezesd Uram a te hőseidet!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Serkenjenek fel és jőjjenek fel a népek a Josafát völgyébe; mert ott ülök törvényt, hogy megítéljek minden népeket.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ereszszétek néki a sarlót, mert megérett az aratni való! Jertek el, tapossatok, mert tetézve a kád, ömlenek a sajtók! Mert megsokasult az ő gonoszságuk!",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Tömegek, tömegek! az ítélet völgyében! Mert közel van az Úrnak napja az ítélet völgyében!",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "A nap és hold elsötétednek; a csillagok bevonják fényöket;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Az Úr pedig megharsan a Sionról és megzendül Jeruzsálemből, és megrendülnek az egek és a föld; de az Úr az ő népének oltalma és az Izráel fiainak erőssége!",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És megtudjátok, hogy én vagyok az Úr, a ti Istenetek, a ki a Sionon lakozom, az én szent hegyemen. És szentté lészen Jeruzsálem, és idegenek nem vonulnak át többé rajta.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És majd azon a napon a hegyek musttal csepegnek és a halmok tejjel folynak, és a Júda minden medre bő vízzel ömledez, és forrás fakad az Úrnak házából, és megöntözi a Sittimnek völgyét.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Égyiptom pusztasággá lészen, Edom pedig kietlen sivataggá; a Júda fiain való erőszakosságért, mert ártatlan vért ontottak azoknak földén.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "De a Júda örökké megmarad; Jeruzsálem is nemzetségről nemzetségre.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És kitisztítom vérökből, a melyből még ki nem tisztítottam, és a Sion lesz az Úr lakóhelye!",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

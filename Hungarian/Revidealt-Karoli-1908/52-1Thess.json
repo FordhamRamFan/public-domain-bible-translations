@@ -1,0 +1,577 @@
+{
+  "book": "1 Thessalonians",
+  "abbreviation": "1Thess",
+  "number": 52,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Pál, Silvánus és Timótheus a Thessalonikabeliek gyülekezetének, a mely van az Atya Istenben és az Úr Jézus Krisztusban: kegyelem néktek és békesség Istentől, a mi Atyánktól, és az Úr Jézus Krisztustól.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hálát adunk az Istennek mindenkor mindnyájatokért, emlékezvén rólatok a mi imádságainkban;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Szüntelenül emlegetve a ti hitetek munkáját, és a ti szeretetetek fáradozását, és a mi Urunk Jézus Krisztus felől való reménységeteknek állhatatosságát, az Isten előtt, a mi Atyánk előtt:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Tudván, Istentől szeretett atyámfiai, hogy ti ki vagytok választva;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Hogy a mi evangyéliomunk ti nálatok nem áll csak szóban, hanem isteni erőkben is, Szent Lélekben is, sok bizodalomban is; a miképen tudjátok, hogy milyenek voltunk közöttetek ti érettetek.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "És ti a mi követőinkké lettetek és az Úréi, befogadván az ígét sokféle szorongattatás között, Szent Lélek örömével;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Úgy hogy példaképekké lettetek Maczedóniában és Akhájában minden hívőre nézve.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mert nemcsak Maczedóniában és Akhájában zendült ki tőletek az Úr beszéde, hanem minden helyen is híre terjedt a ti Istenben vetett hiteteknek, annyira, hogy szükségtelen arról valamit szólnunk.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mert azok magok hirdetik felőlünk, milyen volt a mi hozzátok való menetelünk, és miként tértetek meg az Istenhez a bálványoktól, hogy az élő és igaz Istennek szolgáljatok,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És várjátok az Ő Fiát az égből, a kit feltámasztott a halálból, a Jézust, a ki megszabadít minket amaz eljövendő haragtól.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mert magatok tudjátok, atyámfiai, hogy a mi ti hozzátok való menetelünk nem volt hiábavaló;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Sőt inkább, noha elébb már háborúságot és bosszúságot szenvedtünk volt Filippiben, a mint tudjátok, volt bátorságunk a mi Istenünkben, hogy közöttetek is hirdessük az Isten evangyéliomát sok tusakodással.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mert a mi buzdításunk nem hitetésből van, sem nem tisztátalanságból, sem nem álnokságból:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hanem a miképen az Isten méltatott minket arra, hogy reánk bízza az evangyéliomot, akképen szólunk; nem úgy, hogy embereknek tessünk hanem az Istennek, a ki megvizsgálja a mi szívünket.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mert sem hízelkedő beszéddel, a mint tudjátok, sem telhetetlenség színében nem léptünk fel soha, Isten a bizonyság;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Sem emberektől való dicsőítést nem kerestünk, sem tőletek, sem másoktól, holott terhetekre lehettünk volna, mint Krisztus apostolai.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "De szívélyesek valánk ti közöttetek, a miként a dajka dajkálgatja az ő gyermekeit.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Így felbuzdulva irántatok, készek valánk közleni veletek nemcsak az Isten evangyéliomát, hanem a mi magunk lelkét is, mivelhogy szeretteinkké lettetek nékünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Emlékezhettek ugyanis atyámfiai a mi fáradozásunkra és bajlakodásunkra: mert éjjel-nappal munkálkodva hirdettük néktek az Isten evangyéliomát, csakhogy senkit meg ne terheljünk közületek.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ti vagytok bizonyságok és az Isten, milyen szentül, igazán és feddhetetlenül éltünk előttetek, a kik hisztek.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Valamint tudjátok, hogy miként atya az ő gyermekeit, úgy intettünk és buzdítgattunk egyenként mindnyájatokat.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "És kérve kértünk, hogy Istenhez méltóan viseljétek magatokat, a ki az ő országába és dicsőségébe hív titeket.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ugyanazért mi is hálát adunk az Istennek szüntelenül, hogy ti befogadván az Istennek általunk hirdetett beszédét, nem úgy fogadtátok, mint emberek beszédét, hanem mint Isten beszédét (a minthogy valósággal az is), a mely munkálkodik is ti bennetek, a kik hisztek.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mert ti, atyámfiai, követői lettetek az Isten gyülekezeteinek, a melyek Júdeában vannak a Krisztus Jézusban, mivelhogy ugyanúgy szenvedtetek ti is a saját honfitársaitoktól, miként azok is a zsidóktól,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "A kik megölték az Úr Jézust is és a saját prófétáikat, és minket is üldöznek, és az Istennek nem tetszenek, és minden embernek ellenségei;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "A kik megtiltják nékünk, hogy a pogányoknak ne prédikáljunk hogy üdvözüljenek; hogy mindenkor betöltsék bűneiket; de végre utólérte őket az Isten haragja.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Mi pedig, atyámfiai, a mint elszakasztatánk tőletek egy kevés ideig, arczra, nem szívre nézve, annál buzgóságosabban, nagy kívánsággal igyekeztünk, hogy szemtől-szemben láthassunk titeket.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Azért menni is akartunk hozzátok, kiváltképen én Pál, egyszer is, kétszer is, de megakadályozott minket a Sátán.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mert kicsoda a mi reménységünk, örömünk és dicsekedésünk koronája? Avagy nem azok lesztek-é ti is a mi Urunk Jézus Krisztus előtt az ő eljövetelekor?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Bizony ti vagytok a mi dicsőségünk és örömünk.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Annakokáért, mivelhogy tovább már el nem tűrhetők, jónak ítélénk, hogy magunk maradjunk Athénében,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És elküldöttük Timótheust, a mi atyánkfiát és Istennek szolgáját és munkatársunkat a Krisztus evangyéliomának hirdetésében, hogy erősítsen titeket és intsen titeket a ti hitetek felől;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hogy senki meg ne tántorodjék ama szorongattatások között; mert ti magatok tudjátok, hogy mi arra rendeltettünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mert mikor közöttetek valánk is, előre megmondtuk néktek, hogy szorongattatásnak leszünk kitéve; a mint meg is történt, és tudjátok.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Annakokáért én is, mivelhogy tovább már nem tűrhetém, elküldék, hogy megismerjem a ti hiteteket, ha nem kísértett-é meg valami módon titeket a kísértő, és nem lett-é hiábavaló a mi fáradságunk?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Most pedig, a mikor megérkezett hozzánk Timótheus ti tőletek, és örömhírt hozott nékünk a ti hitetek és szeretetetek felől, és arról, hogy jó emlékezéssel vagytok irántunk, mindenkor kívánván látni minket, miképen mi is titeket;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ezáltal megvígasztalódtunk reátok nézve, atyámfiai, minden mi szorongattatásunk és szükségünk mellett is, a ti hitetek által:",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mert szinte megelevenedünk, ha ti erősek vagytok az Úrban.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mert milyen hálával is fizethetünk az Istennek ti érettetek, mindazért az örömért, a melylyel örvendezünk miattatok a mi Istenünk előtt?!",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mikor éjjel-nappal nagy buzgón esedezünk, hogy megláthassuk a ti orczátokat, és kipótolhassuk a ti hitetek hiányait.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Maga pedig az Isten és a mi Atyánk, és a mi Urunk a Jézus Krisztus egyengesse meg a mi útunkat ti hozzátok!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Titeket pedig gyarapítson az Úr és tegyen bőségesekké az egymás iránt és mindenki iránt való szeretetben, a milyenek vagyunk mi is ti irántatok;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Hogy erősekké tegye a ti szíveteket, feddhetetlenekké a szentségben, a mi Istenünk és Atyánk előtt, a mikor eljő a mi Urunk Jézus Krisztus minden ő szenteivel egyetemben.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Továbbá pedig kérünk titeket, atyámfiai, és intünk az Úr Jézusban, hogy a szerint, a mint tőlünk tanultátok, mimódon kell forgolódnotok és Istennek tetszenetek: mindinkább gyarapodjatok.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mert tudjátok, milyen parancsolatokat adtunk néktek az Úr Jézus által.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mert ez az Isten akaratja, a ti szentté lételetek, hogy magatokat a paráznaságtól megtartóztassátok;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hogy mindenitek szentségben és tisztességben tudja bírni a maga edényét,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nem kívánság gerjedelmével, mint a pogányok, a kik nem ismerik az Istent;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hogy senki túl ne lépjen és meg ne károsítsa valamely dologban az ő atyjafiát: mert bosszút áll az Úr mindezekért, a mint elébb is mondottuk néktek és bizonyságot tettünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mert nem tisztátalanságra, hanem szentségre hívott el minket az Isten.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "A ki azért megveti ezeket, nem embert vet meg, hanem az Istent, a ki Szent Lelkét is közlé velünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Az atyafiúi szeretetről pedig nem is szükség írnom néktek: mert titeket Isten maga tanított meg arra, hogy egymást szeressétek;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Sőt gyakoroljátok is azt mindamaz atyafiak iránt, a kik egész Maczedóniában vannak. Kérünk azonban titeket atyámfiai, hogy mindinkább gyarapodjatok;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "És becsületbeli dolognak tartsátok, hogy csendes életet folytassatok, saját dolgaitoknak utána lássatok, és tulajdon kezeitekkel munkálkodjatok, a miként rendeltük néktek;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hogy a kívülvalók iránt tisztességesen viselkedjetek, és semmi szükséget ne érezzetek.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Nem akarom továbbá, atyámfiai, hogy tudatlanságban legyetek azok felől, a kik elaludtak, hogy ne bánkódjatok, mint a többiek, a kiknek nincsen reménységök.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mert ha hisszük, hogy Jézus meghalt és feltámadott, azonképen az Isten is előhozza azokat, a kik elaludtak, a Jézus által ő vele együtt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Mert ezt mondjuk néktek az Úr szavával, hogy mi, a kik élünk, a kik megmaradunk az Úr eljöveteléig, épen nem előzzük meg azokat, a kik elaludtak.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mert maga az Úr riadóval, arkangyal szózatával és isteni harsonával leszáll az égből: és feltámadnak először a kik meghaltak volt a Krisztusban;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Azután mi, a kik élünk, a kik megmaradunk, elragadtatunk azokkal együtt a felhőkön az Úr elébe a levegőbe; és ekképen mindenkor az Úrral leszünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Annakokáért vígasztaljátok egymást e beszédekkel.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Az időkről és időszakokról pedig, atyámfiai, nem szükség, hogy írjak néktek;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mert igen jól tudjátok ti magatok, hogy az Úrnak napja úgy jő el, mint a tolvaj éjjel.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mert a mikor ezt mondják: Békesség és biztonság, akkor hirtelen veszedelem jön rájok, mint a szülési fájdalom a terhes asszonyra; és semmiképen meg nem menekednek.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "De ti, atyámfiai, nem vagytok sötétségben, hogy az a nap tolvaj módra lephetne meg titeket.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ti mindnyájan világosság fiai vagytok és nappal fiai; nem vagyunk az éjszakáé, sem a sötétségé!",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ne is aludjunk azért, mint egyebek, hanem legyünk éberek és józanok.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mert a kik alusznak, éjjel alusznak; és a kik részegek, éjjel részegednek meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mi azonban, a kik nappaliak vagyunk, legyünk éberek, felöltözvén a hitnek és szeretetnek mellvasába, és sisak gyanánt az üdvösségnek reménységébe.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mert nem haragra rendelt minket az Isten, hanem arra, hogy üdvösséget szerezzünk a mi Urunk Jézus Krisztus által,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "A ki meghalt érettünk, hogy akár ébren vagyunk, akár aluszunk, együtt éljünk ő vele.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Vígasztaljátok azért egymást, és építse egyik a másikat, a miképen cselekeszitek is.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kérünk továbbá titeket atyámfiai, hogy becsüljétek azokat, a kik fáradoznak közöttetek, és előljáróitok az Úrban, és intenek titeket;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És az ő munkájokért viseltessetek irántok megkülönböztetett szeretettel. Egymással békességben éljetek.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Kérünk továbbá titeket, atyámfiai, intsétek a rendetleneket, bátorítsátok a félelmes szívűeket, gyámolítsátok az erőteleneket, türelmesek legyetek mindenki iránt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Vigyázzatok, hogy senki senkinek rosszért rosszal ne fizessen; hanem mindenkor jóra törekedjetek úgy egymás iránt, mint mindenki iránt.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mindenkor örüljetek.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Szüntelen imádkozzatok.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mindenben hálákat adjatok; mert ez az Isten akarata a Krisztus Jézus által ti hozzátok.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "A Lelket meg ne oltsátok.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "A prófétálást meg ne vessétek,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Mindent megpróbáljatok; a mi jó, azt megtartsátok!",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Mindentől, a mi gonosznak látszik, őrizkedjetek!",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Maga pedig a békességnek Istene szenteljen meg titeket mindenestől; és a ti egész valótok, mind lelketek, mind testetek feddhetetlenül őriztessék meg a mi Urunk Jézus Krisztus eljövetelére.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Hű az, a ki elhivott titeket és ő meg is cselekszi azt.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Atyámfiai, imádkozzatok érettünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Köszöntsétek az összes atyafiakat szent csókolással.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Kényszerítlek titeket az Úrra, hogy olvastassék fel e levél minden szent atyafi előtt.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "A mi Urunk Jézus Krisztusnak kegyelme veletek! Ámen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

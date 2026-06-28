@@ -1,0 +1,606 @@
+{
+  "book": "Colossians",
+  "abbreviation": "Col",
+  "number": 51,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Pál, Jézus Krisztusnak apostola Isten akaratjából, és Timótheus atyafi.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "A Kolosséban levő szenteknek és hívő atyafiaknak a Krisztusban: kegyelem néktek és békesség Istentől, a mi Atyánktól, és az Úr Jézus Krisztustól.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Hálát adunk az Istennek és a mi Urunk Jézus Krisztus Atyjának, mindenkor ti értetek könyörögvén,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mivelhogy hallottuk a ti hiteteket a Krisztus Jézusban, és a szeretetet, a melylyel minden szentekhez vagytok,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "A mennyekben néktek eltett reménységért, a melyet már előbb hallottatok az igazság beszédében, mely az evangyéliom:",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mely eljutott hozzátok, miképen az egész világra is, és gyümölcsöt terem, úgy mint nálatok is a naptól fogva, melyen hallottátok és megismertétek az Isten kegyelmét igazán:",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Úgy a hogy tanultátok is Epafrástól, a mi szerelmes szolgatársunktól, a ki hív szolgája ti érettetek a Krisztusnak,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "A ki meg is jelentette nékünk a ti Lélekben való szereteteteket.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Azért mi is, a mely naptól fogva ezeket hallottuk, nem szűnünk meg érettetek imádkozni, és kérni, hogy betöltessetek az Isten akaratának megismerésével minden lelki bölcseségben és értelemben,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Hogy járjatok méltóan az Úrhoz, teljes tetszésére, minden jó cselekedettel gyümölcsöt teremvén és nevekedvén az Isten megismerésében;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Minden erővel megerősíttetvén az Ő dicsőségének hatalma szerint minden kitartásra és hosszútűrésre örömmel;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hálákat adván az Atyának, ki alkalmasakká tett minket a szentek örökségében való részvételre a világosságban;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "A ki megszabadított minket a sötétség hatalmából, és általvitt az Ő szerelmes Fiának országába;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Kiben van a mi váltságunk az Ő vére által, bűneinknek bocsánata;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "A ki képe a láthatatlan Istennek, minden teremtménynek előtte született;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mert Ő benne teremtetett minden, a mi van a mennyekben és a földön, láthatók és láthatatlanok, akár királyi székek, akár uraságok, akár fejedelemségek, akár hatalmasságok; mindenek Ő általa és Ő reá nézve teremttettek;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És Ő előbb volt mindennél, és minden Ő benne áll fenn.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És Ő a feje a testnek, az egyháznak: a ki a kezdet, elsőszülött a halottak közül; hogy mindenekben Ő legyen az első;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mert tetszett az Atyának, hogy Ő benne lakozzék az egész teljesség;",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "És hogy Ő általa békéltessen meg mindent Magával, békességet szerezvén az Ő keresztjének vére által; Ő általa mindent, a mi csak van, akár a földön, akár a mennyekben.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Titeket is, kik hajdan elidegenültek és ellenségek valátok gonosz cselekedetekben gyönyörködő értelmetek miatt, most mégis megbékéltetett.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Az Ő emberi testében a halál által, hogy mint szenteket, tisztákat és feddhetetleneket állasson titeket Ő maga elé:",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ha ugyan megmaradtok a hitben alaposan és erősen, és el nem távoztok az evangyéliom reménységétől, a melyet hallottatok, a mely hirdettetett minden teremtménynek az ég alatt; a melynek lettem én, Pál, szolgájává.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Most örülök a ti érettetek való szenvedéseimnek, és a magam részéről betöltöm a mi híja van a Krisztus szenvedéseinek az én testemben az Ő testéért, a mi az egyház;",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "A melynek lettem én szolgájává az Isten sáfársága szerint, a melyet nékem adott ti rátok nézve, hogy betöltsem az Isten ígéjét,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Tudniillik ama titkot, mely el vala rejtve ősidők óta és nemzetségek óta, most pedig megjelentetett az Ő szenteinek,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "A kikkel az Isten meg akarta ismertetni azt, hogy milyen nagy a pogányok között eme titok dicsőségének gazdagsága, az tudniillik, hogy a Krisztus ti köztetek van, a dicsőségnek ama reménysége:",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "A kit mi prédikálunk, intvén minden embert, és tanítván minden embert minden bölcseséggel, hogy minden embert tökéletesnek állassunk elő a Krisztus Jézusban;",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "A mire igyekezem is, tusakodván az Ő ereje szerint, mely én bennem hatalmasan munkálkodik.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mert akarom, hogy tudtotokra legyen, hogy milyen nagy tusakodásom van ti érettetek, és azokért, kik Laodiczeában vannak, és mindazokért, a kik nem láttak engem személy szerint e testben;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hogy vígasztalást vegyen az ő szívök, egybeköttetvén a szeretetben, és hogy eljussanak az értelem meggyőződésének teljes gazdagságára, az Isten és az Atya és a Krisztus ama titkának megismerésére,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "A melyben van a bölcsességnek és ismeretnek minden kincse elrejtve.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ezt pedig azért mondom, hogy valaki titeket rá ne szedjen hitető beszéddel.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mert jóllehet testben távol vagyok tőletek, mindazáltal lélekben veletek vagyok, örülvén és látván ti köztetek a jó rendet és Krisztusba vetett hiteteknek erősségét.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Azért, a miképen vettétek a Krisztus Jézust, az Urat, akképen járjatok Ő benne,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Meggyökerezvén és tovább épülvén Ő benne, és megerősödvén a hitben, a miképen arra taníttattatok, bővölködvén abban hálaadással.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Meglássátok, hogy senki ne legyen, a ki bennetek zsákmányt vet a bölcselkedés és üres csalás által, mely emberek rendelése szerint, a világ elemi tanításai szerint, és nem a Krisztus szerint való:",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mert Ő benne lakozik az istenségnek egész teljessége testileg,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És ti Ő benne vagytok bételjesedve, a ki feje minden fejedelemségnek és hatalmasságnak;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "A kiben körül is metéltettetek kéz nélkül való körülmetéléssel, levetkezvén az érzéki bűnök testét a Krisztus körülmetélésében;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Eltemettetvén Ő vele együtt a keresztségben, a kiben egyetemben fel is támasztattatok az Isten erejébe vetett hit által, a ki feltámasztá Őt a halálból.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És titeket, kik holtak valátok a bűnökben és a ti testeteknek körülmetéletlenségében, megelevenített együtt Ő vele, megbocsátván minden bűnötöket,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Az által, hogy eltörölte a parancsolatokban ellenünk szóló kézírást, a mely ellenünkre volt nekünk, és azt eltette az útból, odaszegezvén azt a keresztfára;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Lefegyverezvén a fejedelemségeket és a hatalmasságokat, őket bátran mutogatta, diadalt vévén rajtok abban.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Senki azért titeket meg ne ítéljen evésért, vagy ivásért, avagy ünnep, vagy újhold, vagy szombat dolgában:",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Melyek csak árnyékai a következendő dolgoknak, de a valóság a Krisztusé.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Senki tőletek a pálmát el ne vegye, kedvét találván alázatoskodásban és az angyalok tisztelésében, a melyeket nem látott, olyakat tudakozván, ok nélkül felfuvalkodván az ő testének értelmével.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "És nem ragaszkodván a Főhöz, a Kiből az egész test, a kapcsok és kötelek által segedelmet vévén és egybeszerkesztetvén, nevekedik az Isten szerint való nevekedéssel.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ha meghalván a Krisztussal, megszabadultatok e világ elemi tanításaitól, miért terheltetitek magatokat, mintha e világban élők volnátok, efféle rendelésekkel:",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ne fogd meg, meg se kóstold, még csak ne is illesd.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "(A mik mind a velök való élés által elfogyasztásra vannak rendelve), az emberek parancsolatai és tanításai szerint?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "A melyek bölcsességnek látszanak ugyan a magaválasztotta istentiszteletben és alázatoskodásban és a test gyötrésében; de nincs bennök semmi becsülni való, mivelhogy a test hízlalására valók.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Annakokáért ha feltámadtatok a Krisztussal, az odafelvalókat keressétek, a hol a Krisztus van, az Istennek jobbján ülvén,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Az odafelvalókkal törődjetek, nem a földiekkel.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mert meghaltatok, és a ti éltetek el van rejtve együtt a Krisztussal az Istenben.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mikor a Krisztus, a mi életünk, megjelen, akkor majd ti is, Ő vele együtt, megjelentek dicsőségben.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Öldököljétek meg azért a ti földi tagjaitokat, paráznaságot, tisztátalanságot, bujaságot, gonosz kívánságot és a fösvénységet, a mi bálványimádás;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Melyek miatt jő az Isten haragja az engedetlenség fiaira;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Melyekben ti is jártatok régenten, mikor éltetek azokban.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Most pedig vessétek el magatoktól ti is mindazokat; haragot, fölgerjedést, gonoszságot és szátokból a káromkodást és gyalázatos beszédet.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ne hazudjatok egymás ellen, mivelhogy levetkeztétek amaz ó embert, az ő cselekedeteivel együtt.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És felöltöztétek amaz új embert, melynek újulása van Annak ábrázatja szerint való ismeretre, a ki teremtette azt:",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "A hol nincs többé görög és zsidó: körülmetélkedés és körülmetélkedetlenség, idegen, scithiai, szolga, szabad, hanem minden és mindenekben Krisztus.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Öltözzetek föl azért mint az Istennek választottai, szentek és szeretettek, könyörületes szívet, jóságosságot, alázatosságot, szelídséget, hosszútűrést;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Elszenvedvén egymást és megbocsátván kölcsönösen egymásnak, ha valakinek valaki ellen panasza volna; miképen a Krisztus is megbocsátott néktek, akképen ti is;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mindezeknek fölébe pedig öltözzétek föl a szeretetet, mint a mely a tökéletességnek kötele.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És az Istennek békessége uralkodjék a ti szívetekben, amelyre el is hívattatok egy testben; és háládatosak legyetek.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "A Krisztusnak beszéde lakozzék ti bennetek gazdagon, minden bölcsességben; tanítván és intvén egymást zsoltárokkal, dícséretekkel, lelki énekekkel, hálával zengedezvén a ti szívetekben az Úrnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És mindent, a mit csak cselekesztek szóval vagy tettel, mindent az Úr Jézusnak nevében cselekedjetek, hálát adván az Istennek és Atyának Ő általa.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ti asszonyok, engedelmeskedjetek a ti férjeteknek, a miképen illik az Úrban.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ti férfiak, szeressétek a ti feleségeteket, és ne legyetek irántok keserű kedvűek.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ti gyermekek, szót fogadjatok a ti szüleiteknek mindenben; mert ez kedves az Úrnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ti atyák, ne bosszantsátok a ti gyermekeiteket, hogy kétségbe ne essenek.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ti szolgák, szót fogadjatok mindenben a ti test szerint való uraitoknak, nem a szemnek szolgálván, mint a kik embereknek akarnak tetszeni, hanem szíveteknek egyenességében, félvén az Istent.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "És valamit tesztek, lélekből cselekedjétek, mint az Úrnak és nem embereknek;",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Tudván, hogy ti az Úrtól veszitek az örökségnek jutalmát: mert az Úr Krisztusnak szolgáltok.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "A ki pedig igazságtalanságot cselekszik, jutalmát veszi igazságtalanságának; és nincsen személyválogatás.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ti urak, a mi igazságos és méltányos, a ti szolgáitoknak megadjátok, tudván, hogy néktek is van Uratok mennyekben.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Az imádságban állhatatosak legyetek, vigyázván abban hálaadással;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Imádkozván egyszersmind mi érettünk is, hogy az Isten nyissa meg előttünk az íge ajtaját, hogy szólhassuk a Krisztus titkát, a melyért fogoly is vagyok;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hogy nyilvánvalóvá tegyem azt úgy, a mint nékem szólnom kell.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Bölcsen viseljétek magatokat a kívül valók irányában, a jó alkalmatosságot áron is megváltván.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "A ti beszédetek mindenkor kellemetes legyen, sóval fűszerezett; hogy tudjátok, hogy mimódon kell néktek kinek-kinek megfelelnetek.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Minden én dolgaimat megismerteti veletek Tikhikus, a szeretett atyafi és hív szolga és szolgatárs az Úrban;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "A kit épen a végett küldtem hozzátok, hogy megismerje a ti dolgaitokat és megvígasztalja a ti szíveteket,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Onézimussal együtt, a hű és szeretett atyafival, ki ti közületek való; minden itt való dolgot megismertetnek ők veletek.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Köszönt titeket Aristárkhus, az én fogolytársam, és Márk, a Barnabás unokatestvére, (ki felől parancsolatokat vettetek: ha hozzátok megy, fogadjátok őt szívesen),",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "És Jézus, kit Justusnak is hívnak, kik a zsidók közül valók: csak ezek azok a munkatársaim az Isten országában, a kik nékem vígasztalásomra voltak.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Köszönt titeket Epafrás, ki ti közületek való, Krisztusnak szolgája, mindenkor tusakodván ti érettetek imádságaiban, hogy megállhassatok tökéletesen és teljes meggyőződéssel az Istennek minden akaratjában.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Mert bizonyságot teszek ő felőle, hogy sokat fárad érettetek és azokért, kik Laodiczeában és Jerápolisban vannak.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Köszönt titeket Lukács, ama szeretett orvos, és Démás.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Köszöntsétek az atyafiakat, kik Laodiczeában vannak, és Nimfást és a gyülekezetet, mely az ő házánál van.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "És mikor felolvastatik nálatok e levél, cselekedjétek meg, hogy a laodiczeaiak gyülekezetében is felolvastassék, és hogy a Laodiczeából átveendő levelet ti is felolvassátok.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És mondjátok meg Arkhippusnak: Vigyázz a szolgálatra, melyre vállalkoztál az Úrban, hogy azt betöltsed!",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "A köszöntés a saját kezemmel, a Páléval, van írva. Emlékezzetek meg az én bilincseimről! A kegyelem veletek. Ámen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

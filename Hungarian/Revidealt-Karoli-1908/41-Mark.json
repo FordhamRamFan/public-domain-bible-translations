@@ -1,0 +1,4200 @@
+{
+  "book": "Mark",
+  "abbreviation": "Mark",
+  "number": 41,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "A Jézus Krisztus, az Isten Fia evangyéliomának kezdete,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "A mint meg van írva a prófétáknál: Ímé én elküldöm az én követemet a te orczád előtt, a ki megkészíti a te útadat előtted;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kiáltónak szava a pusztában: Készítsétek meg az Úrnak útját, egyengessétek meg az ő ösvényeit:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Előáll vala János, keresztelvén a pusztában és prédikálván a megtérésnek keresztségét a bűnöknek bocsánatára.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És kiméne hozzá Júdeának egész tartománya és a Jeruzsálembeliek is, és megkeresztelkedének mindnyájan ő általa a Jordán vizében, bűneikről vallást tévén.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "János pedig teveszőrruhát és dereka körül bőrövet viselt vala, és sáskát és erdei mézet eszik vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "És prédikála, mondván: Utánam jő, a ki erősebb nálam, a kinek nem vagyok méltó, hogy lehajolván, sarujának szíjját megoldjam.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Én vízzel kereszteltelek titeket, de ő Szent Lélekkel keresztel titeket.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "És lőn azokban a napokban, eljöve Jézus a galileai Názáretből, és megkeresztelteték János által a Jordánban.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És azonnal feljővén a vízből, látá az egeket megnyilatkozni, és a Lelket mint egy galambot ő reá leszállani;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "És szózat lőn az égből: Te vagy az én szerelmes fiam, a kiben én gyönyörködöm.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "És a Lélek azonnal elragadá őt a pusztába.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És ott volt a pusztában negyven napig kísértetve a Sátántól, és a vad állatokkal vala együtt; és az angyalok szolgálnak vala néki.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Minekutána pedig János tömlöczbe vettetett, elméne Jézus Galileába, prédikálván az Isten országának evangyéliomát,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És mondván: Bétölt az idő, és elközelített az Istennek országa; térjetek meg, és higyjetek az evangyéliomban.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mikor pedig Galilea tengere mellett járt, látá Simont és Andrást, annak testvérét, a mint a tengerbe hálót vetének; mert halászok valának.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És monda nékik Jézus: Kövessetek engem, és én azt mívelem, hogy embereket halászszatok.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És azonnal elhagyván az ő hálóikat, követék őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "És onnan egy kevéssé elébb menve, látá Jakabot, a Zebedeus fiát és annak testvérét, Jánost, a mint a hajóban azok is a hálókat kötözgetik vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "És azonnal hívá őket. És ők atyjukat, Zebedeust a napszámosokkal a hajóban hagyva, utána menének.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És bemenének Kapernaumba; és mindjárt szombatnapon bemenvén a zsinagógába, tanít vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És elálmélkodának az ő tanításán; mert úgy tanítja vala őket, mint a kinek hatalma van, és nem úgy mint az írástudók.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Vala pedig azok zsinagógájában egy ember, a kiben tisztátalan lélek volt, és felkiálta,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "És monda: Ah! mi dolgunk van nékünk veled, Názáreti Jézus? Azért jöttél-é, hogy elveszíts minket? Tudom, hogy ki vagy te: az Istennek Szentje.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "És megdorgálá őt Jézus, mondván: Némulj meg, és menj ki belőle.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "És a tisztátalan lélek megszaggatá őt, és fenszóval kiáltva, kiméne belőle.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És mindnyájan elálmélkodának, annyira, hogy egymás között kérdezgeték, mondván: Mi ez? Micsoda új tudomány ez, hogy hatalommal parancsol a tisztátalan lelkeknek is, és engedelmeskednek néki?",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "És azonnal elméne az ő híre Galilea egész környékére.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "És a zsinagógából azonnal kimenvén, a Simon és András házához menének Jakabbal és Jánossal együtt.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "A Simon napa pedig hideglelésben fekszik vala, és azonnal szólának néki felőle.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "És ő odamenvén, fölemelé azt, annak kezét fogván; és elhagyá azt a hideglelés azonnal, és szolgál vala nékik.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Estefelé pedig, a mikor leszállt a nap, mind ő hozzá vivék a betegeseket és az ördöngősöket;",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "És az egész város oda gyűlt vala az ajtó elé.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "És meggyógyíta sokakat, a kik különféle betegségekben sínlődnek vala; és sok ördögöt kiűze, és nem hagyja vala szólni az ördögöket, mivelhogy őt ismerék.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Kora reggel pedig, még szürkületkor, fölkelvén, kiméne, és elméne egy puszta helyre és ott imádkozék.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Simon pedig és a vele lévők utána sietének;",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "És a mikor megtalálák őt, mondának néki: Mindenki téged keres.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "És ő monda nékik: Menjünk a közel való városokba, hogy ott is prédikáljak, mert azért jöttem.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "És prédikál vala azoknak zsinagógáiban, egész Galileában, és ördögöket űz vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "És jöve hozzá egy bélpoklos, kérvén őt és leborulván előtte és mondván néki: Ha akarod, megtisztíthatsz engem.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "Jézus pedig könyörületességre indulván, kezét kinyújtva megérinté őt, és monda néki: Akarom, tisztulj meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "És a mint ezt mondja vala, azonnal eltávozék tőle a poklosság és megtisztula.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "És erősen megfenyegetvén, azonnal elküldé őt,",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "És monda néki: Meglásd, hogy senkinek semmit ne szólj; hanem eredj el, mutasd meg magadat a papnak, és vidd fel a te tisztulásodért, a mit Mózes parancsolt, bizonyságul nékik.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "Az pedig kimenvén, kezde sokat beszélni és terjeszteni a dolgot, annyira, hogy nyilvánosan immár be sem mehetett Jézus a városba, hanem künn puszta helyeken vala, és mennek vala hozzá mindenfelől.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Napok mulva pedig ismét beméne Kapernaumba, és meghallák, hogy otthon van.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És azonnal sokan összegyülekezének, annyira, hogy még az ajtó elébe sem fértek; és hirdeté nékik az igét.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "És jövének hozzá egy gutaütöttet hozva, a kit négyen emelnek vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "És mivel a sokaság miatt nem férkőzhettek azzal ő hozzá, megbonták ama háznak fedelét, a hol Ő vala, és rést törvén, leereszték a nyoszolyát, a melyben a gutaütött feküdt.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Jézus pedig azoknak hitét látván, monda a gutaütöttnek: Fiam, megbocsáttattak néked a te bűneid.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Valának pedig ott némely írástudók, a kik ott ülnek vala, szívökben így okoskodván:",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mi dolog, hogy ez ilyen káromlásokat szól? ki bocsáthatja meg a bűnöket, hanemha egyedül az Isten?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És Jézus azonnal észrevevé az ő lelkével, hogy azok magukban így okoskodnak, és monda nékik: Miért gondoljátok ezeket a ti szívetekben?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mi könnyebb, azt mondanom-é a gutaütöttnek: Megbocsáttattak néked a te bűneid, vagy ezt mondanom: Kelj fel, vedd fel a te nyoszolyádat, és járj?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Hogy pedig megtudjátok, hogy az ember Fiának van hatalma e földön a bűnöket megbocsátani, monda a gutaütöttnek:",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mondom néked, kelj föl, vedd fel a te nyoszolyádat, és eredj haza.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Az pedig azonnal fölkele és felvévén nyoszolyáját, kiméne mindenkinek láttára; úgy hogy mindenki elálmélkodék, és dicsőíté az Istent, ezt mondván: Soha sem láttunk ilyet!",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És ismét kiméne a tenger mellé; és az egész sokaság megy vala ő hozzá, és ő tanítja vala őket.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "És a mikor tovaméne, meglátá Lévit, az Alfeus fiát, a ki a vámszedő helyen ül vala, és monda néki: Kövess engemet. És felkelvén, követi vala őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És lőn, a mikor ő ennek házában asztalhoz üle, a vámszedők és bűnösök is sokan odaülnek vala Jézussal és az ő tanítványaival; mert sokan valának, és követék őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "És a mikor látták az írástudók és a farizeusok, hogy együtt eszik a vámszedőkkel és bűnösökkel, mondának az ő tanítványainak: Mi dolog, hogy a vámszedőkkel és a bűnösökkel eszik és iszik?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És a mikor ezt hallja vala Jézus, monda nékik: Nem az egészségeseknek van szükségök orvosra, hanem a betegeknek, nem azért jöttem, hogy igazakat, hanem hogy bűnösöket hívjak megtérésre.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "A János és a farizeusok tanítványai pedig bőjtölnek vala. Odamenének azért és mondának néki: Mi az oka, hogy Jánosnak és a farizeusoknak tanítványai bőjtölnek, a te tanítványaid pedig nem bőjtölnek?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Jézus pedig monda nékik: Avagy bőjtölhet-é a vőlegény násznépe, a míg velök van a vőlegény? A meddig a vőlegény velök van, nem bőjtölhetnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "De jőnek majd napok, a mikor elvétetik tőlük a vőlegény, és akkor bőjtölni fognak azokon a napokon.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Senki sem varr pedig új posztóból foltot ó ruhára; máskülönben a mi azt kitoldaná, még kiszakít belőle, az új a régiből, és nagyobb szakadás lesz.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És senki sem tölt új bort régi tömlőkbe; különben az új bor a tömlőket szétszakítja, a bor is kiömlik, a tömlők is elpusztulnak; hanem az új bort új tömlőkbe kell tölteni.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "És lőn, hogy szombatnapon a vetések közt megy vala által, és az ő tanítványai mentökben a kalászokat kezdék vala szaggatni.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Ekkor a farizeusok mondának néki: Ímé, miért művelik azt szombatnapon, a mit nem szabad?",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Ő pedig monda nékik: Soha sem olvastátok-é, mit mívelt Dávid, mikor megszűkült és megéhezett vala társaival egybe?",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Mi módon ment be az Isten házába az Abiátár főpap idejében és ette meg a szent kenyereket, a melyeket nem szabad megenni csak a papoknak; és adott a társainak is?",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És monda nékik: A szombat lőn az emberért, nem az ember a szombatért.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Annak okáért az embernek Fia a szombatnak is ura.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "És ismét beméne a zsinagógába, és vala ott egy megszáradt kezű ember.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És lesik vala őt, hogy meggyógyítja-é szombatnapon; hogy vádolhassák őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Akkor monda a megszáradt kezű embernek: Állj elő a középre.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Azoknak pedig monda: Szabad-é szombatnapon jót vagy rosszat tenni? lelket menteni, vagy kioltani? De azok hallgatnak vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ő pedig elnézvén őket haraggal, bánkódván szívök keménysége miatt, monda az embernek: Nyújtsd ki a kezedet. És kinyújtá, és meggyógyult a keze és éppé lőn, mint a másik.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Akkor a farizeusok kimenvén, a Heródes pártiakkal mindjárt tanácsot tartának ellene, hogy elveszítsék őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Jézus pedig elméne tanítványaival a tenger mellé; és nagy sokaság követé őt Galileából és Júdeából,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És Jeruzsálemből és Idumeából és a Jordánon túlról; és a Tirus és a Sidon környékiek is, a mikor hallották, hogy miket mível vala, nagy sokasággal jövének ő hozzá.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "És megmondá tanítványainak, hogy egy kis hajót tartsanak néki készen, a sokaság miatt, hogy ne szorongassák őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert sokakat meggyógyított, úgy hogy a kiknek valami bajuk volt, reá rohanának, hogy illethessék őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "A tisztátalan lelkek is, mikor meglátták vala őt, leborulának előtte, és kiáltának, mondván: Te vagy az Istennek a Fia.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ő pedig erősen fenyegeti vala őket, hogy őt ki ne jelentsék.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Azután felméne a hegyre, és magához szólítá, a kiket akar vala; és hozzá menének.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "És választa tizenkettőt, hogy vele legyenek, és hogy kiküldje őket prédikálni,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És hatalmuk legyen a betegeket gyógyítani és az ördögöket kiűzni:",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Simont, a kinek Péter nevet ada;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És Jakabot a Zebedeus fiát és Jánost a Jakab testvérét; és Boanerges nevet ada nékik, a mely azt teszi: mennydörgés fiai;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És Andrást és Filepet, Bertalant és Mátét, Tamást és Jakabot az Alfeus fiát, Taddeust és a kananeai Simont,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "És Iskáriótes Júdást, a ki el is árulta őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Azután haza térének. És ismét egybegyűle a sokaság, annyira, hogy még nem is ehetének.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "A mint az övéi ezt meghallák, eljövének, hogy megfogják őt; mert azt mondják vala, hogy magán kívül van.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Az írástudók pedig, a kik Jeruzsálemből jöttek vala le, azt mondák, hogy: Belzebúb van vele, és: Az ördögök fejedelme által űzi ki az ördögöket.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ő pedig magához híván azokat, példázatokban monda nékik: Sátán miként tud Sátánt kiűzni?",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "És ha egy ország önmagában meghasonlik, meg nem maradhat az az ország.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "És ha egy ház önmagában meghasonlik, meg nem maradhat az a ház.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "És ha a Sátán önmaga ellen támadt és meghasonlott, nem maradhat meg, hanem vége van.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Nem rabolhatja el senki az erősnek kincseit, bemenvén annak házába, hanemha elébb az erőset megkötözi és azután rabolja ki annak házát.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Bizony mondom néktek, hogy minden bűn megbocsáttatik az emberek fiainak, még a káromlások is mind, a melyekkel káromlanak:",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "De a ki a Szent Lélek ellen szól káromlást, nem nyer bocsánatot soha, hanem örök kárhozatra méltó;",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Mivelhogy ezt mondják vala: Tisztátalan lélek van benne.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "És megérkezének az ő testvérei és az ő anyja, és kívül megállva, beküldének hozzá, hivatván őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Körülötte pedig sokaság ül vala; és mondának néki: Ímé a te anyád és a te testvéreid ott künn keresnek téged.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Ő pedig felele nékik, mondván: Ki az én anyám vagy kik az én testvéreim?",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Azután elnézvén köröskörül a körülötte ülőkön, monda: Ímé az én anyám és az én testvéreim.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Mert a ki az Isten akaratát cselekszi, az az én fitestvérem és nőtestvérem és az én anyám.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "És ismét kezde tanítani a tenger mellett. És nagy sokaság gyűle ő hozzá, úgy hogy ő a hajóba lépvén, a tengeren ül vala, az egész sokaság pedig a tenger mellett a földön vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És sokat tanítja vala őket példázatokban, és ezt mondja vala nékik tanításában:",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Halljátok: Ímé, a magvető kiméne vetni.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "És lőn vetés közben, hogy némely az út mellé esék, és eljövének az égi madarak és megevék azt.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Némely pedig a köves helyre esék, a hol nem sok földje vala, és hamar kikele, mivel nem vala mélyen a földben.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mikor pedig fölkelt a nap, elsűle, és mivelhogy nem volt gyökere, elszárada.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Némely pedig a tövisek közé esék, és felnevekedének a tövisek és megfojták azt, és nem ada gyümölcsöt.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Némely pedig a jó földbe esék; és ád vala nevekedő és bővölködő gyümölcsöt, és némely hoz vala harmincz annyit, némely hatvan annyit, némely pedig száz annyit.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "És monda nékik: A kinek van füle a hallásra, hallja.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mikor pedig egyedül vala, megkérdezék őt a körülötte lévők a tizenkettővel együtt a példázat felől.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ő pedig monda nékik: Néktek adatott, hogy az Isten országának titkát tudjátok, ama kívül levőknek pedig példázatokban adatnak mindenek,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Hogy nézvén nézzenek és ne lássanak; és hallván halljanak és ne értsenek, hogy soha meg ne térjenek és bűneik meg ne bocsáttassanak.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És monda nékik: Nem értitek ezt a példázatot? Akkor mimódon értitek meg majd a többi példázatot?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "A magvető az ígét hinti.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Az útfélen valók pedig azok, a kiknek hintik az ígét, de mihelyest hallják, azonnal eljő a Sátán és elragadja a szívökbe vetett ígét.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "És hasonlóképen a köves helyre vetettek azok, a kik mihelyst hallják az ígét, mindjárt örömmel fogadják,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "De nincsen ő bennük gyökere, hanem ideig valók; azután ha nyomorúság vagy háborúság támad az íge miatt, azonnal megbotránkoznak.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "A tövisek közé vetettek pedig azok, a kik az ígét hallják,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "De a világi gondok és a gazdagság csalárdsága és egyéb dolgok kívánsága közbejővén, elfojtják az ígét, és gyümölcstelen lesz.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "A jó földbe vetettek pedig azok, a kik hallják az ígét és beveszik, és gyümölcsöt teremnek, némely harmincz annyit, némely hatvan annyit, némely száz annyit.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És monda nékik: Avagy azért hozzák-é elő a gyertyát, hogy véka alá tegyék, vagy az ágy alá? És nem azért-é, hogy a gyertyatartóba tegyék?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Mert nincs semmi rejtett dolog, a mi meg ne jelentetnék; és semmi sem volt eltitkolva, hanem hogy nyilvánosságra jusson.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ha valakinek van füle a hallásra, hallja.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "És monda nékik: Megjegyezzétek, a mit hallotok: A milyen mértékkel mértek, olyannal mérnek néktek, sőt ráadást adnak néktek, a kik halljátok.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Mert a kinek van, annak adatik; és a kinek nincs, attól az is elvétetik, a mije van.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "És monda: Úgy van az Isten országa, mint mikor az ember beveti a magot a földbe.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És alszik és fölkel éjjel és nappal; a mag pedig kihajt és felnő, ő maga sem tudja miképen.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Mert magától terem a föld, először füvet, azután kalászt, azután teljes buzát a kalászban.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Mihelyt pedig a gabona arra való, azonnal sarlót ereszt reá, mert az aratás elérkezett.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "És monda: Mihez hasonlítsuk az Isten országát? Avagy milyen példában példázzuk azt?",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "A mustármaghoz, a mely mikor a földbe vettetik, minden földi magnál kisebb,",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "És mikor elvettetik, felnő, és minden veteménynél nagyobb lesz és nagy ágakat hajt, úgy hogy árnyéka alatt fészket rakhatnak az égi madarak.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "És sok ilyen példázatban hirdeti vala nékik az ígét, úgy a mint megérthetik vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Példázat nélkül pedig nem szól vala nékik; maguk közt azonban a tanítványoknak mindent megmagyaráz vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Azután monda nékik azon a napon, a mint este lőn: Menjünk át a túlsó partra.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Elbocsátván azért a sokaságot, elvivék őt, úgy a mint a hajóban vala; de más hajók is valának vele.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Akkor nagy szélvihar támada, a hullámok pedig becsapnak vala a hajóba, annyira, hogy már-már megtelék.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Ő pedig a hajó hátulsó részében a fejaljon aluszik vala. És fölkelték őt és mondának néki: Mester, nem törődöl vele, hogy elveszünk?",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "És felkelvén megdorgálá a szelet, és monda a tengernek: Hallgass, némulj el! És elállt a szél, és lőn nagy csendesség.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "És monda nékik: Miért vagytok ily félénkek? Hogy van, hogy nincsen hitetek?",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "És megfélemlének nagy félelemmel, és ezt mondják vala egymásnak: Kicsoda hát ez, hogy mind a szél, mind a tenger engednek néki?",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "És menének a tenger túlsó partjára, a Gadarenusok földére.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És a mint a hajóból kiméne, azonnal elébe méne egy ember a sírboltokból, a kiben tisztátalan lélek volt,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "A kinek lakása a sírboltokban vala; és már lánczokkal sem bírta őt senki sem lekötni.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mert sokszor megkötözték őt békókkal és lánczokkal, de ő a lánczokat szétszaggatta, és a békókat összetörte, és senki sem tudta őt megfékezni.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És éjjel és nappal mindig a hegyeken és a sírboltokban volt, kiáltozva és magát kövekkel vagdosva.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mikor pedig Jézust távolról meglátta, oda futamodék, és elébe borula,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "És fennhangon kiáltva monda: Mi közöm nékem te veled, Jézus, a magasságos Istennek Fia? Az Istenre kényszerítelek, ne kínozz engem.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "(Mert ezt mondja vala néki: Eredj ki, tisztátalan lélek, ez emberből.)",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "És kérdezé tőle: Mi a neved? És felele, mondván: Légió a nevem, mert sokan vagyunk.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És igen kéré őt, hogy ne küldje el őket arról a vidékről.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Vala pedig ott a hegynél egy nagy disznónyáj, a mely legel vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "És az ördögök kérik vala őt mindnyájan, mondván: Küldj minket a disznókba, hogy azokba menjünk be.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És Jézus azonnal megengedé nékik. A tisztátalan lelkek pedig kijövén, bemenének a disznókba; és a nyáj a meredekről a tengerbe rohana. Valának pedig mintegy kétezeren; és belefúlának a tengerbe.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "A kik pedig őrzik vala a disznókat, elfutának, és hírt vivének a városba és a falvakba. És kimenének, hogy lássák, mi az, a mi történt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És menének Jézushoz, és láták, hogy az ördöngős ott ül, fel van öltözködve és eszénél van, az, a kiben a légió volt; és megfélemlének.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "A kik pedig látták, elbeszélék nékik, hogy mi történt vala az ördöngőssel, és a disznókkal.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És kezdék kérni őt, hogy távozzék el az ő határukból.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mikor pedig a hajóba beszállott vala, a volt ördöngős kéré őt, hogy vele lehessen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "De Jézus nem engedé meg néki, hanem monda néki: Eredj haza a tiéidhez, és jelentsd meg nékik, mely nagy dolgot cselekedett veled az Úr, és mint könyörült rajtad.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "El is méne, és kezdé hirdetni a Tízvárosban, mely nagy dolgot cselekedett vele Jézus; és mindnyájan elcsodálkozának.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És mikor ismét általment Jézus a hajón a tulsó partra, nagy sokaság gyűle ő hozzá; és vala a tenger mellett.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És ímé, eljöve a zsinagóga fők egyike, névszerint Jairus, és meglátván őt, lábaihoz esék,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "És igen kéré őt, mondván: Az én leánykám halálán van; jer, vesd reá kezedet, hogy meggyógyuljon és éljen.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "El is méne vele, és követé őt nagy sokaság, és összeszorítják vala őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "És egy asszony, a ki tizenkét év óta vérfolyásos vala,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "És sok orvostól sokat szenvedett, és minden vagyonát magára költötte, és semmit sem javult, sőt inkább még rosszabbul lett,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Mikor Jézus felől hallott vala, a sokaságban hátulról kerülve, illeté annak ruháját.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Mert ezt mondja vala: Ha csak ruháit illethetem is, meggyógyulok.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "És vérének forrása azonnal kiszárada és megérzé testében, hogy kigyógyult bajából.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Jézus pedig azonnal észrevevén magán, hogy isteni erő áradott vala ki belőle, megfordult a sokaságban, és monda: Kicsoda illeté az én ruháimat?",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "És mondának néki az ő tanítványai: Látod, hogy a sokaság szorít össze téged, és azt kérdezed: Kicsoda illetett engem?",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "És körülnéze, hogy lássa azt, a ki ezt cselekedte.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Az asszony pedig tudva, hogy mi történt vele, félve és remegve megy vala oda és elébe borula, és elmonda néki mindent igazán.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Ő pedig monda néki: Leányom, a te hited megtartott téged. Eredj el békével, és gyógyulj meg a te bajodból.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Mikor még beszél vala, odajövének a zsinagóga fejétől, mondván: Leányod meghalt; mit fárasztod tovább a Mestert?",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Jézus pedig, a mint hallá a beszédet, a mit mondanak vala, azonnal monda a zsinagóga fejének: Ne félj, csak higyj.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "És senkinek sem engedé, hogy vele menjen, csak Péternek és Jakabnak és Jánosnak, a Jakab testvérének.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "És méne a zsinagóga fejének házához, és látá a zűrzavart, a sok síránkozót és jajgatót.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "És bemenvén, monda nékik: Mit zavarogtok és sírtok? A gyermek nem halt meg, hanem alszik.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "És nevetik vala őt. Ő pedig kiküldvén valamennyit, maga mellé vevé a gyermeknek atyját és anyját és a vele levőket, és beméne oda, a hol a gyermek fekszik vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "És megfogván a gyermeknek kezét, monda néki: Talitha, kúmi; a mi megmagyarázva azt teszi: Leányka, néked mondom, kelj föl.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "És a leányka azonnal fölkele és jár vala. Mert tizenkét esztendős vala. És nagy csodálkozással csodálkozának.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "Ő pedig erősen megparancsolá nékik, hogy ezt senki meg ne tudja. És mondá, hogy adjanak annak enni.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "És kiméne onnét, és méne az ő hazájába, és követék őt az ő tanítványai.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És a mint eljött vala a szombat, tanítani kezde a zsinagógában; és sokan, a kik őt hallák, elálmélkodának vala, mondván: Honnét vannak ennél ezek? És mely bölcsesség az, a mi néki adatott, hogy ily csodadolgok is történnek általa?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Avagy nem ez-é az az ácsmester, Máriának a fia, Jakabnak, Józsénak, Júdásnak és Simonnak pedig testvére? És nincsenek-é itt közöttünk az ő nőtestvérei is? És megbotránkoznak vala ő benne.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Jézus pedig monda nékik: Nincs próféta tisztesség nélkül csak a maga hazájában, és a rokonai között és a maga házában.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Nem is tehet vala ott semmi csodát, csak nehány beteget gyógyíta meg, rájok vetvén kezeit.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "És csodálkozik vala azoknak hitetlenségén. Aztán köröskörül járja vala a falvakat, tanítván.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Majd magához szólítá a tizenkettőt, és kezdé őket kiküldeni kettőnként, és ada nékik hatalmat a tisztátalan lelkeken.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És megparancsolá nékik, hogy az útra semmit ne vigyenek egy pálczán kívül; se táskát, se kenyeret, se pénzt az övükben;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Hanem kössenek sarut, de két ruhát ne öltsenek.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És monda nékik: A hol valamely házba bementek, ott maradjatok mindaddig, a míg tovább mentek onnét.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "A kik pedig nem fogadnak titeket, sem nem hallgatnak rátok, onnét kimenvén, verjétek le a port lábaitokról, bizonyságul ő ellenök. Bizony mondom néktek: Sodomának vagy Gomorának tűrhetőbb lesz a dolga az ítélet napján, mint annak a városnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kimenvén azért, prédikálják vala, hogy térjenek meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És sok ördögöt űznek vala ki, és olajjal sok beteget megkennek és meggyógyítnak vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "És meghallá ezeket Heródes király (mert nyilvánvalóvá lőn az ő neve) és monda: Keresztelő János támadt fel a halálból és azért működnek benne ez erők.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Némelyek azt mondják vala, hogy Illés ő; mások meg azt mondják vala, hogy Próféta, vagy olyan, mint egy a próféták közül.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Heródes pedig ezeket hallván, monda: A kinek én fejét vétetém, az a János ez; ő támadt fel a halálból.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Mert maga Heródes fogatta el és vettette vala börtönbe Jánost, Heródiás miatt, Fülöpnek, az ő testvérének felesége miatt, mivelhogy azt vette vala feleségül.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mert János azt mondá Heródesnek: Nem szabad néked a testvéred feleségével élned.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Heródiás pedig ólálkodik vala utána, és meg akarja vala őt ölni; de nem teheté.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mert Heródes fél vala Jánostól, igaz és szent embernek ismervén őt, és oltalmazá őt; és ráhallgatván, sok dologban követi, és örömest hallgatja vala őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "De egy alkalmatos nap jöttével, mikor Heródes a maga születése ünnepén nagyjainak, vezéreinek és Galilea előkelő embereinek lakomát ad vala,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És ennek a Heródiásnak a leánya beméne és tánczola, és megtetszék Heródesnek és a vendégeknek, monda a király a leánynak: Kérj tőlem, a mit akarsz, és megadom néked.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "És megesküvék néki, hogy: Bármit kérsz tőlem, megadom néked, még ha országom felét is.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Az pedig kimenvén, monda az ő anyjának: Mit kérjek? Ez pedig mondja: A Keresztelő János fejét.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "És a királyhoz nagy sietve azonnal bemenvén, kéré őt mondván: Akarom, hogy mindjárt add ide nékem a Keresztelő János fejét egy tálban.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "A király pedig noha igen megszomorodék, eskűje és a vendégek miatt nem akará őt elutasítani.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És azonnal hóhért küldvén a király, megparancsolá, hogy hozzák el annak fejét.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ez pedig elmenvén, fejét vevé annak a börtönben, és előhozá a fejét egy tálban és adá a leánynak; a leány pedig az anyjának adá azt.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "A tanítványai pedig, a mikor ezt meghallották vala, eljövének, és elvivék a testét, és sírba tevék.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "És az apostolok összegyűlekezének Jézushoz, és elbeszélének néki mindent, azt is, a miket cselekedtek, azt is, a miket tanítottak vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Ő pedig monda nékik: Jertek el csupán ti magatok valamely puszta helyre és pihenjetek meg egy kevéssé. Mert sokan valának a járó-kelők, és még evésre sem volt alkalmas idejök.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "És elmenének hajón egy puszta helyre csupán ő magok.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "A sokaság pedig meglátá őket, a mint mennek vala, és sokan megismerék őt; és minden városból egybefutának oda gyalog, és megelőzék őket, és hozzá gyülekezének.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "És kimenvén Jézus nagy sokaságot láta, és megszáná őket, mert olyanok valának, mint a pásztor nélkül való juhok. És kezdé őket sokra tanítani.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Mikor pedig immár nagy idő vala, hozzámenvén az ő tanítványai mondának: Puszta ez a hely, és immár nagy idő van:",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Bocsásd el őket, hogy elmenvén a körülfekvő majorokba és falvakba, vegyenek magoknak kenyeret; mert nincs mit enniök.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Ő pedig felelvén, monda nékik: Adjatok nékik ti enniök. És mondának néki: Elmenvén, vegyünk-é kétszáz pénz árú kenyeret, hogy enni adjunk nékik?",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Ő pedig monda nékik: Hány kenyeretek van? Menjetek és nézzétek meg. És megtudván, mondának: Öt, és két halunk.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "És parancsolá nékik, hogy ültessenek le mindenkit csoportonként a zöld pázsitra.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Letelepedének azért szakaszonként, százával és ötvenével.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "Ő pedig vette vala az öt kenyeret és a két halat, és az égre tekintvén, hálákat ada; és megszegé a kenyereket és adá tanítványainak, hogy tegyék azok elé; és a két halat is elosztá mindnyájok között.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "Evének azért mindnyájan, és megelégedének;",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "És maradékot is szedének fel tizenkét tele kosárral, és a halakból is.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "A kik pedig a kenyerekből ettek, mintegy ötezeren valának férfiak.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "És azonnal kényszeríté tanítványait, hogy hajóba szálljanak, és menjenek át előre a túlsó partra Bethsaida felé, a míg ő a sokaságot elbocsátja.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "Minekutána pedig elbocsátotta őket, fölméne a hegyre imádkozni.",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "És mikor beesteledék, a hajó a tenger közepén vala, ő pedig egymaga a szárazon.",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "És látá őket, a mint vesződnek az evezéssel; mert a szél szembe fú vala velök; és az éj negyedik szakában hozzájuk méne a tengeren járva; és el akar vala haladni mellettük.",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "Azok pedig látván őt a tengeren járni, kisértetnek vélték, és felkiáltának;",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "Mert mindnyájan látják vala őt és megrémülének. De ő azonnal megszólítá őket, és monda nékik: Bízzatok; én vagyok, ne féljetek.",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "Ekkor beméne hozzájuk a hajóba, és elállt a szél; ők pedig magukban szerfölött álmélkodnak és csodálkoznak vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "Mert nem okultak a kenyereken, mivelhogy a szívök meg vala keményedve.",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "És átkelve, eljutának a Genezáret földére, és kikötének.",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "De mihelyt kiszálltak a hajóból, azonnal megismerék őt,",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "heading": null,
+          "text": "És azt az egész környéket befutván, kezdék a betegeket a nyoszolyákon ide-oda hordozni, a merre hallják vala, hogy ő ott van.",
+          "footnotes": []
+        },
+        {
+          "verse": 56,
+          "heading": null,
+          "text": "És a hová bemegy vala a falvakba vagy városokba vagy majorokba, a betegeket letevék a piaczokon, és kérik vala őt, hogy legalább a ruhája szegélyét illethessék. És valahányan csak illeték, meggyógyulának.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "És hozzá gyűlének a farizeusok és némelyek az írástudók közül, a kik Jeruzsálemből jöttek vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És látván, hogy az ő tanítványai közül némelyek közönséges, azaz mosdatlan kézzel esznek kenyeret, panaszkodának.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mert a farizeusok és a zsidók mind, a régiek rendelését követve, nem esznek, hanemha kezöket erősen megmossák;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "És piaczról jövén sem esznek, ha meg nem mosakodnak; és sok egyéb is van, a minek megtartását átvették, poharaknak, korsóknak, rézedényeknek és nyoszolyáknak megmosását.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Azután megkérdék őt a farizeusok és az írástudók: Mi az oka, hogy a te tanítványaid nem járnak a régiek rendelése szerint, hanem mosdatlan kézzel esznek kenyeret?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ő pedig felelvén, monda nékik: Igazán jövendölt felőletek, képmutatók felől Ésaiás próféta, a mint meg van írva: Ez a nép ajkaival tisztel engem, a szívök pedig távol van tőlem.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Pedig hiába tisztelnek engem, ha oly tudományokat tanítanak, a melyek embereknek parancsolatai.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mert az Isten parancsolatját elhagyva, az emberek rendelését tartjátok meg, korsóknak és poharaknak mosását; és sok egyéb efféléket is cselekesztek.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "És monda nékik: Az Isten parancsolatját szépen félre teszitek, azért, hogy a magatok rendelését tartsátok meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert Mózes azt mondotta: Tiszteld atyádat és anyádat. És: A ki atyját vagy anyját szidalmazza, halállal haljon meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ti pedig azt mondjátok: Ha valaki ezt mondja atyjának vagy anyjának: Korbán (azaz: templomi ajándék) az, a mivel megsegíthetnélek:",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Úgy már nem engeditek, hogy az atyjával vagy anyjával valami jót tegyen,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Eltörölvén az Isten beszédét a ti rendelésetekkel, a melyet rendeltetek; és sok effélét is cselekesztek.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "És előszólítván az egész sokaságot, monda nékik: Hallgassatok reám mindnyájan és értsétek meg:",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Nincs semmi az emberen kívülvaló, a mi bemenvén ő belé, megfertőztethetné őt; hanem a mik belőle jőnek ki, azok fertőztetik meg az embert.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ha valakinek van füle a hallásra, hallja.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És mikor házba ment vala be a sokaság közül, megkérdezék őt tanítványai a példázat felől.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És monda nékik: Ti is ennyire tudatlanok vagytok-é? Nem értitek-é, hogy a mi kívülről megy az emberbe, semmi sem fertőztetheti meg őt?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mert nem a szívébe megy be, hanem a gyomrába; és az árnyékszékbe kerül, a mely minden eledelt megtisztít.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Monda továbbá: A mi az emberből jő ki, az fertőzteti meg az embert.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Mert onnan belőlről, az emberek szívéből származnak a gonosz gondolatok, házasságtörések, paráznaságok, gyilkosságok,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Lopások, telhetetlenségek, gonoszságok, álnokság, szemérmetlenség, gonosz szem, káromlás, kevélység, bolondság:",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Mind ezek a gonoszságok belőlről jőnek ki, és megfertőztetik az embert.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "És onnét fölkelvén, elméne Tírus és Sídon határaiba; és házba menvén, nem akará, hogy valaki észrevegye, de nem titkolhatá el magát.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Mert hallván felőle egy asszony, a kinek leányában tisztátalan lélek vala, eljőve és lábaihoz borula.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ez az asszony pedig pogány vala síro-fenicziai származású. És kéré őt, hogy űzze ki az ő leányából az ördögöt.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Jézus pedig monda néki: Engedd, hogy először a fiak elégíttessenek meg. Mert nem jó a fiak kenyerét elvenni, és az ebeknek vetni.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Az pedig felele és monda néki: Úgy van Uram; de hiszen az ebek is esznek az asztal alatt a gyermekek morzsalékaiból.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Erre monda néki: E beszédért, eredj el; az ördög kiment a te leányodból.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "És haza menvén, úgy találá, hogy az ördög kiment, a leány pedig az ágyon feküvék.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Aztán ismét kimenvén Tírus és Sídon határaiból, a galileai tengerhez méne, a Tízváros határain át.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "És hozának néki egy nehezen szóló siketet, és kérik vala őt, hogy vesse reá kezét.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Ő pedig, mikor kivitte vala azt a sokaság közül egy magát, az újjait annak fülébe bocsátá, és köpvén illeté annak nyelvét,",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "És föltekintvén az égre, fohászkodék, és monda néki: Effata, azaz: nyilatkozzál meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "És azonnal megnyilatkozának annak fülei: és nyelvének kötele megoldódék, és helyesen beszél vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "És megparancsolá nékik, hogy senkinek se mondják el; de mennél inkább tiltja vala, annál inkább híresztelék.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "És szerfelett álmélkodnak vala, ezt mondván: Mindent jól cselekedett; a siketeket is hallókká teszi, a némákat is beszélőkké.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Azokban a napokban, mivelhogy fölötte nagy volt a sokaság, és nem volt mit enniök, magához szólította Jézus az ő tanítványait, és monda nékik:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Szánakozom e sokaságon, mert immár harmad napja hogy velem vannak, és nincs mit enniök;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "És ha éhen bocsátom haza őket, kidőlnek az úton; mert némelyek ő közülök messzünnen jöttek.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Az ő tanítványai pedig felelének néki: Honnan elégíthetné meg ezeket valaki kenyérrel itt e pusztában?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És megkérdé őket: Hány kenyeretek van? Azok pedig mondának: Hét.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Akkor megparancsolá a sokaságnak, hogy telepedjenek le a földre. És vevén a hét kenyeret, és hálákat adván, megszegé, és adá az ő tanítványainak, hogy eléjök tegyék. És a sokaság elé tevék.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Volt egy kevés haluk is. És hálákat adván mondá, hogy tegyék eléjök azokat is.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Evének azért, és megelégedének; és fölszedék a maradék darabokat, hét kosárral.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Valának pedig a kik ettek mintegy négyezeren; és elbocsátá őket.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És azonnal a hajóba szálla tanítványaival, és méne Dalmánuta vidékére.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "És kijövének a farizeusok, és kezdék őt faggatni, mennyei jelt kívánván tőle, hogy kísértsék őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ő pedig lelkében felfohászkodván, monda: Miért kíván jelt ez a nemzetség? Bizony mondom néktek: Nem adatik jel ennek a nemzetségnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És ott hagyván őket, ismét hajóba szálla, és a túlsó partra méne.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "De elfelejtének kenyeret vinni, és egy kenyérnél nem vala velök több a hajóban.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És ő inti vala őket, mondván: Vigyázzatok, őrizkedjetek a farizeusok kovászától és a Heródes kovászától!",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ekkor egymás között tanakodván, mondának: Nincs kenyerünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Jézus pedig észrevévén ezt, monda nékik: Mit tanakodtok, hogy nincsen kenyeretek? Még sem látjátok-é be és nem értitek-é? Mégis kemény-é a szívetek?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Szemeitek lévén, nem láttok-é? és füleitek lévén, nem hallotok-é? és nem emlékeztek-é?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mikor az öt kenyeret megszegtem az ötezernek, hány kosarat hoztatok el darabokkal tele? Mondának néki: Tizenkettőt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mikor pedig a hetet a négyezernek, hány kosarat hoztatok el darabokkal tele? Azok pedig mondának: Hetet.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És monda nékik: Hogy nem értitek hát?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Azután Bethsaidába méne; és egy vakot vivének hozzá és kérik vala őt, hogy illesse azt.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ő pedig megfogván a vaknak kezét, kivezeté őt a falun kívül; és a szemeibe köpvén és kezeit reá tévén, megkérdé őt, ha lát-é valamit?",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Az pedig föltekintvén, monda: Látom az embereket, mint valami járkáló fákat.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Azután kezeit ismét ráveté annak szemeire, és feltekintete véle. És megépüle, és látá messze és világosan mindent.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "És haza küldé, mondván: Se a faluba be ne menj, se senkinek el ne mondd a faluban.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És elméne Jézus és az ő tanítványai Czézárea Filippi falvaiba; és útközben megkérdé az ő tanítványait, mondván nékik: Kinek mondanak engem az emberek?",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Ők pedig felelének: Keresztelő Jánosnak; és némelyek Illésnek; némelyek pedig egynek a próféták közül.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "És ő monda nékik: Ti pedig kinek mondotok engem? Felelvén pedig Péter, monda néki: Te vagy a Krisztus.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "És rájok parancsola, hogy senkinek se szóljanak felőle.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "És kezdé őket tanítani, hogy az ember Fiának sokat kell szenvedni, és megvettetni a vénektől és a főpapoktól és írástudóktól, és megöletni, és harmadnapra feltámadni.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "És ezt nyilván mondja vala. Péter pedig magához vonván őt, kezdé dorgálni.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "És ő megfordulván és az ő tanítványaira tekintvén, megfeddé Pétert, mondván: Távozz tőlem Sátán, mert nem gondolsz az Isten dolgaira, hanem az emberi dolgokra.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "A sokaságot pedig az ő tanítványaival együtt magához szólítván, monda nékik: Ha valaki én utánam akar jőni, tagadja meg magát, és vegye fel az ő keresztjét, és kövessen engem.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Mert valaki meg akarja tartani az ő életét, elveszti azt; valaki pedig elveszti az ő életét én érettem és az evangyéliomért, az megtalálja azt.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Mert mit használ az embernek, ha az egész világot megnyeri, lelkében pedig kárt vall?",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Avagy mit adhat az ember váltságul az ő lelkéért?",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Mert valaki szégyel engem és az én beszédeimet e parázna és bűnös nemzetség között, az embernek Fia is szégyelni fogja azt, mikor eljő az ő Atyja dicsőségében a szent angyalokkal.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Azután monda nékik: Bizony mondom néktek, hogy vannak némelyek az itt állók között, a kik nem kóstolnak addig halált, a míg meg nem látják, hogy az Isten országa eljött hatalommal.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És hat nap múlva magához vevé Jézus Pétert és Jakabot és Jánost, és felvivé őket csupán magukban egy magas hegyre. És elváltozék előttük;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "És a ruhája fényes lőn, igen fehér, mint a hó, mihez hasonlót a ruhafestő e földön nem fehéríthet.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "És megjelenék nékik Mózes Illéssel együtt, és beszélnek vala Jézussal.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Péter pedig megszólalván, monda Jézusnak: Mester, jó nékünk itt lenni: csináljunk azért három hajlékot, néked egyet, Mózesnek is egyet, Illésnek is egyet.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De nem tudja vala mit beszél, mivelhogy megrémülének.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "És felhő támada, mely őket befogá, és a felhőből szózat jöve, mondván: Ez az én szerelmes Fiam; őt hallgassátok.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És mikor nagyhirtelen körültekintének, senkit sem látának többé maguk körül, egyedül a Jézust.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mikor pedig a hegyről leszállának, megparancsolá nékik, hogy senkinek se beszéljék el, a mit láttak vala, csak a mikor az embernek Fia a halálból feltámad.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És ezt a szót megtarták magukban, tudakozván egymás között, mit tesz a halálból feltámadni?",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "És megkérdezék őt, mondván: Miért mondják az írástudók, hogy előbb Illésnek kell eljőnie?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ő pedig felelvén, monda nékik: Illés ugyan előbb eljövén helyre állít mindent; de hogyan van az embernek Fiáról megírva, hogy sokat kell szenvednie és megvettetnie?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "De mondom néktek, hogy Illés is eljött, és azt cselekedték vele, a mit akartak, a mint meg van írva ő felőle.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "És mikor a tanítványokhoz ment vala, nagy sokaságot láta körülöttök, és írástudókat, a kik azokkal versengenek vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És az egész sokaság meglátván őt, azonnal elálmélkodék, és hozzásietvén köszönté őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ő pedig megkérdezé az írástudókat: Mit versengetek ezekkel?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És felelvén egy a sokaságból, monda: Mester, ide hoztam hozzád az én fiamat, a kiben néma lélek van.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És a hol csak előfogja, szaggatja őt; ő pedig tajtékot túr, a fogát csikorgatja, és elfonnyad. Mondám hát tanítványaidnak, hogy űzzék ki azt, de nem tudták.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ő pedig felelvén néki, monda: Óh hitetlen nemzetség, meddig leszek még veletek? Meddig szenvedlek még titeket? Hozzátok őt hozzám.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "És hozzá vivék azt; és mihelyt ő meglátta azt, a lélek azonnal szaggatá azt; és leesvén a földre, tajtékot túrván fetreng vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És megkérdezé az atyját: Mennyi ideje, hogy ez esett rajta? Az pedig monda: Gyermeksége óta.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És gyakorta veté őt tűzbe is, vízbe is, hogy elveszítse őt; de ha valamit tehetsz, légy segítségül nékünk, könyörülvén rajtunk.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Jézus pedig monda néki: Ha hiheted azt, minden lehetséges a hívőnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "A gyermek atyja pedig azonnal kiáltván, könnyhullatással monda: Hiszek Uram! Légy segítségül az én hitetlenségemnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Jézus pedig mikor látta vala, hogy a sokaság még inkább összetódul, megdorgálá a tisztátalan lelket, mondván néki: Te néma és siket lélek, én parancsolom néked, menj ki belőle, és többé belé ne menj!",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "És kiáltás és erős szaggatás között kiméne; az pedig olyan lőn, mint egy halott, annyira, hogy sokan azt mondják vala, hogy meghalt.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Jézus pedig megfogván kezét, fölemelé; és az fölkele.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Mikor pedig bement vala a házba, tanítványai megkérdezék őt külön: Mi miért nem űzhettük ki azt?",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Ő pedig monda nékik: Ez a faj semmivel sem űzhető ki, csupán könyörgéssel és bőjtöléssel.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "És onnét kimenvén, Galileán mennek vala át; és nem akará, hogy valaki megtudja.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Mert tanítja vala tanítványait, és ezt mondja vala nékik: Az embernek Fia az emberek kezébe adatik, és megölik őt; de ha megölték, harmadnapra föltámad.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "De ők nem értik vala e mondást, és féltek őt megkérdezni.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "És elméne Kapernaumba. És odahaza megkérdezé őket: Mi felett vetekedtetek egymással az úton?",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "De ők hallgatának, mert egymás között a felett vetekedtek vala az úton, ki a nagyobb?",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "És leülvén, odaszólítá a tizenkettőt, és monda nékik: Ha valaki első akar lenni, legyen mindenek között utolsó és mindeneknek szolgája.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "És előfogván egy gyermeket, közéjök állatá azt; és ölébe vévén azt, monda nékik:",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "A ki az ilyen gyermekek közül egyet befogad az én nevemben, engem fogad be; és a ki engem befogad, nem engem fogad be, hanem azt, a ki engem elbocsátott.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "János pedig felele néki, mondván: Mester, látánk valakit, a ki a te neveddel ördögöket űz, a ki nem követ minket; és eltiltók őt, mivelhogy nem követ minket.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Jézus pedig monda: Ne tiltsátok el őt; mert senki sincs, a ki csodát tesz az én nevemben és mindjárt gonoszul szólhatna felőlem.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Mert a ki nincs ellenünk, mellettünk van.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "Mert a ki innotok ád egy pohár vizet az én nevemben, mivelhogy a Krisztuséi vagytok, bizony mondom néktek, el nem veszti az ő jutalmát.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "A ki pedig megbotránkoztat egyet ama kicsinyek közül, a kik én bennem hisznek, jobb annak, ha malomkövet kötnek a nyakára, és a tengerbe vetik.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "És ha megbotránkoztat téged a te kezed, vágd le azt: jobb néked csonkán bemenned az életre, mint két kézzel menned a gyehennára, a megolthatatlan tűzre.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "A hol az ő férgök meg nem hal, és tüzök el nem aluszik.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "És ha a te lábad botránkoztat meg téged, vágd le azt: jobb néked sántán bemenned az életre, mint két lábbal vettetned a gyehennára, a megolthatatlan tűzre.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "A hol az ő férgök meg nem hal, és tüzök el nem aluszik.",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "És ha a te szemed botránkoztat meg téged, vájd ki azt: jobb néked félszemmel bemenned az Isten országába, mint két szemmel vettetned a tüzes gyehennára.",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "A hol az ő férgök meg nem hal, és tüzök el nem aluszik.",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "Mert mindenki tűzzel sózatik meg, és minden áldozat sóval sózatik meg.",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "Jó a só: de ha a só ízét veszti, mivel adtok ízt néki? Legyen bennetek só, és legyetek békében egymással.",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Onnan pedig felkelvén Judea határaiba méne, a Jordánon túl való részen által; és ismét sokaság gyűl vala hozzá; ő pedig szokása szerint ismét tanítja vala őket.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És a farizeusok hozzámenvén megkérdezék tőle, ha szabad-é férjnek feleségét elbocsátani, kísértvén őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Ő pedig felelvén, monda nékik: Mit parancsolt néktek Mózes?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ők pedig mondának: Mózes megengedte, hogy válólevelet írjunk, és elváljunk.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És Jézus felelvén, monda nékik: A ti szívetek keménysége miatt írta néktek ezt a parancsolatot;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De a teremtés kezdete óta férfiúvá és asszonnyá teremté őket az Isten.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Annakokáért elhagyja az ember az ő atyját és anyját; és ragaszkodik a feleségéhez,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És lesznek ketten egy testté! Azért többé nem két, hanem egy test.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Annakokáért a mit az Isten egybe szerkesztett, ember el ne válaszsza.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "És odahaza az ő tanítványai ismét megkérdezék őt e dolog felől.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ő pedig monda nékik: A ki elbocsátja feleségét és mást vesz el, házasságtörést követ el az ellen.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ha pedig a feleség hagyja el a férjét és mással kel egybe, házasságtörést követ el.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ekkor gyermekeket hozának hozzá, hogy illesse meg őket; a tanítványok pedig feddik vala azokat, a kik hozák.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Jézus pedig ezt látván, haragra gerjede és monda nékik: Engedjétek hozzám jőni a gyermekeket és ne tiltsátok el őket; mert ilyeneké az Istennek országa.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Bizony mondom néktek: A ki nem úgy fogadja az Isten országát, mint gyermek, semmiképen sem megy be abba.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Aztán ölébe vevé azokat, és kezét rájok vetvén, megáldá őket.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És mikor útnak indult vala, hozzá futván egy ember és letérdelvén előtte, kérdezi vala őt: Jó Mester, mit cselekedjem, hogy az örökéletet elnyerhessem?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Jézus pedig monda néki: Miért mondasz engem jónak? Senki sem jó, csak egy, az Isten.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "A parancsolatokat tudod: Ne paráználkodjál; ne ölj; ne lopj; hamis tanubizonyságot ne tégy, kárt ne tégy; tiszteljed atyádat és anyádat.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Az pedig felelvén, monda néki: Mester, mindezeket megtartottam ifjúságomtól fogva.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Jézus pedig rátekintvén, megkedvelé őt, és monda néki: Egy fogyatkozásod van; eredj el, add el minden vagyonodat, és add a szegényeknek, és kincsed lesz mennyben; és jer, kövess engem, felvévén a keresztet.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Az pedig elszomorodván e beszéden, elméne búsan; mert sok jószága vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Jézus pedig körültekintvén, monda tanítványainak: Mily nehezen mennek be az Isten országába, a kiknek gazdagságuk van!",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "A tanítványok pedig álmélkodának az ő beszédén; de Jézus ismét felelvén, monda nékik: Gyermekeim, mily nehéz azoknak, a kik a gazdagságban bíznak, az Isten országába bemenni!",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Könnyebb a tevének a tű fokán átmenni, hogynem a gazdagnak az Isten országába bejutni.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Azok pedig még inkább álmélkodnak vala, mondván magok között: Kicsoda idvezülhet tehát?",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Jézus pedig rájuk tekintvén, monda: Az embereknél lehetetlen, de nem az Istennél; mert az Istennél minden lehetséges.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "És Péter kezdé mondani néki: Ímé, mi elhagytunk mindent, és követtünk téged.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Jézus pedig felelvén, monda: Bizony mondom néktek, senki sincs, a ki elhagyta házát, vagy fitestvéreit, vagy nőtestvéreit, vagy atyját, vagy anyját, vagy feleségét, vagy gyermekeit, vagy szántóföldeit én érettem és az evangyéliomért,",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "A ki százannyit ne kapna most ebben az időben, házakat, fitestvéreket, nőtestvéreket, anyákat, gyermekeket és szántóföldeket, üldözésekkel együtt; a jövendő világon pedig örök életet.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Sok elsők pedig lesznek utolsók, és sok utolsók elsők.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Útban valának pedig Jeruzsálembe menve fel; és előttök megy vala Jézus, ők pedig álmélkodának, és követvén őt, félnek vala. És ő a tizenkettőt ismét maga mellé vévén, kezde nékik szólni azokról a dolgokról, a mik majd vele történnek,",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Mondván: Ímé, felmegyünk Jeruzsálembe, és az embernek Fia átadatik a főpapoknak és az írástudóknak, és halálra kárhoztatják őt, és a pogányok kezébe adják őt;",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "És megcsúfolják őt, és megostorozzák őt, és megköpdösik őt, és megölik őt; de harmadnapon feltámad.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "És hozzájárulának Jakab és János, a Zebedeus fiai, ezt mondván: Mester, szeretnők, hogy a mire kérünk, tedd meg nékünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Ő pedig monda nékik: Mit kívántok, hogy tegyek veletek?",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Azok pedig mondának néki: Add meg nékünk, hogy egyikünk jobb kezed felől, másikunk pedig bal kezed felől üljön a te dicsőségedben.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Jézus pedig monda nékik: Nem tudjátok, mit kértek. Megihatjátok-é a pohárt, a melyet én megiszom; és megkeresztelkedhettek-é azzal a keresztséggel, a melylyel én megkeresztelkedem?",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Azok pedig mondának néki: Megtehetjük. Jézus pedig monda nékik: A pohárt ugyan, a melyet én megiszom, megiszszátok, és a keresztséggel, a melylyel én megkeresztelkedem, megkeresztelkedtek;",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "De az én jobb és bal kezem felől való ülést nem az én dolgom megadni, hanem azoké lesz az, a kiknek elkészíttetett.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "És hallván ezt a tíz tanítvány, haragudni kezdének Jakabra és Jánosra.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "Jézus pedig magához szólítván őket, monda nékik: Tudjátok, hogy azok, a kik a pogányok között fejedelmeknek tartatnak, uralkodnak felettök, és az ő nagyjaik hatalmaskodnak rajtok.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "De nem így lesz közöttetek; hanem, a ki nagy akar lenni közöttetek, az legyen a ti szolgátok;",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "És a ki közületek első akar lenni, mindenkinek szolgája legyen:",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "Mert az embernek Fia sem azért jött, hogy néki szolgáljanak, hanem hogy ő szolgáljon, és adja az ő életét váltságul sokakért.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "És Jerikóba érkezének: és mikor ő és az ő tanítványai és nagy sokaság Jerikóból kimennek vala, a Timeus fia, a vak Bartimeus, ott üle az úton, koldulván.",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "És a mikor meghallá, hogy ez a Názáreti Jézus, kezde kiáltani, mondván: Jézus, Dávidnak Fia, könyörülj rajtam!",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "És sokan feddik vala őt, hogy hallgasson; de ő annál jobban kiáltja vala: Dávidnak Fia, könyörülj rajtam!",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "Akkor Jézus megállván, mondá, hogy hívják elő. És előhívják vala a vakot, mondván néki: Bízzál; kelj föl, hív tégedet.",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "Az pedig felső ruháját ledobván, és felkelvén, Jézushoz méne.",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "És felelvén Jézus, monda néki: Mit akarsz, hogy cselekedjem veled? A vak pedig monda néki: Mester, hogy lássak.",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "Jézus pedig monda néki: Eredj el, a te hited megtartott téged. És azonnal megjött a szemevilága, és követi vala Jézust az úton.",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "És mikor Jeruzsálemhez közeledének, Bethfagé és Bethánia felé, az olajfák hegyénél, elkülde kettőt tanítványai közül,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És monda nékik: Eredjetek abba a faluba, a mely előttetek van; és a mikor abba bejuttok, azonnal találtok egy megkötött vemhet, a melyen ember nem ült még soha; azt oldjátok el és hozzátok ide.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "És ha valaki azt mondja néktek: Miért teszitek ezt? mondjátok: Az Úrnak van szüksége reá. És azonnal elbocsátja azt ide.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Elmenének azért és megtalálák a megkötött vemhet, az ajtónál kívül a kettős útnál, és eloldák azt.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Az ott állók közül pedig némelyek mondának nékik: Mit míveltek, hogy eloldjátok a vemhet?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ők pedig felelének nékik, úgy, a mint Jézus megparancsolta vala. És elbocsáták őket.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "És oda vivék a vemhet Jézushoz, és ráveték felső ruháikat; ő pedig felüle reá.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Sokan pedig felső ruháikat az útra teríték, mások pedig ágakat szegdelnek vala a fákról és az útra hányják vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "A kik pedig előtte menének, és a kik követék, kiáltának, mondván: Hozsánna! Áldott, a ki jő az Úrnak nevében!",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Áldott a mi Atyánknak, Dávidnak országa, a mely jő az Úrnak nevében! Hozsánna a magasságban!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "És beméne Jézus Jeruzsálembe, és a templomba; és mindent körülnézvén, mivelhogy az idő már késő vala, kiméne Bethániába a tizenkettővel.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "És másnap, mikor Bethániából kimentek vala, megéhezék.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És meglátván messziről egy fügefát, a mely leveles vala, odaméne, ha talán találna valamit rajta: de odaérvén ahhoz, levélnél egyebet semmit sem talála; mert nem vala fügeérésnek ideje.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Akkor felelvén Jézus, monda a fügefának: Soha örökké ne egyék rólad gyümölcsöt senki. És hallák az ő tanítványai.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És Jeruzsálembe érkezének. És Jézus bemenvén a templomba, kezdé kiűzni azokat, a kik a templomban árulnak és vásárolnak vala; a pénzváltók asztalait, és a galambárúsok székeit pedig felforgatá;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "És nem engedi vala, hogy valaki edényt vigyen a templomon keresztül.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És tanít vala, mondván nékik: Nincsen-é megírva: Az én házam imádság házának neveztetik minden nép között? Ti pedig rablók barlangjává tettétek azt.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És meghallák az írástudók és a főpapok, és tanakodnak vala, hogy mi módon veszíthetnék el őt. Mert félnek vala tőle, mivelhogy az egész sokaság álmélkodik vala az ő tanításán.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "És mikor beestveledék, kiméne a városból.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Reggel pedig, a mikor mellette menének el, látják vala, hogy a fügefa gyökerestől kiszáradott.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És Péter visszaemlékezvén, monda néki: Mester nézd, a fügefa, a melyet megátkoztál, kiszáradott.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És Jézus felelvén, monda nékik: Legyen hitetek Istenben.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Mert bizony mondom néktek, ha valaki azt mondja ennek a hegynek: Kelj fel és ugorjál a tengerbe! és szívében nem kételkedik, hanem hiszi, hogy a mit mond, megtörténik, meg lesz néki, a mit mondott.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Azért mondom néktek: A mit könyörgéstekben kértek, higyjétek, hogy mindazt megnyeritek, és meglészen néktek.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "És mikor imádkozva megállotok, bocsássátok meg, ha valaki ellen valami panaszotok van; hogy a ti mennyei Atyátok is megbocsássa néktek a ti vétkeiteket.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ha pedig ti meg nem bocsátotok, a ti mennyei Atyátok sem bocsátja meg a ti vétkeiteket.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És ismét Jeruzsálembe menének. Mikor pedig ő a templomban körüljára, hozzámennek vala a főpapok és az írástudók és a vének.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "És mondának néki: Micsoda hatalommal cselekszed ezeket? és ki adta néked a hatalmat, hogy ezeket cselekedd?",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Jézus pedig felelvén, monda nékik: Én is kérdek egy dolgot tőletek, és feleljetek meg nékem, akkor megmondom néktek, hogy miféle hatalomnál fogva cselekszem ezeket:",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "A János keresztsége mennyből vala-é, vagy emberektől? feleljetek nékem.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Azok pedig tanakodnak vala maguk között, mondván: Ha azt mondjuk: Mennyből, azt fogja mondani: Miért nem hittetek tehát néki?",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Ha pedig azt mondjuk: Emberektől, – félnek vala a néptől. Mert mindenki azt tartja vala Jánosról, hogy valóban próféta vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Felelvén tehát, mondának Jézusnak: Nem tudjuk. Jézus is felelvén, monda nékik: Én sem mondom meg néktek, miféle hatalomnál fogva cselekszem ezeket.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "És kezde nékik példázatokban beszélni: Egy ember szőlőt ültetett, és körülvevé gyepűvel, és sajtót ása, és tornyot építe, és kiadá azt munkásoknak, és elutazék.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És a maga idejében szolgát külde a munkásokhoz, hogy kapjon a munkásoktól a szőlő gyümölcséből.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Azok pedig megfogván azt, megverék, és üresen küldék vissza.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "És ismét külde hozzájuk egy másik szolgát; azt pedig kővel dobálván meg, fejét betörék, és gyalázattal illetve, visszaküldék.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És ismét másikat külde; ezt pedig megölék: és sok másokat; némelyeket megvervén, némelyeket pedig megölvén.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Minthogy pedig még egy egyetlen szerelmes fia is vala, utoljára azt is elküldé hozzájok, ezt mondván: A fiamat meg fogják becsülni.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Azok a munkások azonban ezt mondák magok között: Ez az örökös; jertek, öljük meg őt, és a miénk lesz az örökség.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És megfogván azt, megölék, és a szőlőn kívül veték.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mit cselekszik hát a szőlőnek ura? Eljő és elveszti a munkásokat, és a szőlőt másoknak adja.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ezt az írást sem olvastátok-é? A mely követ az építők megvetettek, az lett a szeglet fejévé.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Az Úrtól lett ez, és csodálatos a mi szemeink előtt.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "És igyekeznek vala őt megfogni, de féltek a sokaságtól. Mert tudták, hogy a példázatot ellenük mondotta. Azért elhagyván őt, tovább menének.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És küldének hozzá némelyeket a farizeusok és a Heródes pártiak közül, hogy megfogják őt a beszédben.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Azok pedig odamenvén, mondának néki: Mester, tudjuk hogy igaz vagy és nem gondolsz senkivel; mert nem tekintesz emberek személyére, hanem igazság szerint tanítod az Istennek útját. Szabad-é a császárnak adót fizetni vagy nem? Fizessünk-é vagy ne fizessünk?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ő pedig ismervén az ő képmutatásukat, monda nékik: Mit kísértetek engem? Hozzatok nekem egy pénzt, hogy lássam.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Azok pedig hozának. És monda nékik: Kié ez a kép és a felírás? Azok pedig mondának néki: A Császáré.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És felelvén Jézus, monda nékik: Adjátok meg a mi a Császáré, a Császárnak, és a mi az Istené, az Istennek. És elálmélkodának ő rajta.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És jövének hozzá Sadduczeusok, a kik azt mondják, hogy nincsen feltámadás. És megkérdezék őt, mondván:",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mester, Mózes azt írta nékünk, hogy ha valakinek fitestvére meghalt, és feleséget hagyott hátra, gyermekeket pedig nem hagyott, akkor az ő feleségét vegye el az ő fitestvére, és támasszon magot a fitestvérének.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Heten valának tehát fitestvérek. És az első feleséget vőn, de meghalván, magot nem hagya.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És a második elvevé az asszonyt, de meghala, és magot ő sem hagya: a harmadik is hasonlóképen;",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És mind a hét elvevé azt, és magot nem hagyának. Legutoljára meghalt az asszony is.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "A feltámadáskor tehát, mikor feltámadnak, melyiköknek lesz a felesége? Mert mind a hétnek a felesége volt.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Jézus pedig felelvén, monda nékik: Avagy nem azért tévelyegtek-é, mert nem ismeritek az írásokat, sem az Istennek hatalmát?",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Mert mikor a halálból feltámadnak, sem nem házasodnak, sem férjhez nem mennek, hanem olyanok lesznek, mint az angyalok a mennyekben.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "A halottakról pedig, hogy feltámadnak, nem olvastátok-é a Mózes könyvében, a csipkebokornál, hogy mi módon szólott néki az Isten, mondván: Én vagyok Ábrahám Istene, és Izsák Istene, és Jákób Istene.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Az Isten nem holtaknak, hanem élőknek Istene. Ti tehát igen tévelyegtek.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Akkor hozzá menvén egy az írástudók közül, a ki az ő vetekedésöket hallotta vala, és tudván, hogy jól megfelele nékik, megkérdezé tőle: Melyik az első minden parancsolatok között?",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Jézus pedig felele néki: Minden parancsolatok között az első: Halljad Izráel: Az Úr, a mi Istenünk egy Úr.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Szeressed azért az Urat, a te Istenedet teljes szívedből, teljes lelkedből, és teljes elmédből és teljes erődből. Ez az első parancsolat.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "A második pedig hasonlatos ehhez: Szeresd felebarátodat, mint magadat. Nincs más ezeknél nagyobb parancsolat.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Akkor monda néki az írástudó: Jól van, Mester, igazán mondád, hogy egy Isten van, és nincsen kívüle más.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "És szeretni őt teljes szívből, teljes elméből, teljes lélekből és teljes erőből, és szeretni embernek felebarátját, mint önmagát, többet ér minden égőáldozatnál és véres áldozatnál.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Jézus pedig látván, hogy bölcsen felelt vala, monda néki: Nem messze vagy az Isten országától. És többé senki sem meri vala őt megkérdezni.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "És felele Jézus és monda, a mint a templomban tanít vala: Mi módon mondják az írástudók, hogy a Krisztus Dávidnak Fia?",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Hiszen Dávid maga mondotta a Szent Lélek által: Monda az Úr az én uramnak: ülj az én jobb kezem felől, míglen vetem a te ellenségeidet lábaid alá zsámolyul.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Tehát maga Dávid nevezi őt Urának, mimódon fia hát néki? És a nagy sokaság örömest hallgatja vala őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Ő pedig monda nékik az ő tanításában: Őrizkedjetek az írástudóktól, a kik örömest járnak hosszú köntösökben és szeretik a piaczokon való köszöntéseket.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "És a gyülekezetekben az előlüléseket, és a lakomákon a főhelyeket:",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "A kik az özvegyeknek házát fölemésztik és színből hosszan imádkoznak: ezek súlyosabb ítélet alá esnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "És leülvén Jézus a templomperselynek átellenében, nézi vala, hogy a sokaság miként vet pénzt a perselybe. Sok gazdag pedig sokat vet vala abba.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "És egy szegény özvegy asszony is odajövén, két fillért, azaz egy negyed pénzt vete bele.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "Akkor előszólítván tanítványait, monda nékik: Bizony mondom néktek, hogy ez a szegény özvegy asszony többet vetett, hogynem mind a többi, a kik a perselybe vetettek vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "Mert azok mindnyájan az ő fölöslegükből vetének; ez pedig az ő szegénységéből, a mije csak volt, mind beveté, az ő egész vagyonát.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mikor pedig a templomból kiméne, monda néki egy az ő tanítványai közül: Mester, nézd, milyen kövek és milyen épületek!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Jézus pedig felelvén, monda néki: Látod ezeket a nagy épületeket? Nem marad kő kövön, a mely le nem romboltatik.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mikor pedig az olajfák hegyén ül vala, a templom átellenében, megkérdezék őt magukban Péter, Jakab, János és András:",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mondd meg nékünk, mikor történnek meg ezek; és mi lesz a jel, a mikor mindezek beteljesednek?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Jézus pedig felelvén nékik, kezdé mondani: Meglássátok, hogy valaki el ne hitessen titeket.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mert sokan jőnek majd az én nevemben, a kik azt mondják: Én vagyok: és sokakat elhitetnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mikor pedig hallani fogtok háborúkról és háborúk híreiről, meg ne rémüljetek, mert meg kell lenniök; de ez még nem a vég.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mert nemzet nemzet ellen, és ország ország ellen támad; és lesznek földindulások mindenfelé, és lesznek éhségek és háborúságok.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Nyomorúságoknak kezdetei ezek. Ti pedig vigyázzatok magatokra: mert törvényszékeknek adnak át titeket, és gyülekezetekben vernek meg titeket, és helytartók és királyok elé állítanak én érettem, bizonyságul ő nékik.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "De előbb hirdettetnie kell az evangyéliomnak minden pogányok között.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mikor pedig fogva visznek, hogy átadjanak titeket, ne aggodalmaskodjatok előre, hogy mit szóljatok, és ne gondolkodjatok, hanem a mi adatik néktek abban az órában, azt szóljátok; mert nem ti vagytok, a kik szólotok, hanem a Szent Lélek.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Halálra fogja pedig adni testvér testvérét, atya gyermekét; és magzatok támadnak szülők ellen, és megöletik őket.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És lesztek gyűlöletesek mindenki előtt az én nevemért; de a ki mindvégig megmarad, az megtartatik.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mikor pedig látjátok a pusztító utálatosságot, a melyről Dániel próféta szólott, ott állani, a hol nem kellene (a ki olvassa, értse meg), akkor a kik Júdeában lesznek, fussanak a hegyekre;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "A háztetőn levő pedig le ne szálljon a házba, se be ne menjen, hogy házából valamit kivigyen;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "És a mezőn levő haza ne térjen, hogy ruháját elvigye.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Jaj pedig a terhes és a szoptató asszonyoknak azokban a napokban.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Imádkozzatok pedig, hogy a ti futástok ne télen legyen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mert azok a napok olyan nyomorúságosak lesznek, a milyenek a világ kezdete óta, a melyet Isten teremtett, mind ez ideig nem voltak, és nem is lesznek.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "És ha az Úr meg nem rövidítette volna azokat a napokat, egyetlen test sem menekülne meg; de a választottakért, a kiket kiválasztott, megrövidítette azokat a napokat.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Ha pedig akkor ezt mondja néktek valaki: Ímé itt a Krisztus, vagy: Ímé amott, ne higyjétek.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Mert hamis Krisztusok és hamis próféták támadnak, és jeleket és csodákat tesznek, hogy elhitessék, ha lehet, még a választottakat is.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ti pedig vigyázzatok; ímé előre megmondottam néktek mindent.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "De azokban a napokban, azután a nyomorúság után, a nap elsötétedik, és a hold nem fénylik,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "És az ég csillagai lehullanak, és az egekben levő hatalmasságok megrendülnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "És akkor meglátják az embernek Fiát eljőni felhőkben nagy hatalommal és dicsőséggel.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És akkor elküldi az ő angyalait, és egybegyűjti az ő választottait a négy szelek felől, a föld végső határától az ég végső határáig.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "A fügefáról vegyétek pedig a példát. A mikor ága már zsendül, és levelet hajt, tudjátok, hogy közel van a nyár.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Azonképen ti is, mikor látjátok, hogy ezek meglesznek, tudjátok meg, hogy közel van, az ajtó előtt.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Bizony mondom néktek, hogy el nem múlik ez a nemzetség, a míg meg nem lesznek mindezek.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Az ég és a föld elmúlnak, de az én beszédeim soha el nem múlnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Arról a napról és óráról pedig senki semmit sem tud, sem az égben az angyalok, sem a Fiú, hanem csak az Atya.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Figyeljetek, vigyázzatok és imádkozzatok; mert nem tudjátok, mikor jő el az az idő.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Úgy mint az az ember, a ki messze útra kelve, házát elhagyván, és szolgáit felhatalmazván, és kinek-kinek a maga dolgát megszabván, az ajtónállónak is megparancsolta, hogy vigyázzon.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Vigyázzatok azért, mert nem tudjátok, mikor érkezik meg a háznak ura, este-é vagy éjfélkor, vagy kakasszókor, vagy reggel?",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Hogy, ha hirtelen megérkezik, ne találjon titeket aludva.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "A miket pedig néktek mondok, mindenkinek mondom: Vigyázzatok!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Két nap mulva pedig húsvét vala és a kovásztalan kenyerek ünnepe. És a főpapok és az írástudók tanakodnak vala, hogy csalárdsággal mimódon fogják meg és öljék meg őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Mert azt mondják vala: Ne az ünnepen, hogy a nép fel ne zendüljön.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Mikor pedig Bethániában a poklos Simon házánál vala, a mint asztalhoz üle, egy asszony méne oda, a kinél alabástrom edény vala valódi és igen drága nárdus olajjal; és eltörvén az alabástrom edényt kitölté azt az ő fejére.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Némelyek pedig háborognak vala magok között és mondának: Mire való volt az olajnak ez a tékozlása?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mert el lehetett volna azt adni háromszáz pénznél is többért, és odaadni a szegényeknek. És zúgolódnak vala ellene.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Jézus pedig monda: Hagyjatok békét néki; miért bántjátok őt? jó dolgot cselekedett én velem.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mert a szegények mindenkor veletek lesznek, és a mikor csak akarjátok, jót tehettek velök; de én nem leszek mindenkor veletek.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Ő a mi tőle telt, azt tevé: előre megkente az én testemet a temetésre.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Bizony mondom néktek: Valahol csak prédikálják ezt az evangyéliomot az egész világon, a mit ez az asszony cselekedett, azt is hirdetni fogják az ő emlékezetére.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Akkor Júdás, az Iskariotes, egy a tizenkettő közül, elméne a főpapokhoz, hogy őt azoknak elárulja.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Azok pedig, a mint meghallák, örvendezének, és igérék, hogy pénzt adnak néki. Ő pedig keresi vala, mimódon árulhatná el őt jó alkalommal.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "És a kovásztalan kenyerek ünnepének első napján, mikor a húsvéti bárányt vágják vala, mondának néki az ő tanítványai: Hol akarod, hogy elmenvén megkészítsük, hogy megehesd a húsvéti bárányt?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Akkor elkülde kettőt az ő tanítványai közül, és monda nékik: Menjetek el a városba, és egy ember jő előtökbe, a ki egy korsó vizet visz; kövessétek őt,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "És a hová bemegy, mondjátok a házi gazdának: A Mester kérdi: hol van az a szállás, a hol megeszem az én tanítványaimmal a húsvéti bárányt?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És ő mutat néktek egy nagy vacsoráló házat berendezve, készen: ott készítsétek el nékünk.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Elmenének azért az ő tanítványai, és jutának a városba, és úgy találák, a mint nékik megmondotta, és elkészíték a húsvéti bárányt.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Mikor pedig este lőn, oda méne a tizenkettővel.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És a mikor leülnek és esznek vala monda Jézus: Bizony mondom néktek, egy közületek elárul engem, a ki velem eszik.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ők pedig kezdének szomorkodni és néki egyenként mondani: Csak nem én? A másik is: Csak nem én?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ő pedig felelvén, monda nékik: Egy a tizenkettő közül, a ki velem együtt márt a tálba.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Az embernek Fia jóllehet elmegy, a mint meg van írva felőle; de jaj annak az embernek, a ki az embernek Fiát elárulja; jobb lenne annak az embernek, ha nem született volna.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És mikor ők evének, vévén Jézus a kenyeret, és hálákat adván, megtöré és adá nékik, mondván: Vegyétek, egyétek; ez az én testem.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "És vévén a poharat, és hálákat adván, adá nékik; és ivának abból mindnyájan;",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "És monda nékik: Ez az én vérem, az új szövetség vére, a mely sokakért kiontatik.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Bizony mondom néktek, nem iszom többé a szőlőtőnek gyümölcséből mind ama napig, a mikor mint újat iszom azt az Isten országában.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "És dicséretet énekelve kimenének az olajfák hegyére.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "És monda nékik Jézus: Ezen az éjszakán mindnyájan megbotránkoztok bennem; mert meg van írva: Megverem a pásztort, és elszélednek a juhok.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "De feltámadásom után előttetek fogok felmenni Galileába.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Péter pedig monda néki: Ha mindnyájan megbotránkoznak is, de én nem.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "És monda néki Jézus: Bizony mondom néked, hogy ma, ezen az éjszakán, mielőtt a kakas kétszer szólana, háromszor tagadsz meg engem.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Ő pedig annál inkább erősíti vala: Ha veled együtt kell is meghalnom, semmiképen meg nem tagadlak téged. Hasonlóképen szólanak vala a többiek is.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "És menének ama helyre, a melynek Gecsemáné a neve; és monda az ő tanítványainak: Üljetek le itt, a míg imádkozom.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "És maga mellé vevé Pétert és Jakabot és Jánost, és kezde rettegni és gyötrődni;",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "És monda nékik: Szomorú az én lelkem mind halálig; maradjatok itt, és vigyázzatok.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "És egy kevéssé előre menvén, a földre esék, és imádkozék, hogy, ha lehetséges, múljék el tőle ez az óra;",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "És monda: Abba, Atyám! Minden lehetséges néked. Vidd el tőlem ezt a poharat; mindazáltal ne az én akaratom legyen meg, hanem a tied.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Azután visszatére és aluva találá őket, és monda Péternek: Simon, alszol? Nem bírtál egy óráig vigyázni?",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Vigyázzatok és imádkozzatok, hogy kísértetbe ne jussatok; a lélek ugyan kész, de a test erőtelen.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "És ismét elmenvén, imádkozék, ugyanazon szavakkal szólván.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "A mikor pedig visszatére, ismét aluva találá őket; mert a szemeik megnehezedtek vala, és nem tudták mit feleljenek néki.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "Harmadszor is jöve, és monda nékik: Aludjatok immár és nyugodjatok. Elég; eljött az óra; ímé az embernek Fia a bűnösök kezébe adatik.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "Keljetek föl, menjünk: ímé elközelgett, a ki engem elárul.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "És mindjárt még mikor ő szól vala, eljöve Júdás, egy a tizenkettő közül, és vele együtt nagy sokaság, fegyverekkel és botokkal, a főpapoktól, az írástudóktól és a vénektől.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "Az ő elárulója pedig jelt ada nékik, mondván: A kit megcsókolok majd, ő az; fogjátok meg azt, és vigyétek el biztonsággal.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "És odajutván, azonnal hozzáméne, és monda: Mester! Mester! és megcsókolá őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "Azok pedig ráveték kezeiket, és megfogák őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "De egy az ott állók közül az ő szablyáját kivonván, a főpap szolgájához csapa, és levágá annak fülét.",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "Jézus pedig felelvén, monda nékik: Mint egy rablóra, úgy jöttetek-é reám fegyverekkel és botokkal, hogy megfogjatok engem?!",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "Naponta nálatok valék, a templomban tanítva, és nem fogtatok meg engem; de szükség, hogy az írások beteljesedjenek.",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "Akkor elhagyván őt, mindnyájan elfutának.",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "Egy ifjú pedig követé őt, a kinek testét csak egy gyolcs ing takarta; és megfogák őt az ifjak.",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "De ő ott hagyva az ingét, meztelenül elszalada tőlük.",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "És vivék Jézust a főpaphoz. És oda gyűlének mindnyájan a főpapok, a vének és az írástudók.",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "Péter pedig távolról követé őt, be egészen a főpap udvaráig: és ott üle a szolgákkal, és melegszik vala a tűznél.",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "heading": null,
+          "text": "A főpapok pedig és az egész tanács bizonyságot keresnek vala Jézus ellen, hogy megölhessék őt; de nem találnak vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 56,
+          "heading": null,
+          "text": "Mert sokan tesznek vala ugyan hamis tanúbizonyságot ellene, de a bizonyságtételek nem valának megegyezők.",
+          "footnotes": []
+        },
+        {
+          "verse": 57,
+          "heading": null,
+          "text": "És némelyek fölkelének és hamis tanúbizonyságot tőnek ellene, mondván:",
+          "footnotes": []
+        },
+        {
+          "verse": 58,
+          "heading": null,
+          "text": "Mi hallottuk, mikor ezt mondá: Én lerontom ezt a kézzel csinált templomot, és három nap alatt mást építek, a mely nem kézzel csináltatott.",
+          "footnotes": []
+        },
+        {
+          "verse": 59,
+          "heading": null,
+          "text": "De még így sem vala egyező az ő bizonyságtételük.",
+          "footnotes": []
+        },
+        {
+          "verse": 60,
+          "heading": null,
+          "text": "Akkor a főpap odaállván a középre, megkérdé Jézust, mondván: Semmit sem felelsz-é? Miféle bizonyságot tesznek ezek te ellened?",
+          "footnotes": []
+        },
+        {
+          "verse": 61,
+          "heading": null,
+          "text": "Ő pedig hallgat vala, és semmit sem felele. Ismét megkérdezé őt a főpap, és monda néki: Te vagy-é a Krisztus, az áldott Isten Fia?",
+          "footnotes": []
+        },
+        {
+          "verse": 62,
+          "heading": null,
+          "text": "Jézus pedig monda: Én vagyok. És meglátjátok majd az embernek Fiát ülni a hatalomnak jobbján, és eljőni az ég felhőivel.",
+          "footnotes": []
+        },
+        {
+          "verse": 63,
+          "heading": null,
+          "text": "A főpap pedig megszaggatván ruháit, monda: Mi szükségünk van még tanúkra?",
+          "footnotes": []
+        },
+        {
+          "verse": 64,
+          "heading": null,
+          "text": "Hallátok a káromlást. Mi tetszik néktek? Azok pedig halálra méltónak ítélték őt mindnyájan.",
+          "footnotes": []
+        },
+        {
+          "verse": 65,
+          "heading": null,
+          "text": "És kezdék őt némelyek köpdösni, és az ő orczáját elfedni, és őt öklözni, és mondani néki: Prófétálj! A szolgák pedig arczul csapdossák vala őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 66,
+          "heading": null,
+          "text": "A mint pedig Péter lent vala az udvarban, odajöve egy a főpap szolgálói közül;",
+          "footnotes": []
+        },
+        {
+          "verse": 67,
+          "heading": null,
+          "text": "És meglátván Pétert, a mint melegszik vala, rátekintvén, monda: Te is a Názáreti Jézussal valál!",
+          "footnotes": []
+        },
+        {
+          "verse": 68,
+          "heading": null,
+          "text": "Ő pedig megtagadá, mondván: Nem ismerem, s nem is értem, mit mondasz. És kiméne a tornáczra; és a kakas megszólala.",
+          "footnotes": []
+        },
+        {
+          "verse": 69,
+          "heading": null,
+          "text": "A szolgáló pedig meglátva őt, kezdé ismét mondani az ott állóknak: Ez közülök való.",
+          "footnotes": []
+        },
+        {
+          "verse": 70,
+          "heading": null,
+          "text": "Ő pedig ismét megtagadá. De kevés idő múlva az ott állók ismét mondják vala Péternek: Bizony közülök való vagy; mert Galileabeli is vagy, és a beszéded is hasonló.",
+          "footnotes": []
+        },
+        {
+          "verse": 71,
+          "heading": null,
+          "text": "Ő pedig kezde átkozódni és esküdözni, hogy: Nem ismerem azt az embert, a kiről beszéltek.",
+          "footnotes": []
+        },
+        {
+          "verse": 72,
+          "heading": null,
+          "text": "És másodszor szóla a kakas. És Péternek eszébe juta a beszéd, a melyet néki Jézus mondott vala, hogy mielőtt a kakas kétszer szólana, háromszor megtagadsz engem. És sírva fakada.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "És mindjárt reggel tanácsot tartván a főpapok a vénekkel és írástudókkal, és az egész tanács, megkötözvén Jézust, elvivék és átadák Pilátusnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És megkérdé őt Pilátus: Te vagy-é a zsidók királya? Ő pedig felelvén, monda néki: Te mondod.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "És erősen vádolják vala őt a főpapok.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Pilátus pedig ismét megkérdé őt, mondván: Semmit sem felelsz-é? Ímé, mennyi tanúbizonyságot szólnak ellened!",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Jézus pedig semmit sem felele, annyira hogy Pilátus elcsudálkozék.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ünnepenként pedig egy foglyot szokott vala elbocsátani nékik, a kit épen óhajtának.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Vala pedig egy Barabbás nevű, megkötöztetve ama lázadókkal együtt, a kik a lázadás alkalmával gyilkosságot követtek vala el.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És a sokaság kiáltván, kezdé kérni Pilátust arra, a mit mindenkor megtesz vala nékik.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Pilátus pedig felele nékik, mondván: Akarjátok-é, hogy elbocsássam néktek a zsidók királyát?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mert tudja vala, hogy irígységből adták őt kézbe a főpapok.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "A főpapok azonban felindíták a sokaságot, hogy inkább Barabbást bocsássa el nékik.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Pilátus pedig felelvén, ismét monda nékik: Mit akartok tehát, hogy cselekedjem ezzel, a kit a zsidók királyának mondotok?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "És azok ismét kiáltának: Feszítsd meg őt!",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Pilátus pedig monda nékik: Mert mi rosszat cselekedett? Azok pedig annál jobban kiáltanak vala: Feszítsd meg őt!",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Pilátus pedig eleget akarván tenni a sokaságnak, elbocsátá nékik Barabbást, Jézust pedig megostoroztatván, kezökbe adá, hogy megfeszítsék.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "A vitézek pedig elvivék őt az udvar belső részébe, a mi az őrház; és összehívák az egész csapatot.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "És bíborba öltözteték őt, és tövisből font koszorút tevének a fejére,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "És elkezdék őt köszönteni: Üdvöz légy, zsidók királya!",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "És verik vala a fejét nádszállal, és köpdösik vala őt, és térdet hajtva tisztelik vala őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mikor pedig kicsúfolták őt, leveték róla a bíbor ruhát, és a maga ruháiba öltözteték; és kivivék őt, hogy megfeszítsék.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "És kényszerítének egy mellettök elmenőt, bizonyos czirénei Simont, a ki a mezőről jő vala, Alekszándernek és Rufusnak az atyját, hogy vigye az ő keresztjét.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "És vivék őt a Golgotha nevű helyre, a mely megmagyarázva annyi, mint: koponya helye.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "És mirhás bort adnak vala néki inni; de ő nem fogadá el.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "És megfeszítvén őt, eloszták az ő ruháit, sorsot vetvén azokra, ki mit kapjon.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Vala pedig három óra, mikor megfeszíték őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Az ő kárhoztatásának oka pedig így vala fölébe felírva: A zsidók királya.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Két rablót is megfeszítének vele, egyet jobb és egyet bal keze felől.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "És beteljesedék az írás, a mely azt mondja: És a bűnösök közé számláltaték.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Az arra menők pedig szidalmazzák vala őt, fejüket hajtogatván és mondván: Hah! a ki lerontod a templomot, és három nap alatt fölépíted;",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Szabadítsd meg magadat, és szállj le a keresztről!",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Hasonlóképen pedig a főpapok is, csúfolodván egymás között, az írástudókkal együtt mondják vala: Másokat megtartott, magát nem bírja megtartani.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "A Krisztus, az Izráel királya, szálljon le most a keresztről, hogy lássuk és higyjünk. A kiket vele feszítettek meg, azok is szidalmazzák vala őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Mikor pedig hat óra lőn, sötétség támada az egész földön kilencz óráig.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "És kilencz órakor fennszóval kiálta Jézus mondván: Elói, Elói! Lamma Sabaktáni? a mi megmagyarázva annyi, mint: Én Istenem, én Istenem! miért hagyál el engemet?",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Némelyek pedig meghallván ezt az ott állók közül, mondának: Ímé Illést hívja.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Egy ember pedig odafutamodék és egy szivacsot megtöltvén eczettel és azt nádszálra tűzvén, inni ada néki, mondván: Hagyjátok el, lássuk, ha eljő-é Illés, hogy levegye őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Jézus pedig nagy fennszóval kiáltván kibocsátá lelkét.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "És a templom kárpítja fölétől aljáig ketté hasada.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Látván pedig a százados, a ki vele átellenben áll vala, hogy ekként kiáltva bocsátá ki lelkét, monda: Bizony, ez az ember Isten Fia vala!",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Valának pedig asszonyok is, a kik távolról nézik vala, a kik között vala Mária Magdaléna, és Mária, a kis Jakabnak és Józsénak anyja, és Salomé,",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "A kik, mikor Galileában vala, akkor is követték vala őt, és szolgálnak vala néki; és sok más asszony, a kik vele mentek vala fel Jeruzsálembe.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "És mikor immár este lőn, mivelhogy péntek vala, azaz szombat előtt való nap,",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "Eljöve az arimathiai József, egy tisztességes tanácsbeli, a ki maga is várja vala az Isten országát; beméne bátran Pilátushoz, és kéré Jézusnak testét.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "Pilátus pedig csodálkozék, hogy immár meghalt volna; és magához hivatva a századost, megkérdé tőle, ha régen halt-é meg?",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "És megtudván a századostól, odaajándékozá a testet Józsefnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "Ő pedig gyolcsot vásárolván, és levévén őt, begöngyölé a gyolcsba, és elhelyezé egy sírboltba, a mely kősziklából vala kivágva; és követ hengeríte a sírbolt szájára.",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "Mária Magdaléna pedig és Mária, a Józsé anyja, nézik vala, hová helyezék.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mikor pedig elmult a szombat, Mária Magdaléna, és Mária a Jakab anyja, és Salomé, drága keneteket vásárlának, hogy elmenvén, megkenjék őt.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És korán reggel, a hétnek első napján a sírbolthoz menének napfelköltekor.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "És mondják vala maguk között: Kicsoda hengeríti el nékünk a követ a sírbolt szájáról?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "És odatekintvén, láták, hogy a kő el van hengerítve; mert felette nagy vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "És bemenvén a sírboltba, látának egy ifjút ülni jobb felől, fehér ruhába öltözve; és megfélemlének.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Az pedig monda nékik: Ne féljetek. A Názáreti Jézust keresitek, a ki megfeszíttetett; föltámadott, nincsen itt; ímé a hely, a hová őt helyezék.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "De menjetek el, mondjátok meg az ő tanítványainak és Péternek, hogy előttetek megyen Galileába; ott meglátjátok őt, a mint megmondotta néktek.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "És nagyhamar kijövén, elfutának a sírbolttól, mert félelem és álmélkodás fogta vala el őket; és senkinek semmit sem szólának, mert félnek vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Mikor pedig reggel, a hétnek első napján föltámadott vala, megjelenék először Mária Magdalénának, a kiből hét ördögöt űzött vala ki.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ez elmenvén, megjelenté azoknak, a kik vele valának és keseregnek és sírnak vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Azok pedig mikor hallották, hogy él és ő látta vala, nem hivék.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ezután pedig közülök kettőnek jelenék meg más alakban, útközben, mikor a mezőre mennek vala.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ezek is elmenvén, megjelenték a többieknek; ezeknek sem hivének.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Azután, mikor asztalnál ülnek vala megjelenék magának a tizenegynek, és szemükre hányá az ő hitetlenségöket és keményszívűségöket, hogy azoknak, a kik őt feltámadva látták vala, nem hivének,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "És monda nékik: Elmenvén e széles világra, hirdessétek az evangyéliomot minden teremtésnek.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "A ki hiszen és megkeresztelkedik, idvezül; a ki pedig nem hiszen, elkárhozik.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Azokat pedig, a kik hisznek, ilyen jelek követik: az én nevemben ördögöket űznek; új nyelveken szólnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Kígyókat vesznek föl; és ha valami halálost isznak, meg nem árt nékik: betegekre vetik kezeiket, és meggyógyulnak.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Az Úr azért, minekutána szólott vala nékik, felviteték a mennybe, és üle az Istennek jobbjára.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Azok pedig kimenvén, prédikálának mindenütt, az Úr együtt munkálván velök, és megerősítvén az ígét a jelek által, a melyek követik vala. Ámen!",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

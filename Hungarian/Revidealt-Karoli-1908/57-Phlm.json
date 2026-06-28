@@ -1,0 +1,165 @@
+{
+  "book": "Philemon",
+  "abbreviation": "Phlm",
+  "number": 57,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Pál, Krisztus Jézusnak foglya, és Timótheus, az atyafi, Filemonnak, a mi szeretett munkatársunknak,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "És Appiának, a szeretettnek, és Arkhippusnak, a mi bajtársunknak, és a te házadnál való gyülekezetnek:",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Kegyelem néktek és békesség Istentől, a mi Atyánktól, és az Úr Jézus Krisztustól.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hálát adok az én Istenemnek mindenkor, emlegetvén téged az én imádságaimban,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mert hallom a te szeretetedet és ama te hitedet, mely van benned az Úr Jézushoz, és minden szentek irányában,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Hogy a te hitedben való közösség hathatós legyen, a Krisztus ügyében, minden bennetek levő jónak megismerése által.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Mert sok örömünk és vígasztalásunk van a te szeretetedben, hogy a szenteknek szíveik megvídámodtak te általad, atyámfia.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Annakokáért jóllehet nagy bátorságom van a Krisztusban, megparancsolni néked azt, a mi illendő,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "A szeretetért inkább kérlek, ilyen lévén, mint Pál, a megvénhedett, most pedig foglya is a Jézus Krisztusnak;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Kérlek téged az én fiamért, a kit fogságomban szűltem, Onésimusért,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "A ki egykor tenéked haszontalan volt, most pedig mind néked, mind nékem nagyon hasznos,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kit visszaküldöttem; te pedig őt, azaz az én szívemet, fogadd magadhoz!",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Őt én magamnál akartam tartani, hogy te helyetted szolgáljon nékem az evangyéliomért szenvedett fogságomban;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "De a te megkérdezésed nélkül semmit sem akartam cselekedni, hogy jótéteményed ne kényszerítésből, hanem szabad akaratból való legyen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Mert talán azért vált meg tőled ideig-óráig, hogy őt, mint örökkévalót kapd vissza;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Nem úgy immár mint szolgát, hanem szolgánál nagyobbat, mint szeretett atyafit, kiváltképen nékem, mennyivel inkább pedig néked, mind testben, mind az Úrban.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Azért, ha engem részestársadnak tartasz, úgy fogadd őt magadhoz, mint engemet.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ha pedig valamit vétett ellened, avagy adós, ezt nekem róvd fel.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Én Pál írtam az én kezemmel, én megfizetem: hogy azt ne mondjam néked, hogy te magaddal is adós vagy ezen felül nékem.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Bizonyára, atyámfia, jótéteményt várnék tőled az Úrban: vídámítsd meg az én szívemet az Úrban!",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Bízván a te engedelmességedben, így írtam néked, tudván, hogy annál, a mit mondok, többet is fogsz cselekedni.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Egyúttal pedig készíts nékem szállást; mert reménylem, hogy a ti imádságaitokért néktek ajándékoztatom.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Köszönt téged Epafrás, az én fogolytársam a Krisztus Jézusban,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Továbbá Márk, Aristárkhus, Démás és Lukács, az én munkatársaim.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "A mi Urunk Jézus Krisztusnak kegyelme legyen a ti lelketekkel!",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
