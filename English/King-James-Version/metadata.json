@@ -3,5 +3,6 @@
   "abbreviation": "KJV",
   "language": "en",
   "year": 1769,
-  "copyright": "public domain"
+  "license": "public domain",
+  "attribution": null
 }
