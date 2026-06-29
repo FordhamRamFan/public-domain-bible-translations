@@ -21,6 +21,7 @@ A collection of Bible translations in a consistent, machine-readable JSON format
 | German | Luther Bible | LUT | 1912 | Protestant (66 books) | public domain |
 | Greek | Robinson-Pierpont Greek New Testament | RP2018 | 2018 | NT only (27 books) | public domain |
 | Hebrew | Westminster Leningrad Codex | WLC | 1008 | Hebrew Bible (OT only, 39 books) | public domain |
+| Indonesian | Alkitab Yang Terbuka | AYT | 2011 | Protestant (66 books) | CC-BY-NC-SA |
 | Hungarian | Revideált Károli Biblia 1908 | HunKar | 1908 | Protestant (66 books) | public domain |
 | Hindi | Hindi Holy Bible | HHB | — | Protestant (66 books) | public domain |
 | Italian | Diodati Bible | DIO | 1649 | Protestant (66 books) | public domain |

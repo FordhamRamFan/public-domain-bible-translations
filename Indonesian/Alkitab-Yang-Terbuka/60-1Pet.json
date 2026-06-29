@@ -1,0 +1,673 @@
+{
+  "book": "1 Peter",
+  "abbreviation": "1Pet",
+  "number": 60,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Salam dari Petrus",
+          "text": "Dari Petrus, seorang rasul Kristus Yesus, kepada orang-orang yang tinggal sebagai orang asing, yang tersebar di seluruh wilayah Pontus, Galatia, Kapadokia, Asia Kecil, dan Bitinia;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "yang dipilih sejak semula oleh Allah Bapa melalui pengudusan oleh Roh untuk dapat hidup dalam ketaatan kepada Kristus Yesus dan memperoleh percikan darah-Nya: Kiranya anugerah dan damai sejahtera melimpah atasmu!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": "Pengharapan yang Hidup",
+          "text": "Terpujilah Allah dan Bapa dari Tuhan kita, Kristus Yesus, yang sesuai dengan anugerah-Nya yang sangat besar, telah melahirkan kita kembali dalam pengharapan yang hidup melalui kebangkitan Kristus Yesus dari antara orang mati,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "dan untuk mewarisi milik pusaka yang tidak dapat binasa, tidak dapat rusak, dan tidak dapat layu, yang tersimpan di surga untuk kamu,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "yaitu kamu yang dilindungi oleh kuasa Allah melalui iman keselamatan yang siap dinyatakan pada akhir zaman.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Dalam hal inilah, kamu sangat bersukacita, sekalipun untuk sementara waktu, jika diperlukan, kamu harus menderita berbagai macam pencobaan",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "sehingga imanmu yang lebih berharga daripada emas yang fana, sekalipun telah teruji oleh api, terbukti murni dan menghasilkan pujian, kemuliaan, dan kehormatan pada saat penyataan Kristus Yesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Kamu belum pernah melihat Dia, tetapi kamu mengasihi-Nya, dan meskipun sekarang kamu tidak melihat-Nya, tetapi kamu percaya kepada-Nya. Kamu bergembira dengan sukacita yang tidak terkatakan dan yang dipenuhi kemuliaan,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "sebab akhir dari tujuan imanmu sedang tercapai, yaitu keselamatan jiwamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Tentang keselamatan ini, para nabi yang menubuatkan anugerah yang akan menjadi milikmu itu telah menyelidiki dan mempelajarinya dengan sangat teliti.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Mereka mencari tahu tentang siapa dan kapankah waktu yang dimaksud oleh Roh Kristus yang ada dalam diri mereka ketika Ia menubuatkan penderitaan Kristus dan kemuliaan yang akan datang sesudahnya.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Kepada para nabi itu dinyatakan bahwa mereka bukan melayani diri mereka sendiri, tetapi melayani kamu dalam hal-hal yang kini telah disampaikan kepadamu melalui orang-orang yang mengabarkan Injil kepadamu dengan Roh Kudus yang diutus dari surga, hal-hal itulah yang sangat ingin disaksikan oleh para malaikat.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": "Panggilan untuk Hidup Kudus",
+          "text": "Karena itu, siapkanlah akal budimu dan waspadalah, letakkanlah pengharapanmu sepenuhnya pada anugerah yang akan diberikan kepadamu saat Kristus Yesus dinyatakan.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sebagai anak-anak yang taat, janganlah tunduk kepada nafsu jahatmu seperti ketika kamu masih hidup dalam kebodohanmu,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "tetapi kuduslah dalam segala tingkah lakumu, seperti Allah yang memanggilmu adalah kudus.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Sebab, ada tertulis, “Kuduslah kamu karena Aku kudus.”",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Dan, jika kamu memanggil-Nya sebagai Bapa, yaitu Dia yang menghakimi setiap orang sesuai perbuatan mereka tanpa membeda-bedakan, hiduplah dalam rasa takut selama kamu masih tinggal sebagai orang asing,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "dengan mengetahui bahwa kamu sudah ditebus dari cara hidup yang sia-sia, yang kamu warisi dari nenek moyangmu, bukan dengan barang yang fana seperti emas atau perak,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "melainkan dengan darah Kristus yang mulia, darah Anak Domba yang tidak bercacat dan yang sempurna.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sebab, Kristus sudah dipilih sebelum dunia diciptakan, tetapi Dia baru dinyatakan pada zaman akhir ini demi kamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Melalui Dia, kamu menjadi percaya kepada Allah, yaitu Allah yang membangkitkan-Nya dari antara orang mati dan Allah yang memberikan kemuliaan kepada-Nya, supaya iman dan pengharapanmu adalah dalam Allah.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Karena kamu sudah memurnikan jiwamu dalam ketaatan kepada kebenaran sehingga memiliki kasih persaudaraan yang tulus, maka marilah saling mengasihi dengan sungguh-sungguh dari hati yang murni,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "sebab kamu telah dilahirkan kembali, bukan dari benih yang dapat mati, melainkan dari benih yang tidak dapat mati, yaitu melalui firman Allah yang hidup dan tinggal tetap.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Kitab Suci berkata, “Segala yang hidup adalah seperti rumput, dan segala kemuliaannya seperti bunga rumput; Rumput layu dan bunganya gugur,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "tetapi firman Tuhan tetap selama-lamanya.” Dan, firman itu adalah Injil yang diberitakan kepadamu.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Batu yang Hidup dan Bangsa yang Kudus",
+          "text": "Karena itu, buanglah semua kebencian, semua tipu daya, semua kemunafikan, semua iri hati, dan segala macam fitnah.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Seperti bayi yang baru lahir, hendaklah kamu menginginkan susu rohani yang murni supaya dengan itu kamu bertumbuh dalam keselamatanmu,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "jika kamu sudah sungguh-sungguh merasakan bahwa Tuhan itu baik.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Saat kamu datang kepada Kristus, Batu Hidup yang ditolak oleh manusia, tetapi yang dipilih oleh Allah dan dianggap sangat berharga bagi-Nya,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "kamu juga seperti batu-batu hidup, yang dibangun menjadi suatu rumah rohani, imamat yang kudus untuk mempersembahkan kurban-kurban rohani yang berkenan kepada Allah melalui Kristus Yesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Karena Kitab Suci berkata, “Lihatlah, Aku meletakkan sebuah batu di Sion, sebuah batu penjuru yang terpilih dan yang berharga, dan siapa pun yang percaya kepada-Nya tidak akan dipermalukan.”",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Jadi, batu itu mulia bagi kamu yang percaya, tetapi bagi yang tidak percaya, “Batu yang ditolak oleh tukang-tukang bangunan, telah menjadi batu penjuru,”",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "dan menjadi, “Sebuah batu sandungan, dan karang yang membuat orang jatuh.” Mereka tersandung karena tidak taat kepada Firman. Itulah jalan yang telah ditentukan bagi mereka.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Namun, kamu adalah bangsa yang terpilih, imamat yang rajani, bangsa yang kudus, umat kepunyaan Allah sendiri supaya kamu dapat memberitakan kebaikan-kebaikan-Nya, yang telah memanggil kamu keluar dari kegelapan menuju kepada terang-Nya yang ajaib.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "“Dahulu, kamu bukanlah umat Allah, tetapi sekarang kamu adalah umat Allah. Dahulu, kamu tidak menerima belas kasihan, tetapi sekarang kamu telah menerima belas kasihan Allah.”",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": "Menjalankan Hidup yang Baik untuk Kemuliaan Allah",
+          "text": "Saudara-saudara yang kukasihi, aku ingin menasihati kamu sebagai orang yang tinggal sementara dan orang asing di dunia ini untuk menjauhkan dirimu dari keinginan hawa nafsu duniawi yang berperang melawan jiwamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Jagalah tingkah lakumu yang baik di antara orang-orang yang belum percaya supaya apabila mereka memfitnahmu sebagai pelaku kejahatan, mereka dapat melihat perbuatanmu yang baik, dan akan memuliakan Allah pada hari pelawatan.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": "Patuhlah kepada Penguasa",
+          "text": "Demi Tuhan, tunduklah kepada setiap lembaga pemerintahan yang ditetapkan oleh manusia, baik kepada raja sebagai penguasa tertinggi,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "atau kepada para gubernur yang diutus oleh raja untuk menghukum para pelaku kejahatan dan memberi pujian kepada orang-orang yang berbuat baik.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Sebab, begitulah kehendak Allah: dengan berbuat baik, kamu membungkam ketidaktahuan orang-orang bodoh.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Hiduplah sebagai orang-orang yang merdeka, tetapi jangan pergunakan kemerdekaanmu itu sebagai kedok bagi kejahatan. Sebaliknya, hiduplah sebagai hamba-hamba Allah.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Hormatilah semua orang. Kasihilah saudara-saudara seiman, takutlah akan Allah, dan hormatilah raja.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": "Penderitaan Kristus sebagai Teladan Hidup",
+          "text": "Hamba-hamba, tunduklah kepada tuanmu dengan segala hormat. Bukan hanya kepada mereka yang baik dan lemah lembut, tetapi juga kepada mereka yang tidak adil.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Sebab, merupakan suatu kasih karunia jika demi kesadarannya akan Allah, seseorang mau bertahan dalam penderitaan karena ketidakadilan.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Sebab, apakah upahmu jika dengan tabah kamu menerima pukulan karena perbuatanmu yang berdosa? Akan tetapi, jika kamu menderita karena berbuat baik dan kamu menerimanya dengan tabah, tindakanmu itu berkenan di hadapan Allah.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Sebab, untuk itulah kamu dipanggil, karena Kristus juga telah menderita bagi kamu dan meninggalkan teladan bagimu supaya kamu mengikuti jejak-Nya.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Dia tidak berbuat dosa, dan tipu daya tidak ada di mulut-Nya.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Ketika Dia diejek, Dia tidak membalas dengan ejekan; ketika Dia menderita, Dia tidak mengancam, tetapi menyerahkan diri-Nya kepada Allah yang akan menghakimi dengan adil.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Dia sendiri telah menanggung dosa kita pada tubuh-Nya di kayu salib supaya kita mati terhadap dosa, dan hidup untuk kebenaran. Oleh bilur-bilur-Nya, kamu disembuhkan.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Dahulu, kamu seperti domba-domba yang terus-menerus tersesat, tetapi sekarang kamu telah kembali kepada Sang Gembala dan Pelindung jiwamu.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Sikap Para Istri dan Para Suami",
+          "text": "Demikian juga kamu, hai istri-istri, tunduklah kepada suamimu. Sebab, apabila di antara mereka ada yang tidak taat kepada Firman, mereka dapat dimenangkan oleh tingkah laku istrinya tanpa kata-kata,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "sebab mereka melihat betapa murni dan terhormatnya tingkah lakumu.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Janganlah kecantikanmu berasal dari hiasan luar, misalnya dari mengepang rambut, memakai perhiasan emas, atau memakai pakaian yang mahal-mahal.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Sebaliknya, hendaklah kecantikanmu berasal dari dalam batinmu, yaitu kecantikan yang tidak dapat layu, yang berasal dari roh yang lemah lembut dan tenang. Itulah yang berharga di mata Allah.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Sebab, demikianlah perempuan-perempuan kudus pada zaman dahulu, yang menaruh pengharapan mereka kepada Allah, mempercantik diri mereka; yaitu dengan tunduk kepada suami mereka.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Demikianlah Sara taat kepada suaminya, Abraham, dan memanggilnya ‘tuan’. Kamu adalah anak-anak Sara jika kamu berbuat baik dengan tidak dikuasai oleh rasa takut ketika melakukannya.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Demikian juga kamu, hai suami-suami, hiduplah bersama istrimu dengan penuh pengertian karena mereka kaum yang lebih lemah. Hormatilah mereka sebagai sesama ahli waris dalam menerima anugerah hidup supaya doa-doamu tidak terhalang.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": "Menderita karena Berbuat Benar",
+          "text": "Akhirnya, hendaklah kamu semua memiliki kesatuan pikiran, belas kasih, kasih persaudaraan, hati yang lemah lembut, dan kerendahan hati.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Janganlah membalas kejahatan dengan kejahatan, atau makian dengan makian. Sebaliknya, hendaklah kamu memberkati sebab untuk itulah kamu dipanggil, yaitu supaya kamu mewarisi berkat.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Sebab Kitab Suci berkata, “Barang siapa mencintai hidup, dan ingin melihat hari-hari yang baik, dia harus menjaga lidahnya dari kejahatan, dan bibirnya dari mengucapkan tipu muslihat.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ia juga harus menjauhkan diri dari yang jahat dan melakukan yang baik. Hendaklah dia mencari perdamaian, dan berusaha mengejarnya.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sebab, mata Tuhan memperhatikan orang-orang benar, dan telinga-Nya mendengarkan doa-doa mereka. Namun, wajah-Nya menentang orang-orang yang melakukan kejahatan.”",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Siapakah yang akan mencelakaimu jika kamu rajin melakukan hal yang baik?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Namun, seandainya kamu harus menderita demi kebenaran, maka kamu akan diberkati. “Jangan takut dan jangan gentar terhadap mereka yang membuatmu menderita.”",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Akan tetapi, kuduskanlah Kristus sebagai Tuhan dalam hatimu! Siap sedialah untuk memberi jawaban kepada siapa pun yang menuntutmu mengenai pengharapan yang kamu miliki,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "tetapi lakukanlah itu dengan lemah lembut dan hormat, serta milikilah hati nurani yang jernih supaya ketika kamu difitnah, orang yang mencaci cara hidupmu yang baik di dalam Kristus akan menjadi malu.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sebab, lebih baik menderita karena berbuat baik, jika itu memang kehendak Allah, daripada menderita karena berbuat jahat.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Karena Kristus juga telah menderita karena dosa-dosa, sekali untuk semua orang, yang benar mati untuk yang tidak benar, sehingga Ia dapat membawa kita kepada Allah. Dibunuh secara jasmani, tetapi dihidupkan di dalam Roh.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Dalam Roh, Ia juga pergi dan melakukan pemberitaan kepada roh-roh di penjara,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "yaitu mereka yang dahulu tidak taat ketika Allah dengan sabar menanti mereka pada zaman Nuh, sementara Nuh membangun bahteranya. Melalui bahtera itu, hanya sedikit, yaitu delapan orang saja, yang diselamatkan oleh air bah.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Air bah itu melambangkan baptisan yang sekarang menyelamatkanmu. Baptisan bukan untuk membersihkan kotoran dari tubuh, tetapi merupakan permohonan kepada Allah untuk sebuah hati nurani yang murni melalui kebangkitan Yesus Kristus,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "yaitu Dia yang sekarang telah naik ke surga dan berada di sebelah kanan Allah; setelah semua malaikat, para pemerintah, dan para penguasa ditundukkan kepada-Nya.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Hidup yang Baru Melalui Roh",
+          "text": "Jadi, karena Kristus telah menderita secara jasmani, hendaklah kamu mempersenjatai dirimu dengan pikiran yang sama, sebab orang yang telah mengalami penderitaan jasmani, telah berhenti berbuat dosa",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "sehingga dalam menjalani sisa hidup di dunia ini, dia tidak lagi mengikuti keinginan manusia, tetapi kehendak Allah.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Sebab, cukuplah waktu pada masa lalumu untuk melakukan kebiasaan orang-orang yang tidak mengenal Allah; hidup dalam hawa nafsu, kemabukan, pesta pora, minum-minum, dan penyembahan berhala yang penuh kekejian.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Sekarang, mereka sangat heran ketika mendapati bahwa kamu tidak lagi ikut dalam kebejatan liar yang mereka lakukan. Karena itu, mereka memfitnah kamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Akan tetapi, mereka akan memberi pertanggungjawaban kepada Dia yang akan menghakimi orang yang hidup dan yang mati.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Untuk alasan inilah, Injil diberitakan kepada orang-orang yang sekarang sudah mati sehingga meskipun mereka sudah dihakimi di dunia ini sesuai dengan standar manusia, tetapi mereka hidup secara roh menurut kehendak Allah.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": "Gunakanlah Karuniamu untuk Melayani",
+          "text": "Akhir dari segala sesuatu sudah dekat. Karena itu, waspadalah dan berjaga-jagalah supaya dapat berdoa.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Di atas semuanya itu, teruslah saling mengasihi dengan sungguh-sungguh, sebab kasih menutupi banyak sekali dosa.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tunjukkanlah keramahan satu dengan lainnya tanpa mengeluh.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Karena setiap orang telah menerima karunia, pergunakanlah itu untuk melayani satu dengan lainnya sebagai pelayan yang baik atas berbagai karunia dari Allah:",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "siapa yang berbicara, baiklah dia berbicara sebagai orang yang menyampaikan firman Allah; dan siapa yang melayani, baiklah dia melayani dengan kekuatan yang Allah berikan sehingga dalam segala hal, Allah dimuliakan melalui Kristus Yesus. Bagi Dialah kemuliaan dan kuasa sampai selama-lamanya. Amin.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": "Menderita sebagai Pengikut Kristus",
+          "text": "Saudara-saudara yang kukasihi, janganlah terkejut dengan api pencobaan yang datang untuk menguji kamu, seolah-olah sesuatu yang aneh terjadi atas kamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Namun, bersukacitalah karena kamu ikut ambil bagian dalam penderitaan Kristus sehingga kamu juga dapat bersukacita dan bergembira pada saat kemuliaan-Nya dinyatakan.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Berbahagialah jika kamu dihina karena nama Kristus, sebab Roh kemuliaan dan Roh Allah diam di dalam kamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Akan tetapi, jangan ada di antara kamu yang menderita sebagai pembunuh, pencuri, pelaku kejahatan, atau sebagai orang yang suka mencampuri urusan orang lain.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Akan tetapi, siapa pun yang menderita sebagai orang Kristen, janganlah dia malu, sebaliknya hendaklah dia memuji Allah karena menanggung sebutan itu.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Sudah saatnya penghakiman dimulai dari keluarga Allah. Dan, jika penghakiman Allah dimulai dari kita, bagaimanakah nasib orang-orang yang tidak taat kepada Injil Allah?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Jika orang saleh saja sulit untuk diselamatkan, bagaimana dengan orang jahat dan orang berdosa?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Karena itu, biarlah mereka yang menderita menurut kehendak Allah, memercayakan jiwanya kepada Sang Pencipta yang setia, sambil terus melakukan apa yang baik.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Gembalakanlah Domba-Domba Allah",
+          "text": "Karena itu, sebagai sesama penatua dan saksi mata penderitaan Kristus, dan juga sebagai orang yang akan ikut ambil bagian dalam kemuliaan yang akan dinyatakan, aku mendorong para penatua yang ada di antara kamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Gembalakanlah domba-domba Allah yang ada padamu! Jangan karena paksaan, tetapi dengan rela, seperti yang Allah kehendaki. Jangan melakukannya untuk mendapatkan keuntungan yang hina, tetapi karena kesediaanmu.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Jangan pula bertindak sebagai penguasa terhadap mereka yang dipercayakan ke dalam tanggung jawabmu, tetapi jadilah teladan bagi kawanan itu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Dengan demikian, ketika nanti Sang Gembala Agung datang, kamu akan menerima mahkota kemuliaan yang tidak akan layu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Demikian juga kamu, yang lebih muda, tunduklah kepada orang-orang yang tua, dan hendaklah kamu semua memiliki kerendahan hati, yang seorang kepada yang lain karena: Allah menentang orang yang sombong, tetapi Dia memberi anugerah kepada orang yang rendah hati.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Karena itu, rendahkanlah hatimu di bawah tangan Allah yang penuh kuasa. Dengan demikian, Dia akan meninggikan kamu pada waktunya.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Serahkanlah semua kekhawatiranmu kepada-Nya karena Dia yang memelihara kamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Waspadalah dan berjaga-jagalah! Musuhmu, si Iblis, berjalan mondar-mandir seperti singa yang mengaum, mencari mangsa untuk ditelannya.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Lawanlah Iblis! Berdirilah teguh dalam imanmu karena kamu tahu bahwa di seluruh dunia, saudara-saudara seimanmu juga menanggung penderitaan yang kamu alami.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Dan, setelah kamu menderita untuk sementara waktu, Allah sumber segala anugerah yang telah memanggil kamu untuk masuk ke dalam kemuliaan-Nya yang kekal dalam Kristus akan memulihkan, meneguhkan, menguatkan, dan membangun kamu.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Bagi Dialah kuasa untuk selama-lamanya. Amin!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": "Salam Penutup",
+          "text": "Aku menulis surat singkat ini kepadamu melalui Silwanus, yang kukenal sebagai saudara seiman yang setia. Aku ingin memberi semangat dan kesaksian kepadamu, bahwa ini adalah anugerah yang sejati dari Allah. Berdirilah teguh dalam anugerah itu.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Saudara kita yang ada di Babilon, yang juga terpilih seperti kamu, mengirim salam kepadamu, dan juga dari Markus, anakku.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Berilah salam seorang akan yang lain dengan ciuman kasih. Damai sejahtera menyertai kamu semua yang ada dalam Kristus. Amin.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
