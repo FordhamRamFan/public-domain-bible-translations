@@ -1,0 +1,980 @@
+{
+  "book": "Ephesians",
+  "abbreviation": "Eph",
+  "number": 49,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Salam dari Paulus",
+          "text": "Dari Paulus, rasul Yesus Kristus oleh kehendak Allah. Kepada orang-orang kudus di Efesus, orang-orang beriman dalam Yesus Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Anugerah dan damai sejahtera bagi kamu dari Allah, Bapa kita, dan Tuhan Yesus Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": "Berkat-Berkat Rohani dalam Kristus",
+          "text": "Terpujilah Allah dan Bapa dari Tuhan kita Kristus Yesus, yang telah memberkati kita dalam Kristus dengan setiap berkat rohani di tempat surgawi.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Sebab, Ia memilih kita dalam Kristus sebelum permulaan dunia supaya kita menjadi kudus dan tidak bercela di hadapan-Nya. Dalam kasih,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ia menetapkan kita dari semula untuk diangkat menjadi anak-anak-Nya melalui Kristus Yesus sesuai dengan kesukaan kehendak-Nya.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Ia melakukan itu bagi kepujian kemuliaan anugerah-Nya, yang telah dikaruniakan-Nya dengan cuma-cuma kepada kita dalam Anak-Nya yang terkasih.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Dalam Dia, kita mendapat penebusan melalui darah-Nya, yaitu pengampunan atas pelanggaran-pelanggaran kita sesuai dengan kekayaan anugerah-Nya,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "yang Allah limpahkan kepada kita dalam segala hikmat dan pengertian.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ia memberitahukan kepada kita rahasia kehendak-Nya sesuai dengan maksud baik yang Ia rencanakan dalam Kristus,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "yang akan dijalankan ketika waktu kepenuhannya tiba untuk mempersatukan segala sesuatu dalam Kristus, yang ada di surga dan yang ada di bumi.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Dalam Kristus, kita juga telah menjadi bagian dari warisan yang telah ditetapkan-Nya dari semula sesuai dengan rencana-Nya, yang mengerjakan segala sesuatu dalam keputusan kehendak-Nya",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "supaya kita yang pertama-tama menaruh pengharapan pada Kristus akan menjadi puji-pujian bagi kemuliaan-Nya.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Dalam Dia, kamu juga, setelah mendengar firman kebenaran, yaitu Injil keselamatanmu, dan percaya kepada-Nya, dimeteraikan dengan Roh Kudus yang dijanjikan.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Roh Kudus adalah jaminan atas warisan kita, sampai penebusan terjadi atas mereka yang menjadi milik kepunyaan Allah sendiri -- bagi pujian kemuliaan-Nya.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": "Doa Paulus",
+          "text": "Oleh sebab itu, sejak aku mendengar tentang imanmu dalam Tuhan Yesus dan kasihmu kepada semua orang kudus,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "aku tidak henti-hentinya mengucap syukur untukmu saat aku mengingat kamu dalam doa-doaku.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Aku berdoa agar Allah dari Tuhan kita, Kristus Yesus, Bapa dari kemuliaan, memberimu roh hikmat dan penyataan dalam pengetahuan akan Dia.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Aku berdoa supaya mata hatimu diterangi sehingga kamu dapat mengerti pengharapan yang terkandung dalam panggilan-Nya, kekayaan yang terkandung dalam warisan-Nya yang mulia bagi orang-orang kudus,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "dan kekuatan besar yang tidak terukur bagi kita yang percaya, sebagaimana ditunjukkan dalam kemahabesaran kekuatan-Nya.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Kemahabesaran kekuatan-Nya ini Ia tunjukkan ketika Ia membangkitkan Kristus dari antara orang mati dan mendudukkan Dia di sebelah kanan-Nya di tempat surgawi,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "yang jauh lebih tinggi dari semua aturan, kekuasaan, kekuatan, pemerintahan, dan lebih tinggi dari semua nama yang pernah ada, bukan hanya pada masa sekarang ini, tetapi juga pada masa yang akan datang.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Ia menaklukkan segala sesuatu di bawah kaki-Nya dan memberikan diri-Nya menjadi Kepala atas segala sesuatu bagi jemaat,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "yang adalah tubuh-Nya, di mana kepenuhan-Nya memenuhi semuanya dan segalanya.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Diselamatkan oleh Anugerah",
+          "text": "Dahulu, kamu mati dalam pelanggaran-pelanggaran dan dosa-dosamu,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "yang mana pada waktu itu kamu berjalan mengikuti jalan dunia, mengikuti penguasa kerajaan udara, roh yang sekarang bekerja di antara anak-anak yang tidak taat.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Di antara mereka, kita semua dahulu juga hidup dalam nafsu kedagingan kita, memuaskan keinginan daging dan pikiran kita. Kita pada dasarnya adalah anak-anak durhaka, sama seperti manusia lainnya.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Akan tetapi, Allah, yang kaya dengan belas kasih dan karena kasih-Nya yang besar itu Ia mengasihi kita,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "bahkan ketika kita mati dalam pelanggaran-pelanggaran kita, Ia menghidupkan kita bersama dengan Kristus -- oleh anugerah kamu telah diselamatkan --,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "dan Ia membangkitkan kita dengan Dia dan mendudukkan kita bersama dengan Dia di tempat surgawi dalam Yesus Kristus,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "supaya pada masa yang akan datang, Ia boleh menunjukkan kekayaan anugerah-Nya yang tak terukur dalam kebaikan-Nya kepada kita dalam Yesus Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Sebab, oleh anugerah kamu diselamatkan melalui iman dan ini bukan dari dirimu sendiri, tetapi karunia Allah,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "bukan hasil usahamu, supaya tidak ada seorang pun yang menyombongkan diri.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Kita ini buatan Allah, diciptakan dalam Yesus Kristus untuk melakukan pekerjaan baik yang dipersiapkan Allah sebelumnya supaya kita bisa hidup di dalamnya.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": "Dipersatukan dalam Kristus",
+          "text": "Karena itu, ingatlah bahwa kamu dahulu lahir sebagai orang kafir, yang disebut “orang tidak bersunat”, oleh mereka yang menyebut diri sebagai “orang bersunat”, yaitu sunat yang dilakukan pada tubuh oleh tangan manusia.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ingatlah saat itu kamu hidup tanpa Kristus, terpisah dari kewargaan Israel dan orang-orang asing bagi ikatan perjanjian yang dijanjikan, tidak memiliki pengharapan dan tanpa Allah dalam dunia ini.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Namun, sekarang, dalam Yesus Kristus, kamu yang dahulu sangat jauh telah dibawa menjadi dekat oleh darah Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Sebab, Ia sendiri adalah damai sejahtera kita yang telah membuat kedua belah pihak menjadi satu dan yang telah menghancurkan tembok permusuhan yang memisahkan,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "dengan menghapus permusuhan dalam daging-Nya, yaitu Hukum Taurat yang berisi perintah-perintah dan ketetapan-ketetapan sehingga di dalam diri-Nya Ia membuat keduanya menjadi satu manusia baru, sehingga terjadi perdamaian,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "dan mendamaikan keduanya dengan Allah dalam satu tubuh melalui salib, sehingga mematikan permusuhan.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ia datang dan memberitakan damai sejahtera kepadamu yang jauh dan damai sejahtera kepada mereka yang dekat.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Sebab, melalui Dia, kita berdua memiliki jalan masuk kepada Bapa dalam satu Roh.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Jadi, kamu bukan lagi orang-orang asing dan pendatang, tetapi sesama warga dengan orang-orang kudus dan anggota-anggota keluarga Allah,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "yang dibangun di atas dasar para rasul dan para nabi, dengan Yesus Kristus sendiri sebagai Batu Penjurunya.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Dalam Kristus, seluruh bangunan sedang dipersatukan bersama dan bertumbuh menjadi Bait Suci dalam Tuhan.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Dalam Dia, kamu juga sedang dibangun bersama menjadi tempat tinggal Allah dalam Roh.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Pelayanan Paulus untuk Bangsa Bukan Yahudi",
+          "text": "Untuk alasan inilah, aku, Paulus, dipenjara karena Yesus Kristus demi kamu, orang-orang kafir.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Kamu pasti telah mendengar tentang tugas penatalayanan anugerah Allah yang diberikan kepadaku untuk kamu,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "bahwa dengan penyataan, rahasia itu diberitahukan kepadaku seperti yang telah kutulis secara singkat sebelumnya.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Saat membaca ini, kamu dapat memahami pengertianku mengenai rahasia Kristus,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "yang tidak diberitahukan kepada orang-orang dari generasi lain, tetapi yang sekarang dinyatakan kepada para rasul dan para nabi-Nya yang kudus oleh Roh Kudus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Rahasia itu adalah bahwa melalui Injil orang-orang kafir menjadi sesama ahli waris, sesama anggota dari satu tubuh, dan sama-sama mengambil bagian dari janji dalam Yesus Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Aku menjadi pelayan Injil sesuai dengan karunia dari anugerah Allah, yang diberikan kepadaku menurut pekerjaan kuasa-Nya.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Kepadaku, yang paling hina di antara semua orang kudus, anugerah ini diberikan untuk memberitakan kepada orang-orang kafir kekayaan Kristus yang tidak terselami,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "dan membawa terang kepada setiap orang tentang rahasia yang tersembunyi selama berabad-abad dalam Allah, yang menciptakan segala sesuatu.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Dengan demikian, melalui jemaat, berbagai hikmat Allah sekarang diberitahukan kepada para pemerintah dan penguasa di tempat surgawi.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ini sesuai dengan rencana kekal yang dinyatakan dalam Yesus Kristus, Tuhan kita,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "yang dalam Dia, kita mendapat keberanian dan jalan masuk kepada Allah dengan yakin karena kesetiaan Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Karena itu, aku minta kepadamu agar jangan putus asa melihat penderitaan yang aku alami demi kamu. Penderitaan itu adalah kemuliaanmu.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": "Doa Paulus untuk Jemaat Efesus",
+          "text": "Untuk alasan inilah, aku berlutut di hadapan Bapa.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Dari Dialah, setiap keluarga di surga dan di bumi menerima namanya.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Aku berdoa supaya sesuai dengan kekayaan kemuliaan-Nya, Ia berkenan mengaruniakan kepadamu kekuatan di dalam batinmu, dengan kuasa melalui Roh-Nya,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "sehingga Kristus berkenan tinggal di dalam hatimu melalui iman sehingga kamu berakar dan berdasar dalam kasih,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "dan agar kamu bersama semua orang kudus dapat memahami betapa lebar, dan panjang, dan tinggi, dan dalamnya kasih Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Dengan demikian, kamu dapat mengenal kasih Kristus yang melampaui pengetahuan sehingga kamu dipenuhi dengan seluruh kepenuhan Allah.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Bagi Dia, yang sanggup melakukan jauh lebih melimpah daripada semua yang kita minta atau pikirkan, sesuai dengan kuasa yang bekerja di dalam kita.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Bagi Dialah kemuliaan dalam jemaat dan dalam Yesus Kristus bagi seluruh generasi sampai selama-lamanya. Amin.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Kesatuan Tubuh Kristus",
+          "text": "Oleh karena itu, aku, orang yang dipenjarakan karena Tuhan, mendorong kamu untuk hidup sepadan dengan panggilan yang telah kamu terima.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Dengan segala kerendahan hati dan kelembutan, dengan kesabaran, saling menanggung beban dalam kasih,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "berusahalah sekuat tenaga untuk memelihara kesatuan Roh dalam ikatan damai sejahtera.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Hanya ada satu tubuh dan satu Roh, sama halnya ketika kamu dipanggil kepada satu harapan dari panggilanmu,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "satu Tuhan, satu iman, dan satu baptisan,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "satu Allah dan Bapa dari semua, yang di atas semuanya, melalui semuanya, dan dalam semuanya.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Akan tetapi, kepada kita masing-masing diberikan anugerah sesuai dengan ukuran karunia Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Itulah sebabnya, dikatakan, “Ketika Ia naik ke tempat tinggi, Ia menangkap orang-orang yang ditawan, dan memberikan karunia kepada manusia.”",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ketika dikatakan, “Ia naik,” bukankah itu berarti Ia juga telah turun ke bagian bawah bumi?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Ia, yang turun, Dia jugalah yang naik lebih tinggi dari semua langit supaya Ia memenuhi segala sesuatu.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Dialah yang memberikan, baik rasul-rasul, nabi-nabi, pemberita-pemberita Injil, gembala-gembala, maupun pengajar-pengajar,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "untuk memperlengkapi orang-orang kudus dalam pekerjaan pelayanan bagi pembangunan tubuh Kristus,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "sampai kita semua mencapai kesatuan iman dan pengetahuan akan Anak Allah, yaitu manusia dewasa, menurut ukuran tingkat pertumbuhan yang sesuai dengan kepenuhan Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Dengan demikian, kita bukan lagi anak-anak yang diombang-ambingkan oleh ombak dan dibawa ke sana kemari oleh berbagai angin pengajaran, oleh tipu daya manusia, oleh kecerdikan dari penipuan yang licik.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Sebaliknya, mengatakan kebenaran dalam kasih, kita akan bertumbuh dalam segala hal kepada Dia, yang adalah Kepala, yaitu Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Dari-Nya seluruh tubuh tersusun dan diikat bersama-sama menjadi satu melalui topangan setiap sendi. Jika masing-masing melakukan bagiannya, tubuh akan bertumbuh sehingga membangun dirinya sendiri dalam kasih.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": "Cara Hidup yang Benar dalam Kristus",
+          "text": "Karena itu, aku katakan dan tegaskan dalam Tuhan, jangan lagi kamu hidup seperti orang-orang yang tidak percaya, yang hidup dengan pikiran yang sia-sia.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Pengertian mereka menjadi gelap dan terpisah dari kehidupan Allah karena kebodohan yang ada dalam diri mereka yang disebabkan oleh kekerasan hati.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Perasaan mereka telah menjadi tumpul dan mereka menyerahkan diri kepada hawa nafsu untuk melakukan segala macam kecemaran dengan keserakahan.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Akan tetapi, bukan dengan cara itu kamu belajar tentang Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Seumpama kamu memang telah mendengar tentang Dia dan diajar dalam Dia, sebagaimana kebenaran yang ada dalam Yesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "buanglah manusia lamamu yang kamu dapat dari cara hidupmu yang lama, yang sedang dirusak oleh hawa nafsu yang menipu.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Perbaruilah roh pikiranmu.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Kenakanlah manusia yang baru, yang diciptakan dalam rupa Allah dalam keadilan dan kekudusan yang sejati.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Oleh karena itu, dengan membuang kepalsuan, marilah setiap kamu berbicara tentang kebenaran kepada sesamamu karena kita sama-sama anggota dari satu tubuh.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Marahlah dan jangan berbuat dosa. Jangan biarkan matahari terbenam dalam kemarahanmu.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Jangan memberi kesempatan kepada setan.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Orang yang telah mencuri, jangan mencuri lagi. Lebih baik kalau ia bekerja keras dan melakukan pekerjaan yang baik dengan tangannya sendiri sehingga ia memiliki sesuatu untuk dibagikan kepada orang yang membutuhkan.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Jangan biarkan perkataan kotor keluar dari mulutmu, tetapi hanya perkataan baik yang membangun orang yang membutuhkan sehingga perkataanmu itu memberi berkat bagi mereka yang mendengarnya.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Jangan mendukakan Roh Kudus Allah, sebab oleh karena Dia kamu dimeteraikan untuk hari penebusan.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Buanglah segala macam kepahitan, kegeraman, kemarahan, pertikaian, dan perkataan fitnah, juga semua kejahatan, jauhkanlah itu darimu.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Bersikaplah ramah satu dengan yang lain, milikilah hati yang lembut, dan saling mengampuni, sebagaimana Allah dalam Kristus juga mengampuni kamu.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Sebab itu, jadilah peniru-peniru Allah sebagaimana anak-anak yang terkasih.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hiduplah dalam kasih, sama seperti Kristus mengasihi kita dan memberikan diri-Nya untuk kita sebagai persembahan dan kurban yang harum bagi Allah.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Akan tetapi, jangan ada percabulan atau segala macam kecemaran atau keserakahan, bahkan disebut pun jangan karena hal itu tidak layak ada di antara orang-orang kudus.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Jangan ada perkataan kotor, perkataan bodoh, atau lelucon-lelucon kasar -- yang tidak pantas -- sebaliknya, ucapkanlah syukur.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Sebab, kamu tahu dengan pasti bahwa orang cabul, orang tidak suci, atau orang serakah yang menyembah berhala tidak akan mendapat warisan dalam Kerajaan Kristus dan Allah.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Jangan ada orang yang menipu kamu dengan kata-kata kosong karena hal-hal itulah yang mendatangkan murka Allah atas anak-anak durhaka.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Jadi, jangan bergaul dengan mereka.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Dahulu kamu adalah kegelapan, tetapi sekarang kamu adalah terang dalam Tuhan. Hiduplah sebagai anak-anak terang",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "karena buah dari terang adalah semua kebaikan, keadilan, dan kebenaran,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "dan mencoba mencari tahu apa yang menyenangkan Tuhan.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Jangan ikut ambil bagian dalam perbuatan kegelapan yang tidak menghasilkan buah, sebaliknya telanjangilah perbuatan-perbuatan itu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sebab, menyebut hal-hal yang mereka lakukan secara diam-diam pun sangat memalukan.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Akan tetapi, semua yang ditelanjangi oleh terang menjadi kelihatan",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "karena semua yang menjadi nyata adalah terang. Itu sebabnya, dikatakan, “Bangun, hai kamu si tukang tidur! Bangkitlah dari antara orang mati, dan Kristus akan bersinar atasmu.”",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Jadi, perhatikan dengan saksama bagaimana kamu hidup, jangan seperti orang bebal, jadilah bijak.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Pergunakanlah waktu yang ada dengan sebaik-baiknya karena hari-hari ini adalah jahat.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Karena itu, janganlah menjadi bodoh, tetapi mengertilah apa itu kehendak Tuhan.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Jangan mabuk oleh anggur karena hal itu tidak pantas, sebaliknya penuhlah dengan Roh.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Berbicaralah satu sama lain dalam mazmur, kidung pujian, dan nyanyian rohani, menyanyilah dan buatlah lagu pujian kepada Tuhan dengan segenap hatimu.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Ucaplah syukur senantiasa atas segala sesuatu kepada Allah Bapa dalam nama Tuhan kita, Kristus Yesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": "Nasihat untuk Suami dan Istri",
+          "text": "Tunduklah seorang kepada yang lain dalam takut akan Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Istri-istri, tunduklah kepada suamimu, seperti kepada Tuhan.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Sebab, suami adalah kepala dari istri, seperti Kristus adalah kepala dari jemaat, yaitu tubuh-Nya, dan Dia sendirilah Juru Selamatnya.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Akan tetapi, sebagaimana jemaat tunduk kepada Kristus, demikian juga istri harus tunduk kepada suami dalam segala hal.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Suami-suami, kasihilah istrimu seperti Kristus mengasihi jemaat dan memberikan diri-Nya bagi jemaat,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "untuk menguduskan mereka dengan membersihkannya lewat pembasuhan air dengan firman.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Dengan demikian, Kristus dapat mempersembahkan jemaat kepada diri-Nya dalam kemuliaan, tanpa noda, atau tanpa kerut, atau semacamnya sehingga jemaat menjadi kudus dan tidak bercela.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Demikian juga, suami-suami harus mengasihi istrinya seperti tubuhnya sendiri. Ia yang mengasihi istrinya, mengasihi dirinya sendiri.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Sebab, tidak ada orang yang pernah membenci tubuhnya sendiri, tetapi ia memelihara dan merawatnya. Begitu juga yang Kristus lakukan bagi jemaat",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "karena kita adalah anggota-anggota tubuh-Nya.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Itulah sebabnya, seorang laki-laki akan meninggalkan ayah dan ibunya dan bersatu dengan istrinya sehingga keduanya menjadi satu tubuh.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Rahasia ini besar, dan aku mengatakan ini dalam hubungan antara Kristus dan jemaat.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Namun, biarlah masing-masing kamu mengasihi istrimu seperti dirimu sendiri dan istri harus menghormati suaminya.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "Nasihat untuk Anak-Anak dan Orang Tua",
+          "text": "Anak-anak, taatilah orang tuamu dalam Tuhan karena ini adalah hal yang benar.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "“Hormatilah ayah dan ibumu,” ini adalah perintah pertama yang disertai dengan janji",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "“supaya hidupmu baik dan kamu akan berumur panjang di bumi”.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Bapak-bapak, janganlah memicu anak-anakmu untuk menjadi marah, tetapi besarkanlah mereka dalam disiplin dan nasihat Tuhan.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": "Nasihat untuk Hamba dan Tuan",
+          "text": "Budak-budak, taatilah tuanmu yang ada di dunia ini dengan hormat dan gentar, dan dengan ketulusan hati seperti untuk Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Jangan seperti orang-orang yang mengerjakan pekerjaan hanya untuk dilihat orang -- untuk menyenangkan manusia, tetapi sebagai hamba-hamba Kristus yang melakukan kehendak Allah dari hati.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Melayani dengan sepenuh hati seperti untuk Tuhan dan bukan untuk manusia.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Sebab, kamu tahu, entah ia budak ataupun orang merdeka, jika ia melakukan hal yang baik, Tuhan akan memberi upah kepadanya.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tuan-tuan, lakukanlah juga kepada hamba-hambamu. Berhentilah mengancam karena ketahuilah baik Tuanmu atau Tuan mereka sama-sama ada di surga, dan Ia tidak pilih kasih.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": "Pakailah Seluruh Senjata Allah",
+          "text": "Akhirnya, jadilah kuat dalam Tuhan dan dalam kuat kuasa-Nya.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Pakailah seluruh perlengkapan senjata Allah supaya kamu dapat berdiri melawan tipu daya Iblis.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Sebab, perjuangan kita bukan melawan daging dan darah, tetapi melawan pemerintah-pemerintah, penguasa-penguasa, kekuatan-kekuatan dunia kegelapan ini, dan melawan kekuatan roh dari si jahat yang ada di langit.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Karena itu, pakailah seluruh perlengkapan senjata Allah supaya kamu dapat tetap bertahan saat hari yang jahat itu datang, dan setelah semuanya selesai kamu tetap berdiri.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Jadi, berdirilah teguh, dengan mengencangkan ikat pinggang kebenaran di seputar pinggangmu dan pakailah baju zirah keadilan,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "dan pasanglah alas kakimu dengan kesiapan Injil damai sejahtera.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Dalam segala hal, ambillah perisai iman untuk kamu dapat memadamkan semua panah api dari si jahat.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Ambillah ketopong keselamatan serta pedang Roh, yaitu firman Allah,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "sambil berdoa setiap waktu dalam Roh dengan semua doa dan permohonan. Dalam doamu itu, berjaga-jagalah dengan segala ketekunan sambil menaikkan semua permohonan bagi semua orang kudus.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Berdoalah juga untuk aku supaya ketika aku membuka mulutku, perkataan dikaruniakan kepadaku sehingga aku dengan berani memberitakan rahasia Injil.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Karena Injil itulah, aku menjadi utusan yang terbelenggu. Doakanlah agar aku dapat memberitakannya dengan berani sebagaimana seharusnya aku berbicara.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": "Salam Terakhir",
+          "text": "Tikhikus, saudara seimanku yang terkasih dan pelayan yang setia dalam Tuhan, akan memberitahukan segala sesuatu kepadamu supaya kamu juga tahu bagaimana keadaanku dan apa yang aku perbuat.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Aku memang mengutus dia kepadamu untuk tujuan ini, yaitu supaya kamu tahu kabar kami dan supaya ia dapat menghibur hatimu.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Damai sejahtera bagi saudara-saudara seiman, dan kasih dengan iman dari Allah Bapa dan Tuhan Yesus Kristus.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Anugerah menyertai semua orang yang mengasihi Tuhan kita, Kristus Yesus, dengan kasih yang tidak akan binasa.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
