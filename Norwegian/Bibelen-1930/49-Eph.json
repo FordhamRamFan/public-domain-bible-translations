@@ -1,0 +1,980 @@
+{
+  "book": "Ephesians",
+  "abbreviation": "Eph",
+  "number": 49,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulus, ved Guds vilje Kristi Jesu apostel - til de hellige i Efesus, som tror på Kristus Jesus:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Nåde være med eder og fred fra Gud vår Fader og den Herre Jesus Kristus!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Lovet være Gud og vår Herre Jesu Kristi Fader, han som har velsignet oss med all åndelig velsignelse i himmelen i Kristus,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "likesom han utvalgte oss i ham før verdens grunnvoll blev lagt, forat vi skulde være hellige og ulastelige for hans åsyn,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "idet han i kjærlighet forut bestemte oss til å få barnekår hos sig ved Jesus Kristus efter sin viljes frie råd,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "til pris for sin nådes herlighet, som han gav oss i den elskede,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "i hvem vi har forløsningen ved hans blod, syndenes forlatelse, efter hans nådes rikdom,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "som han rikelig gav oss i og med all visdom og forstand,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "idet han kunngjorde oss sin viljes hemmelighet efter sitt frie råd, som han fattet hos sig selv",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "om en husholdning i tidenes fylde: at han atter vilde samle alt til ett i Kristus, både det som er i himlene, og det som er på jorden;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "han i hvem vi også har fått arvelodd, efterat vi forut var bestemt til det efter hans forsett som virker alt efter sin viljes råd,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "forat vi skulde være hans hellighet til pris, vi som forut hadde håpet på Kristus;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "i ham har også I, da I hadde hørt sannhetens ord, evangeliet om eders frelse - i ham har I og, da I var kommet til troen, fått til innsegl den Hellige Ånd, som var oss lovt,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "han som er pantet på vår arv til eiendomsfolkets forløsning, hans herlighet til pris.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Derfor, efterat jeg har hørt om eders tro på den Herre Jesus og om eders kjærlighet til alle de hellige,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "holder jeg ikke op med å takke for eder når jeg kommer eder i hu i mine bønner,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "at vår Herre Jesu Kristi Gud, herlighetens Fader, måtte gi eder visdoms og åpenbarings Ånd til kunnskap om sig,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "og gi eders hjerte oplyste øine, så I kan forstå hvilket håp det er han har kalt eder til, og hvor rik på herlighet hans arv er iblandt de hellige,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "og hvor overvettes stor hans makt er for oss som tror, efter virksomheten av hans veldige kraft,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "som han viste på Kristus da han opvakte ham fra de døde og satte ham ved sin høire hånd i himmelen,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "over enhver makt og myndighet og velde og herredom og ethvert navn som nevnes, ikke bare i denne verden, men også i den kommende,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "og han la alt under hans føtter og gav ham som hoved over alle ting til menigheten,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "som er hans legeme, fylt av ham som fyller alt i alle.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Også eder har han gjort levende, I som var døde ved eders overtredelser og synder,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "som I fordum vandret i efter denne verdens løp, efter høvdingen over luftens makter, den ånd som nu er virksom i vantroens barn,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "blandt hvilke også vi alle fordum vandret i vårt kjøds lyster, idet vi gjorde kjødets og tankenes vilje, og vi var av naturen vredens barn likesom de andre.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Men Gud, som er rik på miskunn, har for sin store kjærlighets skyld som han elsket oss med,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "gjort oss levende med Kristus, enda vi var døde ved våre overtredelser - av nåde er I frelst -",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "og opvakt oss med ham og satt oss med ham i himmelen, i Kristus Jesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "forat han i de kommende tider kunde vise sin nådes overvettes rikdom i godhet mot oss i Kristus Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "For av nåde er I frelst, ved tro, og det ikke av eder selv, det er Guds gave,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "ikke av gjerninger, forat ikke nogen skal rose sig.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "For vi er hans verk, skapt i Kristus Jesus til gode gjerninger, som Gud forut har lagt ferdige, at vi skulde vandre i dem.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Kom derfor i hu at I som fordum var hedninger i kjøttet og blev kalt uomskårne av den såkalte omskjærelse på kjøttet, den som gjøres med hånden,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "at I på den tid stod utenfor Kristus, utelukket fra Israels borgerrett og fremmede for paktene med deres løfte, uten håp og uten Gud i verden;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "men nu, i Kristus Jesus, er I som fordum var langt borte, kommet nær til ved Kristi blod.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "For han er vår fred, han som gjorde de to til ett og nedrev gjerdets skillevegg, fiendskapet,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "idet han ved sitt kjød avskaffet den lov som kom med bud og forskrifter, forat han ved sig selv kunde skape de to til ett nytt menneske, idet han gjorde fred,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "og forlike dem begge i ett legeme med Gud ved korset, idet han på dette drepte fiendskapet.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Og han kom og forkynte fred for eder som var langt borte, og fred for dem som var nær ved;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "for ved ham har vi begge adgang til Faderen i en Ånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Så er I da ikke lenger fremmede og utlendinger, men I er de helliges medborgere og Guds husfolk,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "I som er bygget op på apostlenes og profetenes grunnvoll, mens hjørnestenen er Kristus Jesus selv,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "i hvem hver bygning føies sammen og vokser til et hellig tempel i Herren,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "i hvem også I bygges op med de andre til en Guds bolig i Ånden.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Derfor bøier jeg mine knær, jeg, Paulus, Kristi Jesu fange for eders skyld, I hedninger -",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "om I ellers har hørt om husholdningen med den Guds nåde som er mig gitt for eder,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "at han ved åpenbaring har kunngjort mig hemmeligheten, således som jeg ovenfor har skrevet med få ord,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "hvorav I, når I leser det, kan kjenne min innsikt i Kristi hemmelighet,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "som i de forrige tidsaldre ikke er blitt kunngjort for menneskenes barn således som den nu er åpenbaret for hans hellige apostler og profeter i Ånden:",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "at hedningene er medarvinger og hører med til legemet og har del med i løftet i Kristus Jesus ved evangeliet,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "hvis tjener jeg er blitt efter den Guds nådes gave som er mig gitt ved virksomheten av hans makt.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Mig, den aller ringeste av alle hellige, blev denne nåde gitt å forkynne hedningene evangeliet om Kristi uransakelige rikdom,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "og å oplyse alle om hvorledes husholdningen er med den hemmelighet som har vært skjult fra evige tider i Gud, som har skapt alt,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "forat Guds mangfoldige visdom nu ved menigheten skulde bli kunngjort for maktene og myndighetene i himmelen",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "efter det forsett fra evige tider som han fullførte i Kristus Jesus, vår Herre,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "i hvem vi har vår frimodighet og adgang med tillit ved troen på ham.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Derfor beder jeg at I ikke må tape motet over mine trengsler for eder, som er eders ære. -",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Derfor altså bøier jeg mine knær for Faderen,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "som er den rette far for alt som kalles barn i himmelen og på jorden,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "at han efter sin herlighets rikdom må gi eder å styrkes med kraft ved hans Ånd i eders innvortes menneske,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "at Kristus må bo ved troen i eders hjerter,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "så I, rotfestet og grunnfestet i kjærlighet, må være i stand til å fatte med alle de hellige hvad bredde og lengde og dybde og høide der er,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "og kjenne Kristi kjærlighet, som overgår all kunnskap, forat I kan fylles til all Guds fylde.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Men ham som kan gjøre mere enn alt, langt ut over det som vi beder eller forstår, efter den kraft som ter sig virksom i oss,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "ham være æren i menigheten og i Kristus Jesus, gjennem alle slekter i alle evigheter! Amen.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Jeg formaner eder altså, jeg, den fangne i Herren, at I vandrer så som verdig er for det kall som I er kalt med,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "med all ydmykhet og saktmodighet, med langmodighet, så I tåler hverandre i kjærlighet,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "idet I legger vinn på å bevare Åndens enhet i fredens sambånd.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Ett legeme og én Ånd, likesom I og er kalt med ett håp i eders kall;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "én Herre, én tro, én dåp,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "én Gud og alles Fader, han som er over alle og gjennem alle og i alle.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Men hver og en av oss er nåden gitt efter det mål som Kristi gave tilmåles med.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Derfor sier Skriften: Han fór op i det høie og bortførte fanger, han gav menneskene gaver.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Men dette: Han fór op, hvad er det uten at han først fór ned til jordens lavere deler?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Han som fór ned, er den samme som fór op over alle himler for å fylle alt.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Og det er han som gav oss nogen til apostler, nogen til profeter, nogen til evangelister, nogen til hyrder og lærere,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "forat de hellige kunde bli fullkommengjort til tjenestegjerning, til Kristi legemes opbyggelse,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "inntil vi alle når frem til enhet i tro på Guds Sønn og i kjennskap til ham, til manns modenhet, til aldersmålet for Kristi fylde,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "forat vi ikke lenger skal være umyndige og la oss kaste og drive om av ethvert lærdoms vær ved menneskenes spill, ved kløkt i villfarelsens kunster,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "men at vi, sannheten tro i kjærlighet, i alle måter skal vokse op til ham som er hovedet, Kristus,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "av hvem hele legemet sammenføies og sammenknyttes ved hvert bånd som han gir, og vokser sin vekst som legeme til sin opbyggelse i kjærlighet, alt efter den virksomhet som er tilmålt hver del især.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Dette sier jeg da og vidner i Herren at I ikke lenger skal vandre som hedningene vandrer i sitt sinns tomhet,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "formørket i sin tanke, fremmedgjort for Guds liv ved den vankundighet som er i dem på grunn av deres hjertes forherdelse,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "de som følelsesløse har overgitt sig til skamløshet, så de driver all urenhet tillikemed havesyke.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Men I har ikke lært Kristus således å kjenne,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "om I ellers har hørt om ham og er blitt oplært i ham, således som sannhet er i Jesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "at I efter eders forrige ferd skal avlegge det gamle menneske, som forderves ved de dårende lyster,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "men fornyes i eders sinns ånd",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "og iklæ eder det nye menneske, som er skapt efter Gud i sannhetens rettferdighet og hellighet.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Derfor, avlegg løgnen og tal sannhet, enhver med sin næste, fordi vi er hverandres lemmer!",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Om I vredes, da synd ikke; la ikke solen gå ned over eders vrede,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "og gi ikke djevelen rum!",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Den som stjal, stjele ikke lenger, men arbeide heller, idet han gjør noget godt med sine hender, forat han kan ha noget å gi til den som trenger.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Ingen råtten tale gå ut av eders munn, men sådan tale som er god til nødvendig opbyggelse, så den kan være til gagn for dem som hører på;",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "og gjør ikke Guds Hellige Ånd sorg, han som I har fått til innsegl til forløsningens dag!",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Allslags bitterhet og hissighet og vrede og skrik og spott være langt borte fra eder, likesom all ondskap;",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "men vær gode mot hverandre, barmhjertige, så I tilgir hverandre, likesom Gud har tilgitt eder i Kristus!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Bli derfor Guds efterfølgere som hans elskede barn,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "og vandre i kjærlighet, likesom Kristus elsket eder og gav sig selv for oss som en gave og et offer, Gud til en velbehagelig duft.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Men utukt og all urenhet og havesyke må ikke engang nevnes iblandt eder, således som det sømmer sig for hellige,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "heller ikke skamløs ferd og dårlig snakk eller lettferdig tale, som alt sammen er utilbørlig, men heller takksigelse.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "For dette vet og skjønner I at ingen horkarl eller uren eller havesyk, som er en avgudsdyrker, har arv i Kristi og Guds rike.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "La ingen dåre eder med tomme ord! for på grunn av disse ting kommer Guds vrede over vantroens barn;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ha derfor ikke noget med dem å gjøre!",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "For I var fordum mørke, men nu er I lys i Herren; vandre som lysets barn -",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "for lysets frukt viser sig i all godhet og rettferdighet og sannhet -",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "idet I prøver hvad som er velbehagelig for Herren,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "og ha intet å gjøre med mørkets ufruktbare gjerninger, men refs dem heller!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "For det som lønnlig drives av dem, er skammelig endog å si;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "men når det refses, blir det alt åpenbaret av lyset; for alt som blir åpenbaret, er lys.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Derfor sier Skriften: Våkn op, du som sover, og stå op fra de døde, og Kristus skal lyse for dig.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Se derfor til hvorledes I kan vandre varlig, ikke som uvise, men som vise,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "så I kjøper den beleilige tid; for dagene er onde.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Derfor, vær ikke dårer, men forstå hvad Herrens vilje er!",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Og drikk eder ikke drukne av vin, for i det er der ryggesløshet, men bli fylt av Ånden,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "så I taler til hverandre med salmer og lovsanger og åndelige viser, og synger og leker for Herren i eders hjerter,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "og alltid sier Gud og Faderen takk for alle ting i vår Herre Jesu Kristi navn,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "og underordner eder under hverandre i Kristi frykt.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "I hustruer! underordne eder under eders egne menn som under Herren!",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "for mannen er hustruens hoved, likesom Kristus er menighetens hoved, han som er sitt legemes frelser.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Men likesom menigheten underordner sig under Kristus, således skal også hustruene underordne sig under sine menn i alle ting.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "I menn! elsk eders hustruer, likesom Kristus elsket menigheten og gav sig selv for den,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "for å hellige den, idet han renset den ved vannbadet i ordet,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "forat han selv kunde fremstille menigheten for sig i herlighet, uten plett eller rynke eller noget sådant, men at den kunde være hellig og ulastelig.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Så er mennene skyldige å elske sine hustruer som sine egne legemer. Den som elsker sin hustru, elsker sig selv;",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "ingen har jo nogensinne hatet sitt eget kjød, men han før og varmer det, likesom Kristus gjør med menigheten;",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "for vi er hans legemes lemmer.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Derfor skal mannen forlate far og mor og holde sig til sin hustru, og de to skal være ett kjød.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Denne hemmelighet er stor; men jeg tenker hermed på Kristus og på menigheten.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Dog, også I skal elske, enhver sin hustru som sig selv, og hustruen skal ha ærefrykt for sin mann.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "I barn! vær lydige mot eders foreldre i Herren! for dette er rett.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hedre din far og din mor - dette er det første bud med løfte -",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "forat det må gå dig vel, og du må lenge leve i landet.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Og I fedre! egg ikke eders barn til vrede, men fostre dem op i Herrens tukt og formaning!",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "I tjenere! vær lydige mot eders herrer efter kjødet, med frykt og beven, i eders hjertes enfold, som mot Kristus,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "ikke med øientjeneste, som de som vil tekkes mennesker, men som Kristi tjenere, så I gjør Guds vilje av hjertet",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "og med villig hu tjener som for Herren og ikke som for mennesker,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "da I vet at hvad godt enhver gjør, det skal han få igjen av Herren, enten han er tjener eller fri.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Og I herrer! gjør likeså mot dem, så I lar være å true, da I vet at både deres og eders Herre er i himlene, og han gjør ikke forskjell på folk.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "For øvrig - bli sterke i Herren og i hans veldes kraft!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Iklæ eder Guds fulle rustning, så I kan stå eder mot djevelens listige angrep;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "for vi har ikke kamp mot blod og kjød, men mot makter, mot myndigheter, mot verdens herrer i dette mørke, mot ondskapens ånde-hær i himmelrummet.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Ta derfor Guds fulle rustning på, så I kan gjøre motstand på den onde dag og stå efter å ha overvunnet alt.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Så stå da omgjordet om eders lend med sannhet, og iklædd rettferdighetens brynje,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Og ombundet på føttene med den ferdighet til kamp som fredens evangelium gir,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "og grip foruten alt dette troens skjold, hvormed I skal kunne slukke alle den ondes brennende piler,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "og ta frelsens hjelm og Åndens sverd, som er Guds ord,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "idet I til enhver tid beder i Ånden med all bønn og påkallelse, og er årvåkne deri med all vedholdenhet og bønn for alle de hellige,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "og også for mig, at det må gis mig ord når jeg oplater min munn, så jeg med frimodighet kan kunngjøre evangeliets hemmelighet,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "for hvis skyld jeg er sendebud i lenker, at jeg må tale med frimodighet derom, således som jeg bør tale.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Men forat også I skal kjenne min tilstand, hvorledes jeg har det, skal Tykikus fortelle eder alt, han den elskede bror og tro tjener i Herren,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "som jeg just derfor sender til eder at I skal få vite hvorledes det er med oss, og at han skal trøste eders hjerter.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Fred være med brødrene, og kjærlighet med tro, fra Gud Fader og den Herre Jesus Kristus!",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Nåden være med alle dem som elsker vår Herre Jesus Kristus i uforgjengelighet!",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
