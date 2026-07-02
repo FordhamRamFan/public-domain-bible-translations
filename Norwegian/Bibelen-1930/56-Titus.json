@@ -1,0 +1,305 @@
+{
+  "book": "Titus",
+  "abbreviation": "Titus",
+  "number": 56,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Paulus, Guds tjener og Jesu Kristi apostel til å føre Guds utvalgte til tro og til å kjenne den sannhet som hører til gudsfrykt,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "i håp om evig liv, som Gud, han som ikke lyver, har lovt fra evige tider,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "men nu i sin tid har han åpenbaret sitt ord i den forkynnelse som blev mig betrodd efter Guds, vår frelsers befaling",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "- til Titus, min ekte sønn i den felles tro; Nåde og fred fra Gud Fader og Kristus Jesus, vår frelser!",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Derfor lot jeg dig bli efter på Kreta at du skulde sette det i rette skikk som ennu stod tilbake, og innsette eldste i hver by, således som jeg foreskrev dig,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "om nogen er ulastelig, én kvinnes mann, og har troende barn som ikke har ondt ord på sig for ryggesløshet eller er gjenstridige.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "For en tilsynsmann skal være ulastelig som en Guds husholder, ikke selvgod, ikke vredladen, ikke drikkfeldig, ikke voldsom, ikke lysten efter ussel vinning,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "men gjestfri, glad i det gode, sindig, rettferdig, hellig, avholdende,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "en som holder fast ved det troverdige ord efter læren, forat han kan være i stand til både å formane ved den sunde lære og å tale til rette dem som sier imot.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "For der er mange gjenstridige, som farer med tomt snakk og dårer folks hu, helst de av omskjærelsen.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Disse skal en målbinde; for de nedriver hele hus ved å føre utilbørlig lære for ussel vinnings skyld.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "En av dem, deres egen profet, har sagt: Kreterne er alltid løgnere, onde dyr, late buker.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Dette vidnesbyrd er sant. Derfor skal du tale dem strengt til rette, forat de må bli sunde i troen,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "så de ikke gir sig av med jødiske eventyr og bud av mennesker som vender sig bort fra sannheten.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Alt er rent for de rene; men for de urene og vantro er intet rent; både deres sinn og deres samvittighet er urene.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "De sier at de kjenner Gud; men de fornekter ham med sine gjerninger, for de er vederstyggelige og ulydige og uduelige til all god gjerning.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Men tal du det som sømmer sig for den sunde lære,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "at gamle menn skal være edrue, verdige, sindige, sunde i troen, i kjærligheten, i tålmodet;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "likeså at gamle kvinner i sin ferd skal te sig som det sømmer sig for hellige, ikke fare med baktalelse, ikke være træler av drikk, men veiledere i det gode,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "forat de kan lære de unge kvinner å elske sine menn og sine barn,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "å være sindige, rene, huslige, gode, lydige mot sine egne menn, forat Guds ord ikke skal bli spottet!",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "De unge menn skal du likeledes formane til å være sindige,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "idet du i alle måter ter dig selv som et forbillede i gode gjerninger, og i din lære viser renhet, verdighet,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "en sund, ulastelig tale, forat motstanderen må gå i sig selv, idet han ikke har noget ondt å si om oss.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Tjenere skal du formane til å være lydige mot sine egne herrer, i alle ting å tekkes dem, ikke å si imot,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "ikke å være utro, men vise all god troskap, forat de i alt kan være en pryd for Guds, vår frelsers lære.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "For Guds nåde er åpenbaret til frelse for alle mennesker,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "idet den optukter oss til å fornekte ugudelighet og de verdslige lyster og leve tuktig og rettferdig og gudfryktig i den nuværende verden,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "mens vi venter på det salige håp og åpenbarelsen av den store Guds og vår frelser Jesu Kristi herlighet,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "han som gav sig selv for oss for å forløse oss fra all urettferdighet og rense sig selv et eiendomsfolk, nidkjært til gode gjerninger.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Tal dette og forman og irettesett med all myndighet! La ingen ringeakte dig!",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Minn dem om å underordne sig under myndigheter og øvrigheter, å være lydige, rede til all god gjerning,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "ikke å spotte nogen, ikke å være stridslystne, men milde, og vise all saktmodighet mot alle mennesker.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "For også vi var engang uforstandige, ulydige, villfarende, træler av mangehånde begjæringer og lyster, vi levde i ondskap og avind, vi var forhatt og hatet hverandre;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "men da Guds, vår frelsers godhet og kjærlighet til menneskene blev åpenbaret,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "frelste han oss, ikke for rettferdige gjerningers skyld som vi hadde gjort, men efter sin miskunn, ved badet til gjenfødelse og fornyelse ved den Hellige Ånd,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "som han rikelig har utøst over oss ved Jesus Kristus, vår frelser.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "forat vi, rettferdiggjort ved hans nåde, efter håpet skulde bli arvinger til det evige liv.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Det er et troverdig ord, og dette vil jeg at du skal innprente, forat de som tror på Gud, må legge vinn på å gjøre gode gjerninger. Dette er godt og nyttig for menneskene;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "men dårlige stridsspørsmål og ættetavler og kiv og trette om loven skal du holde dig fra; for de er unyttige og gagnløse.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et menneske som gir sig av med vranglære, skal du vise fra dig, efterat du har formant ham én gang og én gang til,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "for du vet at han er forvendt og synder, dømt av sig selv.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Når jeg sender Artemas eller Tykikus til dig, da gjør dig umak for å komme til mig i Nikopolis; for der har jeg tenkt å bli vinteren over.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Zenas, den lovkyndige, og Apollos skal du med omhu hjelpe på vei, forat intet skal fattes dem.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Også våre må lære å gjøre gode gjerninger, alt efter som det er trang til, forat de ikke skal være uten frukt.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Alle som er hos mig, hilser dig. Hils dem som elsker oss i troen! Nåden være med eder alle!",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

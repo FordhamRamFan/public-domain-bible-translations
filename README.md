@@ -30,6 +30,7 @@ A collection of Bible translations in a consistent, machine-readable JSON format
 | Japanese | Kougo-yaku | KJA | 1955 | Protestant (66 books) | public domain |
 | Korean | Korean Revised Version | KRV | 1961 | Protestant (66 books) | public domain |
 | Latin | Clementine Vulgate | VUL | 1592 | Catholic (73 books) | public domain |
+| Norwegian | Det Norske Bibelselskap 1930 | NO1930 | 1930 | Protestant (66 books) | public domain |
 | Persian | Old Persian Translation | OPT | 1895 | Protestant (66 books) | public domain |
 | Portuguese | Almeida Bible | ALM | — | Protestant (66 books) | public domain |
 | Russian | Russian Synodal Bible | RSB | 1876 | Protestant (66 books) | public domain |
