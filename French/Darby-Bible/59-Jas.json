@@ -1,0 +1,756 @@
+{
+  "book": "Jacques",
+  "abbreviation": "Jas",
+  "number": 59,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Jacques, esclave de Dieu et du seigneur Jésus Christ, aux douze tribus qui sont dans la dispersion, salut !",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Estimez-le comme une parfaite joie, mes frères, quand vous serez en butte à diverses tentations,",
+          "footnotes": [
+            "litt. : toute."
+          ]
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "sachant que l’épreuve de votre foi produit la patience.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Mais que la patience ait son œuvre parfaite, afin que vous soyez parfaits et accomplis, ne manquant de rien.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et si quelqu’un de vous manque de sagesse, qu’il demande à Dieu qui donne à tous libéralement et qui ne fait pas de reproches, et il lui sera donné ;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "mais qu’il demande avec foi, ne doutant nullement ; car celui qui doute est semblable au flot de la mer, agité par le vent et jeté çà et là ;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "or que cet homme-là ne pense pas qu’il recevra quoi que ce soit du Seigneur :",
+          "footnotes": [
+            "litt. : car."
+          ]
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "il est un homme incertain dans ses pensées, inconstant dans toutes ses voies.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Or que le frère de basse condition se glorifie dans son élévation,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et le riche dans son abaissement, car il passera comme la fleur de l’herbe.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Car le soleil s’est levé avec sa brûlante chaleur et a séché l’herbe, et sa fleur est tombée, et la grâce de sa forme a péri : ainsi aussi le riche se flétrira dans ses voies.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Bienheureux est l’homme qui endure la tentation ; car, quand il aura été manifesté fidèle par l’épreuve il recevra la couronne de vie, qu’Il a promise à ceux qui l’aiment.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Que nul, quand il est tenté, ne dise : Je suis tenté par Dieu ; – car Dieu ne peut être tenté par le mal, et lui ne tente personne.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mais chacun est tenté, étant attiré et amorcé par sa propre convoitise ;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "puis la convoitise, ayant conçu, enfante le péché ; et le péché, étant consommé, produit la mort.",
+          "footnotes": [
+            "litt. : engendre."
+          ]
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Ne vous égarez pas, mes frères bien-aimés :",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "tout ce qui nous est donné de bon et tout don parfait descendent d’en haut, du Père des lumières, en qui il n’y a pas de variation ou d’ombre de changement.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "De sa propre volonté, il nous a engendrés par la parole de la vérité, pour que nous soyons une sorte de prémices de ses créatures.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ainsi, mes frères bien-aimés, que tout homme soit prompt à écouter, lent à parler, lent à la colère ;",
+          "footnotes": [
+            "d’autres lisent : Sachez-le."
+          ]
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "car la colère de l’homme n’accomplit pas la justice de Dieu.",
+          "footnotes": [
+            "ou : n’opère pas."
+          ]
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "C’est pourquoi, rejetant toute saleté et tout débordement de malice, recevez avec douceur la parole implantée, qui a la puissance de sauver vos âmes.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Mais mettez la parole en pratique, et ne l’écoutez pas seulement, vous séduisant vous-mêmes.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Car si quelqu’un écoute la parole et ne la met pas en pratique, il est semblable à un homme qui considère sa face naturelle dans un miroir ;",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "car il s’est considéré lui-même et s’en est allé, et aussitôt il a oublié quel il était.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Mais celui qui aura regardé de près dans la loi parfaite, celle de la liberté, et qui aura persévéré, n’étant pas un auditeur oublieux, mais un faiseur d’œuvre, celui-là sera bienheureux dans son faire.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Si quelqu’un pense être religieux et qu’il ne tienne pas sa langue en bride, mais séduise son cœur, le service religieux de cet homme est vain.",
+          "footnotes": [
+            "ou : paraît."
+          ]
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Le service religieux pur et sans tache devant Dieu le Père, est celui-ci : de visiter les orphelins et les veuves dans leur affliction, de se conserver pur du monde.",
+          "footnotes": [
+            "litt. : Dieu et Père."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mes frères, n’ayez pas la foi de notre seigneur Jésus Christ, [seigneur] de gloire, en faisant acception de personnes.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Car s’il entre dans votre synagogue un homme portant une bague d’or, en vêtements éclatants, et qu’il entre aussi un pauvre en vêtements sales,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et que vous regardiez vers celui qui porte les vêtements éclatants, et que vous disiez : Toi, assieds-toi ici à ton aise ; et que vous disiez au pauvre : Toi, tiens-toi là debout ; ou : Assieds-toi ici au bas de mon marchepied ;",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "n’avez-vous pas fait une distinction en vous-mêmes, et n’êtes-vous pas devenus des juges ayant de mauvaises pensées ?",
+          "footnotes": [
+            "ou : entre vous."
+          ]
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Écoutez, mes frères bien-aimés : Dieu n’a-t-il pas choisi les pauvres quant au monde, riches en foi et héritiers du royaume qu’il a promis à ceux qui l’aiment ?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mais vous, vous avez méprisé le pauvre. Les riches ne vous oppriment-ils pas, et ne sont-ce pas eux qui vous tirent devant les tribunaux ?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Ne sont-ce pas eux qui blasphèment le beau nom qui a été invoqué sur vous ?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Si en effet vous accomplissez la loi royale, selon l’écriture : « Tu aimeras ton prochain comme toi-même », vous faites bien ;",
+          "footnotes": [
+            "ou : la loi royale selon.",
+            "Lévitique 19. 18."
+          ]
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "mais si vous faites acception de personnes, vous commettez le péché, et vous êtes convaincus par la loi comme transgresseurs.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Car quiconque gardera toute la loi et faillira en un seul point, est coupable sur tous.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Car celui qui a dit : « Tu ne commettras pas adultère », a dit aussi : « Tu ne tueras pas ». Or si tu ne commets pas adultère, mais que tu tues, tu es devenu transgresseur de [la] loi.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Ainsi parlez, et ainsi agissez comme devant être jugés par la loi de la liberté ;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "car le jugement est sans miséricorde pour celui qui n’a pas usé de miséricorde. La miséricorde se glorifie vis-à-vis du jugement.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mes frères, quel profit y a-t-il si quelqu’un dit qu’il a la foi, et qu’il n’ait pas d’œuvres ? La foi peut-elle le sauver ?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et si un frère ou une sœur sont nus et manquent de leur nourriture de tous les jours,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "et que quelqu’un d’entre vous leur dise : Allez en paix, chauffez-vous et rassasiez-vous, – et que vous ne leur donniez pas les choses nécessaires pour le corps, quel profit y a-t-il ?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "De même aussi la foi, si elle n’a pas d’œuvres, est morte par elle-même.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Mais quelqu’un dira : Tu as la foi, et moi j’ai des œuvres. Montre-moi ta foi sans œuvres, et moi, par mes œuvres, je te montrerai ma foi.",
+          "footnotes": [
+            "ou : sur le principe de, ici et v. 21-25."
+          ]
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Tu crois que Dieu est un ; tu fais bien : les démons aussi croient, et ils frissonnent.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Mais veux-tu savoir, ô homme vain, que la foi sans les œuvres est morte ?",
+          "footnotes": [
+            "pl. : nulle."
+          ]
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Abraham, notre père, n’a-t-il pas été justifié par des œuvres, ayant offert son fils Isaac sur l’autel ?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Tu vois que la foi agissait avec ses œuvres ; et par les œuvres la foi fut rendue parfaite.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Et l’écriture a été accomplie qui dit : « Et Abraham crut Dieu, et cela lui fut compté à justice » ; et il a été appelé ami de Dieu.",
+          "footnotes": [
+            "Genèse 15. 6."
+          ]
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Vous voyez qu’un homme est justifié par les œuvres et non par la foi seulement.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Et pareillement Rahab aussi, la prostituée, n’a-t-elle pas été justifiée par les œuvres, ayant reçu les messagers et les ayant mis dehors par un autre chemin ?",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Car comme le corps sans esprit est mort, ainsi aussi la foi sans les œuvres est morte.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ne soyez pas beaucoup de docteurs, mes frères, sachant que nous en recevrons un jugement plus sévère ;",
+          "footnotes": [
+            "docteur, celui qui enseigne."
+          ]
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "car nous faillissons tous à plusieurs égards. Si quelqu’un ne faillit pas en paroles, celui-là est un homme parfait, capable de tenir aussi tout le corps en bride.",
+          "footnotes": [
+            "ou : souvent."
+          ]
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Voici, nous mettons les mors des chevaux dans leurs bouches, pour qu’ils nous obéissent, et nous dirigeons çà et là leur corps tout entier.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Voici, les navires aussi, qui sont si grands et qui sont poussés par des vents violents, sont dirigés çà et là par un très petit gouvernail, où que ce soit que le veuille l’impulsion de celui qui les gouverne.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ainsi aussi la langue est un petit membre et elle se vante de grandes choses. Voici, un petit feu, quelle grande forêt allume-t-il !",
+          "footnotes": [
+            "ou : combien de bois."
+          ]
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et la langue est un feu. La langue, un monde d’iniquité, est établie parmi nos membres ; c’est elle qui souille tout le corps, et enflamme tout le cours de la nature, et est enflammée par la géhenne.",
+          "footnotes": [
+            "ailleurs aussi : injustice."
+          ]
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Car toute espèce de bêtes sauvages et d’oiseaux, de reptiles et d’animaux marins, se dompte et a été domptée par l’espèce humaine ;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "mais pour la langue, aucun des hommes ne peut la dompter : c’est un mal désordonné, plein d’un venin mortel.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Par elle nous bénissons le Seigneur et Père, et par elle nous maudissons les hommes faits à la ressemblance de Dieu ;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "de la même bouche procède la bénédiction et la malédiction. Mes frères, il ne devrait pas en être ainsi.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Une fontaine fait-elle jaillir par une même ouverture le doux et l’amer ?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mes frères, un figuier peut-il produire des olives, ou une vigne, des figues ? De l’eau salée ne peut pas non plus faire de l’eau douce.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Qui est sage et intelligent parmi vous ? Que par une bonne conduite il montre ses œuvres avec la douceur de la sagesse.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Mais si vous avez une jalousie amère et un esprit de querelle dans vos cœurs, ne vous glorifiez pas et ne mentez pas contre la vérité.",
+          "footnotes": [
+            "contre la véritése lie à glorifiez, comme à mentez."
+          ]
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ce n’est pas là la sagesse qui descend d’en haut, mais [une sagesse] terrestre, animale, diabolique.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Car où il y a de la jalousie et un esprit de querelle, là il y a du désordre et toute espèce de mauvaises actions.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Mais la sagesse d’en haut est premièrement pure, ensuite paisible, modérée, traitable, pleine de miséricorde et de bons fruits, sans partialité, sans hypocrisie.",
+          "footnotes": [
+            "ou : pas contentieuse."
+          ]
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Or le fruit de la justice, dans la paix, se sème pour ceux qui procurent la paix.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "D’où viennent les guerres, et d’où les batailles parmi vous ? N’est-ce pas de cela, de vos voluptés qui combattent dans vos membres ?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Vous convoitez, et vous n’avez pas ; vous tuez et vous avez d’ardents désirs, et vous ne pouvez obtenir ; vous contestez et vous faites la guerre ; vous n’avez pas, parce que vous ne demandez pas ;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "vous demandez, et vous ne recevez pas, parce que vous demandez mal, afin de le dépenser pour vos voluptés.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Adultères, ne savez-vous pas que l’amitié du monde est inimitié contre Dieu ? Quiconque donc voudra être ami du monde, se constitue ennemi de Dieu.",
+          "footnotes": [
+            "le mot est au féminin."
+          ]
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Ou pensez-vous que l’écriture parle en vain ? L’Esprit qui demeure en nous, désire-t-il avec envie ?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Mais il donne une plus grande grâce. C’est pourquoi il dit : « Dieu résiste aux orgueilleux, mais il donne [la] grâce aux humbles ».",
+          "footnotes": [
+            "Proverbes 3. 34."
+          ]
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Soumettez-vous donc à Dieu. Résistez au diable, et il s’enfuira de vous.",
+          "footnotes": [
+            "pl. ajoutent : Mais."
+          ]
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Approchez-vous de Dieu, et il s’approchera de vous. Nettoyez vos mains, pécheurs, et purifiez vos cœurs, vous qui êtes doubles de cœur.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Sentez vos misères, et menez deuil et pleurez. Que votre rire se change en deuil, et votre joie en tristesse.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Humiliez-vous devant le ✶Seigneur, et il vous élèvera.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ne parlez pas l’un contre l’autre, frères. Celui qui parle contre son frère ou qui juge son frère, parle contre la loi et juge la loi. Or si tu juges la loi, tu n’es pas un observateur de la loi, mais un juge.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Un seul est législateur et juge, celui qui peut sauver et détruire ; mais toi, qui es-tu qui juges ton prochain ?",
+          "footnotes": [
+            "ou : juge qui peut."
+          ]
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "À vous maintenant, qui dites : Aujourd’hui ou demain nous irons dans telle ou telle ville, et nous y passerons une année, et nous trafiquerons et nous gagnerons,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "vous qui ne savez pas ce [qui arrivera] le jour de demain ; (car qu’est-ce que votre vie ? car elle n’est qu’une vapeur paraissant pour un peu de temps et puis disparaissant ;)",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "au lieu de dire : Si le Seigneur le veut et si nous vivons, nous ferons aussi ceci ou cela.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mais maintenant vous vous glorifiez dans vos vanteries. Toute jactance pareille est mauvaise.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Pour celui donc qui sait faire le bien et qui ne le fait pas, pour lui c’est pécher.",
+          "footnotes": [
+            "litt. : péché."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "À vous maintenant, riches ! Pleurez en poussant des cris, à cause des misères qui vont venir sur vous.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Vos richesses sont pourries et vos vêtements sont rongés par les vers ;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "votre or et votre argent sont rouillés, et leur rouille sera en témoignage contre vous et dévorera votre chair comme le feu : vous avez amassé un trésor dans les derniers jours.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Voici, le salaire des ouvriers qui ont moissonné vos champs et duquel ils ont été frustrés par vous, crie, et les cris de ceux qui ont moissonné sont parvenus aux oreilles du ✶Seigneur Sabaoth.",
+          "footnotes": [
+            "c.-à-d. : de l’Éternel (Jéhovah) des armées."
+          ]
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Vous avez vécu dans les délices sur la terre, et vous vous êtes livrés aux voluptés ; vous avez rassasié vos cœurs [comme] en un jour de sacrifice ;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "vous avez condamné, vous avez mis à mort le juste : il ne vous résiste pas.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Usez donc de patience, frères, jusqu’à la venue du Seigneur. Voici, le laboureur attend le fruit précieux de la terre, prenant patience à son égard, jusqu’à ce qu’il reçoive les pluies de la première et de la dernière saison.",
+          "footnotes": [
+            "ailleurs : constance, longanimité.",
+            "ailleurs : constance, longanimité."
+          ]
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Vous aussi, usez de patience ; affermissez vos cœurs, car la venue du Seigneur est proche.",
+          "footnotes": [
+            "ailleurs : constance, longanimité."
+          ]
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Ne murmurez pas les uns contre les autres, frères, afin que vous ne soyez pas jugés : voici, le juge se tient devant la porte.",
+          "footnotes": [
+            "litt. : gémissez."
+          ]
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Mes frères, prenez pour exemple de souffrance et de patience les prophètes qui ont parlé au nom du ✶Seigneur.",
+          "footnotes": [
+            "ou : mauvais traitement.",
+            "ailleurs : constance, longanimité."
+          ]
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Voici, nous disons bienheureux ceux qui endurent [l’épreuve avec patience]. Vous avez entendu parler de la patience de Job, et vous avez vu la fin du ✶Seigneur, [savoir] que le ✶Seigneur est plein de compassion et miséricordieux.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Mais avant toutes choses, mes frères, ne jurez pas, ni par le ciel, ni par la terre, ni par aucun autre serment ; mais que votre oui soit oui, et votre non, non, afin que vous ne tombiez pas sous le jugement.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Quelqu’un parmi vous est-il maltraité, qu’il prie. Quelqu’un est-il joyeux, qu’il chante des cantiques.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Quelqu’un parmi vous est-il malade, qu’il appelle les anciens de l’assemblée, et qu’ils prient pour lui en l’oignant d’huile au nom du Seigneur ;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "et la prière de la foi sauvera le malade, et le Seigneur le relèvera ; et s’il a commis des péchés, il lui sera pardonné.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Confessez donc vos fautes l’un à l’autre, et priez l’un pour l’autre, en sorte que vous soyez guéris : la fervente supplication du juste peut beaucoup.",
+          "footnotes": [
+            "pl. lisent : péchés.",
+            "ou : opérante."
+          ]
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Élie était un homme ayant les mêmes passions que nous, et il pria avec instance qu’il ne pleuve pas, et il ne tomba pas de pluie sur la terre durant trois ans et six mois ;",
+          "footnotes": [
+            "ou : des passions semblables aux nôtres.",
+            "litt. : avec prière."
+          ]
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "et il pria de nouveau, et le ciel donna de la pluie, et la terre produisit son fruit.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Mes frères, si quelqu’un parmi vous s’égare de la vérité, et que quelqu’un le ramène,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "qu’il sache que celui qui aura ramené un pécheur de l’égarement de son chemin, sauvera une âme de la mort et couvrira une multitude de péchés.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

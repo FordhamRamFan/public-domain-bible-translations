@@ -17,6 +17,7 @@ A collection of Bible translations in a consistent, machine-readable JSON format
 | English | King James Version | KJV | 1769 | Protestant (66 books) | public domain |
 | English | World English Bible | WEB | 2000 | Protestant (66 books) | public domain |
 | English | Young's Literal Translation | YLT | 1898 | Protestant (66 books) | public domain |
+| French | Bible J.N. Darby | JND | 1885 | Protestant (66 books) | public domain |
 | French | Louis Segond | LSG | 1910 | Protestant (66 books) | public domain |
 | German | Luther Bible | LUT | 1912 | Protestant (66 books) | public domain |
 | Greek | Robinson-Pierpont Greek New Testament | RP2018 | 2018 | NT only (27 books) | public domain |
