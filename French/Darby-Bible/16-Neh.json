@@ -1,0 +1,2711 @@
+{
+  "book": "Néhémie",
+  "abbreviation": "Neh",
+  "number": 16,
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Les paroles de Néhémie, fils de Hacalia. Et au mois de Kislev, la vingtième année, il arriva que, comme j’étais à Suse, la capitale,",
+          "footnotes": [
+            "c.-à-d. : d’Artaxerxès I, dit Longue-Main.",
+            "héb. : Shushan.",
+            "ou : forteresse, château fort."
+          ]
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Hanani, l’un de mes frères, lui et quelques hommes vinrent de Juda ; et je les interrogeai sur les Juifs, les réchappés qui étaient restés de la captivité, et au sujet de Jérusalem ;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et ils me dirent : Les restants, qui sont demeurés de reste de la captivité, là, dans la province, sont dans une grande misère et dans l’opprobre, et la muraille de Jérusalem est en ruine et ses portes sont brûlées par le feu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et lorsque j’entendis ces paroles, je m’assis et je pleurai ; et je menai deuil [plusieurs] jours, et je jeûnai, et je priai le Dieu des cieux,",
+          "footnotes": [
+            "litt. : priai devant."
+          ]
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "et je dis : Je te supplie, ô Éternel, Dieu des cieux, le ✶Dieu grand et terrible, qui gardes l’alliance et la bonté envers ceux qui t’aiment et qui gardent tes commandements !",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Je te prie, que ton oreille soit attentive et que tes yeux soient ouverts, pour écouter la prière de ton serviteur que je fais aujourd’hui devant toi, jour et nuit, pour les fils d’Israël tes serviteurs, et la confession [que je fais] touchant les péchés des fils d’Israël, que nous avons commis contre toi ; moi aussi et la maison de mon père, nous avons péché.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Nous avons très mal agi contre toi, et nous n’avons pas gardé les commandements et les statuts et les ordonnances que tu as commandés à ton serviteur Moïse.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Souviens-toi, je te prie, de la parole que tu as commandée à ton serviteur Moïse, en disant : Si vous êtes infidèles, je vous disperserai parmi les peuples ;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "et si vous revenez à moi, et que vous gardiez mes commandements et que vous les pratiquiez, quand vos dispersés seraient au bout des cieux, je les rassemblerai de là et je les ramènerai au lieu que j’ai choisi pour y faire demeurer mon nom.",
+          "footnotes": [
+            "litt. : vos chassés."
+          ]
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et ils sont tes serviteurs et ton peuple, que tu as rachetés par ta grande puissance et ta main forte.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Je te supplie, Seigneur, que ton oreille soit attentive à la prière de ton serviteur, et à la prière de tes serviteurs qui prennent plaisir à craindre ton nom ; et fais réussir aujourd’hui ton serviteur, je te prie, et donne-lui de trouver miséricorde devant cet homme. Or j’étais échanson du roi.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "*Et il arriva au mois de Nisan, la vingtième année du roi Artaxerxès, comme le vin était devant lui, que je pris le vin et le donnai au roi ; et je n’avais pas été triste en sa présence.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et le roi me dit : Pourquoi as-tu mauvais visage, et pourtant tu n’es pas malade ? Cela n’est rien que de la tristesse de cœur. Alors j’eus extrêmement peur.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et je dis au roi : Que le roi vive à toujours ! Pourquoi mon visage ne serait-il pas triste, quand la ville, le lieu des sépulcres de mes pères, est dévastée, et que ses portes sont consumées par le feu ?",
+          "footnotes": [
+            "litt. : la maison."
+          ]
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et le roi me dit : Que demandes-tu ? Et je priai le Dieu des cieux ;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "et je dis au roi : Si le roi le trouve bon, et si ton serviteur est agréable devant toi, qu’il m’envoie en Juda, à la ville des sépulcres de mes pères, et je la bâtirai.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Alors le roi me dit – et la reine était assise à son côté : – Combien de temps durera ton voyage, et quand reviendras-tu ? Et il plut au roi de m’envoyer, et je lui fixai un temps.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Et je dis au roi : Si le roi le trouve bon, qu’il me donne des lettres pour les gouverneurs de l’autre côté du fleuve, pour qu’ils me fassent passer jusqu’à ce que j’arrive en Juda,",
+          "footnotes": [
+            "c.-à-d. du payssitué à l’ouest de l’Euphrate."
+          ]
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "et une lettre pour Asaph, gardien de la forêt du roi, afin qu’il me donne du bois pour faire la charpente des portes du château fort attenant à la maison, et pour la muraille de la ville, et pour la maison dans laquelle je dois entrer. Et le roi me les donna, selon que la bonne main de mon Dieu était sur moi.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et je vins auprès des gouverneurs de l’autre côté du fleuve, et je leur donnai les lettres du roi ; or le roi avait envoyé avec moi des chefs de l’armée et des cavaliers.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et quand Sanballat, le Horonite, et Tobija, le serviteur ammonite, l’apprirent, ils furent très mécontents de ce qu’un homme soit venu pour chercher le bien des fils d’Israël.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Et j’arrivai à Jérusalem, et je fus là trois jours.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et je me levai de nuit, moi et le peu d’hommes qui étaient avec moi, – et je n’avais informé personne de ce que mon Dieu m’avait mis au cœur de faire pour Jérusalem – et je n’avais pas de bête avec moi, sinon la bête que je montais.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et je sortis de nuit, par la porte de la vallée, en face de la source du chacal, vers la porte du fumier ; et je considérai les murailles de Jérusalem qui étaient en ruine, et ses portes consumées par le feu.",
+          "footnotes": [
+            "ou : ravin."
+          ]
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Et je passai à la porte de la fontaine, et à l’étang du roi, et il n’y avait pas de place où puisse passer la bête qui était sous moi.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et je montai de nuit par le torrent, et je considérai la muraille ; et je m’en revins, et entrai par la porte de la vallée, et je m’en retournai.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Or les chefs ne savaient pas où j’étais allé, ni ce que je faisais ; et jusque-là je n’avais rien communiqué aux Juifs, ni aux sacrificateurs, ni aux nobles, ni aux chefs, ni aux autres qui s’occupaient de l’œuvre.",
+          "footnotes": [
+            "ou : gouverneurs; voir Esdras 9. 2.",
+            "ou : gouverneurs; voir Esdras 9. 2."
+          ]
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Et je leur dis : Vous voyez la misère dans laquelle nous sommes, que Jérusalem est dévastée et que ses portes sont brûlées par le feu. Venez et bâtissons la muraille de Jérusalem, afin que nous ne soyons plus dans l’opprobre.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Et je leur racontai comment la main de mon Dieu avait été bonne sur moi, et aussi les paroles du roi qu’il m’avait dites. Et ils dirent : Levons-nous et bâtissons. Et ils fortifièrent leurs mains pour bien faire.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Et quand Sanballat, le Horonite, et Tobija, le serviteur ammonite, et Guéshem, l’Arabe, l’apprirent, ils se moquèrent de nous et nous méprisèrent, et ils dirent : Qu’est-ce que vous faites là ? Voulez-vous vous révolter contre le roi ?",
+          "footnotes": [
+            "Gashmu, voir 6. 6."
+          ]
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Et je leur répondis et je leur dis : Le Dieu des cieux, lui, nous fera prospérer, et nous, ses serviteurs, nous nous lèverons et nous bâtirons ; mais vous, vous n’avez ni part, ni droit, ni souvenir à Jérusalem.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "*Alors Éliashib, le grand sacrificateur, et ses frères, les sacrificateurs, se levèrent et bâtirent la porte des brebis ; ils la sanctifièrent, et en posèrent les battants ; et ils la sanctifièrent jusqu’à la tour de Méa, jusqu’à la tour de Hananeël.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et à côté d’eux bâtirent les hommes de Jéricho ; et à côté d’eux bâtit Zaccur, fils d’Imri.",
+          "footnotes": [
+            "litt. : de lui.",
+            "litt. : de lui."
+          ]
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et les fils de Senaa bâtirent la porte des poissons ; ils en firent la charpenterie, et en posèrent les battants, les verrous et les barres.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et à côté d’eux répara Merémoth, fils d’Urie, fils d’Hakkots. Et à côté d’eux répara Meshullam, fils de Bérékia, fils de Meshézabeël. Et à côté d’eux répara Tsadok, fils de Baana.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et à côté d’eux réparèrent les Thekohites ; mais les principaux d’entre eux ne plièrent pas leur cou au service de leur Seigneur.",
+          "footnotes": [
+            "litt. : n’apportèrent."
+          ]
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et Jehoïada, fils de Paséakh, et Meshullam, fils de Besodia, réparèrent la porte du vieux [mur] ; ils en firent la charpenterie, et en posèrent les battants, et les verrous et les barres.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Et à côté d’eux réparèrent Melatia, le Gabaonite, et Jadon, le Méronothite, les hommes de Gabaon et de Mitspa, vers le siège du gouverneur de l’autre côté du fleuve.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "À côté d’eux répara Uziel, fils de Harhaïa, [l’un] des orfèvres ; et à côté de lui répara Hanania, d’entre les parfumeurs ; et ils laissèrent Jérusalem [en son état], jusqu’à la muraille large.",
+          "footnotes": [
+            "litt. : de lui.",
+            "litt. : fils des.",
+            "d’autres : et [les Chaldéens] avaient laissé intacts [les murs de] Jérusalem."
+          ]
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et à côté d’eux répara Rephaïa, fils de Hur, chef de la moitié du district de Jérusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et à côté d’eux répara Jedaïa, fils de Harumaph, savoir vis-à-vis de sa maison. Et à côté de lui répara Hattush, fils de Hashabnia.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Malkija, fils de Harim, et Hashub, fils de Pakhath-Moab, réparèrent une seconde portion et la tour des fours.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et à côté d’eux réparèrent Shallum, fils d’Hallokhesh, chef de la moitié du district de Jérusalem, lui et ses filles.",
+          "footnotes": [
+            "litt. : de lui."
+          ]
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Hanun et les habitants de Zanoakh réparèrent la porte de la vallée ; ils la bâtirent et posèrent ses battants, ses verrous et ses barres, et [firent] 1 000 coudées de la muraille, jusqu’à la porte du fumier.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Et Malkija, fils de Récab, chef du district de Beth-Hakkérem, répara la porte du fumier ; il la bâtit et posa ses battants, ses verrous et ses barres.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et Shallun, fils de Col-Hozé, chef du district de Mitspa, répara la porte de la fontaine ; il la bâtit et la couvrit, et posa ses battants, ses verrous et ses barres ; [il fit] aussi la muraille de l’étang de Siloé, près du jardin du roi, et jusqu’aux degrés qui descendent de la ville de David.",
+          "footnotes": [
+            "héb. : Shélakh.",
+            "la partie de Jérusalem, ainsi nommée."
+          ]
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Après lui Néhémie, fils d’Azbuk, chef de la moitié du district de Beth-Tsur, répara jusque vis-à-vis des sépulcres de David, et jusqu’à l’étang qui avait été fait, et jusqu’à la maison des hommes forts.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Et après lui réparèrent les Lévites : Rehum, fils de Bani. À côté de lui Hashabia, chef de la moitié du district de Kehila, répara pour son district.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Après lui réparèrent leurs frères, Bavvaï, fils de Hénadad, chef de la moitié du district de Kehila.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Et, à côté de lui, Ézer, fils de Jéshua, chef de Mitspa, répara une seconde portion, vis-à-vis de la montée de l’arsenal de l’angle.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Après lui, Baruc, fils de Zabbaï, répara avec zèle une autre portion, depuis l’angle jusqu’à l’entrée de la maison d’Éliashib, le grand sacrificateur.",
+          "footnotes": [
+            "héb. : seconde."
+          ]
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Après lui Merémoth, fils d’Urie, fils d’Hakkots, répara une autre portion, depuis l’entrée de la maison d’Éliashib jusqu’au bout de la maison d’Éliashib.",
+          "footnotes": [
+            "héb. : seconde."
+          ]
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Et après lui réparèrent les sacrificateurs, hommes de la plaine [du Jourdain].",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Après eux, Benjamin et Hashub réparèrent vis-à-vis de leur maison. Après eux, Azaria, fils de Maascéïa, fils d’Anania, répara à côté de sa maison.",
+          "footnotes": [
+            "litt. : lui.",
+            "litt. : lui."
+          ]
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Après lui, Binnuï, fils de Hénadad, répara une seconde portion, depuis la maison d’Azaria jusqu’à l’angle et jusqu’au coin.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Palal, fils d’Uzaï, [répara] vis-à-vis de l’angle et de la haute tour saillante de la maison du roi, qui touche à la cour de la prison. Après lui [répara] Pedaïa, fils de Parhosh.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "(Or les Nethiniens demeuraient en Ophel, jusque vis-à-vis de la porte des eaux au levant, et de la tour saillante.)",
+          "footnotes": [
+            "serviteurs subalternes du sanctuaire.",
+            "quartier de Jérusalem situé au sud-ouest de la montagne du temple."
+          ]
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Après lui, les Thekohites réparèrent une seconde portion, vis-à-vis de la grande tour saillante, et jusqu’au mur d’Ophel.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Les sacrificateurs réparèrent au-dessus de la porte des chevaux, chacun vis-à-vis de sa maison.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Après eux, Tsadok, fils d’Immer, répara vis-à-vis de sa maison. Et après lui répara Shemahia, fils de Shecania, gardien de la porte du levant.",
+          "footnotes": [
+            "litt. : lui."
+          ]
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Après lui, Hanania, fils de Shélémia, et Hanun, sixième fils de Tsalaph, réparèrent une seconde portion. Après eux, Meshullam, fils de Bérékia, répara vis-à-vis de sa demeure.",
+          "footnotes": [
+            "litt. : lui."
+          ]
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Après lui, Malkija, d’entre les orfèvres, répara jusqu’à la maison des Nethiniens et des commerçants, vis-à-vis de la porte de Miphkad, et jusqu’à la montée du coin.",
+          "footnotes": [
+            "litt. : fils des."
+          ]
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Et entre la montée du coin et la porte des brebis réparèrent les orfèvres et les commerçants.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "*Et il arriva que, lorsque Sanballat apprit que nous bâtissions la muraille, il se mit en colère et fut extrêmement irrité, et il se moqua des Juifs.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Et il parla devant ses frères et devant l’armée de Samarie, et dit : Que font ces faibles Juifs ? Les laissera-t-on faire ? Offriront-ils des sacrifices ? Achèveront-ils en un jour ? Feront-ils revivre les pierres des monceaux de poussière, quand elles sont brûlées ?",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Et Tobija, l’Ammonite, était à côté de lui, et il dit : Au reste, pour ce que ceux-ci bâtissent, si un renard y montait, il ferait crouler leur muraille de pierres.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "– Écoute, ô notre Dieu, car nous sommes méprisés, et fais retomber leur outrage sur leurs propres têtes, et livre-les au mépris dans un pays de captivité ;",
+          "footnotes": [
+            "ou : en butin."
+          ]
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "et ne couvre pas leur iniquité, et que leur péché ne soit pas effacé de devant toi, car ils ont provoqué ceux qui bâtissent.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Mais nous avons rebâti la muraille, et toute la muraille fut reliée jusqu’à la moitié ; et le peuple avait le cœur au travail.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Mais il arriva que, lorsque Sanballat et Tobija, et les Arabes, et les Ammonites, et les Asdodiens, apprirent que la réparation des murs de Jérusalem avançait, que les brèches commençaient à se fermer, ils se mirent dans une grande colère ;",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "et ils se liguèrent tous ensemble pour venir faire la guerre contre Jérusalem et pour lui causer du dommage.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et nous avons prié notre Dieu, et nous avons établi une garde contre eux, jour et nuit, à cause d’eux.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et Juda dit : Les forces des porteurs de fardeaux faiblissent, et il y a beaucoup de décombres : nous ne pouvons bâtir la muraille.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et nos ennemis disaient : Ils ne le sauront pas et ne le verront pas, jusqu’à ce que nous arrivions au milieu d’eux : et nous les tuerons, et nous ferons cesser l’ouvrage.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et il arriva que, comme les Juifs qui habitaient près d’eux vinrent et nous le dirent par dix fois, de tous les lieux d’où ils revenaient vers nous,",
+          "footnotes": [
+            "héb. : vous reveniez."
+          ]
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "j’établis [des postes] dans les endroits bas, dans l’espace derrière la muraille, en des lieux découverts, et je plaçai le peuple par familles avec leurs épées, leurs piques et leurs arcs.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Et je regardai et je me levai, et je dis aux nobles et aux chefs, et au reste du peuple : Ne les craignez pas ; souvenez-vous du Seigneur, qui est grand et terrible, et combattez pour vos frères, pour vos fils et pour vos filles, pour vos femmes et pour vos maisons.",
+          "footnotes": [
+            "ou : gouverneurs; voir Esdras 9. 2."
+          ]
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et quand nos ennemis apprirent que nous étions informés, et que Dieu avait dissipé leur conseil, il arriva que nous sommes tous retournés à la muraille, chacun à son travail.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et, dès ce jour-là, la moitié de mes jeunes hommes travaillait à l’œuvre, et la moitié tenait les piques, et les boucliers, et les arcs, et les cuirasses ; et les chefs étaient derrière toute la maison de Juda.",
+          "footnotes": [
+            "petits boucliers, écus."
+          ]
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Ceux qui bâtissaient la muraille, et ceux qui portaient les fardeaux [et] ceux qui les chargeaient, faisaient le travail d’une main, et, de l’autre main, tenaient une arme.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et ceux qui bâtissaient avaient chacun leur épée ceinte sur leurs reins et bâtissaient, et celui qui sonnait de la trompette était à côté de moi.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et je dis aux nobles et aux chefs, et au reste du peuple : L’ouvrage est grand et étendu, et nous sommes épars sur la muraille, éloignés l’un de l’autre.",
+          "footnotes": [
+            "ou : gouverneurs; voir Esdras 9. 2."
+          ]
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Au lieu où vous entendrez le son de la trompette, là, rassemblez-vous vers nous ; notre Dieu combattra pour nous.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Ainsi nous faisions l’ouvrage ; et la moitié d’entre eux tenait les piques depuis le lever de l’aurore jusqu’à l’apparition des étoiles.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Dans ce temps-là aussi je dis au peuple : Que chacun, avec son serviteur, passe la nuit à l’intérieur de Jérusalem, afin que de nuit ils nous soient une garde, et que de jour [ils fassent] le travail.",
+          "footnotes": [
+            "ordin. : jeune homme."
+          ]
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Et ni moi, ni mes frères, ni mes jeunes hommes, ni les hommes de la garde qui me suivaient, nous n’avons ôté nos vêtements ; chacun [avait] son arme à sa droite.",
+          "footnotes": [
+            "à sa droiteest douteux ; qqs. : avait son arme [en allant] à l’eau."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Et il y eut un grand cri du peuple et de leurs femmes contre les Juifs, leurs frères.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et il y en avait qui disaient : Nous, nos fils et nos filles, nous sommes nombreux, et nous demandons du blé afin que nous mangions et que nous vivions.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et il y en avait qui disaient : Nous avons dû engager nos champs et nos vignes et nos maisons pour nous procurer du blé dans la disette.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et il y en avait qui disaient : Nous avons emprunté de l’argent sur nos champs et nos vignes pour le tribut du roi ;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "et pourtant notre chair est comme la chair de nos frères, nos fils comme leurs fils ; et voici, nous réduisons nos fils et nos filles à la servitude, et parmi nos filles, il y en a qui sont [déjà] asservies, et il n’est pas au pouvoir de nos mains [de les racheter], car nos champs et nos vignes sont à d’autres.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et je fus très irrité lorsque j’entendis leur cri et ces paroles.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Et mon cœur se consulta sur cela, et je querellai les nobles et les chefs, et je leur dis : Vous exigez de l’intérêt, chacun de son frère ! Et je leur opposai une grande congrégation ;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "et je leur dis : Nous avons racheté, selon notre pouvoir, nos frères, les Juifs, qui avaient été vendus aux nations ; et vous voulez vous-mêmes vendre vos frères ? Et c’est à nous qu’ils se vendraient ? Et ils se turent et ne trouvèrent rien à dire.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et je dis : Ce que vous faites n’est pas bien. Ne devriez-vous pas marcher dans la crainte de notre Dieu, pour n’être pas dans l’opprobre parmi les nations qui nous sont ennemies ?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Moi aussi, mes frères et mes jeunes hommes, nous pourrions exiger d’eux, comme intérêt, de l’argent et du blé. Laissons, je vous prie, cette usure.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Rendez-leur, aujourd’hui même, je vous prie, leurs champs, leurs vignes, leurs oliviers et leurs maisons, et le centième de l’argent et du blé, du moût et de l’huile, que vous avez exigé d’eux comme intérêt.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et ils dirent : Nous les rendrons et nous ne leur demanderons rien ; nous ferons ainsi, comme tu l’as dit. Et j’appelai les sacrificateurs, et je les fis jurer de faire selon cette parole.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Je secouai aussi le pan de ma robe, et je dis : Que Dieu secoue ainsi de sa maison et du fruit de son labeur quiconque n’accomplira pas cette parole, et qu’il soit ainsi secoué et à vide ! Et toute la congrégation dit : Amen ! Et ils louèrent l’Éternel. Et le peuple fit selon cette parole.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Dès le jour aussi où je fus établi leur gouverneur dans le pays de Juda, depuis la vingtième année jusqu’à la trente-deuxième année du roi Artaxerxès, pendant douze ans, ni moi, ni mes frères, nous n’avons mangé le pain du gouverneur.",
+          "footnotes": [
+            "litt. : commandé."
+          ]
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Mais les gouverneurs précédents qui avaient été avant moi, avaient été à charge au peuple, et ils avaient pris d’eux du pain et du vin, et, de plus, 40 sicles d’argent ; leurs jeunes hommes aussi dominaient sur le peuple. Mais moi, je n’ai pas fait ainsi, à cause de la crainte de Dieu.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Et j’ai aussi tenu ferme, dans ce travail de la muraille, et nous n’avons acheté aucun champ, et tous mes jeunes hommes étaient rassemblés là pour l’ouvrage.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "J’avais aussi à ma table 150 Juifs et chefs, outre ceux qui nous venaient du milieu des nations qui nous entouraient.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Or ce qui m’était apprêté pour un jour, c’était un bœuf, [et] six moutons choisis ; on m’apprêtait aussi de la volaille, et, tous les dix jours, toutes sortes de vins en abondance ; et avec cela, je n’ai point réclamé le pain du gouverneur, parce que le service pesait lourdement sur ce peuple.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Souviens-toi en bien pour moi, ô mon Dieu, de tout ce que j’ai fait pour ce peuple !",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Et il arriva que, lorsque Sanballat, et Tobija, et Guéshem, l’Arabe, et le reste de nos ennemis, apprirent que j’avais bâti la muraille et qu’il n’y restait aucune brèche, quoique jusqu’à ce temps-là je n’aie pas posé les battants aux portes,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Sanballat et Guéshem m’envoyèrent dire : Viens et rencontrons-nous ensemble dans les villages de la vallée d’Ono. Mais ils pensaient à me faire du mal.",
+          "footnotes": [
+            "bassin, ou plaine entourée de hauteurs."
+          ]
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et je leur envoyai des messagers, disant : Je fais un grand travail et je ne puis descendre. Pourquoi le travail cesserait-il pendant que je le quitterais et que je descendrais vers vous ?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et ils m’envoyèrent dire la même chose quatre fois, et je leur répondis de la même manière.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et Sanballat m’envoya son serviteur, une cinquième fois, de la même manière, une lettre ouverte à la main.",
+          "footnotes": [
+            "héb. : jeune homme."
+          ]
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Il y était écrit : On entend dire parmi les nations, et Gashmu le dit, que toi et les Juifs vous pensez à vous révolter ; c’est pour cela que tu bâtis la muraille ; et, d’après ces dires, c’est toi qui deviendras leur roi.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Et même tu as établi des prophètes pour proclamer et dire de toi dans Jérusalem : Il y a un roi en Juda ! Et maintenant, on fera entendre au roi ces mêmes choses ; viens donc maintenant, et tenons conseil ensemble.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Et je lui envoyai dire : Aucune des choses dont tu parles n’a eu lieu ; mais tu les inventes dans ton propre cœur.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Car ils voulaient tous nous effrayer, disant : Leurs mains se lasseront du travail, et il ne se fera pas. Maintenant donc, fortifie mes mains !",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et moi, je vins à la maison de Shemahia, fils de Delaïa, fils de Mehétabeël (et il s’était enfermé) ; et il dit : Rencontrons-nous dans la maison de Dieu, à l’intérieur du temple, et fermons les portes du temple, car ils vont venir pour te tuer, et c’est de nuit qu’ils vont venir pour te tuer.",
+          "footnotes": [
+            "ou : cette nuit."
+          ]
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Et je dis : Un homme comme moi fuirait-il ? Et quel homme comme moi entrerait dans le temple et vivrait ? Je n’entrerai pas.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et je reconnus que, voici, ce n’était pas Dieu qui l’avait envoyé, car il prononçait cette prophétie contre moi, et Tobija et Sanballat le soudoyaient.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "C’est pour cela qu’il était payé, pour que j’aie peur et que je fasse ainsi et pèche, et qu’ils aient de quoi me faire un mauvais renom, afin de me couvrir d’opprobre.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Souviens-toi, ô Dieu, de Tobija et de Sanballat selon ces œuvres qu’ils ont faites ; et aussi de Noadia, la prophétesse, et du reste des prophètes qui voulaient m’effrayer !",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et la muraille fut achevée le vingt-cinquième [jour du mois] d’Élul, en 52 jours.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Et il arriva que, lorsque tous nos ennemis l’apprirent, toutes les nations qui nous environnaient craignirent et furent fort abaissées à leurs propres yeux, et elles reconnurent que cette œuvre avait été faite de par notre Dieu.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "En ces jours-là aussi, des nobles de Juda envoyèrent lettres sur lettres à Tobija, et celles de Tobija leur arrivaient ;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "car plusieurs en Juda lui avaient prêté serment, car il était gendre de Shecania, fils d’Arakh, et Jokhanan, son fils, avait pris la fille de Meshullam, fils de Bérékia.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Ils disaient aussi devant moi ses bonnes actions, et ils lui rapportaient mes paroles. Tobija envoyait des lettres pour m’effrayer.",
+          "footnotes": [
+            "ou : mes affaires."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "*Or il arriva, quand la muraille fut bâtie et que j’eus posé les battants [des portes], qu’on établit dans leurs emplois les portiers, et les chantres, et les lévites.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et je chargeai du gouvernement de Jérusalem Hanani, mon frère, et Hanania, chef du château fort ; car c’était un homme fidèle, et il craignait Dieu, plus que beaucoup [d’autres] ;",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "et je leur dis que les portes de Jérusalem ne devaient pas être ouvertes avant que le soleil ne soit chaud, et qu’on devait fermer les battants [des portes] pendant qu’ils étaient là, et mettre les barres, et qu’on devait placer des gardes d’entre les habitants de Jérusalem, chacun à son poste, et chacun devant sa maison.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Or la ville était spacieuse et grande, mais le peuple peu nombreux au milieu d’elle, et il n’y avait point de maisons bâties.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et mon Dieu me mit au cœur de rassembler les nobles et les chefs, et le peuple, pour les enregistrer par généalogies. Et je trouvai le registre généalogique de ceux qui étaient montés au commencement, et j’y trouvai écrit :",
+          "footnotes": [
+            "ou : gouverneurs; voir Esdras 9. 2."
+          ]
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Voici ceux de la province qui remontèrent de la captivité de ceux qui avaient été transportés, lesquels Nebucadnetsar, roi de Babylone, avait transportés, et qui retournèrent à Jérusalem et en Juda, chacun à sa ville,",
+          "footnotes": [
+            "litt. : les fils."
+          ]
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "ceux qui vinrent avec Zorobabel, Jéshua, Néhémie, Azaria, Raamia, Nakhamani, Mardochée, Bilshan, Mispéreth, Bigvaï, Nehum, [et] Baana. Nombre des hommes du peuple d’Israël :",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Les fils de Parhosh, 2 172 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "les fils de Shephatia, 372 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "les fils d’Arakh, 652 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "les fils de Pakhath-Moab, des fils de Jéshua et de Joab, 2 818 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "les fils d’Élam, 1 254 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "les fils de Zatthu, 845 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "les fils de Zaccaï, 760 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "les fils de Binnuï, 648 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "les fils de Bébaï, 628 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "les fils d’Azgad, 2 322 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "les fils d’Adonikam, 667 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "les fils de Bigvaï, 2 067 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "les fils d’Adin, 655 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "les fils d’Ater, [de la famille] d’Ézéchias, 98 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "les fils de Hashum, 328 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "les fils de Bétsaï, 324 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "les fils de Hariph, 112 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "les fils de Gabaon, 95 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "les hommes de Bethléhem et de Netopha, 188 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "les hommes d’Anathoth, 128 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "les hommes de Beth-Azmaveth, 42 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "les hommes de Kiriath-Jéarim, de Kephira et de Beéroth, 743 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "les hommes de Rama et de Guéba, 621 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "les hommes de Micmas, 122 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "les hommes de Béthel et d’Aï, 123 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "les hommes de l’autre Nebo, 52 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "les fils de l’autre Élam, 1 254 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "les fils de Harim, 320 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "les fils de Jéricho, 345 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "les fils de Lod, de Hadid et d’Ono, 721 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "les fils de Senaa, 3 930.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "Sacrificateurs : les fils de Jedahia, de la maison de Jéshua, 973 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "les fils d’Immer, 1 052 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "les fils de Pashkhur, 1 247 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "les fils de Harim, 1 017.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "Lévites : les fils de Jéshua [et] de Kadmiel, d’entre les fils d’Hodva, 74.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "Chantres : les fils d’Asaph, 148.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "Portiers : les fils de Shallum, les fils d’Ater, les fils de Talmon, les fils d’Akkub, les fils de Hatita, les fils de Shobaï, 138.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "Nethiniens : les fils de Tsikha, les fils de Hasupha, les fils de Tabbaoth,",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "les fils de Kéros, les fils de Sia, les fils de Padon,",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "heading": null,
+          "text": "les fils de Lebana, les fils de Hagaba, les fils de Sçalmaï,",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "heading": null,
+          "text": "les fils de Hanan, les fils de Guiddel, les fils de Gakhar,",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "heading": null,
+          "text": "les fils de Reaïa, les fils de Retsin, les fils de Nekoda,",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "heading": null,
+          "text": "les fils de Gazzam, les fils d’Uzza, les fils de Paséakh,",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "heading": null,
+          "text": "les fils de Bésaï, les fils de Meünim, les fils de Nephissim,",
+          "footnotes": [
+            "ou : des Maonites.",
+            "ou : des Nephusites, voir Esdras 2. 50."
+          ]
+        },
+        {
+          "verse": 53,
+          "heading": null,
+          "text": "les fils de Bakbuk, les fils de Hakupha, les fils de Harkhur,",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "heading": null,
+          "text": "les fils de Batslith, les fils de Mekhida, les fils de Harsha,",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "heading": null,
+          "text": "les fils de Barkos, les fils de Sisera, les fils de Thamakh,",
+          "footnotes": []
+        },
+        {
+          "verse": 56,
+          "heading": null,
+          "text": "les fils de Netsiakh, les fils de Hatipha.",
+          "footnotes": []
+        },
+        {
+          "verse": 57,
+          "heading": null,
+          "text": "Fils des serviteurs de Salomon : les fils de Sotaï, les fils de Sophéreth, les fils de Perida,",
+          "footnotes": []
+        },
+        {
+          "verse": 58,
+          "heading": null,
+          "text": "les fils de Jaala, les fils de Darkon, les fils de Guiddel,",
+          "footnotes": []
+        },
+        {
+          "verse": 59,
+          "heading": null,
+          "text": "les fils de Shephatia, les fils de Hattil, les fils de Pokéreth-Hatsebaïm, les fils d’Amon.",
+          "footnotes": []
+        },
+        {
+          "verse": 60,
+          "heading": null,
+          "text": "Tous les Nethiniens et les fils des serviteurs de Salomon, 392.",
+          "footnotes": []
+        },
+        {
+          "verse": 61,
+          "heading": null,
+          "text": "Et voici ceux qui montèrent de Thel-Mélakh, de Thel-Harsha, de Kerub-Addon, et d’Immer ; mais ils ne purent pas montrer leurs maisons de pères et leur descendance, s’ils étaient d’Israël :",
+          "footnotes": [
+            "litt. : semence."
+          ]
+        },
+        {
+          "verse": 62,
+          "heading": null,
+          "text": "les fils de Delaïa, les fils de Tobija, les fils de Nekoda, 642 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 63,
+          "heading": null,
+          "text": "et des sacrificateurs, les fils de Hobaïa, les fils d’Hakkots, les fils de Barzillaï, qui prit une femme d’entre les filles de Barzillaï, le Galaadite, et fut appelé de leur nom.",
+          "footnotes": []
+        },
+        {
+          "verse": 64,
+          "heading": null,
+          "text": "Ceux-ci cherchèrent leur inscription généalogique, mais elle ne se trouva pas ; et ils furent exclus, comme profanes, de la sacrificature.",
+          "footnotes": []
+        },
+        {
+          "verse": 65,
+          "heading": null,
+          "text": "Et le Thirshatha leur dit qu’ils ne devaient point manger des choses très saintes, jusqu’à ce que soit suscité le sacrificateur avec les urim et les thummim.",
+          "footnotes": [
+            "titre du gouverneur, sous les Perses.",
+            "litt. : se tienne là."
+          ]
+        },
+        {
+          "verse": 66,
+          "heading": null,
+          "text": "Toute la congrégation réunie était de 42 360 [personnes],",
+          "footnotes": []
+        },
+        {
+          "verse": 67,
+          "heading": null,
+          "text": "sans compter leurs serviteurs et leurs servantes ; ceux-ci [étaient au nombre de] 7 337 ; et parmi eux, il y avait 245 chanteurs et chanteuses.",
+          "footnotes": []
+        },
+        {
+          "verse": 68,
+          "heading": null,
+          "text": "Ils avaient 736 chevaux, 245 mulets, 435 chameaux, [et] 6 720 ânes.",
+          "footnotes": []
+        },
+        {
+          "verse": 69,
+          "heading": null,
+          "text": "Et une partie des chefs des pères firent des dons pour l’œuvre. Le Thirshatha donna au trésor 1 000 dariques d’or, 50 bassins, 530 tuniques de sacrificateurs.",
+          "footnotes": []
+        },
+        {
+          "verse": 70,
+          "heading": null,
+          "text": "Et des chefs des pères donnèrent au trésor de l’œuvre 20 000 dariques d’or et 2 200 mines d’argent.",
+          "footnotes": []
+        },
+        {
+          "verse": 71,
+          "heading": null,
+          "text": "Et ce que donna le reste du peuple fut 20 000 dariques d’or, et 2 000 mines d’argent, et 67 tuniques de sacrificateurs.",
+          "footnotes": []
+        },
+        {
+          "verse": 72,
+          "heading": null,
+          "text": "Et les sacrificateurs, et les lévites, et les portiers, et les chantres, et ceux du peuple, et les Nethiniens, et tout Israël, habitèrent dans leurs villes. *Et quand arriva le septième mois, les fils d’Israël étaient dans leurs villes.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "– Alors tout le peuple s’assembla comme un seul homme sur la place qui est devant la porte des eaux. Et ils dirent à Esdras, le scribe, d’apporter le livre de la loi de Moïse, que l’Éternel avait commandée à Israël.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et le premier jour du septième mois, Esdras, le sacrificateur, apporta la loi devant la congrégation des hommes et des femmes, et devant tous ceux qui avaient de l’intelligence pour entendre.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et il y lut devant la place qui est devant la porte des eaux, depuis l’aube jusqu’à midi, en présence des hommes et des femmes, et de ceux qui avaient de l’intelligence. Et tout le peuple prêtait l’oreille au livre de la loi.",
+          "footnotes": [
+            "litt. : la lumière."
+          ]
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et Esdras, le scribe, se tenait sur une estrade de bois qu’on avait faite pour l’occasion ; et Matthithia, et Shéma, et Anaïa, et Urie, et Hilkija, et Maascéïa, se tenaient à côté de lui, à sa droite ; et à sa gauche, Pedaïa, et Mishaël, et Malkija, et Hashum, et Hashbaddana, Zacharie, [et] Meshullam.",
+          "footnotes": [
+            "héb. : tour."
+          ]
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et Esdras ouvrit le livre aux yeux de tout le peuple, car il était [élevé] au-dessus de tout le peuple ; et quand il l’ouvrit, tout le peuple se tint debout.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et Esdras bénit l’Éternel, le grand Dieu, et tout le peuple répondit : Amen, amen ! en élevant les mains, et ils s’inclinèrent et se prosternèrent devant l’Éternel, le visage contre terre.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Et Jéshua, et Bani, et Shérébia, Jamin, Akkub, Shabthaï, Hodija, Maascéïa, Kelita, Azaria, Jozabad, Hanan, Pelaïa, et les lévites, faisaient comprendre la loi au peuple ; et le peuple se tenait à sa place.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Et ils lisaient distinctement dans le livre de la loi de Dieu, et ils en donnaient le sens et le faisaient comprendre lorsqu’on lisait.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et Néhémie, qui était le Thirshatha, et Esdras, le sacrificateur, le scribe, et les lévites qui faisaient comprendre au peuple [ce qu’on lisait], dirent à tout le peuple : Ce jour est saint à l’Éternel, votre Dieu ; ne menez pas deuil et ne pleurez pas ! Car tout le peuple pleurait en entendant les paroles de la loi.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et [Néhémie] leur dit : Allez, mangez de ce qui est gras et buvez de ce qui est doux, et envoyez des portions à ceux qui n’ont rien de préparé, car ce jour est saint, [consacré] à notre Seigneur. Et ne vous affligez pas, car la joie de l’Éternel est votre force.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Et les lévites tranquillisèrent tout le peuple, en disant : Taisez-vous, car ce jour est saint, et ne vous affligez pas.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et tout le peuple s’en alla pour manger et pour boire, et pour envoyer des portions, et pour faire de grandes réjouissances ; car ils avaient compris les paroles qu’on leur avait fait connaître.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et le second jour, les chefs des pères de tout le peuple, les sacrificateurs et les lévites, s’assemblèrent auprès d’Esdras, le scribe, et [cela] pour devenir intelligents dans les paroles de la loi.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Et ils trouvèrent écrit dans la loi que l’Éternel avait commandée par Moïse, que les fils d’Israël devaient habiter dans des tabernacles pendant la fête du septième mois,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "et qu’ils devaient faire entendre et faire passer une proclamation dans toutes leurs villes et à Jérusalem, disant : Sortez dans la montagne, et apportez des branches d’olivier, et des branches d’olivier sauvage, et des branches de myrte, et des branches de palmier, et des branches d’arbres touffus, pour faire des tabernacles, comme il est écrit.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Et le peuple sortit et [en] apporta, et ils se firent des tabernacles, chacun sur son toit, et dans leurs cours, et dans les parvis de la maison de Dieu, et sur la place de la porte des eaux, et sur la place de la porte d’Éphraïm.",
+          "footnotes": [
+            "ou : cours."
+          ]
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Et toute la congrégation de ceux qui étaient revenus de la captivité fit des tabernacles, et ils habitèrent dans les tabernacles ; car les fils d’Israël n’avaient pas fait cela depuis les jours de Josué, fils de Nun, jusqu’à ce jour-là. Et il y eut une très grande joie.",
+          "footnotes": [
+            "héb. : Jéshua."
+          ]
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Et on lut dans le livre de la loi de Dieu chaque jour, depuis le premier jour jusqu’au dernier jour. Et ils célébrèrent la fête sept jours, et au huitième jour, il y eut une assemblée solennelle, selon l’ordonnance.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Et le vingt-quatrième jour de ce mois, les fils d’Israël s’assemblèrent avec jeûne et vêtus de sacs, et avec de la terre sur eux.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et la race d’Israël se sépara de tous les fils de l’étranger ; et ils se tinrent là et confessèrent leurs péchés et les iniquités de leurs pères.",
+          "footnotes": [
+            "litt. : semence."
+          ]
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et ils se levèrent à leurs places, et lurent dans le livre de la loi de l’Éternel, leur Dieu, pendant un quart de la journée ; et pendant un quart, ils firent confession et se prosternèrent devant l’Éternel, leur Dieu.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et les lévites, Jéshua, Bani, Kadmiel, Shebania, Bunni, Shérébia, Bani, et Kenani, se levèrent sur l’estrade et crièrent à haute voix à l’Éternel, leur Dieu.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Et les lévites, Jéshua, Kadmiel, Bani, Hashabnia, Shérébia, Hodija, Shebania et Pethakhia, dirent : Levez-vous, bénissez l’Éternel, votre Dieu, d’éternité en éternité ! Et qu’on bénisse le nom de ta gloire, qui est haut élevé au-dessus de toute bénédiction et de toute louange.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Tu es le Même, toi seul, ô Éternel ; tu as fait les cieux, les cieux des cieux et toute leur armée, la terre et tout ce qui est sur elle, les mers et tout ce qui est en elles. Et c’est toi qui fais vivre toutes ces choses, et l’armée des cieux t’adore.",
+          "footnotes": [
+            "Tu [es] le Même, ou : Tu [es] Celui [qui est] : cette expression devient un vrai nom de Dieu; comp. Deutéronome 32. 39 ; Psaume 102. 28 ; Ésaïe 41. 4."
+          ]
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Tu es le Même, ô Éternel, Dieu, qui as choisi Abram et l’as fait sortir d’Ur des Chaldéens, et lui as donné le nom d’Abraham.",
+          "footnotes": [
+            "Tu [es] le Même, ou : Tu [es] Celui [qui est] : cette expression devient un vrai nom de Dieu; comp. Deutéronome 32. 39 ; Psaume 102. 28 ; Ésaïe 41. 4."
+          ]
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Et tu trouvas son cœur fidèle devant toi, et tu fis avec lui une alliance pour donner le pays du Cananéen, du Héthien, de l’Amoréen, et du Phérézien, et du Jébusien, et du Guirgasien, pour le donner à sa semence ; et tu as accompli tes paroles, car tu es juste.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et tu vis l’affliction de nos pères en Égypte, et tu entendis leur cri vers la mer Rouge,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "et tu opéras des signes et des prodiges sur le Pharaon, et sur tous ses serviteurs, et sur tout le peuple de son pays, car tu savais qu’ils avaient agi avec fierté contre eux, et tu t’acquis un nom, comme [il paraît] aujourd’hui.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Et tu fendis la mer devant eux, et ils passèrent à sec par le milieu de la mer ; et ceux qui les poursuivaient, tu les jetas dans les abîmes, comme une pierre dans les eaux puissantes.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et tu les conduisis de jour par une colonne de nuée, et de nuit par une colonne de feu, afin d’éclairer pour eux le chemin dans lequel ils devaient marcher.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et tu descendis sur la montagne de Sinaï, et tu parlas avec eux depuis les cieux, et tu leur donnas des ordonnances droites et des lois de vérité, de bons statuts et [de bons] commandements.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Et tu leur fis connaître ton saint sabbat, et tu leur prescrivis des commandements et des statuts et une loi, par ton serviteur Moïse.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et des cieux tu leur donnas du pain pour leur faim, et tu leur fis sortir du rocher de l’eau pour leur soif, et tu leur dis d’entrer pour prendre possession du pays que tu avais juré de leur donner.",
+          "footnotes": [
+            "litt. : levé ta main."
+          ]
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Mais eux, savoir nos pères, agirent avec fierté, et roidirent leur cou, et n’écoutèrent pas tes commandements,",
+          "footnotes": [
+            "ou : et."
+          ]
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "et refusèrent d’entendre, et ne se souvinrent pas de tes merveilles que tu avais faites pour eux ; mais ils roidirent leur cou, et dans leur rébellion ils établirent un chef, pour retourner à leur servitude. Mais toi, tu es un ✝Dieu de pardons, faisant grâce, et miséricordieux, lent à la colère, et grand en bonté, et tu ne les as point abandonnés.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Même quand ils se firent un veau de fonte, et dirent : C’est ici ton dieu qui t’a fait monter d’Égypte, – et qu’ils te firent de grands outrages,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "toi, dans tes grandes compassions, tu ne les abandonnas point dans le désert ; la colonne de nuée ne se retira point de dessus eux, le jour, pour les conduire dans le chemin, ni la colonne de feu, la nuit, pour les éclairer, et [leur montrer] le chemin dans lequel ils devaient marcher.",
+          "footnotes": [
+            "propr. : nombreuses."
+          ]
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Et tu [leur] donnas ton bon Esprit pour les rendre intelligents, et tu ne refusas pas ta manne à leur bouche, et tu leur donnas de l’eau pour leur soif.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Et tu les entretins 40 ans dans le désert : ils ne manquèrent de rien ; leurs vêtements ne s’usèrent point, et leurs pieds n’enflèrent point.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Et tu leur donnas des royaumes et des peuples, et tu les leur partageas par contrées, et ils prirent possession du pays de Sihon, du pays du roi de Hesbon, aussi bien que du pays d’Og, roi de Basan.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Et tu multiplias leurs fils comme les étoiles des cieux, et tu les introduisis dans le pays dont tu avais dit à leurs pères, qu’ils y entreraient pour le posséder.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Et leurs fils entrèrent et possédèrent le pays. Et tu subjuguas devant eux les habitants du pays, les Cananéens, et tu les livras en leur main, leurs rois et les peuples du pays, pour leur faire selon leur bon plaisir.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Et ils prirent des villes fortifiées, et un pays gras, et ils possédèrent des maisons pleines de tout bien, des puits creusés, des vignes et des oliviers, et des arbres fruitiers en abondance ; et ils mangèrent, et furent rassasiés, et s’engraissèrent ; et ils vécurent dans les délices par ta grande bonté.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Mais ils se rebellèrent et se révoltèrent contre toi, et jetèrent ta loi derrière leur dos, et tuèrent tes prophètes qui rendaient témoignage contre eux pour les ramener à toi, et ils te firent de grands outrages.",
+          "footnotes": [
+            "comme 2 Rois 17. 13, ici et v. 29-30."
+          ]
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Et tu les livras en la main de leurs adversaires qui les opprimèrent. Et au temps de leur détresse ils crièrent à toi, et toi, tu entendis des cieux, et selon tes grandes compassions tu leur accordas des sauveurs qui les sauvèrent de la main de leurs oppresseurs.",
+          "footnotes": [
+            "ou : oppresseurs.",
+            "propr. : nombreuses."
+          ]
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Mais quand ils avaient du repos, ils recommençaient à faire le mal devant toi, et tu les abandonnais en la main de leurs ennemis, et ceux-ci dominaient sur eux. Et de nouveau ils criaient à toi, et toi, tu entendais des cieux, et tu les délivras maintes fois, selon tes compassions.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Et tu rendis témoignage contre eux pour les ramener à ta loi ; mais ils agirent avec fierté, et n’écoutèrent pas tes commandements, et péchèrent contre tes ordonnances, par lesquelles, s’il les pratique, un homme vivra ; et ils opposèrent une épaule revêche, et roidirent leur cou, et n’écoutèrent pas.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Et tu différas à leur égard pendant beaucoup d’années, et tu rendis témoignage contre eux par ton Esprit, par le moyen de tes prophètes ; mais ils ne prêtèrent pas l’oreille, et tu les livras en la main des peuples des pays.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Toutefois, dans tes grandes compassions, tu n’en finis pas avec eux, et tu ne les abandonnas pas ; car tu es un ✶Dieu faisant grâce, et miséricordieux.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Et maintenant, notre Dieu, le ✶Dieu grand, puissant et terrible, qui gardes l’alliance et la bonté, que ce ne soit pas peu de chose devant toi que toutes les peines qui nous ont atteints, nous, nos rois, nos princes, et nos sacrificateurs, et nos prophètes, et nos pères, et tout ton peuple, depuis les jours des rois d’Assyrie jusqu’à ce jour-ci.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Mais tu es juste dans tout ce qui nous est survenu, car tu as agi avec vérité, et nous, nous avons agi méchamment.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Et nos rois, nos princes, nos sacrificateurs, et nos pères, n’ont pas pratiqué ta loi, et n’ont pas été attentifs à tes commandements et à tes témoignages que tu as rendus au milieu d’eux.",
+          "footnotes": [
+            "litt. : attestés.",
+            "ou : contre eux."
+          ]
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Et ils ne t’ont pas servi dans leur royaume, et dans l’abondance des biens que tu leur avais donnés, et dans le spacieux et gras pays que tu avais mis devant eux, et ils ne sont pas revenus de leurs mauvaises actions.",
+          "footnotes": [
+            "litt. : dans ta grande bonté que tu leur avais donnée."
+          ]
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Voici, nous sommes aujourd’hui serviteurs ; et quant au pays que tu donnas à nos pères pour qu’ils en mangent le fruit et les bons produits, voici, nous y sommes serviteurs ;",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "et il rapporte beaucoup aux rois que tu as établis sur nous à cause de nos péchés ; et ils dominent à leur gré sur nos corps et sur notre bétail, et nous sommes dans une grande détresse.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Et pour tout cela, nous faisons une ferme alliance, et nous l’écrivons. Et à l’apposition des sceaux [se trouvèrent] nos princes, nos lévites, [et] nos sacrificateurs.",
+          "footnotes": [
+            "ou : sur ce qui est scellé."
+          ]
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et à la tête de ceux qui apposèrent leur sceau furent : Néhémie, le Thirshatha, fils de Hacalia, et Sédécias.",
+          "footnotes": [
+            "titre du gouverneur, sous les Perses."
+          ]
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "– Seraïa, Azaria, Jérémie,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Pashkhur, Amaria, Malkija,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Hattush, Shebania, Malluc,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Harim, Merémoth, Abdias,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Daniel, Guinnethon, Baruc,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Meshullam, Abija, Mijamin,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Maazia, Bilgaï, Shemahia : c’étaient là les sacrificateurs.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "– Et les lévites : Jéshua, fils d’Azania ; Binnuï, des fils de Hénadad ; Kadmiel,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et leurs frères, Shebania, Hodija, Kelita, Pelaïa, Hanan,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Michée, Rehob, Hashabia,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Zaccur, Shérébia, Shebania,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Hodija, Bani, Beninu.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "– Les chefs du peuple : Parhosh, Pakhath-Moab, Élam, Zatthu, Bani,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Bunni, Azgad, Bébaï,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Adonija, Bigvaï, Adin,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Ater, Ézéchias, Azzur,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Hodija, Hashum, Bétsaï,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Hariph, Anathoth, Nébaï,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Magpiash, Meshullam, Hézir,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Meshézabeël, Tsadok, Jaddua,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Pelatia, Hanan, Anaïa,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Osée, Hanania, Hashub,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Hallokhesh, Pilkha, Shobek,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Rehum, Hashabna, Maascéïa",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "et Akhija, Hanan, Anan,",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Malluc, Harim, Baana.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Et le reste du peuple, les sacrificateurs, les lévites, les portiers, les chantres, les Nethiniens, et tous ceux qui s’étaient séparés des peuples des pays [pour s’attacher] à la loi de Dieu, leurs femmes, leurs fils et leurs filles, tous ceux qui avaient de la connaissance [et] de l’intelligence,",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "se joignirent à leurs frères, les principaux d’entre eux, et s’engagèrent par exécration et par serment de marcher selon la loi de Dieu qui avait été donnée par Moïse, serviteur de Dieu, et d’observer et de pratiquer tous les commandements de l’Éternel, notre Seigneur, et ses ordonnances et ses statuts,",
+          "footnotes": [
+            "litt. : entrèrent dans."
+          ]
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "et [promettant] que nous ne donnerions pas nos filles aux peuples du pays, et que nous ne prendrions pas leurs filles pour nos fils ;",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "et que, si les peuples du pays apportaient des marchandises ou toutes sortes de grains, le jour du sabbat, pour les vendre, nous n’en prendrions pas le [jour du] sabbat, ni en un jour saint ; et que nous laisserions [la terre en friche] la septième année, et remettrions toute espèce de dettes.",
+          "footnotes": [
+            "litt. : la dette de chaque main, c.-à-d. pour laquelle on avait donné la main."
+          ]
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Et nous nous sommes établi des commandements, nous imposant le tiers d’un sicle par an pour le service de la maison de notre Dieu,",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "pour les pains à placer en rangées, et pour l’offrande de gâteau continuelle, et pour les holocaustes, l’[holocauste] continuel, [celui] des sabbats, [et celui] des nouvelles lunes, pour les jours solennels et pour les choses saintes, et pour les sacrifices pour le péché, afin de faire propitiation pour Israël, et pour toute l’œuvre de la maison de notre Dieu.",
+          "footnotes": [
+            "ou : choses consacrées."
+          ]
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Et nous avons jeté le sort, sacrificateurs, lévites, et peuple, au sujet de l’offrande du bois à amener à la maison de notre Dieu, selon nos maisons de pères, à des époques fixes, chaque année, pour le brûler sur l’autel de l’Éternel, notre Dieu, comme il est écrit dans la loi.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Et [nous nous sommes engagés] à apporter les prémices de notre terre, et les prémices de tous les fruits de tous les arbres, chaque année, à la maison de l’Éternel,",
+          "footnotes": [
+            "voir v. 30."
+          ]
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "et les premiers-nés de nos fils et de nos bêtes, comme il est écrit dans la loi ; et à apporter les premiers-nés de notre gros et de notre menu bétail, à la maison de notre Dieu, aux sacrificateurs qui font le service dans la maison de notre Dieu :",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "et nous apporterons les prémices de notre pâte et nos offrandes élevées, et le fruit de tout arbre, le moût et l’huile, aux sacrificateurs, dans les chambres de la maison de notre Dieu, et les dîmes de notre terre aux lévites ; et eux, les lévites, prélèveront la dîme dans toutes les villes de notre labour ;",
+          "footnotes": [
+            "peut-être : gruau, ici et Nombres 15. 20-21."
+          ]
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "et le sacrificateur, fils d’Aaron, sera avec les lévites quand les lévites prélèveront la dîme, et les lévites apporteront la dîme de la dîme à la maison de notre Dieu, dans les chambres de la maison du trésor ;",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "car les fils d’Israël et les fils de Lévi apporteront l’offrande élevée du blé, du moût, et de l’huile, dans les chambres où sont les ustensiles du sanctuaire, et les sacrificateurs qui font le service, et les portiers et les chantres. Et nous n’abandonnerons pas la maison de notre Dieu.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "*Et les chefs du peuple habitaient à Jérusalem : et le reste du peuple jeta le sort pour qu’un sur dix vienne habiter à Jérusalem, la ville sainte, et que les neuf [autres] parties [demeurent] dans les villes.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Et le peuple bénit tous les hommes qui s’offrirent volontairement pour habiter à Jérusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Or ce sont ici les chefs de la province qui habitèrent à Jérusalem ; mais, dans les villes de Juda, habitèrent, chacun dans sa possession, dans leurs villes, Israël, les sacrificateurs, et les lévites, et les Nethiniens, et les fils des serviteurs de Salomon.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et à Jérusalem habitèrent des fils de Juda, et des fils de Benjamin. – Des fils de Juda : Athaïa, fils d’Ozias, fils de Zacharie, fils d’Amaria, fils de Shephatia, fils de Mahalaleël, d’entre les fils de Pérets ;",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "et Maascéïa, fils de Baruc, fils de Col-Hozé, fils de Hazaïa, fils d’Adaïa, fils de Joïarib, fils de Zacharie, d’entre les Shilonites.",
+          "footnotes": [
+            "ou : fils du Shilonite; comp. 1 Chroniques 9. 5."
+          ]
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Tous les fils de Pérets qui habitèrent à Jérusalem : 468 hommes vaillants.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "– Et ce sont ici les fils de Benjamin : Sallu, fils de Meshullam, fils de Joëd, fils de Pedaïa, fils de Kolaïa, fils de Maascéïa, fils d’Ithiel, fils d’Ésaïe ;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "et après lui, Gabbaï, Sallaï : 928 ;",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "et Joël, fils de Zicri, était préposé sur eux, et Juda, fils d’Hassenua, en second, sur la ville.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Des sacrificateurs : Jedahia, ✶[fils de] Joïarib, Jakin ;",
+          "footnotes": [
+            "comp. 1 Chroniques 9. 10."
+          ]
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Seraïa, fils de Hilkija, fils de Meshullam, fils de Tsadok, fils de Meraïoth, fils d’Akhitub, prince de la maison de Dieu ;",
+          "footnotes": [
+            "ou : surintendant."
+          ]
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "et leurs frères qui faisaient les travaux de la maison : 822. Et Adaïa, fils de Jerokham, fils de Pelalia, fils d’Amtsi, fils de Zacharie, fils de Pashkhur, fils de Malkija,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "et ses frères, chefs des pères : 242. Et Amassaï, fils d’Azareël, fils d’Akhzaï, fils de Meshillémoth, fils d’Immer ;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "et leurs frères, hommes forts et vaillants : 128 ; et Zabdiel, fils de Guedolim, était préposé sur eux.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Et des lévites : Shemahia, fils de Hashub, fils d’Azrikam, fils de Hashabia, fils de Bunni ;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "et Shabthaï et Jozabad, d’entre les chefs des lévites, [préposés] sur l’ouvrage extérieur de la maison de Dieu ;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "et Matthania, fils de Michée, fils de Zabdi, fils d’Asaph, le chef, qui entonnait la louange à la prière, et Bakbukia, le second d’entre ses frères, et Abda, fils de Shammua, fils de Galal, fils de Jeduthun.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "Tous les lévites dans la ville sainte : 284.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Et les portiers, Akkub, Talmon, et leurs frères, qui étaient de garde aux portes, 172.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Et le reste d’Israël, les sacrificateurs, [et] les lévites, [habitèrent] dans toutes les villes de Juda, chacun dans son héritage.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "Et les Nethiniens habitèrent Ophel ; et Tsikha et Guishpa étaient [préposés] sur les Nethiniens.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Et celui qui était préposé sur les lévites à Jérusalem était Uzzi, fils de Bani, fils de Hashabia, fils de Matthania, fils de Michée, des fils d’Asaph, les chantres pour l’œuvre de la maison de Dieu.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Car c’était le commandement du roi à leur égard, et il y avait un fixe pour les chantres, pour chaque jour ce qu’il fallait.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Et Pethakhia, fils de Meshézabeël, des fils de Zérakh, fils de Juda, était auprès du roi pour toutes les affaires du peuple.",
+          "footnotes": [
+            "litt. : à la main.",
+            "c.-à-d. : à Suse."
+          ]
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Et pour ce qui est des hameaux de leurs campagnes, [quelques-uns] des fils de Juda habitèrent à Kiriath-Arba et dans les villages de son ressort, et à Dibon et dans les villages de son ressort, et à Jekabtsëel et dans ses hameaux,",
+          "footnotes": [
+            "ou : enclos, ou fermes.",
+            "litt. : ses filles, ici et v. 27, 28, 30 et 31, comme ailleurs souvent.",
+            "litt. : ses filles, ici et v. 27, 28, 30 et 31, comme ailleurs souvent."
+          ]
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "et à Jéshua, et à Molada, et à Beth-Péleth,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "et à Hatsar-Shual, et à Beër-Shéba et dans les villages de son ressort,",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "et à Tsiklag, et à Mecona et dans les villages de son ressort,",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "et à En-Rimmon, et à Tsorha, et à Jarmuth,",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Zanoakh, Adullam et leurs hameaux, Lakis et ses campagnes, Azéka et les villages de son ressort ; et ils demeurèrent depuis Beër-Shéba jusqu’à la vallée de Hinnom.",
+          "footnotes": [
+            "litt. : campèrent."
+          ]
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Et les fils de Benjamin [s’établirent], depuis Guéba, [à] Micmash, et Aïa, et Béthel et les villages de son ressort,",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "Anathoth, Nob, Anania,",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "Hatsor, Rama, Guitthaïm,",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Hadid, Tseboïm, Neballath,",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "Lod et Ono, la vallée des artisans.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "Et d’entre les Lévites, il y eut des divisions de Juda [qui s’établirent] en Benjamin.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "*Et ce sont ici les sacrificateurs et les lévites qui montèrent avec Zorobabel, fils de Shealthiel, et Jéshua : Seraïa, Jérémie, Esdras,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Amaria, Malluc, Hattush,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Shecania, Rehum, Merémoth,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Iddo, Guinnethoï, Abija,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Mijamin, Maadia, Bilga,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Shemahia, et Joïarib, Jedahia,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Sallu, Amok, Hilkija, Jedahia. Ce sont là les chefs des sacrificateurs et de leurs frères, aux jours de Jéshua.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Et les lévites : Jéshua, Binnuï, Kadmiel, Shérébia, Juda, Matthania, qui avait la direction des louanges, lui et ses frères.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et Bakbukia, et Unni, leurs frères, vis-à-vis d’eux dans leurs fonctions.",
+          "footnotes": [
+            "litt. : charges."
+          ]
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et Jéshua engendra Joïakim, et Joïakim engendra Éliashib, et Éliashib engendra Joïada,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "et Joïada engendra Jonathan, et Jonathan engendra Jaddua.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et aux jours de Joïakim étaient sacrificateurs, chefs des pères : de Seraïa, Meraïa ; de Jérémie, Hanania ;",
+          "footnotes": [
+            "ou : pour; et ainsi dans tout ce passage."
+          ]
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "d’Esdras, Meshullam ; d’Amaria, Jokhanan ;",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "de Meluki, Jonathan ; de Shebania, Joseph ;",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "de Harim, Adna ; de Meraïoth, Helkaï ;",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "d’Iddo, Zacharie ; de Guinnethon, Meshullam ;",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "d’Abija, Zicri ; de Minjamin [et] Moadia, Piltaï ;",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "de Bilga, Shammua ; de Shemahia, Jonathan ;",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "et de Joïarib, Mathnaï ; de Jedahia, Uzzi ;",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "de Sallaï, Kallaï ; d’Amok, Éber ;",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "de Hilkija, Hashabia ; de Jedahia, Nethaneël.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Quant aux lévites, les chefs des pères furent inscrits aux jours d’Éliashib, de Joïada, et de Jokhanan et de Jaddua, et les sacrificateurs, jusqu’au règne de Darius, le Perse.",
+          "footnotes": [
+            "Jonathan(v. 11).",
+            "Darius III Codoman; selon d’autres, qui traduisent : sous le règne… ce serait Darius II Nothus."
+          ]
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "Les fils de Lévi, chefs des pères, furent inscrits dans le livre des chroniques, jusqu’aux jours de Jokhanan, fils d’Éliashib.",
+          "footnotes": [
+            "Jonathan(v. 11)."
+          ]
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "Et les chefs des lévites : Hashabia, Shérébia, et Jéshua, fils de Kadmiel, et leurs frères vis-à-vis d’eux, pour louer [et] pour rendre grâces selon le commandement de David, homme de Dieu, les uns en fonction à côté des autres.",
+          "footnotes": [
+            "vis-à-vis."
+          ]
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Matthania et Bakbukia, Abdias, Meshullam, Talmon, Akkub, faisaient la garde comme portiers aux magasins des portes.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Ceux-ci [vivaient] aux jours de Joïakim, fils de Jéshua, fils de Jotsadak, et aux jours de Néhémie, le gouverneur, et d’Esdras, le sacrificateur, le scribe.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Et lors de la dédicace de la muraille de Jérusalem, on envoya chercher les lévites de tous leurs lieux [d’habitation], pour les amener à Jérusalem, pour faire la dédicace avec joie, avec des louanges et des chants, [avec] des cymbales, des luths et des harpes.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Et les fils des chantres s’assemblèrent, tant de la plaine [du Jourdain], des environs de Jérusalem, que des hameaux des Netophathites,",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "et de la maison de Guilgal, et des campagnes de Guéba et d’Azmaveth ; car les chantres s’étaient bâti des hameaux dans les environs de Jérusalem.",
+          "footnotes": [
+            "ou : Beth-Guilgal.",
+            "ou : enclos, ou fermes."
+          ]
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Et les sacrificateurs et les lévites se purifièrent, et ils purifièrent le peuple, et les portes, et la muraille.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "Et je fis monter les chefs de Juda sur la muraille, et je plaçai deux grands chœurs en processions, à droite, sur le mur, vers la porte du fumier ;",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "heading": null,
+          "text": "et après eux marchaient Hoshahia et la moitié des chefs de Juda,",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "heading": null,
+          "text": "et Azaria, Esdras et Meshullam,",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "heading": null,
+          "text": "Juda et Benjamin, et Shemahia et Jérémie,",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "heading": null,
+          "text": "et des fils des sacrificateurs avec des trompettes : Zacharie, fils de Jonathan, fils de Shemahia, fils de Matthania, fils de Michée, fils de Zaccur, fils d’Asaph,",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "heading": null,
+          "text": "et ses frères, Shemahia, et Azareël, Milalaï, Guilalaï, Maaï, Nethaneël, Juda, et Hanani, avec des instruments de musique de David, homme de Dieu ; et Esdras, le scribe, devant eux.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "heading": null,
+          "text": "Et à la porte de la fontaine, vis-à-vis d’eux, ils montèrent les degrés de la ville de David, par la montée de la muraille, au-dessus de la maison de David, et jusqu’à la porte des eaux, vers le levant.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "heading": null,
+          "text": "Et le second chœur marcha à l’opposé sur la muraille, et moi après lui, ainsi que la moitié du peuple, depuis la tour des fours jusqu’à la muraille large,",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "heading": null,
+          "text": "et au-dessus de la porte d’Éphraïm, et près de la porte du vieux [mur], et de la porte des poissons, et de la tour de Hananeël, et de la tour de Méa, jusqu’à la porte des brebis ; et ils s’arrêtèrent à la porte de la prison.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "heading": null,
+          "text": "Et les deux chœurs s’arrêtèrent dans la maison de Dieu, et moi, et la moitié des chefs avec moi,",
+          "footnotes": [
+            "ou : gouverneurs; voir Esdras 9. 2."
+          ]
+        },
+        {
+          "verse": 41,
+          "heading": null,
+          "text": "et les sacrificateurs Éliakim, Maascéïa, Minjamin, Michée, Élioénaï, Zacharie, Hanania, avec des trompettes ;",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "heading": null,
+          "text": "et Maascéïa, et Shemahia, et Éléazar, et Uzzi, et Jokhanan, et Malkija, et Élam, et Ézer. Et les chantres firent entendre [leur voix], et Jizrakhia les dirigeait.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "heading": null,
+          "text": "Et ils offrirent ce jour-là de grands sacrifices, et se réjouirent, car Dieu les avait réjouis d’une grande joie ; et les femmes aussi et les enfants se réjouirent ; et la joie de Jérusalem s’entendait au loin.",
+          "footnotes": [
+            "litt. : sacrifièrent."
+          ]
+        },
+        {
+          "verse": 44,
+          "heading": null,
+          "text": "Et des hommes furent préposés, ce jour-là, sur les chambres des trésors pour les offrandes élevées, pour les prémices, et pour les dîmes, afin d’y recueillir, des champs des villes, les portions assignées par la loi aux sacrificateurs et aux lévites ; car Juda se réjouissait à cause des sacrificateurs et des lévites qui se tenaient là ;",
+          "footnotes": [
+            "ou : en ce temps-là, ici et 13. 1."
+          ]
+        },
+        {
+          "verse": 45,
+          "heading": null,
+          "text": "et, ainsi que les chantres et les portiers, ils gardaient ce que leur Dieu leur avait donné à garder, et ce qu’ils avaient à garder pour la purification, selon le commandement de David [et] de Salomon, son fils.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "heading": null,
+          "text": "Car autrefois, aux jours de David et d’Asaph, il y avait des chefs pour diriger les chantres et les chants de louanges et les cantiques d’actions de grâces à Dieu.",
+          "footnotes": [
+            "héb. : chefs des."
+          ]
+        },
+        {
+          "verse": 47,
+          "heading": null,
+          "text": "Et aux jours de Zorobabel, et aux jours de Néhémie, tout Israël donnait les portions des chantres et des portiers, chaque jour ce qu’il fallait, et on mettait à part pour les lévites, et les lévites mettaient à part pour les fils d’Aaron.",
+          "footnotes": [
+            "litt. : ils sanctifiaient.",
+            "litt. : ils sanctifiaient."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "Ce jour-là, on lut dans le livre de Moïse, aux oreilles du peuple, et il s’y trouva écrit que l’Ammonite et le Moabite n’entreraient pas dans la congrégation de Dieu, à jamais,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "parce qu’ils n’étaient pas venus à la rencontre des fils d’Israël avec du pain et de l’eau, et qu’ils avaient loué contre eux [à prix d’argent] Balaam pour les maudire (mais notre Dieu changea la malédiction en bénédiction).",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "Et il arriva que, lorsqu’ils eurent entendu la loi, ils séparèrent d’Israël tout le peuple mélangé.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Et avant cela, Éliashib, le sacrificateur, établi sur les chambres de la maison de notre Dieu, allié de Tobija,",
+          "footnotes": [
+            "litt. : la chambre."
+          ]
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "lui avait préparé une grande chambre ; et précédemment on y mettait les offrandes de gâteau, l’encens, et les ustensiles, et les dîmes du blé, du moût et de l’huile, ce qui était ordonné pour les lévites et pour les chantres et les portiers, ainsi que l’offrande élevée des sacrificateurs.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "Et pendant tout cela je n’étais pas à Jérusalem ; car, la trente-deuxième année d’Artaxerxès, roi de Babylone, j’étais allé vers le roi ; et au bout de quelque temps j’avais demandé au roi la permission de m’en aller.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "Et je vins à Jérusalem, et je m’aperçus du mal qu’Éliashib avait fait en faveur de Tobija, en lui préparant une chambre dans les parvis de la maison de Dieu.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Et je trouvai cela fort mauvais, et je jetai dehors, hors de la chambre, tous les effets de la maison de Tobija.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "Et je commandai qu’on purifie les chambres, et j’y fis rapporter les ustensiles de la maison de Dieu, l’offrande de gâteau et l’encens.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "Et j’appris que les portions des lévites ne leur avaient pas été données, et que les lévites et les chantres qui faisaient le service avaient fui chacun à son champ.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Et je querellai les chefs, et je dis : Pourquoi la maison de Dieu est-elle abandonnée ? Et je les rassemblai, et je les fis demeurer à leur poste.",
+          "footnotes": [
+            "ou : gouverneurs; voir Esdras 9. 2.",
+            "les lévites et les chantres."
+          ]
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Et tout Juda apporta dans les magasins la dîme du blé, et du moût, et de l’huile.",
+          "footnotes": [
+            "ailleurs : trésors."
+          ]
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "Et j’établis sur les magasins Shélémia, le sacrificateur, et Tsadok, le scribe, et Pedaïa, d’entre les lévites, et à côté d’eux, Hanan, fils de Zaccur, fils de Matthania, car ils étaient estimés fidèles, et c’était à eux de faire les répartitions à leurs frères.",
+          "footnotes": [
+            "ailleurs : trésors."
+          ]
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "Souviens-toi de moi, ô mon Dieu, à cause de ceci, et n’efface pas les bonnes actions que j’ai faites à l’égard de la maison de mon Dieu et de ce qu’il y avait à y observer.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Dans ces jours-là, je vis en Juda des gens qui foulaient aux pressoirs, le [jour du] sabbat, et qui rentraient des gerbes et les chargeaient sur des ânes, et aussi du vin, des raisins et des figues, et toutes sortes de fardeaux, et qui les amenaient à Jérusalem le jour du sabbat ; et je protestai, le jour où ils vendaient des denrées.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "heading": null,
+          "text": "Et les Tyriens y demeuraient, [et] ils apportaient du poisson et toutes sortes de marchandises, et les vendaient le [jour du] sabbat aux fils de Juda et dans Jérusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "heading": null,
+          "text": "Et je querellai les nobles de Juda, et je leur dis : Qu’est-ce que cette chose mauvaise que vous faites, profanant le jour du sabbat ?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "heading": null,
+          "text": "N’est-ce pas ainsi qu’ont fait vos pères, de sorte que notre Dieu a fait venir tout ce malheur sur nous et sur cette ville ? et vous voulez ajouter à la colère contre Israël en profanant le sabbat !",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "heading": null,
+          "text": "Et il arriva que, lorsque les portes de Jérusalem commencèrent à être dans l’ombre, avant le sabbat, je commandai qu’on ferme les portes. Et je commandai qu’on ne les ouvre point jusqu’après le sabbat ; et je plaçai de mes jeunes hommes aux portes, afin qu’aucun fardeau ne soit introduit le jour du sabbat.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "heading": null,
+          "text": "Et les marchands et les vendeurs de toutes sortes de marchandises passèrent la nuit hors de Jérusalem, une et deux fois ;",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "heading": null,
+          "text": "et je les admonestai, et leur dis : Pourquoi passez-vous la nuit devant la muraille ? Si vous le faites encore, je mettrai la main sur vous. Depuis ce temps-là, ils ne sont pas venus le [jour du] sabbat.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "heading": null,
+          "text": "Et je dis aux lévites qu’ils aient à se purifier et à venir garder les portes pour sanctifier le jour du sabbat. Souviens-toi de cela aussi en ma faveur, ô mon Dieu, et aie compassion de moi selon la grandeur de ta bonté.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "heading": null,
+          "text": "En ces jours-là aussi, je vis des Juifs qui avaient pris des femmes asdodiennes, ammonites, [et] moabites ;",
+          "footnotes": [
+            "litt. : fait habiter [chez eux]."
+          ]
+        },
+        {
+          "verse": 24,
+          "heading": null,
+          "text": "et leurs fils parlaient à moitié l’asdodien et ne savaient pas parler le juif, mais selon la langue de l’un ou de l’autre peuple.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "heading": null,
+          "text": "Et je les querellai, et je les maudis, et je battis quelques hommes d’entre eux et leur arrachai les cheveux, et je les fis jurer par Dieu, [en disant] : Vous ne donnerez pas vos filles à leurs fils, et vous ne prendrez pas de leurs filles pour vos fils, ni pour vous-mêmes !",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "heading": null,
+          "text": "Salomon, roi d’Israël, n’a-t-il pas péché en cela ? Or, parmi la multitude des nations, il n’y avait point de roi comme lui, et il était aimé de son Dieu, et Dieu le fit roi sur tout Israël : lui aussi, les femmes étrangères l’ont fait pécher !",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "heading": null,
+          "text": "Et vous écouterions-nous pour faire tout ce grand mal, pour être infidèles à notre Dieu en prenant des femmes étrangères ?",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "heading": null,
+          "text": "Et l’un des fils de Joïada, fils d’Éliashib, le grand sacrificateur, était gendre de Sanballat, le Horonite, et je le chassai d’auprès de moi.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "heading": null,
+          "text": "Souviens-toi d’eux, ô mon Dieu, car ce sont des profanateurs de la sacrificature, et de l’alliance de la sacrificature et des lévites.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "heading": null,
+          "text": "Et je les purifiai de tout étranger, et je fixai les fonctions des sacrificateurs et des lévites, chacun dans son service,",
+          "footnotes": [
+            "litt. : travail, œuvre."
+          ]
+        },
+        {
+          "verse": 31,
+          "heading": null,
+          "text": "et ce qui concernait l’offrande du bois à des époques fixes, et les premiers fruits. Souviens-toi de moi en bien, ô mon Dieu !",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

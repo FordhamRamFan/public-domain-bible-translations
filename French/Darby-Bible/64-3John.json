@@ -1,0 +1,107 @@
+{
+  "book": "3 Jean",
+  "abbreviation": "3John",
+  "number": 64,
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "superscription": null,
+      "heading": null,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": null,
+          "text": "L’ancien à Gaïus, le bien-aimé, que j’aime dans [la] vérité.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "heading": null,
+          "text": "Bien-aimé, je souhaite qu’à tous égards tu prospères et que tu sois en bonne santé, comme ton âme prospère ;",
+          "footnotes": [
+            "selon qqs. : par-dessus toutes choses."
+          ]
+        },
+        {
+          "verse": 3,
+          "heading": null,
+          "text": "car je me suis très fort réjoui quand des frères sont venus et ont rendu témoignage à ta vérité, comment toi tu marches dans la vérité.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "heading": null,
+          "text": "Je n’ai pas de plus grande joie que ceci, c’est que j’entende dire que mes enfants marchent dans la vérité.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "heading": null,
+          "text": "Bien-aimé, tu agis fidèlement dans tout ce que tu fais envers les frères, et cela [envers ceux-là même qui sont] étrangers,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "heading": null,
+          "text": "qui ont rendu témoignage à ton amour devant l’assemblée ; et tu feras bien de leur faire la conduite d’une manière digne de Dieu,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "heading": null,
+          "text": "car ils sont sortis pour le nom, ne recevant rien de ceux des nations.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "heading": null,
+          "text": "Nous donc, nous devons recevoir de tels hommes, afin que nous coopérions avec la vérité.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "heading": null,
+          "text": "J’ai écrit quelque chose à l’assemblée ; mais Diotrèphe, qui aime à être le premier parmi eux, ne nous reçoit pas ;",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "heading": null,
+          "text": "c’est pourquoi, si je viens, je me souviendrai des œuvres qu’il fait en débitant de méchantes paroles contre nous ; et, non content de cela, lui-même il ne reçoit pas les frères et il empêche ceux qui veulent [les recevoir], et les chasse de l’assemblée.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "heading": null,
+          "text": "Bien-aimé, n’imite pas le mal, mais le bien. Celui qui fait le bien est de Dieu ; celui qui fait le mal n’a pas vu Dieu.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "heading": null,
+          "text": "Démétrius a le témoignage de tous et de la vérité elle-même ; et nous aussi, nous lui rendons témoignage : et tu sais que notre témoignage est vrai.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "heading": null,
+          "text": "J’avais beaucoup de choses à t’écrire, mais je ne veux pas t’écrire avec l’encre et la plume,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "heading": null,
+          "text": "mais j’espère te voir bientôt et nous parlerons bouche à bouche.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "heading": null,
+          "text": "Paix te soit. Les amis te saluent. Salue les amis, chacun par son nom.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
