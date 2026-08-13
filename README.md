@@ -8,7 +8,6 @@ A collection of Bible translations in a consistent, machine-readable JSON format
 |---|---|---|---|---|---|
 | Arabic | Smith-Van-Dyck Bible | SVD | 1865 | Protestant (66 books) | public domain |
 | Amharic | Amharic Unlocked Literal Bible | AmULB | 2019 | Protestant (66 books) | CC-BY-SA 4.0 |
-| Bengali | Bengali Bible 1909 | BEN | 1909 | Protestant (64 of 66 books) | public domain |
 | Chinese | Chinese Union Version | CUV | 1919 | Protestant (66 books) | public domain |
 | English | American Standard Version | ASV | 1901 | Protestant (66 books) | public domain |
 | English | Darby Bible | DBY | 1890 | Protestant (66 books) | public domain |
