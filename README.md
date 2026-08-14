@@ -1,13 +1,12 @@
 # public-domain-bible-translations
 
-A collection of Bible translations in a consistent, machine-readable JSON format. Organized by language, with one JSON file per book per translation. Most translations are in the public domain; a small number are released under open licenses (e.g. CC-BY-SA 4.0) and require attribution — see each translation's `metadata.json` for details.
+A collection of public domain Bible translations in a consistent, machine-readable JSON format. Organized by language, with one JSON file per book per translation. Every translation in this repository is in the public domain and free to use without restriction.
 
 ## Available Translations
 
 | Language | Translation | Abbreviation | Year | Canon | License |
 |---|---|---|---|---|---|
 | Arabic | Smith-Van-Dyck Bible | SVD | 1865 | Protestant (66 books) | public domain |
-| Amharic | Amharic Unlocked Literal Bible | AmULB | 2019 | Protestant (66 books) | CC-BY-SA 4.0 |
 | Chinese | Chinese Union Version | CUV | 1919 | Protestant (66 books) | public domain |
 | English | American Standard Version | ASV | 1901 | Protestant (66 books) | public domain |
 | English | Darby Bible | DBY | 1890 | Protestant (66 books) | public domain |
@@ -21,7 +20,6 @@ A collection of Bible translations in a consistent, machine-readable JSON format
 | German | Luther Bible | LUT | 1912 | Protestant (66 books) | public domain |
 | Greek | Robinson-Pierpont Greek New Testament | RP2018 | 2018 | NT only (27 books) | public domain |
 | Hebrew | Westminster Leningrad Codex | WLC | 1008 | Hebrew Bible (OT only, 39 books) | public domain |
-| Indonesian | Alkitab Yang Terbuka | AYT | 2011 | Protestant (66 books) | CC-BY-NC-SA |
 | Hungarian | Revideált Károli Biblia 1908 | HunKar | 1908 | Protestant (66 books) | public domain |
 | Hindi | Hindi Holy Bible | HHB | — | Protestant (66 books) | public domain |
 | Italian | Diodati Bible | DIO | 1649 | Protestant (66 books) | public domain |
@@ -35,8 +33,6 @@ A collection of Bible translations in a consistent, machine-readable JSON format
 | Russian | Russian Synodal Bible | RSB | 1876 | Protestant (66 books) | public domain |
 | Spanish | Reina-Valera | RVR | 1909 | Protestant (66 books) | public domain |
 | Swedish | Swedish Bible 1917 | Swe1917 | 1917 | Protestant (66 books) | public domain |
-| Swahili | Swahili Unlocked Literal Bible | SWHULB | 2019 | Protestant (66 books) | CC-BY-SA 4.0 |
-| Tamil | Tamil Unlocked Literal Bible | TamULB | 2019 | Protestant (66 books) | CC-BY-SA 4.0 |
 
 ## File Structure
 
@@ -83,8 +79,8 @@ Five fields, always present.
 ```
 
 **Field notes:**
-- `license` — `"public domain"` for expired-copyright works; otherwise a standard license identifier such as `"CC-BY-SA 4.0"`
-- `attribution` — `null` for public domain translations; a required credit string for any licensed translation (e.g. `"© 2019 Door43 World Missions Community"`)
+- `license` — always `"public domain"` in this repository
+- `attribution` — always `null`, since only public domain translations are included
 
 ### Book file (e.g. `40-Matt.json`)
 
@@ -121,4 +117,6 @@ Five fields, always present.
 
 ## License
 
-Public domain translations in this repository are free to use without restriction. Translations with a `license` value other than `"public domain"` must be used in accordance with their stated license and the credit text in their `attribution` field must be displayed when the translation is shown or distributed.
+This repository contains public domain translations only. All texts here are free to use, copy, modify, and redistribute without restriction.
+
+Earlier revisions of this repository included a small number of translations released under open-but-not-public-domain licenses (e.g. CC-BY-SA 4.0, CC-BY-NC-SA). These have been removed to keep the repository strictly public domain.
