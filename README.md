@@ -8,6 +8,7 @@ A collection of public domain Bible translations in a consistent, machine-readab
 |---|---|---|---|---|---|
 | Arabic | Smith-Van-Dyck Bible | SVD | 1865 | Protestant (66 books) | public domain |
 | Chinese | Chinese Union Version | CUV | 1919 | Protestant (66 books) | public domain |
+| Coptic | Coptic Bohairic New Testament (Horner) | CopBohHorner | 1898 | NT only (27 books), chapter-granularity — see note below | public domain |
 | English | American Standard Version | ASV | 1901 | Protestant (66 books) | public domain |
 | English | Darby Bible | DBY | 1890 | Protestant (66 books) | public domain |
 | English | Douay-Rheims-Challoner | DRC | 1752 | Catholic (73 books) | public domain |
@@ -33,6 +34,21 @@ A collection of public domain Bible translations in a consistent, machine-readab
 | Russian | Russian Synodal Bible | RSB | 1876 | Protestant (66 books) | public domain |
 | Spanish | Reina-Valera | RVR | 1909 | Protestant (66 books) | public domain |
 | Swedish | Swedish Bible 1917 | Swe1917 | 1917 | Protestant (66 books) | public domain |
+
+### Note on the Coptic Bohairic New Testament (CopBohHorner)
+
+This translation is **chapter-granularity, not verse-granularity**: every chapter's `verses` array contains exactly one entry (`"verse": 1`) whose `text` is the full running text of that chapter, rather than one entry per actual verse like every other translation in this repository. Consumers expecting per-verse lookup will not get it from this file as-is.
+
+Source and method, in full:
+
+- Digitized from public-domain page scans (archive.org — University of Toronto and Google Books copies) of George William Horner's critical edition, *The Coptic Version of the New Testament in the Northern Dialect, otherwise called Memphitic and Bohairic* (Oxford: Clarendon Press, 1898–1905). The edition itself is in the public domain; only this particular OCR pass is new.
+- Text was extracted with Tesseract's Coptic-language model, with an automated step to detect and exclude each page's small-print critical-apparatus footnotes.
+- Verse-level splitting was attempted but abandoned: verse-number superscripts in this print are frequently misread or dropped entirely by OCR (including cases where the print itself uses a Coptic letter-numeral instead of an Arabic digit), which made automated verse boundaries unreliable enough to risk silently merging verses. Chapter-level text was judged safer than wrong verse boundaries.
+- Chapter boundaries were instead derived from the chapter/verse-range headers printed on the facing English-translation pages (OCR'd separately), not from the Coptic text itself. This means a page's content can occasionally bleed into the wrong neighboring chapter at a boundary. One larger instance of this is known: in Acts, most of chapter 21's content landed in chapter 22's bucket instead, traced to a specific OCR character-fusion artifact on one page. The text isn't lost, just misfiled.
+- Not proofread verse-by-verse against the original volumes. Treat as best-effort pending review.
+- Incidental finding from this edition worth knowing: it places **Hebrews between 2 Thessalonians and 1 Timothy** rather than after Philemon (an old canonical ordering also seen in some Greek manuscripts), and it does include Revelation.
+
+A future pass could add real verse-level splits (e.g. by aligning against another Coptic NT source) and tighten the Acts 21/22 boundary; until then this entry is a usable but rougher-than-usual addition compared to the rest of the repository.
 
 ## File Structure
 
